@@ -84,6 +84,32 @@ sources:
     type: github_trending
     category: opensource
     url: https://github.com/trending?since=daily
+    # 仅纳入 AI 相关的热门仓库（匹配仓库名/描述/路径，大小写不敏感）
+    filter_keywords:
+      - ai
+      - llm
+      - gpt
+      - agent
+      - model
+      - machine learning
+      - deep learning
+      - neural
+      - transformer
+      - diffusion
+      - rag
+      - prompt
+      - openai
+      - anthropic
+      - llama
+      - mistral
+      - qwen
+      - deepseek
+      - embedding
+      - inference
+      - fine-tun
+      - multimodal
+      - vision
+      - chatbot
 
   # ④ 社区讨论
   - name: Hacker News (AI)
