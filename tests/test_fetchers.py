@@ -63,3 +63,28 @@ def test_parse_hackernews_uses_url_or_falls_back_to_hn():
     assert items[0].url == "https://example.com/llm-tool"
     assert items[1].url == "https://news.ycombinator.com/item?id=222"
     assert items[0].published.tzinfo is not None
+
+
+from scripts.fetchers import parse_github_trending
+
+SAMPLE_TRENDING = """
+<article class="Box-row">
+  <h2 class="h3"><a href="/acme/llm-runner">acme / llm-runner</a></h2>
+  <p class="col-9">Fast local LLM inference</p>
+</article>
+<article class="Box-row">
+  <h2 class="h3"><a href="/foo/web-css">foo / web-css</a></h2>
+  <p class="col-9">A CSS framework</p>
+</article>
+"""
+
+
+def test_parse_github_trending_filters_by_keywords():
+    items = parse_github_trending(
+        SAMPLE_TRENDING, source="GitHub Trending", category="opensource",
+        keywords=["llm", "ai", "model"], now_ts=1782000000,
+    )
+    assert len(items) == 1
+    assert items[0].title == "acme / llm-runner"
+    assert items[0].url == "https://github.com/acme/llm-runner"
+    assert items[0].published.tzinfo is not None
