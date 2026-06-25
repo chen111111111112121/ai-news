@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 资讯聚合</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 资讯聚合</h1>
+    <p class="updated">上次更新：<span id="updated">加载中…</span></p>
+  </header>
+
+  <nav id="tabs" class="tabs">
+    <button class="tab active" data-cat="all">全部</button>
+    <button class="tab" data-cat="news">新闻</button>
+    <button class="tab" data-cat="papers">论文</button>
+    <button class="tab" data-cat="opensource">开源</button>
+    <button class="tab" data-cat="community">社区</button>
+    <button class="tab" data-cat="policy">政策</button>
+  </nav>
+
+  <div class="filters">
+    <input id="search" type="search" placeholder="关键词搜索标题…">
+    <select id="source-filter"><option value="">全部来源</option></select>
+  </div>
+
+  <main id="list" class="list"></main>
+  <footer><p id="count"></p></footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
