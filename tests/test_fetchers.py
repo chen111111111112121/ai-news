@@ -67,14 +67,31 @@ def test_parse_hackernews_uses_url_or_falls_back_to_hn():
 
 from scripts.fetchers import parse_github_trending
 
+# Mirrors the real GitHub Trending HTML structure: h2.h3.lh-condensed with a nested
+# span.text-normal for the owner and the repo name as a trailing text node, plus
+# p.col-9.color-fg-muted for the description.
 SAMPLE_TRENDING = """
 <article class="Box-row">
-  <h2 class="h3"><a href="/acme/llm-runner">acme / llm-runner</a></h2>
-  <p class="col-9">Fast local LLM inference</p>
+  <h2 class="h3 lh-condensed">
+    <a data-hydro-click="{}" href="/acme/llm-runner" data-view-component="true" class="Link">
+      <svg aria-hidden="true"></svg>
+      <span data-view-component="true" class="text-normal">
+        acme /
+      </span>
+      llm-runner</a>
+  </h2>
+  <p class="col-9 color-fg-muted my-1 tmp-pr-4">Fast local LLM inference</p>
 </article>
 <article class="Box-row">
-  <h2 class="h3"><a href="/foo/web-css">foo / web-css</a></h2>
-  <p class="col-9">A CSS framework</p>
+  <h2 class="h3 lh-condensed">
+    <a data-hydro-click="{}" href="/foo/web-css" data-view-component="true" class="Link">
+      <svg aria-hidden="true"></svg>
+      <span data-view-component="true" class="text-normal">
+        foo /
+      </span>
+      web-css</a>
+  </h2>
+  <p class="col-9 color-fg-muted my-1 tmp-pr-4">A CSS framework</p>
 </article>
 """
 
@@ -146,10 +163,17 @@ def test_fetch_source_unknown_type_returns_empty():
 
 def test_parse_github_trending_desc_alignment_ignores_noise_outside_articles():
     html = """
-    <p class="col-9">UNRELATED SIDEBAR TEXT</p>
+    <p class="col-9 color-fg-muted my-1 tmp-pr-4">UNRELATED SIDEBAR TEXT</p>
     <article class="Box-row">
-      <h2 class="h3 lh-condensed"><a href="/acme/ai-kit">acme / ai-kit</a></h2>
-      <p class="col-9">An AI toolkit</p>
+      <h2 class="h3 lh-condensed">
+        <a data-hydro-click="{}" href="/acme/ai-kit" data-view-component="true" class="Link">
+          <svg aria-hidden="true"></svg>
+          <span data-view-component="true" class="text-normal">
+            acme /
+          </span>
+          ai-kit</a>
+      </h2>
+      <p class="col-9 color-fg-muted my-1 tmp-pr-4">An AI toolkit</p>
     </article>
     """
     items = parse_github_trending(html, "GitHub Trending", "opensource",
@@ -157,6 +181,72 @@ def test_parse_github_trending_desc_alignment_ignores_noise_outside_articles():
     assert len(items) == 1
     assert items[0].title == "acme / ai-kit"
     assert items[0].summary == "An AI toolkit"   # correct desc, not the sidebar noise
+
+
+# --- Fix 3: real GitHub HTML structure ---
+
+# Trimmed snippets taken from the actual https://github.com/trending page (2026-06-25).
+# The h2 uses class="h3 lh-condensed", the anchor carries all data-hydro attributes,
+# the owner lives in a nested span.text-normal, and the description class includes
+# extra Primer utility classes beyond "col-9".
+REAL_TRENDING_SNIPPET = """
+<article class="Box-row">
+  <div class="float-right d-flex"></div>
+  <h2 class="h3 lh-condensed">
+    <a data-hydro-click="{&quot;event_type&quot;:&quot;explore.click&quot;}" data-hydro-click-hmac="abc123" href="/interviewstreet/hiring-agent" data-view-component="true" class="Link"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo mr-1 color-fg-muted">
+    <path d="M2 2.5z"></path>
+</svg>
+
+      <span data-view-component="true" class="text-normal">
+        interviewstreet /
+</span>
+      hiring-agent</a>  </h2>
+
+    <p class="col-9 color-fg-muted my-1 tmp-pr-4">
+      AI agent to evaluate and score resumes.
+    </p>
+</article>
+<article class="Box-row">
+  <div class="float-right d-flex"></div>
+  <h2 class="h3 lh-condensed">
+    <a data-hydro-click="{&quot;event_type&quot;:&quot;explore.click&quot;}" data-hydro-click-hmac="def456" href="/andreknieriem/headunit-revived" data-view-component="true" class="Link"><svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo mr-1 color-fg-muted">
+    <path d="M2 2.5z"></path>
+</svg>
+
+      <span data-view-component="true" class="text-normal">
+        andreknieriem /
+</span>
+      headunit-revived</a>  </h2>
+
+    <p class="col-9 color-fg-muted my-1 tmp-pr-4">
+      Headunit App for displaying Android Auto
+    </p>
+</article>
+"""
+
+
+def test_parse_github_trending_real_html_structure():
+    """Verify parser handles the actual GitHub Trending markup (nested span, extra classes)."""
+    # With AI keyword: only hiring-agent should match
+    items = parse_github_trending(
+        REAL_TRENDING_SNIPPET, source="GitHub Trending", category="opensource",
+        keywords=["ai", "agent", "llm"], now_ts=1782000000,
+    )
+    assert len(items) == 1
+    assert items[0].title == "interviewstreet / hiring-agent"
+    assert items[0].url == "https://github.com/interviewstreet/hiring-agent"
+    assert "AI agent" in items[0].summary
+
+    # headunit-revived has no AI keywords → filtered out
+    titles = [it.title for it in items]
+    assert not any("headunit" in t for t in titles)
+
+    # With empty keywords: both repos returned (no filter)
+    all_items = parse_github_trending(
+        REAL_TRENDING_SNIPPET, source="GitHub Trending", category="opensource",
+        keywords=[], now_ts=1782000000,
+    )
+    assert len(all_items) == 2
 
 
 # --- Fix 2: per-row try/except ---

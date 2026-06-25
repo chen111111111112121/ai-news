@@ -73,7 +73,8 @@ def _strip_tags(s: str) -> str:
 
 def parse_github_trending(text, source, category, keywords, now_ts) -> List[Item]:
     """解析 github.com/trending 页面，按 <article> 分块逐个解析，按关键词过滤。
-    trending 页无发布时间，统一用抓取时间 now_ts。"""
+    trending 页无发布时间，统一用抓取时间 now_ts。
+    keywords 为空列表时不过滤，返回全部仓库。"""
     lowered = [k.lower() for k in keywords]
     published = datetime.fromtimestamp(now_ts, tz=timezone.utc)
     items = []
@@ -85,9 +86,10 @@ def parse_github_trending(text, source, category, keywords, now_ts) -> List[Item
         name = re.sub(r"\s+", " ", _strip_tags(name_html)).strip()
         dm = _DESC_RE.search(block)
         desc = _strip_tags(dm.group(1)) if dm else ""
-        haystack = (name + " " + desc + " " + href).lower()
-        if not any(k in haystack for k in lowered):
-            continue
+        if lowered:
+            haystack = (name + " " + desc + " " + href).lower()
+            if not any(k in haystack for k in lowered):
+                continue
         url = "https://github.com" + href.strip()
         items.append(Item(name, url, source, category, published, desc))
     return items
@@ -154,8 +156,11 @@ def fetch_source(cfg: dict, keywords: list, now_ts: int) -> List[Item]:
             return parse_hackernews(_http_get_json(url), name, category)
         if typ == "github_trending":
             url = cfg.get("url", "https://github.com/trending?since=daily")
+            # 使用源自己的 filter_keywords（如配置了），否则不过滤（返回全部 trending 仓库）。
+            # 全局 keywords 是 policy 关键词，不应作为 trending 仓库的纳入过滤条件。
+            filter_kw = cfg.get("filter_keywords", [])
             return parse_github_trending(
-                _http_get_text(url), name, category, keywords, now_ts)
+                _http_get_text(url), name, category, filter_kw, now_ts)
         if typ == "hf_papers":
             url = cfg.get("url", "https://huggingface.co/api/daily_papers")
             return parse_hf_papers(_http_get_json(url), name, category)
