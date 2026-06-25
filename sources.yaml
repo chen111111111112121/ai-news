@@ -1,0 +1,104 @@
+defaults:
+  max_per_source: 30
+  days_window: 7
+
+policy_keywords:
+  - regulation
+  - policy
+  - governance
+  - legislation
+  - executive order
+  - 监管
+  - 政策
+  - 法案
+  - 立法
+  - 治理
+  - 合规
+  - 安全治理
+
+sources:
+  # ① 新闻资讯 — 国外
+  - name: TechCrunch AI
+    type: rss
+    category: news
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+  - name: The Verge AI
+    type: rss
+    category: news
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  - name: VentureBeat AI
+    type: rss
+    category: news
+    url: https://venturebeat.com/category/ai/feed/
+  - name: MIT Tech Review
+    type: rss
+    category: news
+    url: https://www.technologyreview.com/feed/
+  - name: OpenAI Blog
+    type: rss
+    category: news
+    url: https://openai.com/blog/rss.xml
+  - name: Google DeepMind
+    type: rss
+    category: news
+    url: https://deepmind.google/blog/rss.xml
+
+  # ① 新闻资讯 — 国内
+  - name: IT之家
+    type: rss
+    category: news
+    url: https://www.ithome.com/rss/
+  - name: 机器之心
+    type: rss
+    category: news
+    url: https://rsshub.app/jiqizhixin/category/ai
+  - name: 量子位
+    type: rss
+    category: news
+    url: https://rsshub.app/qbitai/category/资讯
+
+  # ② 论文 / 技术突破
+  - name: arXiv cs.AI
+    type: rss
+    category: papers
+    url: http://export.arxiv.org/rss/cs.AI
+  - name: arXiv cs.CL
+    type: rss
+    category: papers
+    url: http://export.arxiv.org/rss/cs.CL
+  - name: arXiv cs.LG
+    type: rss
+    category: papers
+    url: http://export.arxiv.org/rss/cs.LG
+  - name: arXiv cs.CV
+    type: rss
+    category: papers
+    url: http://export.arxiv.org/rss/cs.CV
+  - name: HF Papers
+    type: hf_papers
+    category: papers
+    url: https://huggingface.co/api/daily_papers
+
+  # ③ 开源项目 / 工具
+  - name: GitHub Trending
+    type: github_trending
+    category: opensource
+    url: https://github.com/trending?since=daily
+
+  # ④ 社区讨论
+  - name: Hacker News (AI)
+    type: hackernews
+    category: community
+    query: AI OR LLM OR GPT OR "machine learning"
+  - name: r/MachineLearning
+    type: rss
+    category: community
+    url: https://www.reddit.com/r/MachineLearning/.rss
+  - name: r/LocalLLaMA
+    type: rss
+    category: community
+    url: https://www.reddit.com/r/LocalLLaMA/.rss
+  - name: r/artificial
+    type: rss
+    category: community
+    url: https://www.reddit.com/r/artificial/.rss
