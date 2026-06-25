@@ -79,3 +79,26 @@ def parse_github_trending(text, source, category, keywords, now_ts) -> List[Item
         url = "https://github.com" + href.strip()
         items.append(Item(name, url, source, category, published, desc))
     return items
+
+
+def _parse_iso_utc(s: str) -> datetime:
+    s = s.replace("Z", "+00:00")
+    dt = datetime.fromisoformat(s)
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
+def parse_hf_papers(data: list, source: str, category: str) -> List[Item]:
+    items = []
+    for row in data:
+        paper = row.get("paper", {})
+        pid = paper.get("id")
+        title = paper.get("title")
+        ts = row.get("publishedAt")
+        if not pid or not title or not ts:
+            continue
+        published = _parse_iso_utc(ts)
+        url = f"https://huggingface.co/papers/{pid}"
+        items.append(Item(title, url, source, category, published, paper.get("summary", "")))
+    return items

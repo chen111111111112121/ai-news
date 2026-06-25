@@ -88,3 +88,28 @@ def test_parse_github_trending_filters_by_keywords():
     assert items[0].title == "acme / llm-runner"
     assert items[0].url == "https://github.com/acme/llm-runner"
     assert items[0].published.tzinfo is not None
+
+
+from scripts.fetchers import parse_hf_papers
+
+SAMPLE_HF = [
+    {
+        "paper": {"id": "2506.01234", "title": "Scaling laws revisited",
+                   "summary": "We study scaling laws."},
+        "publishedAt": "2026-06-24T00:00:00.000Z",
+    },
+    {
+        "paper": {"id": "2506.05678", "title": "Better tokenizers",
+                   "summary": "Tokenizer tricks."},
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+    },
+]
+
+
+def test_parse_hf_papers_builds_arxiv_links():
+    items = parse_hf_papers(SAMPLE_HF, source="HF Papers", category="papers")
+    assert len(items) == 2
+    assert items[0].title == "Scaling laws revisited"
+    assert items[0].url == "https://huggingface.co/papers/2506.01234"
+    assert items[0].published.year == 2026
+    assert items[0].published.tzinfo is not None
