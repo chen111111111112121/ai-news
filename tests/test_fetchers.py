@@ -113,3 +113,30 @@ def test_parse_hf_papers_builds_arxiv_links():
     assert items[0].url == "https://huggingface.co/papers/2506.01234"
     assert items[0].published.year == 2026
     assert items[0].published.tzinfo is not None
+
+
+import scripts.fetchers as F
+
+
+def test_fetch_source_dispatches_rss(monkeypatch):
+    monkeypatch.setattr(F, "_http_get_text", lambda url: SAMPLE_RSS)
+    cfg = {"name": "Demo", "type": "rss", "category": "news",
+           "url": "https://example.com/feed"}
+    items = F.fetch_source(cfg, keywords=[], now_ts=1782000000)
+    assert len(items) == 2
+    assert items[0].source == "Demo"
+
+
+def test_fetch_source_returns_empty_on_network_error(monkeypatch):
+    def boom(url):
+        raise RuntimeError("network down")
+    monkeypatch.setattr(F, "_http_get_text", boom)
+    cfg = {"name": "Demo", "type": "rss", "category": "news",
+           "url": "https://example.com/feed"}
+    items = F.fetch_source(cfg, keywords=[], now_ts=1782000000)
+    assert items == []
+
+
+def test_fetch_source_unknown_type_returns_empty():
+    cfg = {"name": "X", "type": "mystery", "category": "news"}
+    assert F.fetch_source(cfg, keywords=[], now_ts=1782000000) == []

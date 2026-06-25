@@ -102,3 +102,49 @@ def parse_hf_papers(data: list, source: str, category: str) -> List[Item]:
         url = f"https://huggingface.co/papers/{pid}"
         items.append(Item(title, url, source, category, published, paper.get("summary", "")))
     return items
+
+
+_HEADERS = {"User-Agent": "ai-news-aggregator/1.0 (+https://github.com/chen111111111112121/ai-news)"}
+
+
+def _log(msg: str) -> None:
+    print(msg, file=sys.stderr)
+
+
+def _http_get_text(url: str) -> str:
+    r = requests.get(url, headers=_HEADERS, timeout=REQUEST_TIMEOUT)
+    r.raise_for_status()
+    return r.text
+
+
+def _http_get_json(url: str):
+    r = requests.get(url, headers=_HEADERS, timeout=REQUEST_TIMEOUT)
+    r.raise_for_status()
+    return r.json()
+
+
+def fetch_source(cfg: dict, keywords: list, now_ts: int) -> List[Item]:
+    """按源配置抓取并解析。任何异常都吞掉并返回 []，保证不影响其他源。"""
+    name = cfg.get("name", "?")
+    typ = cfg.get("type")
+    category = cfg.get("category", "news")
+    try:
+        if typ == "rss":
+            return parse_rss(_http_get_text(cfg["url"]), name, category)
+        if typ == "hackernews":
+            query = cfg.get("query", "AI")
+            url = ("https://hn.algolia.com/api/v1/search_by_date"
+                   f"?query={requests.utils.quote(query)}&tags=story&hitsPerPage=50")
+            return parse_hackernews(_http_get_json(url), name, category)
+        if typ == "github_trending":
+            url = cfg.get("url", "https://github.com/trending?since=daily")
+            return parse_github_trending(
+                _http_get_text(url), name, category, keywords, now_ts)
+        if typ == "hf_papers":
+            url = cfg.get("url", "https://huggingface.co/api/daily_papers")
+            return parse_hf_papers(_http_get_json(url), name, category)
+        _log(f"[skip] 未知源类型: {typ} ({name})")
+        return []
+    except Exception as exc:  # noqa: BLE001 — 故意吞掉，单源失败不影响整体
+        _log(f"[error] 源抓取失败: {name} ({typ}): {exc}")
+        return []
