@@ -271,3 +271,22 @@ def test_parse_hackernews_skips_hit_with_no_url_and_no_objectid():
     items = parse_hackernews(data, "HN", "community")
     assert len(items) == 1
     assert items[0].title == "Has link"
+
+
+def test_parse_github_trending_ai_matches_whole_token_not_substring():
+    html = '''
+    <article class="Box-row">
+      <h2 class="h3 lh-condensed"><a href="/apple/container">apple / container</a></h2>
+      <p class="col-9">A lightweight OCI container runtime for daily use</p>
+    </article>
+    <article class="Box-row">
+      <h2 class="h3 lh-condensed"><a href="/acme/ai-kit">acme / ai-kit</a></h2>
+      <p class="col-9">An AI toolkit</p>
+    </article>
+    '''
+    items = parse_github_trending(html, "GH", "opensource", keywords=["ai"], now_ts=1782000000)
+    titles = [i.title for i in items]
+    # "container"/"daily" contain the letters a-i but are NOT the token "ai" → excluded
+    assert "apple / container" not in titles
+    # "ai-kit" tokenizes to {ai, kit} and desc "An AI toolkit" has token "ai" → included
+    assert "acme / ai-kit" in titles

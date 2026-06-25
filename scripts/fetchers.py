@@ -71,6 +71,20 @@ def _strip_tags(s: str) -> str:
     return _html.unescape(re.sub(r"<[^>]+>", "", s)).strip()
 
 
+def _keyword_matches(haystack_lower: str, tokens: set, keyword: str) -> bool:
+    """Return True if keyword matches the haystack using token-aware logic.
+
+    Multi-word or hyphenated keywords (e.g. "machine learning", "fine-tun") use
+    substring match against the full lowercased haystack string so partial phrases
+    are still found.  Single-token keywords (e.g. "ai", "gpt", "llm") must be
+    present as a complete token to avoid false positives like "ai" inside
+    "container" or "daily".
+    """
+    if " " in keyword or "-" in keyword:
+        return keyword in haystack_lower
+    return keyword in tokens
+
+
 def parse_github_trending(text, source, category, keywords, now_ts) -> List[Item]:
     """解析 github.com/trending 页面，按 <article> 分块逐个解析，按关键词过滤。
     trending 页无发布时间，统一用抓取时间 now_ts。
@@ -88,7 +102,8 @@ def parse_github_trending(text, source, category, keywords, now_ts) -> List[Item
         desc = _strip_tags(dm.group(1)) if dm else ""
         if lowered:
             haystack = (name + " " + desc + " " + href).lower()
-            if not any(k in haystack for k in lowered):
+            tokens = set(re.findall(r"[a-z0-9]+", haystack))
+            if not any(_keyword_matches(haystack, tokens, k) for k in lowered):
                 continue
         url = "https://github.com" + href.strip()
         items.append(Item(name, url, source, category, published, desc))
