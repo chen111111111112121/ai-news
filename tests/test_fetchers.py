@@ -140,3 +140,44 @@ def test_fetch_source_returns_empty_on_network_error(monkeypatch):
 def test_fetch_source_unknown_type_returns_empty():
     cfg = {"name": "X", "type": "mystery", "category": "news"}
     assert F.fetch_source(cfg, keywords=[], now_ts=1782000000) == []
+
+
+# --- Fix 1: trending desc alignment ---
+
+def test_parse_github_trending_desc_alignment_ignores_noise_outside_articles():
+    html = """
+    <p class="col-9">UNRELATED SIDEBAR TEXT</p>
+    <article class="Box-row">
+      <h2 class="h3 lh-condensed"><a href="/acme/ai-kit">acme / ai-kit</a></h2>
+      <p class="col-9">An AI toolkit</p>
+    </article>
+    """
+    items = parse_github_trending(html, "GitHub Trending", "opensource",
+                                  keywords=["ai"], now_ts=1782000000)
+    assert len(items) == 1
+    assert items[0].title == "acme / ai-kit"
+    assert items[0].summary == "An AI toolkit"   # correct desc, not the sidebar noise
+
+
+# --- Fix 2: per-row try/except ---
+
+def test_parse_hf_papers_skips_malformed_row():
+    data = [
+        {"paper": {"id": "1", "title": "Good"}, "publishedAt": "2026-06-24T00:00:00Z"},
+        {"paper": {"id": "2", "title": "Bad date"}, "publishedAt": "not-a-date"},
+        {"paper": {"id": "3", "title": "Also good"}, "publishedAt": "2026-06-23T00:00:00Z"},
+    ]
+    items = parse_hf_papers(data, "HF", "papers")
+    titles = [i.title for i in items]
+    assert "Good" in titles and "Also good" in titles
+    assert "Bad date" not in titles
+
+
+def test_parse_hackernews_skips_hit_with_no_url_and_no_objectid():
+    data = {"hits": [
+        {"title": "No link", "url": None, "objectID": None, "created_at_i": 1782000000},
+        {"title": "Has link", "url": "https://e.com/x", "objectID": "9", "created_at_i": 1782000001},
+    ]}
+    items = parse_hackernews(data, "HN", "community")
+    assert len(items) == 1
+    assert items[0].title == "Has link"

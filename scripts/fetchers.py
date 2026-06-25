@@ -41,17 +41,26 @@ def parse_rss(text, source: str, category: str) -> List[Item]:
 def parse_hackernews(data: dict, source: str, category: str) -> List[Item]:
     items = []
     for h in data.get("hits", []):
-        title = h.get("title")
-        ts = h.get("created_at_i")
-        if not title or ts is None:
+        try:
+            title = h.get("title")
+            ts = h.get("created_at_i")
+            if not title or ts is None:
+                continue
+            object_id = h.get("objectID")
+            url = h.get("url") or (
+                f"https://news.ycombinator.com/item?id={object_id}" if object_id else "")
+            if not url:
+                continue
+            published = datetime.fromtimestamp(ts, tz=timezone.utc)
+            items.append(Item(title, url, source, category, published, ""))
+        except Exception as exc:  # noqa: BLE001
+            _log(f"[skip-row] HN: {exc}")
             continue
-        url = h.get("url") or f"https://news.ycombinator.com/item?id={h.get('objectID')}"
-        published = datetime.fromtimestamp(ts, tz=timezone.utc)
-        items.append(Item(title, url, source, category, published, ""))
     return items
 
 
-_TRENDING_RE = re.compile(
+_ARTICLE_RE = re.compile(r'<article\b.*?</article>', re.DOTALL)
+_NAME_RE = re.compile(
     r'<h2[^>]*class="h3[^"]*"[^>]*>\s*<a[^>]*href="(/[^"]+)"[^>]*>(.*?)</a>',
     re.DOTALL,
 )
@@ -63,16 +72,19 @@ def _strip_tags(s: str) -> str:
 
 
 def parse_github_trending(text, source, category, keywords, now_ts) -> List[Item]:
-    """解析 github.com/trending 页面，按关键词过滤 AI 相关仓库。
+    """解析 github.com/trending 页面，按 <article> 分块逐个解析，按关键词过滤。
     trending 页无发布时间，统一用抓取时间 now_ts。"""
-    repos = _TRENDING_RE.findall(text)
-    descs = _DESC_RE.findall(text)
     lowered = [k.lower() for k in keywords]
     published = datetime.fromtimestamp(now_ts, tz=timezone.utc)
     items = []
-    for idx, (href, name_html) in enumerate(repos):
+    for block in _ARTICLE_RE.findall(text):
+        m = _NAME_RE.search(block)
+        if not m:
+            continue
+        href, name_html = m.group(1), m.group(2)
         name = re.sub(r"\s+", " ", _strip_tags(name_html)).strip()
-        desc = _strip_tags(descs[idx]) if idx < len(descs) else ""
+        dm = _DESC_RE.search(block)
+        desc = _strip_tags(dm.group(1)) if dm else ""
         haystack = (name + " " + desc + " " + href).lower()
         if not any(k in haystack for k in lowered):
             continue
@@ -92,15 +104,19 @@ def _parse_iso_utc(s: str) -> datetime:
 def parse_hf_papers(data: list, source: str, category: str) -> List[Item]:
     items = []
     for row in data:
-        paper = row.get("paper", {})
-        pid = paper.get("id")
-        title = paper.get("title")
-        ts = row.get("publishedAt")
-        if not pid or not title or not ts:
+        try:
+            paper = row.get("paper", {})
+            pid = paper.get("id")
+            title = paper.get("title")
+            ts = row.get("publishedAt")
+            if not pid or not title or not ts:
+                continue
+            published = _parse_iso_utc(ts)
+            url = f"https://huggingface.co/papers/{pid}"
+            items.append(Item(title, url, source, category, published, paper.get("summary", "")))
+        except Exception as exc:  # noqa: BLE001 — 单行坏数据不影响其他行
+            _log(f"[skip-row] HF Papers: {exc}")
             continue
-        published = _parse_iso_utc(ts)
-        url = f"https://huggingface.co/papers/{pid}"
-        items.append(Item(title, url, source, category, published, paper.get("summary", "")))
     return items
 
 
