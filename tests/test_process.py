@@ -50,3 +50,10 @@ def test_mark_policy_sets_flag_on_keyword_match():
     ]
     mark_policy(items, ["regulation", "监管", "政策"])
     assert [i.is_policy for i in items] == [True, True, False]
+
+
+def test_mark_policy_preserves_existing_true():
+    item = mk("A faster GPU", "https://e.com/x")
+    item.is_policy = True
+    mark_policy([item], ["监管"])  # no keyword match, but flag was already True
+    assert item.is_policy is True

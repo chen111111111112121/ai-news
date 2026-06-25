@@ -35,3 +35,8 @@ def test_item_dedup_key_uses_clean_url():
     item = Item("t", "https://e.com/x?utm_source=rss", "s", "news",
                 datetime(2026, 6, 25, tzinfo=timezone.utc), "")
     assert item.dedup_key() == "https://e.com/x"
+
+
+def test_clean_url_strips_fragment():
+    assert clean_url("https://example.com/post#section2?utm_source=x") == "https://example.com/post"
+    assert clean_url("https://example.com/a#anchor") == "https://example.com/a"

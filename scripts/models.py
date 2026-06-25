@@ -15,7 +15,7 @@ def clean_url(url: str) -> str:
         if not k.startswith(_TRACKING_PREFIXES) and k not in _TRACKING_KEYS
     ]
     query = urlencode(kept)
-    return urlunparse(parts._replace(query=query))
+    return urlunparse(parts._replace(query=query, fragment=""))
 
 
 @dataclass

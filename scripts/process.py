@@ -41,4 +41,4 @@ def mark_policy(items: List[Item], keywords: List[str]) -> None:
     lowered = [k.lower() for k in keywords]
     for it in items:
         text = (it.title + " " + it.summary).lower()
-        it.is_policy = any(k in text for k in lowered)
+        it.is_policy = it.is_policy or any(k in text for k in lowered)
