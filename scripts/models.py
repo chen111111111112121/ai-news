@@ -9,6 +9,8 @@ _TRACKING_KEYS = {"fbclid", "gclid", "ref", "source"}
 def clean_url(url: str) -> str:
     """去掉常见跟踪参数，规范化 URL，用于去重与展示。"""
     parts = urlparse(url)
+    if parts.scheme not in ("http", "https"):
+        return ""
     kept = [
         (k, v)
         for k, v in parse_qsl(parts.query, keep_blank_values=False)

@@ -24,16 +24,20 @@ function render() {
     (!src || it.source === src) &&
     (!search || it.title.toLowerCase().includes(search))
   );
-  list.innerHTML = items.map(it => `
-    <div class="card">
-      <a href="${it.url}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
-      <div class="meta">
-        <span class="badge">${CAT_LABEL[it.category] || it.category}</span>
-        <span>${escapeHtml(it.source)}</span>
-        <span>${fmtTime(it.published)}</span>
-        ${it.is_policy ? '<span class="badge">政策</span>' : ''}
-      </div>
-    </div>`).join("");
+  if (items.length === 0) {
+    list.innerHTML = '<p style="color:var(--muted)">暂无内容。</p>';
+  } else {
+    list.innerHTML = items.map(it => `
+      <div class="card">
+        <a href="${escapeHtml(it.url)}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
+        <div class="meta">
+          <span class="badge">${CAT_LABEL[it.category] || it.category}</span>
+          <span>${escapeHtml(it.source)}</span>
+          <span>${fmtTime(it.published)}</span>
+          ${it.is_policy ? '<span class="badge">政策</span>' : ''}
+        </div>
+      </div>`).join("");
+  }
   document.getElementById("count").textContent = `共 ${items.length} 条`;
 }
 

@@ -40,3 +40,10 @@ def test_item_dedup_key_uses_clean_url():
 def test_clean_url_strips_fragment():
     assert clean_url("https://example.com/post#section2?utm_source=x") == "https://example.com/post"
     assert clean_url("https://example.com/a#anchor") == "https://example.com/a"
+
+
+def test_clean_url_rejects_non_http_schemes():
+    assert clean_url("javascript:alert(1)") == ""
+    assert clean_url('https://x/"%20onmouseover="alert(1)'.split('"')[0]) == "https://x/"
+    assert clean_url("data:text/html,<script>") == ""
+    assert clean_url("http://example.com/ok") == "http://example.com/ok"
