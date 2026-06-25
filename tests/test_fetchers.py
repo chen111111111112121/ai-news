@@ -35,3 +35,31 @@ def test_parse_rss_skips_entries_without_date():
     items = parse_rss(no_date, source="S", category="news")
     assert len(items) == 1
     assert items[0].title == "Second story"
+
+
+from scripts.fetchers import parse_hackernews
+
+SAMPLE_HN = {
+    "hits": [
+        {
+            "title": "Show HN: An LLM tool",
+            "url": "https://example.com/llm-tool",
+            "objectID": "111",
+            "created_at_i": 1782000000,
+        },
+        {
+            "title": "Ask HN: best GPU?",
+            "url": None,
+            "objectID": "222",
+            "created_at_i": 1782001000,
+        },
+    ]
+}
+
+
+def test_parse_hackernews_uses_url_or_falls_back_to_hn():
+    items = parse_hackernews(SAMPLE_HN, source="HN", category="community")
+    assert len(items) == 2
+    assert items[0].url == "https://example.com/llm-tool"
+    assert items[1].url == "https://news.ycombinator.com/item?id=222"
+    assert items[0].published.tzinfo is not None

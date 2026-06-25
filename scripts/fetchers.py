@@ -36,3 +36,16 @@ def parse_rss(text, source: str, category: str) -> List[Item]:
         summary = getattr(e, "summary", "")
         items.append(Item(title, link, source, category, published, summary))
     return items
+
+
+def parse_hackernews(data: dict, source: str, category: str) -> List[Item]:
+    items = []
+    for h in data.get("hits", []):
+        title = h.get("title")
+        ts = h.get("created_at_i")
+        if not title or ts is None:
+            continue
+        url = h.get("url") or f"https://news.ycombinator.com/item?id={h.get('objectID')}"
+        published = datetime.fromtimestamp(ts, tz=timezone.utc)
+        items.append(Item(title, url, source, category, published, ""))
+    return items
