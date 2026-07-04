@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:24:20.259428+00:00",
+  "generated_at": "2026-07-04T13:00:38.483010+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,30 +8,48 @@
   ],
   "items": [
     {
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "is_policy": false
-    },
-    {
       "title": "openai / codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
+      "published": "2026-07-04T13:00:38+00:00",
       "summary": "Use Codex from Claude Code to review code or delegate tasks.",
       "is_policy": false
     },
     {
-      "title": "facebook / astryx",
-      "url": "https://github.com/facebook/astryx",
+      "title": "alibaba / page-agent",
+      "url": "https://github.com/alibaba/page-agent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
-      "summary": "An open source design system that's fully customizable and agent ready",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "is_policy": false
+    },
+    {
+      "title": "usestrix / strix",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "is_policy": false
+    },
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "is_policy": false
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
       "is_policy": false
     },
     {
@@ -39,17 +57,8 @@
       "url": "https://github.com/harvard-edge/cs249r_book",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
+      "published": "2026-07-04T13:00:38+00:00",
       "summary": "Machine Learning Systems",
-      "is_policy": false
-    },
-    {
-      "title": "pytorch / pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
-      "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "is_policy": false
     },
     {
@@ -57,8 +66,17 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
+      "published": "2026-07-04T13:00:38+00:00",
       "summary": "agent multiplexer that lives in your terminal.",
+      "is_policy": false
+    },
+    {
+      "title": "dotnet / skills",
+      "url": "https://github.com/dotnet/skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "Repository for skills to assist AI coding agents with .NET and C#",
       "is_policy": false
     },
     {
@@ -66,35 +84,287 @@
       "url": "https://github.com/agentskills/agentskills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
+      "published": "2026-07-04T13:00:38+00:00",
       "summary": "Specification and documentation for Agent Skills",
       "is_policy": false
     },
     {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
+      "title": "CoplayDev / unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
       "is_policy": false
     },
     {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "title": "alirezarezvani / claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
-      "summary": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
       "is_policy": false
     },
     {
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
+      "title": "crynta / terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-04T08:24:20+00:00",
-      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "published": "2026-07-04T13:00:38+00:00",
+      "summary": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "is_policy": false
+    },
+    {
+      "title": "《鬼灭之刃：无限城篇 第一章》剧场版动画电影 7 月 28 日上线流媒体，登陆 Crunchyroll 与 Netflix",
+      "url": "https://www.ithome.com/0/972/653.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T12:59:03+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，鬼灭之刃官方今日在 Anime Expo 2026 活动上宣布，《「鬼灭之刃」无限城篇 第一章 猗窝座再袭》将于 2026 年 7 月 28 日登陆各大流媒体平台。</p><p>这部影片将于 7 月 28 日北京时间 23:00 起在 Crunchyroll 面向全球上线，提供日语原声搭配英文字幕，以及英语配音版本，此外还支持西班牙语、葡萄牙语、法语、德语、意大",
+      "is_policy": false
+    },
+    {
+      "title": "全新零跑 B01 官图公布，新增云黛紫、液态银外观",
+      "url": "https://www.ithome.com/0/972/652.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T12:53:49+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，零跑汽车昨日宣布全新 B01 即将上线，并同步公布新车官图，新增云黛紫、液态银外观，定位“年轻时尚超长续航轿车”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/994a89e3-c989-4",
+      "is_policy": false
+    },
+    {
+      "title": "西渝高铁预计 2028 年建成通车，西安至重庆从 6 小时缩短至 2.5 小时",
+      "url": "https://www.ithome.com/0/972/647.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T12:25:50+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，据央视新闻报道，今天（7 月 4 日），我国“八纵八横”高铁网重要组成部分、西渝高铁石家梁隧道将迎来贯通。</p><p>报道称，西渝高铁连接陕西西安与重庆，石家梁隧道位于四川宣汉县，全长近 12 公里，是西渝高铁安康至重庆段的控制性工程。<strong>西渝高铁全线预计 2028 年建成通车</strong>，通车后，将促进成渝地区双城经济圈与关中平原城市群之间",
+      "is_policy": false
+    },
+    {
+      "title": "零刻 EQi 304 迷你主机海外上市：行业首发 Wildcat Lake + UFS 3.1 闪存，双雷电 4 + 双网口",
+      "url": "https://www.ithome.com/0/972/646.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T11:57:31+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，零刻（Beelink）今日面向海外市场推出了其新款迷你主机 ——Beelink EQi 304。这是首款搭载英特尔 Wildcat Lake 处理器的迷你主机产品。</p><p>正如其名，它采用了“酷睿 3 304”处理器，拥有 5 核心 5 线程，最大睿频可达 4.3 GHz，自带 24TOPS 本地 AI 算力的 X<sup>e</sup>3-LPG 核显。",
+      "is_policy": false
+    },
+    {
+      "title": "云南消费品以旧换新补贴品类扩容：新增智能影音、无人机等",
+      "url": "https://www.ithome.com/0/972/645.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T11:51:33+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，<span class=\"js_title_inner\">云南省商务厅 7 月 3 日公告，自 2026 年 7 月起，在现有家电以旧换新、数码和智能产品购新补贴品类基础上新增补贴产品范围，同步开放商户增补报名通道。</span></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"htt",
+      "is_policy": false
+    },
+    {
+      "title": "三部门发文规范国际科技组织成立登记：有合法的资产和经费来源，活动资金不低于 200 万元",
+      "url": "https://www.ithome.com/0/972/642.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T11:30:43+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，民政部网站今日发布消息，为支持国际科技组织在华设立和发挥积极作用，进一步规范其成立登记，<strong>民政部、科技部、中国科协制定《国际科技组织成立登记指引》，明确其成立条件、申请程序等。</strong></p><p>据介绍，登记指引适用于在民政部申请成立登记的国际科技组织，即由中外高等学校、科研院所、科技组织、企业等单位或者个人共同发起，<strong>在",
+      "is_policy": false
+    },
+    {
+      "title": "我国成功发射千帆极轨 13 组卫星，长征火箭完成第 655 次飞行",
+      "url": "https://www.ithome.com/0/972/638.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T11:24:22+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，北京时间 2026 年 7 月 4 日 17 时 30 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将千帆极轨 13 组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "is_policy": false
+    },
+    {
+      "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-04T10:56:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much bu",
+      "is_policy": false
+    },
+    {
+      "title": "宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控",
+      "url": "https://www.ithome.com/0/972/625.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T10:44:49+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，2026 亚布力论坛创新年会在上海市举行。据新浪财经报道，宇树科技联合创始人陈立表示，宇树科技核心零部件实现自研自产、底层技术架构完全打通后，<strong>实现四足、人形、机械臂、泵体、灵巧手全系列产品自研自产</strong>。</p><blockquote><p>很多人以为我们的关节电机依赖外部采购，其实<strong>我们的上游只有铜线、磁铁等原材料供应",
+      "is_policy": false
+    },
+    {
+      "title": "《英雄联盟》2026 MSI 淘汰赛次日：BLG 时隔 777 天再次战胜 T1 为 LPL 拿下首胜",
+      "url": "https://www.ithome.com/0/972/624.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T10:41:30+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，2026 季中冠军赛淘汰赛 7 月 4 日火热开赛，在今日的比赛中，LYON 战队 3:0 零封 FUR，BLG 鏖战五局 3:2 赢下 T1，后续 BLG 将与 LYON 争夺晋级四强的名额。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2",
+      "is_policy": false
+    },
+    {
+      "title": "Linux 7.2-rc2 合入 RISC-V 关键调整：默认 CPU 核心数从 64 提升至 256",
+      "url": "https://www.ithome.com/0/972/623.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T10:36:39+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，据 Phoronix，Linux 内核主线今日迎来了一项针对 RISC-V 架构的重要调整。</p><p>在即将发布的 Linux 7.2-rc2 版本中，RISC-V 64 位架构默认支持的 CPU 核心数上限从原有的 64 核提升至 256 核。这一变更已于本周作为 RISC-V 修复补丁的一部分合入 Linux Git 仓库。</p><p style=\"t",
+      "is_policy": false
+    },
+    {
+      "title": "天文学新突破：SMA 首次实现分钟级响应，13 分钟锁定伽马射线暴创毫米波观测纪录",
+      "url": "https://www.ithome.com/0/972/622.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T10:30:00+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，哈佛-史密松天体物理中心（Center for Astrophysics | Harvard &amp; Smithsonian，CfA）6 月 30 日宣布，其位于美国夏威夷莫纳克亚山（Maunakea）的亚毫米波阵列望远镜（Submillimeter Array，SMA）首次完成毫米波和亚毫米波波段的快速响应观测验证，并已将相关成果发表于《Astrophys",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪熊甜波：方程豹钛 7 EV 闪充版四驱车型本周已全面开启交付，全链条都在全力冲刺提升产能",
+      "url": "https://www.ithome.com/0/972/621.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T10:27:54+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，比亚迪集团-方程豹事业部总经理熊甜波今日表示，<strong>钛 7 EV 闪充版四驱车型本周已全面开启交付</strong>。</p><p>熊甜波表示：“<strong>目前‘保交付’就是我们工作的重中之重，全链条都在全力冲刺提升产能</strong>。”</p><p style=\"text-align: center;\"><img class=\"no-alt",
+      "is_policy": false
+    },
+    {
+      "title": "微软 Xbox 曾制作“实体 vs 数字游戏”双版本优势对比广告，但从未对外播出",
+      "url": "https://www.ithome.com/0/972/619.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T10:08:00+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，据 @billbil-kun 昨日爆料，微软 Xbox 部门去年曾制作过一段市场宣传广告，旨在向玩家展示实体版游戏与数字版游戏各自的优势，但这则广告最终被取消，从未对外播出。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/5ce9",
+      "is_policy": false
+    },
+    {
+      "title": "“退费”文件可能是骗子设的圈套，市场监管总局联合公安部刑侦局发布反诈提示",
+      "url": "https://www.ithome.com/0/972/617.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:49:36+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，今日，市场监管总局办公厅联合公安部刑侦局发布反诈提示：市场监管总局和全国 12315 平台不会委托任何人、任何公司办理<strong>“退费”“兑付”“清退”</strong>事项。那些文件上的“红头”“红章”，全是骗子自己“炮制”的，和市场监管部门没半点关系。</p><p>据市场监管总局介绍，最近，骗子又出新花招了。他们自己刻个假公章，冒用“市场监管总局”和“",
+      "is_policy": true
+    },
+    {
+      "title": "三星第三季度 DRAM 拟提价 20%，终端厂家称已接到口头通知",
+      "url": "https://www.ithome.com/0/972/616.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:46:40+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，昨日有消息称，三星电子拟将今年第三季度 DRAM（动态随机存取存储器）的平均售价，<a href=\"https://www.ithome.com/0/972/221.htm\" target=\"_blank\"><strong>环比上一季度提高 20%</strong></a>。</p><p style=\"text-align: center;\"><img src=",
+      "is_policy": false
+    },
+    {
+      "title": "科学家打造出全球首个完成完整生命周期的合成细胞：可生长、分裂并遗传 DNA，仅靠 90kbp 基因组和 36 个基因",
+      "url": "https://www.ithome.com/0/972/615.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:36:56+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，当地时间 7 月 1 日，美国明尼苏达大学宣布该校副教授 Kate Adamala 与 Aaron Engelhart 领导的团队成功开发出一套名为 SpudCell（意为“土豆细胞”）的合成细胞系统。</p><p>研究人员表示，这是全球首个完全由非生命化学组分构建、能够完成完整生命周期的合成细胞，可实现生长、获取营养、复制遗传物质、细胞分裂，并将 DNA 传递",
+      "is_policy": false
+    },
+    {
+      "title": "零跑全新 B01/B10 座舱公布：前排双零重力座椅、17.3 英寸 3K 中控屏等",
+      "url": "https://www.ithome.com/0/972/614.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:24:22+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，零跑汽车今日公布全新 B01/B10 座舱官图，部分配置信息也陆续揭晓，定位分别为“年轻时尚超长续航轿车”和“全球智享长续航 SUV”。</p><p>据介绍，全新 B01/B10 车型搭载<strong>前排双零重力座椅</strong>，全新 B10 百变灵动成床搭配 1.83m² 星空全景天幕，全新 B01 配备 50 英寸 AR-HUD，全新 B10 则配",
+      "is_policy": false
+    },
+    {
+      "title": "车企无需远赴东南亚，全国首个右舵出口车型公开道路测试在海南海口启动",
+      "url": "https://www.ithome.com/0/972/613.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:20:49+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，中国 · 海南 — 东盟汽车测试与标定合作启动暨首批出口车辆定型道路试验启动仪式昨日在海南海口举行。</p><p>据介绍，<strong>全国首个系统性右舵出口车型公开道路定型测试</strong>创新机制落地海口江东新区，填补了国内无规模化右舵车辆道路定型测试场景的空白。</p><p>IT之家获悉，今后，<strong>国内车企无需远赴东南亚，在海南即可完成适",
+      "is_policy": false
+    },
+    {
+      "title": "工信部：前 5 月规上电子信息制造业营收 7.52 万亿增 17.1%，手机产量 5.62 亿台",
+      "url": "https://www.ithome.com/0/972/612.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:12:35+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，工信部 7 月 3 日公布 2026 年 1-5 月我国电子信息制造业运行情况。2026 年 1-5 月，我国电子信息制造业生产增长较快，出口稳中有进，效益显著提升，投资增速加快，行业整体发展态势良好。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithom",
+      "is_policy": false
+    },
+    {
+      "title": "神牛推出 PaletteLab 摄影灯 ML150 RF：全光谱光线输出，2299 元",
+      "url": "https://www.ithome.com/0/972/610.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:11:01+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，神牛昨日发布 PaletteLab LED 摄影灯 ML150 RF，<strong>售价 2299 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/c1a11343-e",
+      "is_policy": false
+    },
+    {
+      "title": "消息称微软 Xbox 硬件亏损加剧：每卖一台最高亏 200 美元，次世代主机 Helix 将取消光驱",
+      "url": "https://www.ithome.com/0/972/609.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T09:04:13+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，微软 6 月底发布公告，宣布自 2026 年 8 月 1 日起，将在全球范围内上调 Xbox Series X|S 系列主机的售价，同时将停产 2TB 版本。</p><p>Xbox 业内人士 Jez Corden 今日在最新一期《Windows Central 播客》中透露，微软目前每售出一台 Xbox Series X|S 主机，亏损额最高可达 200 美元（",
+      "is_policy": false
+    },
+    {
+      "title": "消息称一加迭代新机测试 2 亿主摄、5000 万潜望长焦，预计为一加 16",
+      "url": "https://www.ithome.com/0/972/608.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T08:59:28+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，博主 @数码闲聊站 昨日曝光了一加迭代新机的影像规格，评论区网友推测为一加 16。</p><p>据其爆料，该机测试 200Mp 1/1.4\" 大底主摄 +50Mp 小底超广角 +50Mp 3.5X 小底潜望长焦，采用母系影像同款影调。该博主反问：“如果最后选了这套镜头方案，可以接受吗？”。</p><p style=\"text-align: center;\"><i",
+      "is_policy": false
+    },
+    {
+      "title": "上游原材料采购成本明显提升，四家充电模块企业集体涨价 15%",
+      "url": "https://www.ithome.com/0/972/607.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T08:49:03+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，据经济观察报消息，昨日起，充电桩投资商内流传 4 份充电模块企业的涨价函。</p><p>IT之家注：充电模块是<strong>新能源汽车直流充电设备的核心部件</strong>，也是实现整流、隔离、滤波等功率变换的基本单元。</p><p>据悉，4 份涨价函主体内容大致相同，主要内容为：因 2026 年上半年以来 PCB（印制电路板）、碳化硅芯片、电阻电容、继电器",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic 宣布进军药物研发：瞄准大型药企无利可言的罕见病领域",
+      "url": "https://www.ithome.com/0/972/606.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T08:36:53+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，Anthropic 本月初举行“The Briefing: AI for Science”活动，正式发布面向科研人员的新平台 Claude Science，并宣布公司将启动自主药物研发项目，重点针对传统药企评定为商业回报有限而长期缺乏研发投入的“被忽视疾病”（Neglected Diseases）。</p><p>Anthropic 表示，该项目将聚焦新药研发早期",
+      "is_policy": false
+    },
+    {
+      "title": "领克 20 车型全新升级激光雷达，预计三季度上市",
+      "url": "https://www.ithome.com/0/972/605.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T08:33:40+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，领克汽车销售公司常务副总经理周钘发文确认，即将推出的领克 20 车型全新升级激光雷达，号称“全地形感知”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/19b66da5-dc25-4b79-",
+      "is_policy": false
+    },
+    {
+      "title": "深光影像 AF 35mm F2.2 CE 全画幅镜头 E/L 卡口开售，739 元起",
+      "url": "https://www.ithome.com/0/972/603.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-04T08:31:44+00:00",
+      "summary": "<p>IT之家 7 月 4 日消息，深光影像 AF 35mm F2.2 CE 复古设计全画幅镜头 E/L 卡口版本现已开售，<strong>售价 739 元</strong>，含方形遮光罩套装版本售价 789 元。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/eb",
+      "is_policy": false
+    },
+    {
+      "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-04T08:24:42+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Instead of <code>node --edge--&gt; node</code>, every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursiv",
       "is_policy": false
     },
     {
@@ -131,249 +401,6 @@
       "category": "news",
       "published": "2026-07-04T07:54:56+00:00",
       "summary": "<p>IT之家 7 月 4 日消息，<span><span class=\"wx_text_underline\">长光卫星今日宣布已</span></span><span class=\"wx_text_underline\">完成近</span><span class=\"wx_text_underline\"> 50 亿元股权融资。本轮融资由长发集团、陆石投资联合领投，</span><span><spa",
-      "is_policy": false
-    },
-    {
-      "title": "乘联分会崔东树：1-5 月中国海外市场自主品牌汽车销量 196 万台，同比增长 60%",
-      "url": "https://www.ithome.com/0/972/598.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:54:06+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，乘联分会秘书长崔东树今日公布数据，2026 年 5 月的中国海外市场自主品牌销量 44 万台，<strong>同比增长 60%</strong>，1-5 月的中国海外市场自主品牌销量 196 万台，<strong>同比增长 60%</strong>。</p><p>崔东树表示，我们总体汽车销量在海外市场的份额差异巨大，南半球 20%，欧洲 11%，东南亚和中东在 ",
-      "is_policy": false
-    },
-    {
-      "title": "微信整治仿冒伪装类公众号，今年已处置超 8 万个违规账号",
-      "url": "https://www.ithome.com/0/972/596.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:46:46+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，微信珊瑚安全昨日发布公告称，为进一步整治账号名称信息乱象，倡导创作者主动规范账号注册和认证行为，对于<strong>名称冒充、身份伪装、夹带违规信息、名称信息黑灰产</strong>等问题，平台在前期假冒仿冒账号治理工作基础上，将进一步从严处置相关违规账号和内容。</p><p>公告提到，近期针对相关问题平台持续开展专项治理，<strong>今年以来，处置账号 8",
-      "is_policy": true
-    },
-    {
-      "title": "给你显卡的 PCIe 12+4-pin 供电口安个“医生”，曜越推出 Dr. Power III Pro 电源检测仪",
-      "url": "https://www.ithome.com/0/972/595.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:42:38+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，Thermaltake（曜越）现已推出 Dr. Power III Pro 电源检测仪，新品专为 ATX 3.1 电源设计，<strong>可检测 PCIe 12+4-pin 显卡供电接口的供电状况</strong>，定价 49.99 美元（IT之家注：现汇率约合 339.5 元人民币）。</p><p style=\"text-align: center;\"><i",
-      "is_policy": false
-    },
-    {
-      "title": "全球最大纸飞机新纪录：ICARUS 翼展 20.04 米，滑翔 59 米",
-      "url": "https://www.ithome.com/0/972/594.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:41:49+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，科技媒体 newatlas 昨日（7 月 3 日）发布博文，报道称 ICARUS 于 6 月 25 日刷新吉尼斯世界纪录，<strong>成为“全球最大的纸飞机”。</strong></p><p>IT之家附上相关视频如下：</p><p style=\"text-align: center;\"> </p><p>在意大利博洛尼亚展馆 BolognaFiere 举办的 ",
-      "is_policy": false
-    },
-    {
-      "title": "法拉利 12Cilindri Manuale 限量特别版发布：发售 1499 辆，可模拟手动挡",
-      "url": "https://www.ithome.com/0/972/593.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:39:43+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，法拉利发布了 12Cilindri Manuale 限量特别版，作为一款仅提供双门轿跑车版本的特别系列车型，法拉利 12Cilindri Manuale <strong>限量发售 1499 辆</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuplo",
-      "is_policy": false
-    },
-    {
-      "title": "京东方董事长陈炎顺回应与康宁合作：所有方向和赛道都已开展技术交流、产品验证",
-      "url": "https://www.ithome.com/0/972/592.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:34:32+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据澎湃新闻今日报道，7 月 2 日，京东方投资者大会在上海举行。近日，京东方受到市场关注，现场来了很多投资人，聚集在<strong>玻璃基封装载板、钙钛矿和光互连</strong>三大新业务展区，与京东方工作人员进行交流。</p><p>京东方董事长陈炎顺在台上致辞演讲时还对与康宁公司的合作进行了进一步的说明和澄清。他表示，京东方和康宁之间有着二十年的稳固的合作基",
-      "is_policy": false
-    },
-    {
-      "title": "高分子化学家沈之荃院士逝世：曾创建中国特色稀土催化聚合学科体系，享年 95 岁",
-      "url": "https://www.ithome.com/0/972/591.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:32:38+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，中国科学院院士、高分子化学家、浙江大学高分子科学与工程学系沈之荃教授，因病医治无效，于 2026 年 7 月 2 日 16 时 54 分在浙江杭州逝世，享年 95 岁。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
-      "is_policy": false
-    },
-    {
-      "title": "GOG 评索尼 PlayStation 将取消实体盘：游戏的未来不应以牺牲“所有权”为代价",
-      "url": "https://www.ithome.com/0/972/589.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:26:59+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，索尼宣布 PlayStation 新游戏将告别实体光盘后，游戏所有权再次成为争议焦点。PC 数字游戏商店 GOG 也借机强调，玩家能否真正保住所购游戏，比购买方式本身更重要。</p><p>GOG 原名 Good Old Games，从创立之初就坚持销售无 DRM（数字版权管理）游戏。玩家在 Steam 购买游戏后，获得的是 Steam 生态内的使用许可，通常<s",
-      "is_policy": false
-    },
-    {
-      "title": "前 SIE 高管肖恩 · 莱登：PlayStation 放弃实体游戏早已酝酿多年，二手盘不足以影响索尼决策",
-      "url": "https://www.ithome.com/0/972/588.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:24:49+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，索尼近日宣布，2028 年 1 月起，PlayStation 平台的新游戏将不再推出实体盘版本。此消息一出随即引发网友不满。不过索尼 SIE 前总裁肖恩 · 莱登（IT之家注：Shawn Layden）却认为，索尼几乎不可能撤回这一决定。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome",
-      "is_policy": false
-    },
-    {
-      "title": "三星首款骨传导耳机 Galaxy Able 曝光",
-      "url": "https://www.ithome.com/0/972/587.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:22:59+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，科技媒体 sammyguru 昨日（7 月 3 日）发布博文，报道称通过挖掘代码，<strong>发现三星首款骨传导耳机上市后，应该名为 Galaxy Able。</strong></p><p>该媒体挖掘 2.2.70.26060861 版本 Galaxy Wearable 应用，发现在代码中出现了多个 Galaxy Able 名称，基本可以确认这是该耳机上市后",
-      "is_policy": false
-    },
-    {
-      "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
-      "url": "https://www.ithome.com/0/972/586.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:14:29+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据央视新闻今日报道，中国人形机器人百人会和中国机械工业联合会今天联合发布<span class=\"color-0070c0\"><strong>关于规范和引导情感陪伴人形机器人发展的倡议</strong></span>，提倡共同践行科技向善、推动机器人产业健康发展。</p><p>当前，我国人形机器人产业加速创新发展，正逐步融入工业、特种和服务等各类场景。近期，包括",
-      "is_policy": false
-    },
-    {
-      "title": "比亚迪方程豹豹 5 车型定名三周年特别版车衣发布，3999 元",
-      "url": "https://www.ithome.com/0/972/585.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:10:14+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，比亚迪集团-方程豹事业部总经理熊甜波今日宣布，为庆祝方程豹豹 5 定名三周年，发布三周年特别版车衣。</p><p>这款特别版车衣现已在方程豹汽车小程序上架，暂未开售，<strong>售价 3999 元</strong>，包含材料费与工时费，也可用 79980 积分抵扣。</p><p style=\"text-align: center;\"><img class=\"",
-      "is_policy": false
-    },
-    {
-      "title": "我国“科学”号再赴西太平洋，执行第 15 次科学考察共享航次",
-      "url": "https://www.ithome.com/0/972/584.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:09:14+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据央视报道，我国“科学”号综合考察船今日从位于山东青岛的母港驶离，执行 2026 年度西太平洋科学考察共享航次。</p><p>本航次预计持续约 40 天，是国家自然科学基金委支持下西太平洋科学考察项目自 2010 年启动以来的第 15 次出海调查。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\"",
-      "is_policy": false
-    },
-    {
-      "title": "已知红移值最高的棒旋星系：M1149-BSG-z5 被发现，红移 5.1",
-      "url": "https://www.ithome.com/0/972/582.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:05:12+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，科技媒体 Phys 昨日（7 月 3 日）发布博文，<strong>报道称借助詹姆斯 · 韦布空间望远镜，天文学家发现新的大质量棒旋星系 M1149-BSG-z5，红移 5.1，是目前已知红移最高的棒旋星系。</strong></p><p>该研究于 6 月 23 日发表在 arXiv 预印本平台上，第一作者为清华大学的 Wang Xiaohan。论文指出 M11",
-      "is_policy": false
-    },
-    {
-      "title": "消息称某厂子系将推 7 英寸巨屏性能机，预计为小米 REDMI",
-      "url": "https://www.ithome.com/0/972/578.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T07:02:32+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据博主 @数码闲聊站 今日爆料，某厂子系下一代将推出 6.59 英寸中屏 Pro、<strong>7 英寸巨屏性能机</strong>。结合该博主此前的爆料习惯，预计为小米 REDMI 品牌。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/20",
-      "is_policy": false
-    },
-    {
-      "title": "曝谷歌 Pixel 系列手机将迎重大底层升级，Linux 内核有望更新",
-      "url": "https://www.ithome.com/0/972/573.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:53:52+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsup",
-      "is_policy": false
-    },
-    {
-      "title": "全国首个全场景开源鸿蒙养老护理院落地深圳龙岗，支持无感监测、主动预警",
-      "url": "https://www.ithome.com/0/972/570.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:47:18+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，深开鸿通过公众号宣布，7 月 3 日，龙岗区首家区级公办养老护理院 —— 椿萱茂 · 龙岗区养老护理院正式落地启用。</p><p>该项目是深圳市龙岗区“十四五”重点民生实事、核心养老工程，<strong>总投资 2.35 亿元</strong>，采用政府投资建设、专业机构运营的“公建民营”模式，是全国首个全场景开源鸿蒙养老护理院。</p><p>根据介绍，该项目的",
-      "is_policy": false
-    },
-    {
-      "title": "距地球约 25 光年：潜在宜居行星 GJ 3378b 被发现，2.3 个地球质量、公转 21 天",
-      "url": "https://www.ithome.com/0/972/567.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:42:51+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，科技媒体 Space 于 7 月 2 日发布博文，报道称天文学家发现距离地球约 25 光年的系外行星 GJ 3378b，<strong>最新研究将其重新界定为一颗可能具备宜居条件的岩质系外行星。</strong></p><p>IT之家援引博文介绍，该行星距离地球约 25 光年，位于鹿豹座（Camelopardalis）方向，围绕一颗红矮星运行，于 2024 年由",
-      "is_policy": false
-    },
-    {
-      "title": "鸿蒙智行问界 M9 全系累计交付突破 30 万台",
-      "url": "https://www.ithome.com/0/972/566.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:42:47+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，华为终端 BG CEO 何刚今日宣布，<strong>鸿蒙智行问界 M9 全系累计交付突破 30 万台</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/abcdf513-3283-4d45-8287-ab2cc5",
-      "is_policy": false
-    },
-    {
-      "title": "StormWall 提案：3.6 万公里上空部署 6 颗卫星，太阳风暴对地球强度影响降低约 50%",
-      "url": "https://www.ithome.com/0/972/562.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:30:26+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，科技媒体 livescience 昨日（7 月 3 日）发布博文，报道称天文学家提出 StormWall 方案，<strong>在地球前方部署一套防护系统，降低太阳超级风暴带来的破坏。</strong></p><p>由于太阳进入活动极大期（solar maximum），近几年地球已遭遇数十次太阳风暴轰击。</p><p>IT之家注：太阳活动极大期，是太阳约 11 ",
-      "is_policy": false
-    },
-    {
-      "title": "上汽名爵 MG 07 首台量产车下线：预计 15 万-20 万元区间，首搭 Momenta R7 世界模型",
-      "url": "https://www.ithome.com/0/972/558.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:28:14+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据上汽 MG 公众号，7 月 2 日，上汽名爵 MG 07 首台量产车在上汽乘用车郑州基地正式下线，该基地也同步达成第 300 万辆整车下线的重要里程碑。官方表示，达成第 3 个百万辆里程碑，用时仅不到 23 个月。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://im",
-      "is_policy": false
-    },
-    {
-      "title": "消息称微软 Xbox 旗下工作室下周迎来重大调整，多家工作室命运如何？",
-      "url": "https://www.ithome.com/0/972/557.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:27:10+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据科技媒体 Windows Central 今天报道，Xbox 旗下工作室将迎来重要人事变动，预计将在下周一全面实行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/74bd71ea-5fa3",
-      "is_policy": false
-    },
-    {
-      "title": "中国移动发起，业内首个 AI-eSIM 产业协同平台成立",
-      "url": "https://www.ithome.com/0/972/543.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:11:15+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据《人民邮电报》，7 月 3 日，在中国信息通信业发展高层论坛上，由中国移动发起的业内首个 AI-eSIM 产业协同平台 ——“中国通信企业协会 AI-eSIM 专业委员会”正式成立，中国移动物联网公司担任主任单位，天翼物联、联通华盛、火山引擎、腾讯云、观安信息等担任副主任单位。</p><p>该专委会汇聚了<strong>运营商、芯片设计、算法研究、安全服务及模",
-      "is_policy": false
-    },
-    {
-      "title": "曝微软重构 Copilot AI：精简 Podcasts 等冗余功能、新增 AutoPilot 智能体",
-      "url": "https://www.ithome.com/0/972/542.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:06:23+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，科技媒体 The Information 昨日（7 月 3 日）发布博文，披露一份内部备忘录，指出微软重构全面升级 Copilot 应用程序，<strong>把面向消费者与企业的应用合并为单一产品，预估将于 8 月发布。</strong></p><p>功能方面，新版本将加入 AI 编程工具，以及名为 AutoPilot 新型 AI 智能体，负责在后台处理日程安排",
-      "is_policy": false
-    },
-    {
-      "title": "宇树科技陈立谈具身智能的“ChatGPT 时刻”：需达成两个 80%",
-      "url": "https://www.ithome.com/0/972/540.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T06:04:16+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，据新浪科技报道，2026 亚布力论坛创新年会今天在上海市举行。宇树科技股份有限公司联合创始人陈立在现场判断，智能机器人行业将在未来两到五年迎来突破。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/b7e95c0c-e5d3-4a1",
-      "is_policy": false
-    },
-    {
-      "title": "Anthropic 最强抓虫 AI 助推，Epoch 称 6 月报告高危漏洞数是此前纪录 3.5 倍",
-      "url": "https://www.ithome.com/0/972/536.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-04T05:53:27+00:00",
-      "summary": "<p>IT之家 7 月 4 日消息，网络安全公司 Epoch AI 最新报告称，<strong>2026 年 6 月 21 家机构报告约 1500 个“高危”（high-severity）和“关键”（critical）漏洞，是此前月度最高纪录的 3.5 倍以上。</strong></p><p>报告指出该上升趋势于 2026 年 4 月显现，关联 Anthropic 于 4 月发布的 Claude ",
-      "is_policy": false
-    },
-    {
-      "title": "I built my 'first' flow matching image generator, here's what I learned [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1un0v49/i_built_my_first_flow_matching_image_generator/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-04T05:46:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today I put out my first flow matching image generation model!</p> <p>This is a toy example trained on a 2024 MPS Macbook Pro using a small sample of images—specifica",
       "is_policy": false
     },
     {
@@ -995,15 +1022,6 @@
       "category": "news",
       "published": "2026-07-01T03:15:37+00:00",
       "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "is_policy": false
-    },
-    {
-      "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uka1r6/anyone_looking_into_the_new_mars2/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-01T03:15:16+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently came across the announcement for the MARS2 Workshop (Multimodal Reasoning Competition) at ECCV 2026. From what I understand, it focuses on multimodal reaso",
       "is_policy": false
     },
     {
