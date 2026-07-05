@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T08:41:04.802084+00:00",
+  "generated_at": "2026-07-05T13:08:37.925269+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,39 +8,21 @@
   ],
   "items": [
     {
-      "title": "openai / codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Use Codex from Claude Code to review code or delegate tasks.",
-      "is_policy": false
-    },
-    {
-      "title": "alibaba / page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "is_policy": false
-    },
-    {
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "is_policy": false
-    },
-    {
       "title": "Zackriya-Solutions / meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
+      "published": "2026-07-05T13:08:37+00:00",
       "summary": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "is_policy": false
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Use Codex from Claude Code to review code or delegate tasks.",
       "is_policy": false
     },
     {
@@ -48,53 +30,17 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
+      "published": "2026-07-05T13:08:37+00:00",
       "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
       "is_policy": false
     },
     {
-      "title": "harvard-edge / cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "title": "Leonxlnx / taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Machine Learning Systems",
-      "is_policy": false
-    },
-    {
-      "title": "ogulcancelik / herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "agent multiplexer that lives in your terminal.",
-      "is_policy": false
-    },
-    {
-      "title": "dotnet / skills",
-      "url": "https://github.com/dotnet/skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Repository for skills to assist AI coding agents with .NET and C#",
-      "is_policy": false
-    },
-    {
-      "title": "agentskills / agentskills",
-      "url": "https://github.com/agentskills/agentskills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Specification and documentation for Agent Skills",
-      "is_policy": false
-    },
-    {
-      "title": "CoplayDev / unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "is_policy": false
     },
     {
@@ -102,17 +48,386 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
+      "published": "2026-07-05T13:08:37+00:00",
       "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
       "is_policy": false
     },
     {
-      "title": "crynta / terax-ai",
-      "url": "https://github.com/crynta/terax-ai",
+      "title": "ogulcancelik / herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-05T08:41:04+00:00",
-      "summary": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "agent multiplexer that lives in your terminal.",
+      "is_policy": false
+    },
+    {
+      "title": "alibaba / page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "is_policy": false
+    },
+    {
+      "title": "harvard-edge / cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Machine Learning Systems",
+      "is_policy": false
+    },
+    {
+      "title": "usestrix / strix",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "is_policy": false
+    },
+    {
+      "title": "hesreallyhim / awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable ",
+      "is_policy": false
+    },
+    {
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "is_policy": false
+    },
+    {
+      "title": "CoplayDev / unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "is_policy": false
+    },
+    {
+      "title": "facebook / astryx",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "An open source design system that's fully customizable and agent ready",
+      "is_policy": false
+    },
+    {
+      "title": "gastownhall / gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Gas Town - multi-agent workspace manager",
+      "is_policy": false
+    },
+    {
+      "title": "dotnet / skills",
+      "url": "https://github.com/dotnet/skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Repository for skills to assist AI coding agents with .NET and C#",
+      "is_policy": false
+    },
+    {
+      "title": "OthmanAdi / planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
+      "is_policy": false
+    },
+    {
+      "title": "steipete / CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-05T13:08:37+00:00",
+      "summary": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "is_policy": false
+    },
+    {
+      "title": "消息称 HMD Skyline 2 手机仍将发布：相机模组设计与初代相同、搭骁龙 7s Gen 4 处理器",
+      "url": "https://www.ithome.com/0/972/840.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T13:02:09+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，消息源 smashx_60 发文，确认先前 HMD Skyline 2“被砍”消息系误解，只是<a href=\"https://www.ithome.com/0/857/486.htm\" target=\"_blank\">砍掉了其中的 GT 机型</a>，标准版机型仍将发布。</p><p>消息源同步更新了该机最新工程机的规格信息和背部相机模组谍照，相对于去年 5 ",
+      "is_policy": false
+    },
+    {
+      "title": "2026 中国互联网大会 7 月 8 日开幕，将举行智能体互联网、token 经济等论坛",
+      "url": "https://www.ithome.com/0/972/839.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T12:58:07+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，2026（第二十五届）中国互联网大会将于 7 月 8 日-10 日在北京国家会议中心举办，<span class=\"js_title_inner\">论坛议程现已公布。</span></p><p><span class=\"js_title_inner\">7 月 8 日上午，大会开幕式将在主会场举行。开幕式后，特色论坛板块重磅启幕，围绕人工智能赋能新质生产力创新发展",
+      "is_policy": false
+    },
+    {
+      "title": "联想 Geek Pro 电脑主机新增酷睿 7-245HX + RTX 5060 配置，9999 元",
+      "url": "https://www.ithome.com/0/972/838.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T12:49:58+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，联想推出了一款采用英特尔酷睿 7-245HX 处理器、RTX 5060 显卡、16GB 内存、1TB 固态硬盘的 GeekPro 设计师台式电脑主机，<strong>售价 9999 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/X1l0hzh\" target=\"_bla",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌：去年因快速扩展 AI 基础设施致用电量激增 37%，得益能效提升和可再生能源令运营碳排放逆势下降 2%",
+      "url": "https://www.ithome.com/0/972/837.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T12:40:04+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，谷歌本周发布新一期公司环境报告，谷歌公司在 2025 年因快速扩展 AI 基础设施导致公司用电需求创下历史新高，同比增长 37%。<strong>不过公司通过提升能源效率和扩大可再生能源使用，仍实现了运营碳排放同比下降，较上一年下降了 2%</strong>。</p><p>谷歌首席可持续发展官 Kate Brandt 表示，相应数据意味着谷歌已实现了业务高速增长",
+      "is_policy": false
+    },
+    {
+      "title": "清华大学火神队卫冕机器人足球世界杯 RoboCup 2026 Large 组冠军",
+      "url": "https://www.ithome.com/0/972/836.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T12:36:28+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，据加速进化消息，7 月 5 日，在韩国仁川举行的被称为“机器人世界杯”的 RoboCup 2026 上，清华大学火神队在双足人形 Large 组决赛中战胜中国农业大学山海队，<strong>成功卫冕</strong>，两支队伍使用的均是国产 Booster T1 机器人。</p><p style=\"text-align: center;\"><img src=\"h",
+      "is_policy": false
+    },
+    {
+      "title": "首个“双零排放”氢内燃机通过国家认证试验，一汽解放自主研发",
+      "url": "https://www.ithome.com/0/972/834.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T12:24:04+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，一汽解放今日宣布，由一汽解放自主研发的 CA6HV3 重型氢内燃机顺利通过国家环保排放认证试验，成为行业首个“双零排放”氢内燃机产品，同步完成超 10 万公里整车可靠性验证。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuplo",
+      "is_policy": false
+    },
+    {
+      "title": "3 年入侵 144 万个 WordPress 网站：欧洲刑警组织成功对恶意木马 SocGholish 网络犯罪团伙实施打击",
+      "url": "https://www.ithome.com/0/972/833.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T12:17:22+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，欧洲刑警组织（Europol）于 6 月末公布了“Operation Endgame”网络执法行动最新成果，警方成功打击了恶意木马 SocGholish 背后的犯罪团伙，查封了 106 个域名 / 服务器，清理了 14971 个已被植入恶意代码的 WordPress 网站。</p><p>联合参与此次行动的网络安全公司 Shadowserver 基金会发文，进一步",
+      "is_policy": false
+    },
+    {
+      "title": "Meta 悄悄推出全新社交 AI 应用 Pocket，用 Vibe Coding 生成小程序 / 小游戏分享给他人",
+      "url": "https://www.ithome.com/0/972/832.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:58:57+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，据外媒 Business Insider 报道，Meta 近日悄悄推出了一款名为 Pocket 的社交 AI 应用，相对于一般 AI 平台主要分享 AI 图片 / 影音内容，这款 Pocket 应用最大的特色是可以自由创建分享 AI 生成（Vibe Coding）的小程序 / 小游戏。</p><p style=\"text-align: center;\"><img",
+      "is_policy": false
+    },
+    {
+      "title": "Is machine learning research worth it for now? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-05T11:58:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am",
+      "is_policy": false
+    },
+    {
+      "title": "中际旭创：“公司上游物料炫光片被封锁”的市场传言不符合事实",
+      "url": "https://www.ithome.com/0/972/831.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:54:34+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，中际旭创今日在互动平台表示，“公司上游物料炫光片被封锁”的市场传言不符合事实。</p><p>中际旭创方面称，公司在核心物料方面都有正常的采购渠道，供应商也在积极支持，没有被封锁的情形。光模块虽有组装工序（几十道工序之一），但不能简单等同于组装行业。高端光模块涵盖了硅光、相干等核心技术，而且还需要长期可靠性测试与大客户严苛的准入认证。总结来说，<strong>光模",
+      "is_policy": false
+    },
+    {
+      "title": "浩鑫推出 XPC Barebone SB860R8 迷你主机：支持酷睿 Ultra 200 系列处理器、可容纳 4 块 3.5 英寸硬盘",
+      "url": "https://www.ithome.com/0/972/830.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:50:42+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，浩鑫宣布推出一款紧凑结构准系统迷你主机 XPC Barebone SB860R8，主要面向商务市场。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/c618a6f9-3843-4846-9cdd-fd620d2abfda.jpg?",
+      "is_policy": false
+    },
+    {
+      "title": "继初代后再接再厉：V社经典作品《半衰期 2》Windows 版成功在开源 ReactOS 系统上运行",
+      "url": "https://www.ithome.com/0/972/829.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:38:31+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，开源操作系统 ReactOS 项目组在 X 平台发文，透露继上月<a href=\"https://www.ithome.com/0/963/517.htm\" target=\"_blank\">成功运行初代《半衰期》</a>后，目前 ReactOS 已成功运行V社经典游戏《半衰期 2（半条命 2）》。</p><p>根据演示，目前 ReactOS 最新的 Nightl",
+      "is_policy": false
+    },
+    {
+      "title": "康宁“玻璃桥”技术冲击光通信产业链：光模块集成商相对安全、上游光器件龙头承压更深、玻璃基板环节迎来利好",
+      "url": "https://www.ithome.com/0/972/827.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:22:20+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，康宁公司在 6 月 24 日举<a href=\"https://www.ithome.com/0/968/493.htm\" target=\"_blank\">行的“AI 数据中心光通信与互连技术大会”上推出了面向下一代 AI 数据中心架构的玻璃基光互连技术“Glass Bridge（玻璃桥）”</a>，该产品基于玻璃波导技术，用于实现光纤与光子集成电路（PIC）之",
+      "is_policy": false
+    },
+    {
+      "title": "丰田新款卡罗拉锐放海外发布，庆祝卡罗拉 60 周年新增 Z Adventure 特别版车型",
+      "url": "https://www.ithome.com/0/972/826.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:13:53+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，丰田本月宣布，对卡罗拉锐放（Corolla Cross）车型进行升级，为纪念卡罗拉诞生 60 周年，推出了特别版车型 Z Adventure，现已在日本发售。</p><p>此外，卡罗拉运动版近期也计划推出 60 周年纪念特别版车型。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.co",
+      "is_policy": false
+    },
+    {
+      "title": "酷比魔方预热 iPlay 70 Max Pro 平板即将上市：13 英寸 2.5K 面板、展锐 T7300 芯片",
+      "url": "https://www.ithome.com/0/972/825.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T11:07:37+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，酷比魔方在去年末推出了一款 iPlay 70 Max Pro 5G 平板电脑，而如今官方开始预热这款产品的 4G 版本（iPlay 70 Max Pro），该版本机型将于近期上市。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/7",
+      "is_policy": false
+    },
+    {
+      "title": "Question regarding Xournal++ and software 4 taking university notes during class [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1unzaxg/question_regarding_xournal_and_software_4_taking/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-05T11:00:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi. I have a question, could this plan and pipeline work?. I will be attending university master's classes on AI (thankfully got accepted a few days ago) and computer",
+      "is_policy": false
+    },
+    {
+      "title": "铭瑄 MS-eSport B850M WIFI6E 主板发售：8+2+1 相供电、“冰蓝星环”外观设计，849 元",
+      "url": "https://www.ithome.com/0/972/823.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T10:47:14+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，铭瑄 (MAXSUN) 旗下 MS-eSport B850M WIFI6E 主板现已在京东发售，其支持锐龙 7 9850X3D / 锐龙 9 9900X3D 处理器“跑满”，采用了全新冰蓝星环外观，<strong>国行定价为 849 元</strong>，提供 3 年质保。</p><dir><a contenteditable=\"false\" href=\"htt",
+      "is_policy": false
+    },
+    {
+      "title": "升级配华为海思芯片：美的酷省电 2 代大 1.5 匹空调 1599 元直降",
+      "url": "https://www.ithome.com/0/972/821.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T10:36:04+00:00",
+      "summary": "<p>美的酷省电 2 代大 1.5 匹空调 KFR-35GW/N8KS1-1 日常大促价 2099 元，今日京东旗舰店国补后仅需 1599 元即可入手。</p><p>京东发货，美的官方 6 年质保：</p><ul class=\" list-paddingleft-2\"><li><p>下单时需选择<strong>以旧换新</strong> → 个护健康 → 普通牙刷</p></li></ul><di",
+      "is_policy": false
+    },
+    {
+      "title": "国家税务总局：今年前 5 个月我国具身智能企业销售收入同比增长 22.4%",
+      "url": "https://www.ithome.com/0/972/820.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T10:21:59+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，国家税务总局最新税收数据显示，今年以来，我国具身智能产业发展向好，呈现多方面亮点。</p><p>1 月-5 月，具身智能产业企业销售收入<strong>在 2025 年全年增长 13.9% 的基础上</strong><strong>实现 22.4% 的较快增速</strong>，工业企业购进具身智能机器人总金额同比增长 2.3 倍。</p><p>具身智能产业对下",
+      "is_policy": false
+    },
+    {
+      "title": "中国铁道博物馆正阳门展馆完成升级改造，引入 CR400AF 复兴号高铁模拟驾驶舱",
+      "url": "https://www.ithome.com/0/972/819.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T10:19:18+00:00",
+      "summary": "<p style=\"text-align: left;\">IT之家 7 月 5 日消息，据中国铁路官方公众号，位于北京天安门广场东南侧的中国铁道博物馆正阳门展馆于 7 月 1 日完成升级改造，正式对外重新开放。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/5046",
+      "is_policy": false
+    },
+    {
+      "title": "多地推行网约车“一车一码”，有望整治车辆非法营运乱象",
+      "url": "https://www.ithome.com/0/972/812.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T10:04:12+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，据“第一财经”报道，今年以来多地推进落实网约车“一车一码”，相应举措有望杜绝营运标识伪造、冒用及车辆非法营运等乱象。</p><p>例如，济南市城乡交通运输局发文称，7 月 15 日前全市将完成全域合规网约车标识张贴布设，实现合规车辆全覆盖，市民乘车时，可通过“济南交通”微信公众号私信页面的“网约车合规查询”链接或者“济南 TAXI”微信公众号私信页面的“一车一码",
+      "is_policy": true
+    },
+    {
+      "title": "北京信息光电子芯片平台在经开区通线投产，降低对外进口依赖",
+      "url": "https://www.ithome.com/0/972/810.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T09:48:43+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，据“北京亦庄”公众号，近日，北京信息光电子芯片平台在北京经开区正式通线投产，标志着我国再添一条自主可控的<span class=\"wx_search_keyword_wrap\">高速光芯片<em class=\"wx_search_keyword\"></em></span>专业量产产线，高效打通高端光芯片<strong>研发、中试、量产</strong>全链条，补",
+      "is_policy": false
+    },
+    {
+      "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
+      "url": "https://www.ithome.com/0/972/809.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T09:42:03+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，据复旦大学消息，复旦大学“数据挖掘技术”课程近日结束了一场特殊的期末考试。这场考试中，学生不但没有坐在考场里答题，还全部成了出题人。</p><p>IT之家获悉，学生需要用自己设计的 10 道题去“考倒”三个 AI 模型，<strong>AI 答错的题越多、被难倒的模型越强，出题学生的得分就越高。</strong></p><p>复旦大学计算与智能创新学院教授肖仰华",
+      "is_policy": false
+    },
+    {
+      "title": "《英雄联盟》2026 MSI 淘汰赛 HLE 直落三局战胜 G2 挺进胜决，BLG 明日出战",
+      "url": "https://www.ithome.com/0/972/808.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T09:40:29+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，在刚刚结束的《英雄联盟》2026 MSI 淘汰赛第二轮的比赛中，来自韩国 LCK 赛区的 HLE 战队，直落三局战胜来自欧洲 LEC 赛区的 G2 战队，率先挺进胜者组决赛。</p><h3>IT之家附具体赛况如下：</h3><p><strong>HLE 战队 1:0 G2 战队</strong></p><blockquote><p>3 分钟，双方野辅支援上路，S",
+      "is_policy": false
+    },
+    {
+      "title": "哈佛大学研究：AI 原生初创企业减少入门级岗位招聘，对专家级人才需求更大",
+      "url": "https://www.ithome.com/0/972/807.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T09:25:56+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，据 Business Insider 报道，哈佛商学院和非营利性商学院欧洲工商管理学院的研究人员最新论文指出，与非 AI 原生的同行相比，AI 原生初创企业 (AI-native Startups) 正在打造规模更小、层级更扁平的团队，<strong>且显著减少了对初级员工的招聘</strong>。</p><p>这项研究考察了 2020 年至 2024 年间的 ",
+      "is_policy": false
+    },
+    {
+      "title": "长安汽车：1-6 月累计销量 111.89 万辆，同比下降 17.44%",
+      "url": "https://www.ithome.com/0/972/806.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T09:04:48+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，长安汽车今日公告，2026 年 6 月，长安汽车销量 201976 辆，其中海外销量 91065 辆。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/86a45f4f-8abb-463d-ad",
+      "is_policy": false
+    },
+    {
+      "title": "游戏《初音未来：星光派对》公布：黏土人形象，明年登陆 PC、任天堂 Switch 2",
+      "url": "https://www.ithome.com/0/972/804.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T09:03:00+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，GSC 今日公布了一款以初音未来为题材的全新派对游戏 ——《初音未来 NENDROID☆STARRY PARTY》（初音未来：星光派对）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/3aeb4e9d-b1ff-443b-8dd",
+      "is_policy": false
+    },
+    {
+      "title": "奶奶删了 77 万条未读又来 3 万，微信承诺异常企业微信拉群将强制确认",
+      "url": "https://www.ithome.com/0/972/803.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T08:50:26+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，88 岁的奶奶，手机里竟有 77 万多条未读消息！央视新闻今日发布老年人遭遇“数字围猎”相关报道。</p><p>报道称，这半年多，给奶奶删微信消息，也成了孙女每次来养老院探望她时的固定节目。然而，本周五，他们再次来探望奶奶时却发现，上次已经删干净的微信，<strong>又冒出了 3 万多条未读消息</strong>。</p><p style=\"text-alig",
+      "is_policy": false
+    },
+    {
+      "title": "ECCV travel support program [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-05T08:49:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone gotten a response from the eccv travel support program listed on their website? <a href=\"https://eccv.ecva.net/Conferences/2026/DEI\">https://eccv.ecva.net/",
+      "is_policy": false
+    },
+    {
+      "title": "珂芝 Z1 mini 无线办公轻音鼠标首销：49g 重量、适配小手型，79 元",
+      "url": "https://www.ithome.com/0/972/802.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-05T08:43:18+00:00",
+      "summary": "<p>IT之家 7 月 5 日消息，珂芝旗下 Z1 mini 无线办公轻音鼠标现已在京东开启首销，定价为 79 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XOSn41V\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img ",
       "is_policy": false
     },
     {
@@ -139,52 +454,7 @@
       "source": "IT之家",
       "category": "news",
       "published": "2026-07-05T08:17:39+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，比亚迪智能座舱 UI 设计大赛今天正式落幕，最终有 12 组作品脱颖而出，<strong>其中一等奖作品将搭载于全新量产版海豹 08</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/dac6962f-31a2-4",
-      "is_policy": false
-    },
-    {
-      "title": "V社为 Steam Deck 掌机推送 SteamOS 3.8.14 稳定版：修复部分场景下 Wi-Fi 降速问题",
-      "url": "https://www.ithome.com/0/972/486.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T08:12:10+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，Valve 现已向所有 Steam Deck 设备发布了 SteamOS 3.8.14 正式版更新，重点修复无线网络连接问题，同时提升系统安全性与稳定性，用户可通过系统设置检查获取更新。</p><p style=\"text-align: center;\"><img alt=\"SteamOS 3.8.14\" src=\"https://img.ithome.com/",
-      "is_policy": false
-    },
-    {
-      "title": "GOG 喜加一：原价 45 元科幻战术游戏《Nexus: The Jupiter Incident》免费领",
-      "url": "https://www.ithome.com/0/972/797.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T08:10:13+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，Mithis Entertainment 宣布旗下经典游戏《Nexus：The Jupiter Incident（《银河创世纪：木星事件》）》在 GOG 平台开启限时免费“喜加一”活动，玩家可以在北京时间 7 月 6 日晚 9 点前免费领取，作为参考，本作在 Steam 国区定价为 45 元，IT之家附 GOG 商店地址（<a href=\"https://www",
-      "is_policy": false
-    },
-    {
-      "title": "鸿海：6 月销售额 8218 亿元新台币创同期最高，同比增长 52.1％",
-      "url": "https://www.ithome.com/0/972/796.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T08:00:34+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，鸿海今日发布公告，2026 年 6 月营收为 8218 亿新台币（IT之家注：现汇率约合 1749.61 亿元人民币），环比下降 4.38%，<strong>同比增长 52.11%</strong>（美元计价月增约 4.5%，年增约 45.4%），为历年同期最高。历年同期次高为 2025 年 6 月营收 5402 亿新台币（现汇率约合 1150.09 亿元人民币",
-      "is_policy": false
-    },
-    {
-      "title": "一教育咨询机构工作人员为泄愤私自删除高考生本科志愿，构成破坏计算机信息系统罪获刑 8 个月",
-      "url": "https://www.ithome.com/0/972/794.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:58:38+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，四川达州宣汉县人民法院今天发布一起典型案例，一教育咨询机构工作人员为泄愤，私自删除考生本科志愿致其落榜，其因犯破坏计算机信息系统罪获刑 8 个月。</p><p>IT之家参考通报获悉，相应事件发生于 2025 年 7 月，本科批次 B 段第三次征集志愿信息发布后，考生小明（化名）高考分数有可能被本科录取，小明父亲随即多次联系达州市达川区某教育咨询机构工作人员刘某某",
-      "is_policy": false
-    },
-    {
-      "title": "因社区强烈反对，Fedora 系统 AI 桌面计划搁浅",
-      "url": "https://www.ithome.com/0/972/792.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:50:09+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据科技媒体 XDA 今天报道，Ubuntu 正在持续拥抱人工智能，但 Fedora 这边却因为社区强烈反对暂停了“AI 桌面”计划，再次凸显 Linux 社区对 AI 的不同态度。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsu",
+      "summary": "<p class=\"v-focus\">IT之家 7 月 5 日消息，比亚迪智能座舱 UI 设计大赛今天正式落幕，最终有 12 组作品脱颖而出，<strong>其中一等奖作品将搭载于全新量产版海豹 08</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7",
       "is_policy": false
     },
     {
@@ -197,210 +467,12 @@
       "is_policy": false
     },
     {
-      "title": "消息称菜鸟国内供应链业务并入阿里电商",
-      "url": "https://www.ithome.com/0/972/791.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:47:35+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据蓝鲸科技消息，多名接近菜鸟人士透露，本周菜鸟内部召开了一次管理层会议，会上宣布了内部架构调整，并在 7 月 1 日完成该调整。</p><p>消息人士表示，“<strong>菜鸟国内供应链业务板块上浮至淘天集团，并入阿里中国电商事业群</strong>。目前菜鸟仍保留海外供应链业务和物流科技业务。”</p><p>据介绍，架构调整后，业务协同上暂时没有变化，暂不涉",
-      "is_policy": false
-    },
-    {
-      "title": "洛图科技：2026 年 5 月中国移动电源线上市场零售量 312.3 万台，小米、倍思得冠亚军",
-      "url": "https://www.ithome.com/0/972/790.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:39:31+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据洛图科技（RUNTO）今日发布数据，2026 年 5 月，中国移动电源线上主流市场（IT之家注：含天猫、京东等电商平台）的零售量为 312.3 万台，同比下降 10.6%；零售额为 4.3 亿元，同比基本持平。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.",
-      "is_policy": false
-    },
-    {
-      "title": "华南农业大学严查学生利用智能眼镜考试作弊，多名违规者科目成绩记为零分",
-      "url": "https://www.ithome.com/0/972/789.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:37:28+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，华南农业大学本科生院本周发布《关于进一步严肃考风考纪、严禁携带智能设备进入考场的温馨提示》，明确对利用智能眼镜作弊的学生进行严肃处理，相应消息在微博引起热议。</p><p>IT之家注意到，相应提示强调学生严禁携带任何具有通讯、存储、拍照、传输功能的电子设备进入考场，包括但不限于手机、智能眼镜、智能手表（手环）、蓝牙耳机、隐形耳机等新型智能穿戴设备；其他具备收发信",
-      "is_policy": false
-    },
-    {
-      "title": "74 公里续航：绿源 M7 Ultra 电动摩托车 2899 → 1748 元再降价",
-      "url": "https://www.ithome.com/0/972/787.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:36:24+00:00",
-      "summary": "<p>绿源 M7 Ultra 电动摩托车日常 2899 元，今日叠加政府补贴 + 京东补贴后，仅需 1748 元即可入手。</p><p>本次支持 3 期免息，部分地区已售罄，有货地区支持次日达：</p><ul class=\" list-paddingleft-2\"><li><p>先领 50 元限时券：<a href=\"https://coupon.m.jd.com/coupons/show.act",
-      "is_policy": false
-    },
-    {
-      "title": "11.98 万元起，蔚来 firefly 萤火虫即将迎来 7 万台交付",
-      "url": "https://www.ithome.com/0/972/784.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:35:25+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，蔚来今日官宣，旗下 firefly 萤火虫即将迎来 7 万台交付。这款纯电小车在 5 月 23 日刚刚完成第 6 万台交付，仅仅过去 1 个多月。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/20f784e9-834c-482f",
-      "is_policy": false
-    },
-    {
-      "title": "苹果 App Store / 谷歌 Play 喜加一：开罗游戏经典策略手游《口袋学院物语 2》免费领",
-      "url": "https://www.ithome.com/0/972/777.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:25:01+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，开罗游戏宣布旗下经典策略游戏《口袋学院物语 2》现已在 iOS 和 Android 双平台开启限时免费领取“喜加一”活动，玩家可在 7 月 6 日前访问苹果 App Store 或谷歌 Play 商店，下载一遍游戏后即可将本作永久保存至账号，IT之家附本作 App Store 美区地址（<a href=\"https://apps.apple.com/us/app",
-      "is_policy": false
-    },
-    {
-      "title": "玩家淘到V社初代 Steam 手柄原型机，设计激进完全将触控板作为输入核心",
-      "url": "https://www.ithome.com/0/972/776.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:17:34+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据外媒 <span class=\"link-text-start-with-http\">ixbt.games</span> 报道，有用户 Waste-Set5032 在 Reddit 发文，透露自己的父亲在美国连锁慈善二手商店 Goodwill Industries 淘到了一台早期的 Steam 手柄原型机，引发了玩家社区关注。</p><p style=\"tex",
-      "is_policy": false
-    },
-    {
-      "title": "韦布望远镜观测到白矮星系外行星，窥见太阳系 60 亿年后命运",
-      "url": "https://www.ithome.com/0/972/775.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:15:00+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，天文学家借助詹姆斯 · 韦布空间望远镜（JWST），观测到一颗奇特的气态巨行星系外行星，它环绕一颗距离地球约 80 光年的死亡恒星 —— 白矮星运行。这套“恒星死后仍有行星存续”的天体系统，为科学家预示了太阳系约 60 亿年后的模样：届时太阳核心的氢燃料将彻底耗尽，抛散外层气体，最终只留下一颗余热未消的白矮星恒星残骸。</p><p style=\"text-ali",
-      "is_policy": false
-    },
-    {
-      "title": "消息称 Anthropic 拟在澳大利亚布局 1.4GW 数据中心算力，建设成本达 150 亿美元",
-      "url": "https://www.ithome.com/0/972/774.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:10:04+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据澳大利亚金融评论报消息，人工智能公司 Anthropic 计划在澳大利亚锁定至少 <strong>1.4 吉瓦</strong>（GW）的数据中心算力资源，远超外界此前预期。</p><p>报道称支撑该规模的基础设施建设成本将高达 <strong>150 亿美元</strong>（IT之家注：现汇率约合 1019.29 亿元人民币）。</p><p>该媒体获取的一",
-      "is_policy": false
-    },
-    {
-      "title": "《英雄联盟》2026 MSI 淘汰赛 TES 以 1:3 不敌 TSW 遭淘汰，LPL 首次 BO5 中不敌越南战队",
-      "url": "https://www.ithome.com/0/972/772.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:08:55+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，在刚刚结束的《英雄联盟》2026 MSI 淘汰赛中，LPL 赛区的 TES 战队以 1:3 的比分不敌 LCP 赛区的 TSW 遭淘汰，这也是 LPL 首次在国际赛场 BO5 赛制中不敌越南战队，TSW 晋级到了败者组的下一轮。</p><p>IT之家附具体赛况：</p><p><strong>TSW 战队 1:0 TES 战队</strong></p><block",
-      "is_policy": false
-    },
-    {
-      "title": "Epic CEO 斯威尼暗示生成式 AI 本可“拯救”《命运 2》游戏",
-      "url": "https://www.ithome.com/0/972/771.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T07:08:54+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据游戏媒体 Gamesradar 前天报道，《命运 2》曾是生命力最顽强的第一人称在线射击游戏之一，如今它的衰落很难归咎于单一因素。但 Epic Games 首席执行官蒂姆 · 斯威尼最近提出了自己的看法：Bungie 和索尼没有充分拥抱生成式 AI。</p><p style=\"text-align: center;\"><img class=\"no-alt-im",
-      "is_policy": false
-    },
-    {
       "title": "I built a open source neural network shape validator [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1unvbdb/i_built_a_open_source_neural_network_shape/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-07-05T06:58:02+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1unvbdb/i_built_a_open_source_neural_network_shape/\"> <img alt=\"I built a open source neural network shape validator [P]\" sr",
-      "is_policy": false
-    },
-    {
-      "title": "苹果 iPhone 17 Pro Max 手机被封入“美国建国 250 周年纪念时间胶囊”，计划 2276 年开启待后人查看",
-      "url": "https://www.ithome.com/0/972/770.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:56:52+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。</p><p>相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhone 17 Pro Max",
-      "is_policy": false
-    },
-    {
-      "title": "华为平板 / 鸿蒙电脑支持星闪设备清单公布，MatePad Pro Max 独享 E2.0 规格",
-      "url": "https://www.ithome.com/0/972/769.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:53:39+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，华为官网更新了支持星闪（NearLink）功能的平板 / 鸿蒙电脑设备清单，公开了 MatePad 和 MateBook 各系列机型的星闪规格及具体能力情况。</p><table><tbody><tr class=\"firstRow\"><td colspan=\"13\" rowspan=\"1\" valign=\"top\">支持星闪（NearLink）功能的华为平板 ",
-      "is_policy": false
-    },
-    {
-      "title": "捉迷藏游戏《超级变色龙》销量突破 1500 万份，下周上线全新联动地图",
-      "url": "https://www.ithome.com/0/972/768.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:49:07+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，日本独立开发者 lemorion_1224 在 X 平台宣布，其开发的多人捉迷藏游戏《MECCHA CHAMELEON》（超级变色龙）<strong>全球累计销量已突破 1500 万份</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfi",
-      "is_policy": false
-    },
-    {
-      "title": "机械革命耀世 18 Pro 18 英寸游戏本配置上新：Ultra 7 251HX +16G + 1T + RTX5060 售 10999 元",
-      "url": "https://www.ithome.com/0/972/766.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:45:12+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，机械革命现已为旗下耀世 18 Pro 笔记本新增一款“Ultra 7 251HX +16GB RAM + 1TB SSD + RTX5060”版本，<strong>定价为 10999 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XOJ64ct\" target=\"_bl",
-      "is_policy": false
-    },
-    {
-      "title": "SE 承认部分游戏公布时间过早，正重新审视发布与营销节奏",
-      "url": "https://www.ithome.com/0/972/765.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:44:55+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，史克威尔艾尼克斯（Square Enix）已经意识到自家有过早公布新作的老毛病，目前正积极“重新审视”其游戏发布和营销的策略。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/734af12b-",
-      "is_policy": false
-    },
-    {
-      "title": "高温催生制冷刚需，央视揭秘中国空调在欧洲热销的原因",
-      "url": "https://www.ithome.com/0/972/764.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:43:55+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，受厄尔尼诺事件影响，欧洲今年夏天频繁出现极端高温天气，给民众的生活带来困扰。但受老式建筑保护法规、人工成本高昂、安装资源紧缺等因素影响，<strong>欧洲空调的家庭保有率仅约 20%</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditabl",
-      "is_policy": false
-    },
-    {
-      "title": "索尼官宣停产 PS 实体盘后，达美乐、肯德基、盖世小鸡下场“整活”",
-      "url": "https://www.ithome.com/0/972/763.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:41:11+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，索尼近日宣布，自 2028 年 1 月起，PlayStation 游戏机上的新游戏将仅以数字版形式销售，不再推出实体光碟版本，引发游戏圈震荡。就在玩家怒骂索尼之际，<strong>有些品牌却抓住机会</strong>，<strong>在社交媒体上开启一场“整活式营销”</strong>。</p><p style=\"text-align: center;\"><im",
-      "is_policy": false
-    },
-    {
-      "title": "洛图科技：2026 年 5 月中国家用路由器线上市场规格升级抬高均价，华为、小米、普联分列销量前三",
-      "url": "https://www.ithome.com/0/972/762.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:18:51+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，洛图科技（RUNTO）线上数据显示，2026 年 5 月，中国家用路由器线上主流市场（含京东、天猫等电商平台）<strong>销量为 87.2 万台</strong>，同比下降 8.8%；<strong>销额为 2.2 亿元</strong>，同比下降 6.7%。</p><p style=\"text-align: center;\"><img alt=\"图片\" s",
-      "is_policy": false
-    },
-    {
-      "title": "英国《卫报》：欧洲“空调之争”正演化成政治斗争",
-      "url": "https://www.ithome.com/0/972/760.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:10:14+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据英国媒体《卫报》今天报道，当地时间 7 月 5 日下午，德国勃兰登堡州气温升至 41.7℃，创该国历史新高。面对酷暑，65 岁的退休工人马里奥（Mario）并没有惊慌。他的家庭两年前安装了空调，这在德国并不常见。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img",
-      "is_policy": false
-    },
-    {
-      "title": "乐道 OrinX 纯视觉车型智驾 Coconut 3.1.0 版本开启首轮小范围测试，计划 7 月内开启推送",
-      "url": "https://www.ithome.com/0/972/759.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T06:03:49+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据乐道品牌营销传播负责人马磊分享，乐道 OrinX 纯视觉车型智驾大升级的 Coconut 3.1.0 版本已开启<strong>第一轮小范围测试</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
-      "is_policy": false
-    },
-    {
-      "title": "地球磁场连续 24 小时发生磁暴，凌晨太阳曾爆发 X 级耀斑",
-      "url": "https://www.ithome.com/0/972/758.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-05T05:55:57+00:00",
-      "summary": "<p>IT之家 7 月 5 日消息，据央视新闻报道，从昨天 8 点开始，<strong>地球磁场连续 24 小时发生磁暴</strong>，这是今年 1 月 20 日以来，再一次出现的较强地磁活动。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfile",
       "is_policy": false
     },
     {
@@ -764,15 +836,6 @@
       "is_policy": false
     },
     {
-      "title": "Making Optimization Work When Labels Are Scarce [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-02T00:59:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels\">https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels</a></p> <p><",
-      "is_policy": false
-    },
-    {
       "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/",
       "source": "r/MachineLearning",
@@ -1043,15 +1106,6 @@
       "is_policy": false
     },
     {
-      "title": "ICML qr code visible [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjh6y/icml_qr_code_visible_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-01T11:52:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>The check in QR code is visible at my profile despite that my card isn’t accepting the payment transaction. What does that even mean?</p> <p>Thank",
-      "is_policy": false
-    },
-    {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "r/MachineLearning",
@@ -1238,15 +1292,6 @@
       "category": "news",
       "published": "2026-06-30T12:00:00+00:00",
       "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
-      "is_policy": false
-    },
-    {
-      "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-06-30T11:55:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/\"> <img alt=\"A map of the latest 11 million papers split by semantic ",
       "is_policy": false
     },
     {
