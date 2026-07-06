@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:56:31.481207+00:00",
+  "generated_at": "2026-07-06T14:59:58.652422+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,30 +8,30 @@
   ],
   "items": [
     {
-      "title": "Zackriya-Solutions / meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
-      "is_policy": false
-    },
-    {
-      "title": "openai / codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Use Codex from Claude Code to review code or delegate tasks.",
-      "is_policy": false
-    },
-    {
       "title": "asgeirtj / system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
+      "published": "2026-07-06T14:59:58+00:00",
       "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "is_policy": false
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-06T14:59:58+00:00",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "is_policy": false
+    },
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-06T14:59:58+00:00",
+      "summary": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
       "is_policy": false
     },
     {
@@ -39,7 +39,7 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
+      "published": "2026-07-06T14:59:58+00:00",
       "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "is_policy": false
     },
@@ -48,8 +48,26 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
+      "published": "2026-07-06T14:59:58+00:00",
       "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
+      "is_policy": false
+    },
+    {
+      "title": "openai / codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-06T14:59:58+00:00",
+      "summary": "Use Codex from Claude Code to review code or delegate tasks.",
+      "is_policy": false
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-06T14:59:58+00:00",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "is_policy": false
     },
     {
@@ -57,89 +75,17 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
+      "published": "2026-07-06T14:59:58+00:00",
       "summary": "agent multiplexer that lives in your terminal.",
       "is_policy": false
     },
     {
-      "title": "alibaba / page-agent",
-      "url": "https://github.com/alibaba/page-agent",
+      "title": "karakeep-app / karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "is_policy": false
-    },
-    {
-      "title": "harvard-edge / cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Machine Learning Systems",
-      "is_policy": false
-    },
-    {
-      "title": "usestrix / strix",
-      "url": "https://github.com/usestrix/strix",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "is_policy": false
-    },
-    {
-      "title": "hesreallyhim / awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable ",
-      "is_policy": false
-    },
-    {
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "is_policy": false
-    },
-    {
-      "title": "CoplayDev / unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "is_policy": false
-    },
-    {
-      "title": "facebook / astryx",
-      "url": "https://github.com/facebook/astryx",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "An open source design system that's fully customizable and agent ready",
-      "is_policy": false
-    },
-    {
-      "title": "gastownhall / gastown",
-      "url": "https://github.com/gastownhall/gastown",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Gas Town - multi-agent workspace manager",
-      "is_policy": false
-    },
-    {
-      "title": "dotnet / skills",
-      "url": "https://github.com/dotnet/skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
-      "summary": "Repository for skills to assist AI coding agents with .NET and C#",
+      "published": "2026-07-06T14:59:58+00:00",
+      "summary": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
       "is_policy": false
     },
     {
@@ -147,98 +93,62 @@
       "url": "https://github.com/steipete/CodexBar",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-06T09:56:31+00:00",
+      "published": "2026-07-06T14:59:58+00:00",
       "summary": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "is_policy": false
     },
     {
-      "title": "日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产",
-      "url": "https://www.ithome.com/0/973/227.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:56:20+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，日本芯片设计初创企业 TokyoArtisan Intelligence (TAI) 当地时间今日宣布，其基于 FPGA 的 40nm 边缘物理 AI 芯片原型 \"Sting Ray\" 已完成验证，迈向量产阶段。</p><p>\"Sting Ray\" 架构上的灵活性使其能同时优化适配多种模型。<strong>其采用低功耗快响应设计</strong>，<strong",
+      "title": "gastownhall / gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-06T14:59:58+00:00",
+      "summary": "Gas Town - multi-agent workspace manager",
       "is_policy": false
     },
     {
-      "title": "消息称华为明年将推出“完全无竞品”的小阔折手机",
-      "url": "https://www.ithome.com/0/973/225.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:55:00+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光华为折叠屏手机战略：阔折叠打友商的大折叠，三折叠打友商的阔折叠，最后再来一个大折叠收尾，<strong>明年还有一个完全无竞品的小阔折</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/news",
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-06T14:35:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it o",
       "is_policy": false
     },
     {
-      "title": "微软文件披露：近四成税前利润登记在爱尔兰，当地员工仅占全球 3%",
-      "url": "https://www.ithome.com/0/973/222.htm",
-      "source": "IT之家",
+      "title": "Microsoft is laying off 4,800 employees",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "source": "The Verge AI",
       "category": "news",
-      "published": "2026-07-06T09:51:42+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，欧盟规定大型跨国公司必须披露其盈利及纳税地点。据 TechSpot 昨日报道，微软本月公布了 2025 财年（IT之家注：2024 年 7 月 - 2025 年 6 月）中按国家 / 地区划分的财务明细。</p><p>数据显示了科技行业一种屡见不鲜的模式：利润高度集中在低税收管辖区。相比之下，在商业活动更为庞大、透明度更高的高税率市场中，报告的利润则要少得多。<",
+      "published": "2026-07-06T13:30:00+00:00",
+      "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately",
       "is_policy": false
     },
     {
-      "title": "TCL 科技：玻璃基封装技术尚处前期调研阶段，商业化存不确定性",
-      "url": "https://www.ithome.com/0/973/210.htm",
-      "source": "IT之家",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-07-06T09:33:20+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，TCL 科技今日在互动平台表示，<strong>公司目前对玻璃基封装领域尚处于前期调研与技术预研阶段</strong>。公司于该领域能否技术落地与实现商业化量产仍存在重大不确定性，对公司现有经营业绩无明显影响，敬请投资者关注相关技术风险，理性看待行业题材热度。</p><p>IT之家注意到，TCL 科技虽然未在公司公告中披露玻璃基封装领域进展，但其旗下天津普林在玻",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
       "is_policy": false
     },
     {
-      "title": "印度 CG Semi 萨南德 OSAT 设施揭幕，总理莫迪出席",
-      "url": "https://www.ithome.com/0/973/208.htm",
-      "source": "IT之家",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "source": "MIT Tech Review",
       "category": "news",
-      "published": "2026-07-06T09:30:42+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，印度总理 Narendra Modi（纳伦德拉 · 莫迪）当地时间出席了半导体企业 CG Semi 位于古吉拉特邦 Sanand（萨南德）的 OSAT（外包封测）设施揭幕仪式，这是<strong>印度第三家正式投产的大型芯片封装厂</strong>。</p><p>CG Semi 由印度企业 CG Power 与伙伴 Renesas、Stars Microelec",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke",
       "is_policy": false
     },
     {
-      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-      "url": "https://www.ithome.com/0/973/207.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:23:28+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据《连线》报道，根据 Meta 内部文件及五名知情人士透露，数百名参与 Meta 某项目的外包人员在网络上伪装成未成年人，以此来探测竞争对手的聊天机器人会如何回应涉及自杀、性、进食障碍及其他高风险话题的提示词。</p><p>该项目由 Meta 的外包公司 Covalen 负责管理，其运行时间至少持续到了 4 月 21 日。该项目内部代号为 Cannes（戛纳），",
-      "is_policy": false
-    },
-    {
-      "title": "中央网信办出手整治 AI 应用乱象：清理违法违规信息 600 余万条",
-      "url": "https://www.ithome.com/0/973/206.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:17:11+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，中央网信办今日发文称，“清朗 · 整治 AI 应用乱象”专项行动自 2026 年 4 月启动以来，中央网信办聚焦<strong>未按规定履行大模型备案登记义务、AI 平台安全和审核过滤能力不足、AI 数据投毒、生成合成内容标识落实不到位</strong>等 AI 应用乱象，部署各地网信部门深入推进第一阶段重点整治任务，并开设“涉 AI 应用乱象举报专区”，专项受",
-      "is_policy": false
-    },
-    {
-      "title": "受存储芯片与碳酸锂价格上涨影响，消息称新一代理想 L6 或涨价",
-      "url": "https://www.ithome.com/0/973/205.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:10:28+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据雷峰网今日报道，本月将要上市的新一代理想 L6 可能会迎来涨价。</p><p><span class=\"wx_text_underline\">报道援引知情人士消息，今年以来，受存储芯片与</span><span>碳酸锂价格</span><span class=\"wx_text_underline\">双重上涨影响，几乎所有新车都迎来前所未有的成本压力，新一代理想",
-      "is_policy": false
-    },
-    {
-      "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
-      "url": "https://www.ithome.com/0/973/204.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:06:48+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A，<strong>售价 2199 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p>6GB+128GB：2199 元</p></li><li><p>8GB+256GB：2899 元</p></li><",
-      "is_policy": false
-    },
-    {
-      "title": "奇瑞捷途环游者方盒子 SUV 官宣：猎鹰 500 辅助驾驶，四季度上市",
-      "url": "https://www.ithome.com/0/973/203.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T09:01:23+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，今日，奇瑞汽车执行副总裁李学用发文称：我们给大家带来了年轻人的新 X 系 —— 环游者，275 千瓦的动力，激情操控体验，方正美学，大空间，2.5 米大床房，搭载猎鹰 500 辅助驾驶，XWD 全自动智能四驱，据悉，<strong>新车将于今年四季度上市</strong>。</p><p style=\"text-align: center;\"><a class=\"",
+      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-06T11:57:00+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want t",
       "is_policy": false
     },
     {
@@ -248,186 +158,6 @@
       "category": "news",
       "published": "2026-07-06T09:00:00+00:00",
       "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents",
-      "is_policy": false
-    },
-    {
-      "title": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
-      "url": "https://www.ithome.com/0/973/202.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:57:30+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，“哔哩漫游（BiliRoaming）”是一个解除B站客户端番剧区域限制的热门 Xposed 模块，还提供一些其他小功能，在 GitHub 上获得了超 11.4K 星标。</p><p>今日，<strong>“哔哩漫游”的 GitHub 项目页面删除了全部代码</strong>，README 页面也附上了一份B站律师函。</p><p style=\"text-alig",
-      "is_policy": false
-    },
-    {
-      "title": "Keychron 涉足非键鼠外设，推出 14 合 1 雷电 5 扩展坞",
-      "url": "https://www.ithome.com/0/973/201.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:57:22+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，此前专注于键鼠赛道的 Keychron（渴创）近日推出了其<strong>首款扩展坞</strong>。该设备支持雷电 5 规范，<strong>采用 14 合 1 设计</strong>，售价 349.99 美元（IT之家注：现汇率约合 2375 元人民币）。</p><p style=\"text-align: center;\"><img src=\"https:",
-      "is_policy": false
-    },
-    {
-      "title": "不同部门奖金差距高达百倍，三星非芯片部门员工拟集会抗议",
-      "url": "https://www.ithome.com/0/973/194.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:48:33+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据韩联社消息，三星电子内部以 DX（设备体验）部门员工为主体的工会即将举行集会。</p><p>该部门主要负责家电、电视及智能手机等业务，工会此举旨在要求管理层针对“2026 年薪酬谈判”结果制定相应的对策。</p><p>报道称，2026 年非芯片部门的员工预计将获得价值 600 万韩元（IT之家注：现汇率约合 26418 元人民币）的库存股作为奖金。相比之下，<",
-      "is_policy": false
-    },
-    {
-      "title": "高德 AI 专车升级：一句话叫来个性化专车，首批上线北京、上海等",
-      "url": "https://www.ithome.com/0/973/193.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:44:44+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，高德今日宣布 AI 专车功能升级，用户只需用自己的话完整表达出行需求，其搭载的“<span>AI 专车管家</span>”即可从语句中<strong>自动识别关键信息</strong>，并匹配一辆符合个性化要求的专车。</p><p>IT之家从官方介绍获悉，<span>高德 AI 专车</span>升级后，其搭载的“AI 专车管家”能够理解用户用自然语言表达的复合",
-      "is_policy": false
-    },
-    {
-      "title": "腾讯元宝接入混元 Hy3 模型，支持免费做文件",
-      "url": "https://www.ithome.com/0/973/192.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:37:08+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，腾讯今日发布混元 Hy3 模型，元宝也迎来再次升级。打开元宝深度思考或快速思考，选择 Hy3 模型就能立即体验，全部能力免费开放。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/56f3e6d",
-      "is_policy": false
-    },
-    {
-      "title": "699km/h：德国 Quantum Systems 达成电池电动飞行器最快速度",
-      "url": "https://www.ithome.com/0/973/190.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:31:40+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，德国无人机企业 Quantum Systems 当地时间 5 日宣布，其一款名为 Apex Recordhunter 的技术验证电池电动飞行器在内部直线平飞测试中<strong>实现了 699km/h 的最高速度</strong>。</p><p><strong>这一速度优于同类飞行器此前的最好成绩</strong>。不过由于并非公开测试，Apex Recordh",
-      "is_policy": false
-    },
-    {
-      "title": "KTC 推出京东联名版 58 英寸“无广告 4K 电视”T58A2，首发价 1780 元",
-      "url": "https://www.ithome.com/0/973/181.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:28:51+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，KTC 宣布联合京东推出一款 58 英寸无广告 4K 电视（T58A2），该机搭载京东 OS，定价为 1900 元，<strong>首发价 1780 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XrcBzdm\" target=\"_blank\"><span class=",
-      "is_policy": false
-    },
-    {
-      "title": "中国空调、风扇受欧洲民众追捧，外交部回应",
-      "url": "https://www.ithome.com/0/973/167.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:19:30+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，今天，外交部发言人毛宁主持例行记者会。有记者就中国生产的空调、风扇、多功能防晒伞等防暑降温产品受到欧洲民众追捧提问。</p><p>发言人毛宁表示，契合需求、物美价优的商品自然会受到欢迎。中欧贸易结构是市场需求驱动、基于优势互补的自然结果。<strong><span class=\"color-00269a\">事实证明，在中欧贸易中，消费者得到了实惠、供应商获取了利",
-      "is_policy": false
-    },
-    {
-      "title": "雷蛇 Axon 壁纸引擎将登陆移动端，7 月 15 日上线 Google Play",
-      "url": "https://www.ithome.com/0/973/165.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:17:20+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，Razer（雷蛇）当地时间本月 3 日宣布，其此前仅限于 Windows 桌面平台的 <strong>Axon（雷幻）壁纸引擎将登陆移动端</strong>。该应用将于 7 月 15 日上线 Google Play，现已开放预注册。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"ht",
-      "is_policy": false
-    },
-    {
-      "title": "央视全新《西游记》动画备案：第一季共 26 集",
-      "url": "https://www.ithome.com/0/973/160.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:14:32+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，央视全新《西游记》动画在列。</p><p>备案信息显示，全新《西游记》动画报备机构为央视动漫集团有限公司，第一季分为上下两部，每部分别有 13 集，<strong>第一季共 26 集</strong>，每集时长为 22 分钟。</p><p style=\"text-ali",
-      "is_policy": false
-    },
-    {
-      "title": "经典动画《神兵小将》第三季回归，共 104 集",
-      "url": "https://www.ithome.com/0/973/157.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:13:50+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，国家广播电视总局办公厅今日发布关于 2026 年 6 月全国国产电视动画片制作备案公示的通知，<strong>《神兵小将》第三季通过备案</strong>，分为上下两部分，共 104 集，每集 22 分钟。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadf",
-      "is_policy": false
-    },
-    {
-      "title": "日本 15 岁少年侵入万代南梦宫流媒体平台，利用 ChatGPT 编写自动化脚本注销 4 万余名用户账号",
-      "url": "https://www.ithome.com/0/973/151.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:09:11+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据日媒 TBS 报道，日本一名 15 岁少年因入侵万代南梦宫旗下动画流媒体平台“万代频道（バンダイチャンネル）”服务器、注销数万名用户账号，近日被警方逮捕。</p><p>IT之家参考报道获悉，涉案人为居住在埼玉县所泽市的一名 15 岁高中一年级学生。其在 2025 年 11 月利用他人会员账号侵入万代频道服务器，<strong>批量注销平台 46812 名会员账",
-      "is_policy": false
-    },
-    {
-      "title": "微软 Teams 加强第三方 AI 智能体权限管理，需会议组织者确认后方可放行",
-      "url": "https://www.ithome.com/0/973/146.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T08:02:11+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，微软发文，宣布为 Microsoft Teams 会议应用推出全新的 AI 机器人管理策略，当第三方 AI 机器人尝试加入会议时，必须先获得会议组织者批准后才能进入。</p><p>据介绍，目前微软已在 Teams 管理中心新增“Manage external bots and their access to meetings”管理策略，该功能默认启用，管理员可将",
-      "is_policy": false
-    },
-    {
-      "title": "英国外交大臣库珀警告：AI 或成未来 10 年最大安全挑战，世界各国必须建立紧急防护措施",
-      "url": "https://www.ithome.com/0/973/140.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:59:09+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据《卫报》昨天报道，英国外交大臣伊薇特 · 库珀警告称 AI 或将成为未来 10 年最大安全挑战，如果各国政府不能就人工智能发展制定国际准则，那么 AI 对人类的威胁堪比美国当年核爆日本广岛、长崎。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles",
-      "is_policy": false
-    },
-    {
-      "title": "面向数学形式化证明：Mistral AI 发布 Leanstral 1.5 低使用成本开源模型",
-      "url": "https://www.ithome.com/0/973/135.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:54:25+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，欧洲人工智能企业 Mistral AI 当地时间本月 2 日宣布推出<strong>面向数学形式化证明程序语言 Lean 4 的 Leanstral 1.5 模型</strong>。该模型总共拥有 119B 参数，激活 6B 参数，以 Apache-2.0 许可开源。</p><p style=\"text-align: center;\"><img class=\"n",
-      "is_policy": false
-    },
-    {
-      "title": "蔚来副总裁马麟：蔚来品牌 6 月平均成交价为 44.3 万元",
-      "url": "https://www.ithome.com/0/973/134.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:53:32+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，上海蔚来汽车有限公司副总裁马麟今日透露，<strong>蔚来品牌 6 月平均成交价为 44.3 万元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/f3cb5c98-b53",
-      "is_policy": false
-    },
-    {
-      "title": "消息称某厂 Ultra 迭代旗舰机评估 200Mp 主摄、微云台结构，预计为 OPPO Find X10 Ultra",
-      "url": "https://www.ithome.com/0/973/131.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:51:55+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，博主 @数码闲聊站 今日发布某厂 Ultra 迭代旗舰机超前瞻爆料，预计为 OPPO Find X10 Ultra。</p><p>据其爆料，这款旗舰新机的影像除了主摄评估 200Mp 1/1.12\" LOFIC Sensor，镜组同步评估<strong>微云台结构</strong>，光学防抖角度更大。</p><p style=\"text-align: cente",
-      "is_policy": false
-    },
-    {
-      "title": "消息称小米完成关键人事任命：原深圳区域总部总经理葛维严接掌手机相机部",
-      "url": "https://www.ithome.com/0/973/126.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:46:42+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据蓝鲸新闻今日援引知情人士消息，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部，<strong>出任总经理一职</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsupload",
-      "is_policy": false
-    },
-    {
-      "title": "小米推出米家桌面照片打印机 2：升级 4 色热升华、使用蓝牙 5.2 连接，699 元",
-      "url": "https://www.ithome.com/0/973/121.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:42:54+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，小米现已在有品上架米家桌面照片打印机 2（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d184115%2",
-      "is_policy": false
-    },
-    {
-      "title": "预防电信诈骗：韩国实施手机入网新规，进行人脸识别等多重身份核验",
-      "url": "https://www.ithome.com/0/973/120.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-06T07:42:37+00:00",
-      "summary": "<p>IT之家 7 月 6 日消息，据韩联社报道，韩国今日起升级手机入网身份核验方式。今后新办理入网或携号转网业务时，<strong>用户无法仅凭身份证完成办理，须进行人脸识别等多重身份核验</strong>。</p><p>据韩国科学技术信息通信部消息，韩国三大移动通信运营商及虚拟运营商即日起在所有线上、线下办理渠道正式启用升级版身份核验机制，取代以往仅核验身份证的方式。</p><p>根据新规，新",
       "is_policy": false
     },
     {
@@ -755,15 +485,6 @@
       "is_policy": false
     },
     {
-      "title": "Has anyone tried this approach with Fast Byte Latent Transformers ? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulngy8/has_anyone_tried_this_approach_with_fast_byte/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-02T16:43:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Paper Referred:- <a href=\"https://arxiv.org/pdf/2412.09871v1\">https://arxiv.org/pdf/2412.09871v1</a></p> <p>Has anyone switched the transformer in the entropy model h",
-      "is_policy": false
-    },
-    {
       "title": "Books/Resources to improve mathematical foundations for ML research [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ulmy9g/booksresources_to_improve_mathematical/",
       "source": "r/MachineLearning",
@@ -1079,15 +800,6 @@
       "is_policy": false
     },
     {
-      "title": "ACL ARR May 2026[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukud96/acl_arr_may_2026d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-01T18:48:58+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? </p> <p>How much does one need to get into Main or Findings? </p>",
-      "is_policy": false
-    },
-    {
       "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
       "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "source": "TechCrunch AI",
@@ -1121,24 +833,6 @@
       "category": "news",
       "published": "2026-07-01T14:25:23+00:00",
       "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "is_policy": false
-    },
-    {
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-01T14:20:19+00:00",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "is_policy": false
-    },
-    {
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-07-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship prod",
       "is_policy": false
     },
     {
@@ -1250,15 +944,6 @@
       "is_policy": false
     },
     {
-      "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
-      "url": "https://huggingface.co/papers/2607.00407",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-06-30T20:00:00+00:00",
-      "summary": "Slide design requires personalizing both deck themes and page layouts. Yet, current AI agent-based methods struggle with fine-grained, page-level design. Solely relying on prespecified templates or us",
-      "is_policy": false
-    },
-    {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
       "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
       "source": "The Verge AI",
@@ -1268,21 +953,21 @@
       "is_policy": false
     },
     {
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-06-30T17:19:15+00:00",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict",
-      "is_policy": false
-    },
-    {
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "source": "Google DeepMind",
       "category": "news",
       "published": "2026-06-30T16:02:40+00:00",
       "summary": "",
+      "is_policy": false
+    },
+    {
+      "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
+      "url": "https://huggingface.co/papers/2606.31959",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-06-30T13:01:28+00:00",
+      "summary": "Depth-of-field control is a fundamental tool in photography, yet post-capture bokeh editing from a single image remains challenging. A practical editor should handle images captured under arbitrary fo",
       "is_policy": false
     },
     {
