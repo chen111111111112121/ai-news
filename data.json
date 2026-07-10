@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:00:07.333718+00:00",
+  "generated_at": "2026-07-10T19:16:05.596178+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-10T14:00:07+00:00",
+      "published": "2026-07-10T19:16:05+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-10T14:00:07+00:00",
+      "published": "2026-07-10T19:16:05+00:00",
       "summary": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-10T14:00:07+00:00",
+      "published": "2026-07-10T19:16:05+00:00",
       "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
       "is_policy": false
     },
@@ -39,8 +39,179 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-10T14:00:07+00:00",
+      "published": "2026-07-10T19:16:05+00:00",
       "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "is_policy": false
+    },
+    {
+      "title": "On Adversarial RL [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usx96p/on_adversarial_rl_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-10T19:15:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Zhang et al. paper's introducing the SA-MDP framework (2020) (state adversarial MDP) argues that an attack using the critic network (V(s)) is expected and supposed to",
+      "is_policy": false
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-10T19:00:00+00:00",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
+      "is_policy": false
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-10T17:17:12+00:00",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "is_policy": false
+    },
+    {
+      "title": "SK 集团会长崔泰源：AI 驱动内存需求呈指数级增长，未来五年产能翻倍仍难满足",
+      "url": "https://www.ithome.com/0/975/364.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T15:46:33+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，SK 海力士今日在纳斯达克挂牌交易其美国存托凭证（ADR）。随后，SK 集团会长崔泰源接受了彭博社与 CNBC 的采访。</p><p>IT之家注意到，崔泰源表示，在人工智能时代，内存行业已进入结构性增长阶段。</p><blockquote><p>过去，内存的需求主要取决于人口数量或是智能手机和个人电脑的销量。</p><p>然而，随着 AI 智能体、推理过程中产",
+      "is_policy": false
+    },
+    {
+      "title": "全球票房破 10 亿美元，任天堂《超级马力欧银河大电影》上线B站、腾讯视频、优酷、爱奇艺等流媒体平台",
+      "url": "https://www.ithome.com/0/975/363.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T15:33:49+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，由任天堂、照明娱乐联合出品的动画电影《超级马力欧银河大电影》今日正式登陆B站、腾讯视频、优酷、爱奇艺等视频平台，用户还可以通过小米电视、BesTV 百视通在电视上购买观看。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuplo",
+      "is_policy": false
+    },
+    {
+      "title": "募资 265 亿美元超阿里创外企赴美 IPO 纪录：SK 海力士 ADR 预示开盘价 180 美元，首日涨超 20%",
+      "url": "https://www.ithome.com/0/975/362.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T15:16:00+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，韩国存储芯片巨头 SK 海力士今日正式在纳斯达克挂牌交易其美国存托凭证（ADR）。</p><p>此次发行定价为每份 149 美元，共计发行 1.779 亿份 ADR，每份 ADR 对应十分之一股 SK 海力士韩国普通股。</p><p>SK 海力士 ADR 于 7 月 10 日以“when-issued”（预发行）方式开始交易（预计 7 月 13 日转为常规模式",
+      "is_policy": false
+    },
+    {
+      "title": "小米汽车确认澎程不是子品牌：计划发布两款车，投入 566 台测试车、路测超 428 万公里",
+      "url": "https://www.ithome.com/0/975/361.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T15:09:09+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，小米汽车今日发布答网友问（第 258 集），回答了“小米澎程跟小米汽车是什么关系？”“为什么小米汽车要做一个新系列？”等问题。</p><p style=\"text-align: center;\"><img alt=\"小米澎程 N90 Max 露营版左前部\" class=\"lazy\" src=\"https://img.ithome.com/newsuploadf",
+      "is_policy": false
+    },
+    {
+      "title": "小米回应澎程 SkyNomad 未上市新车遭恶意抹黑：纯粹的造谣，简直是匪夷所思",
+      "url": "https://www.ithome.com/0/975/360.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T15:01:32+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，小米汽车旗下第二产品系列 —— 小米澎程今日正式宣布首款 SUV 车型定名为澎程 N90。此前一天，即 7 月 9 日，小米集团董事长雷军已发文宣布该产品系列正式命名为“SkyNomad 小米澎程”，定位为“智能可变大空间 SUV”。雷军表示，SU7 与 YU7 系列是“驾驶者之车”，而小米澎程系列则专注于满足家庭出行与户外场景需求。</p><p>就在同一天，",
+      "is_policy": false
+    },
+    {
+      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-10T14:59:23+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am currently working across multiple research communities, and I've noticed that the ML community is struggling with a massive volume of submissions, which is affec",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪腾势 N8 官图公布：大五座纯电 SUV，搭载第二代刀片电池及闪充技术",
+      "url": "https://www.ithome.com/0/975/359.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:54:09+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，工信部发布第 409 批《道路机动车辆生产企业及产品公告》新产品公示，比亚迪腾势 N8 三款纯电动车型完成申报。</p><p>今晚，比亚迪腾势汽车官方发布了<strong>大五座纯电 SUV </strong>腾势 N8 的官图，新车长 5150 mm、宽 1999 mm、高 1820 mm，轴距 3075 mm。</p><p style=\"text-alig",
+      "is_policy": false
+    },
+    {
+      "title": "微信 Win / Mac PC 测试版 4.1.12 发布：通话中可接听新来电，支持 Markdown 排版",
+      "url": "https://www.ithome.com/0/975/358.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:53:11+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，微信团队今日面向 PC 版内测用户推送了最新的 4.1.12 版本更新。该版本在通话功能、多媒体展示以及笔记工具方面带来了多项改进。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/be31e",
+      "is_policy": false
+    },
+    {
+      "title": "北通鲲鹏 70 手柄《异环》联名款上市：安魂曲、薄荷双色可选，699 元",
+      "url": "https://www.ithome.com/0/975/357.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:45:12+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，《异环》与北通联合推出的联动定制礼盒已于 7 月 9 日开启全价预售，京东首发显示为 699 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/X6mLLB4\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-l",
+      "is_policy": false
+    },
+    {
+      "title": "全新零跑 B01/B10 车型 7 月 16 日上市：50 英寸 AR-HUD、双零重力座椅、激光雷达",
+      "url": "https://www.ithome.com/0/975/356.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:38:36+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，全新零跑 B01/B10 车型将于 7 月 16 日上市，这两款新车已在 7 月 8 日开启盲订。</p><p>IT之家注意到，全新 B01/B10 的外观已经公布，全新零跑 B01 新增<strong>云黛紫、液态银</strong>外观，定位“年轻时尚超长续航轿车”；全新 B10 新增<strong>风禾青、液态银</strong>配色，定位“全球智享长续",
+      "is_policy": false
+    },
+    {
+      "title": "Mapping world model taxonomy [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usp482/mapping_world_model_taxonomy_p/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-10T14:22:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey ML community! I’ve been exploring world models and wrote a short article aimed at making the concept easier to understand.</p> <p>I also propose a framework for c",
+      "is_policy": false
+    },
+    {
+      "title": "告别卓易通：飞牛 fnOS 鸿蒙原生 App 开启首轮测试招募",
+      "url": "https://www.ithome.com/0/975/355.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:21:19+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，飞牛私有云（fnOS）今晚宣布，飞牛鸿蒙版 App 开发工作已进入尾声，即将开启首轮内测，现面向社区招募首批体验官。</p><p>本次内测面向已使用飞牛 NAS（fnOS）的鸿蒙手机用户，设备需运行 HarmonyOS 5 或支持参与测试的鸿蒙系统。招募对象需愿意积极反馈问题和使用建议，并能配合安装测试版本持续体验。</p><p style=\"text-ali",
+      "is_policy": false
+    },
+    {
+      "title": "国际 / 美国唱片业协会拟与 Spotify、Apple Music 等流媒体平台合作，推进 AI 音乐标识落地",
+      "url": "https://www.ithome.com/0/975/354.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:12:20+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，据华尔街日报消息，美国唱片业协会（RIAA）与国际唱片业协会（IFPI）计划与 Spotify 和 Apple Music 等流媒体平台展开合作，共同推进 AI 音乐标识的落地。</p><p>由 RIAA 主导的联盟共提出了两种标识，旨在将完全由 AI 生成的音轨与仅部分使用 AI 制作的音轨之间划清界限：</p><ul class=\" list-paddin",
+      "is_policy": false
+    },
+    {
+      "title": "电视剧（网络剧）演员署名新规今起施行，不得单独使用艺名、英文名或昵称等",
+      "url": "https://www.ithome.com/0/975/353.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-10T14:00:54+00:00",
+      "summary": "<p>IT之家 7 月 10 日消息，今天，《关于规范电视剧（网络剧）演员署名的通知》开始施行，所有首播电视剧、网络剧均须严格按照新规执行。</p><p>IT之家注意到，该《通知》由中国电视剧制作产业协会、中国网络视听节目服务协会、中国广播电视社会组织联合会演员委员会于 6 月 12 日向会员单位联合发布，2026 年 7 月 10 日起正式施行。</p><p>《通知》指出，演员应自觉恪守职业道德",
+      "is_policy": false
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-10T14:00:00+00:00",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
+      "is_policy": false
+    },
+    {
+      "title": "Please help me understand figure on subspace similarity in LoRA paper. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-10T13:46:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/\"> <img alt=\"Please help me understand figure on subspace similarity in",
       "is_policy": false
     },
     {
@@ -239,114 +410,6 @@
       "category": "news",
       "published": "2026-07-10T11:51:34+00:00",
       "summary": "<p>IT之家 7 月 10 日消息，今日，AI 大模型企业 MiniMax 发布公告<span class=\"bjh-fs-19px\">拟融资约 160 亿港元（现汇率约合 138.83 亿元人民币）融资。公告显示，公司拟将募集资金净额的 80% 用于继续加强 AI 基础设施及模型研究与开发。</span></p><p style=\"text-align: center;\"><img class",
-      "is_policy": false
-    },
-    {
-      "title": "联发科 2026 年上半年营收 3013.33 亿元新台币，同比下降 0.77%",
-      "url": "https://www.ithome.com/0/975/326.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:45:14+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，联发科技 MediaTek 今日公布了 2026 年六月份营收报告。</p><ul class=\" list-paddingleft-2\"><li><p>六月份营收 580.12 亿元新台币（现汇率约合 123.04 亿元人民币），<strong>同比增长 2.80%</strong></p></li><li><p>上半年营收 3013.33 亿元新台币（现汇",
-      "is_policy": false
-    },
-    {
-      "title": "时隔六年：Netflix 重启免费试用政策，巴西、荷兰和印度等地率先测试",
-      "url": "https://www.ithome.com/0/975/325.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:43:48+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，2019 年底至 2020 年间，Netflix 陆续在全球范围内取消了 30 天免费试用这一长期被视为招牌的拉新手段。时隔近六年之后，有用户发现这家流媒体巨头又重新开始在部分市场提供免费试用服务。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
-      "is_policy": true
-    },
-    {
-      "title": "特朗普 T1 手机被指外观“廉价塑料感”，官方免费赠送充电器 + 保护壳补偿首发用户",
-      "url": "https://www.ithome.com/0/975/324.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:35:38+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，据 Wccftech 今日报道，特朗普移动（Trump Mobile）推出的 T1 手机开始陆续发货，首发用户在各个社交平台分享了开箱体验，并对手机的材质和外观表达不满。</p><p>例如有用户发布视频称，特朗普 T1 真机采用黄色塑料后盖，与此前宣传图所示的“奢华镀金”视觉效果存在较大差异。</p><p style=\"text-align: center;\"",
-      "is_policy": false
-    },
-    {
-      "title": "影石拓竹官宣合作，国产影像行业首次开源产品 3D 模型",
-      "url": "https://www.ithome.com/0/975/322.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:31:50+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，影石今日宣布联合拓竹发起创意挑战赛，面向全球创作者征集 <strong>Luna Ultra 云台相机的 3D 打印创意配件</strong>。</p><p style=\"text-align: center;\"><img alt=\"合作海报\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/a84bb49",
-      "is_policy": false
-    },
-    {
-      "title": "欧盟责令 Meta 整改 Instagram 与 Facebook 自动播放、无限滚动等成瘾性功能，否则将罚款",
-      "url": "https://www.ithome.com/0/975/321.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:30:44+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，据路透社报道，本周五，欧盟初步认定，Meta 公司旗下的 Instagram 与 Facebook 违反了《数字市场法案》。该法案要求大型在线平台采取更多措施，以打击非法与有害内容。</p><p>监管机构将矛头指向了那些被认为旨在让用户沉迷的产品功能，<strong>要求平台整改自动播放和无限滚动设计，否则将面临罚款</strong>。这些功能会不断向用户推送",
-      "is_policy": true
-    },
-    {
-      "title": "长城哈弗 H6L 新车申报：全新 Hi2 混动 SUV，轴距 2810 mm",
-      "url": "https://www.ithome.com/0/975/319.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:23:46+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，工信部发布第 409 批《道路机动车辆生产企业及产品公告》新产品公示，<strong>哈弗 H6L Hi2</strong> 完成申报。</p><p><strong>哈弗 H6L Hi2</strong> 为混合动力多用途乘用车，燃料种类为汽油 / 电混合动力，不允许外接充电。车身外形尺寸为长 4800 mm、宽 1895 mm、高 1730 mm，<stro",
-      "is_policy": false
-    },
-    {
-      "title": "上纬新材将在 WAIC 2026 发布全球首款可变形个人机器人启元 T1",
-      "url": "https://www.ithome.com/0/975/318.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:17:33+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）将于 7 月 17 日至 20 日在上海世博、张江、西岸“三地四馆”同步举行。</p><p>本届大会以“智能伙伴共创未来”为主题，由外交部、国家发展改革委、工业和信息化部等十部委与上海市人民政府共同主办。据财联社消息，上纬新材将在展会期间推出全球首个可变形个人机器人 —— 启元 T1。",
-      "is_policy": true
-    },
-    {
-      "title": "SHEIN 希音国际控股有限公司港股 IPO 获中国证监会备案",
-      "url": "https://www.ithome.com/0/975/317.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T11:12:44+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，据证监会网站，中国证监会国际合作司今日发布关于 SHEIN Global Holdings Limited（希音国际控股有限公司）境外发行上市备案通知书。</p><p>IT之家注意到，备案通知书显示，希音国际控股有限公司拟发行不超过 341,613,000 股<strong>境外上市</strong>普通股并在<strong>香港联合交易所</strong>上",
-      "is_policy": false
-    },
-    {
-      "title": "众泰汽车：因涉嫌信息披露违法违规，中国证监会决定对公司立案",
-      "url": "https://www.ithome.com/0/975/316.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T10:52:04+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，众泰汽车今日发布公告，收到中国证券监督管理委员会下发的《立案告知书》，<strong>因涉嫌信息披露违法违规，中国证监会决定对公司立案</strong>。</p><p>众泰汽车表示，目前，公司各项生产经营活动正常有序开展，在立案调查期间，公司将积极配合中国证监会的调查工作，并严格按照相关法律法规和监管要求及时履行信息披露义务。</p><p style=\"tex",
-      "is_policy": true
-    },
-    {
-      "title": "宝马集团 2026 年第二季度全球交付约 59.10 万辆汽车，同比下降 4.9%",
-      "url": "https://www.ithome.com/0/975/314.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T10:43:03+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，宝马集团今日宣布，第二季度全球交付 590,962 辆汽车，<strong>同比下降 4.9%</strong>。</p><ul class=\" list-paddingleft-2\"><li><p>宝马品牌交付 508962 辆，同比下降 7.7%</p></li><li><p>MINI 品牌交付 81035 辆，同比增长 17.1%</p></li><li",
-      "is_policy": false
-    },
-    {
-      "title": "NA>EU：LYON 3:0 G2 挺进《英雄联盟》2026 MSI 败者组决赛",
-      "url": "https://www.ithome.com/0/975/313.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T10:38:13+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，2026 英雄联盟季中冠军赛已于北京时间 6 月 28 日在韩国大田正式开赛。7 月 3 日-7 月 12 日，晋级淘汰赛的八支战队将展开双边无畏征召模式下的双败淘汰制 BO5 对决，争夺 2026 季中冠军赛的冠军。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/news",
-      "is_policy": false
-    },
-    {
-      "title": "BIGME 大我“全球首款 60 帧 / 秒刷新率 25.3 英寸彩墨屏显示器”B251 PRO 开售，10999 元",
-      "url": "https://www.ithome.com/0/975/312.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-10T10:28:32+00:00",
-      "summary": "<p>IT之家 7 月 10 日消息，BIGME 大我 B251 PRO 25.3 英寸彩墨屏显示器今日起在国内上市，<strong>售价 10999 元。</strong></p><p>据介绍，这是<strong>全球首款 60 帧 / 秒刷新率 25.3 英寸彩墨屏显示器</strong>，主打护眼体验，支持手机投屏和横竖屏旋转功能。</p><p style=\"text-align: cent",
       "is_policy": false
     },
     {
@@ -1718,24 +1781,6 @@
       "is_policy": false
     },
     {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-09T13:00:00+00:00",
-      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-      "is_policy": false
-    },
-    {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-09T13:00:00+00:00",
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-      "is_policy": false
-    },
-    {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "source": "OpenAI Blog",
@@ -1751,15 +1796,6 @@
       "category": "news",
       "published": "2026-07-09T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the U",
-      "is_policy": false
-    },
-    {
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-09T12:00:00+00:00",
-      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
       "is_policy": false
     },
     {
@@ -1796,6 +1832,24 @@
       "category": "news",
       "published": "2026-07-09T08:00:00+00:00",
       "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump ad",
+      "is_policy": false
+    },
+    {
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2607.08716",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-08T20:00:00+00:00",
+      "summary": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment f",
+      "is_policy": false
+    },
+    {
+      "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
+      "url": "https://huggingface.co/papers/2607.08688",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-08T20:00:00+00:00",
+      "summary": "Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them ",
       "is_policy": false
     },
     {
@@ -2105,15 +2159,6 @@
       "is_policy": false
     },
     {
-      "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-07T19:08:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>late night thoughts as I was working on my paper that is about specific behavior that arises from RHLF, it got me thinking what if train a model in an environment whe",
-      "is_policy": false
-    },
-    {
       "title": "TorchJD: Training with multiple losses in PyTorch [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
       "source": "r/MachineLearning",
@@ -2174,15 +2219,6 @@
       "category": "news",
       "published": "2026-07-07T10:00:00+00:00",
       "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re",
-      "is_policy": false
-    },
-    {
-      "title": "Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-07T09:54:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/\"> <img alt=\"Masked depth modeling with sensor-validity masking: r",
       "is_policy": false
     },
     {
@@ -2291,51 +2327,6 @@
       "category": "papers",
       "published": "2026-07-06T20:00:00+00:00",
       "summary": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revisi",
-      "is_policy": false
-    },
-    {
-      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-06T17:37:58+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/\"> <img alt=\"LingBot-Vision: masked boundary modeling for self-supervised",
-      "is_policy": false
-    },
-    {
-      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-06T11:57:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want t",
-      "is_policy": false
-    },
-    {
-      "title": "Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo",
-      "url": "https://huggingface.co/papers/2607.04939",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-05T20:00:00+00:00",
-      "summary": "Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack suppor",
-      "is_policy": false
-    },
-    {
-      "title": "HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better",
-      "url": "https://huggingface.co/papers/2607.04884",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-05T20:00:00+00:00",
-      "summary": "We present HunyuanOCR-1.5, a lightweight end-to-end OCR-specialized vision-language model. HunyuanOCR unifies document parsing, text spotting, information extraction, text-image translation, and multi",
-      "is_policy": false
-    },
-    {
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "Google DeepMind",
-      "category": "news",
-      "published": "2026-07-03T14:25:43+00:00",
-      "summary": "",
       "is_policy": false
     }
   ]
