@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:12:25.698390+00:00",
+  "generated_at": "2026-07-23T13:24:45.597348+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,35 +12,8 @@
       "url": "https://github.com/koala73/worldmonitor",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
+      "published": "2026-07-23T13:24:45+00:00",
       "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "is_policy": false
-    },
-    {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
-      "summary": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "is_policy": false
-    },
-    {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
-      "summary": "The open-source AI voice studio. Clone, dictate, create.",
-      "is_policy": false
-    },
-    {
-      "title": "diegosouzapw / OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
-      "summary": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
       "is_policy": false
     },
     {
@@ -48,8 +21,35 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
+      "published": "2026-07-23T13:24:45+00:00",
       "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "is_policy": false
+    },
+    {
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-23T13:24:45+00:00",
+      "summary": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "is_policy": false
+    },
+    {
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-23T13:24:45+00:00",
+      "summary": "The best browser for both you and your AI agents work in parallel.",
+      "is_policy": false
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-23T13:24:45+00:00",
+      "summary": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
       "is_policy": false
     },
     {
@@ -57,8 +57,17 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
+      "published": "2026-07-23T13:24:45+00:00",
       "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "is_policy": false
+    },
+    {
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-07-23T13:24:45+00:00",
+      "summary": "A collection of agent skills for CAD, robotics and hardware design",
       "is_policy": false
     },
     {
@@ -66,305 +75,350 @@
       "url": "https://github.com/agegr/pi-web",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
+      "published": "2026-07-23T13:24:45+00:00",
       "summary": "Web UI for the pi coding agent",
       "is_policy": false
     },
     {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
-      "summary": "Learn it. Build it. Ship it for others.",
+      "published": "2026-07-23T13:24:45+00:00",
+      "summary": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-",
       "is_policy": false
     },
     {
-      "title": "tirth8205 / code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
-      "summary": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
-      "is_policy": false
-    },
-    {
-      "title": "dottxt-ai / outlines",
-      "url": "https://github.com/dottxt-ai/outlines",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-07-23T08:12:25+00:00",
-      "summary": "Structured Outputs",
-      "is_policy": false
-    },
-    {
-      "title": "我国首个全自主可控智能钻井系统在川投用，整体时效提升 20%",
-      "url": "https://www.ithome.com/0/980/665.htm",
+      "title": "华为计算模组首次亮相 WAIC 2026 世界人工智能大会",
+      "url": "https://www.ithome.com/0/980/842.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T08:07:12+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，据中国石油报今日报道，7 月 20 日，记者从川庆钻探公司获悉，我国首个全自主可控智能钻井系统 —— 启能 ·IDOS 智能钻井系统在四川成功投用，通过“换脑”升级成功改造 12 台传统钻机，助力钻井作业效率显著提升。</p><p>据介绍，川庆钻探在业界率先启动“332 工程”，即优选 30 个井场试点推广智能钻井系统，<strong>确保实现单井提速 20%",
+      "published": "2026-07-23T13:23:44+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，在 WAIC 2026 世界人工智能大会上，华为首次完整展示全系列计算模组产品，包括网卡、SSD、DPU、RAID 卡四大系列产品。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/e76d1",
       "is_policy": false
     },
     {
-      "title": "环球晶圆：意大利 8 英寸产线发生火灾，无人员伤亡",
-      "url": "https://www.ithome.com/0/980/654.htm",
+      "title": "我国脑机接口领域迎重要突破，千人同步脑电采集技术发布",
+      "url": "https://www.ithome.com/0/980/841.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:57:53+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，全球头部晶圆供应商环球晶圆 (GlobalWafers) 昨日发布公告，表示<strong>其位于意大利的 Novara 八英寸晶圆生产线无尘室内的设备因故燃烧</strong>，致使产线停止生产。该生产线内的人员全部安全撤离，无人员伤亡。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" sr",
+      "published": "2026-07-23T13:12:58+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，脑机接口是全球未来产业的重要赛道。据央视财经今日报道，7 月 22 日下午，我国科研团队发布一款新型脑电信号采集装置，<strong>在全球范围内首次实现跨地域上千人同步脑电信号采集</strong>，使得神经大模型训练与脑机接口通用技术研发迈出关键一步。</p><p style=\"text-align: center;\"><a class=\"ithome_s",
       "is_policy": false
     },
     {
-      "title": "皮查伊驳斥谷歌 AI 落后论调，透露 Gemini 4 将近乎按月迭代",
-      "url": "https://www.ithome.com/0/980/653.htm",
+      "title": "百度萝卜快跑：部分网络账号将无人驾驶网约车与人员失踪相挂钩，涉嫌误导公众认知，已依法提起诉讼",
+      "url": "https://www.ithome.com/0/980/840.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:55:09+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，Alphabet 首席执行官桑达尔 · 皮查伊（Sundar Pichai）在今日举行的财报电话会议上，为谷歌的 AI 战略进行了有力辩护，回应外界对于公司因旗舰模型延期发布以及在 AI 编程领域落后于竞争对手的担忧。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://",
+      "published": "2026-07-23T13:12:50+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，百度萝卜快跑法务部今日发文称，此前，我司曾就部分网络账号传播涉“萝卜快跑”不实信息音频一事发布声明，并依法启动相关法律程序。近日，该事项取得进一步进展。</p><p>经核查，网络账号“福原 ***”“浩哥 ***”等传播针对萝卜快跑的相关音频内容，借惊悚化、夸张化叙事吸引流量。相关音频无事实依据地<strong>将无人驾驶网约车与人员失踪相挂钩</strong",
       "is_policy": false
     },
     {
-      "title": "2027 款比亚迪海豹 06 海报曝光：搭载激光雷达，定位 B 级满配轿跑",
-      "url": "https://www.ithome.com/0/980/651.htm",
+      "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
+      "url": "https://www.ithome.com/0/980/838.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:50:29+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，据易车今日报道，比亚迪汽车海洋网销售事业部总经理张卓发布一组 2027 款比亚迪海豹 06 海报，定位“B 级满配轿跑”，车顶搭载激光雷达。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4d616e97-ba38-428b-b",
+      "published": "2026-07-23T13:07:09+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，Anthropic 首席经济学家彼得 · 麦克罗里（Peter McCrory）表示，目前人工智能尚未取代大量工作岗位，因为与完全替代人类相比，AI 与人类协作的效果更好。而美国亿万富翁马克 · 库班（Mark Cuban）则认为，这种情况可能永远都不会改变。</p><p style=\"text-align: center;\"><img class=\"no-a",
       "is_policy": false
     },
     {
-      "title": "微软 Excel 负责人：Copilot 将把电子表格转变为 AI 决策平台",
-      "url": "https://www.ithome.com/0/980/649.htm",
+      "title": "智谱：开源意味着模型可以被自主部署、随时调用，并真正掌握在使用者手中",
+      "url": "https://www.ithome.com/0/980/837.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:44:51+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，微软 Excel 负责人布莱恩 · 琼斯（Brian Jones）本周通过 X 平台表示，Excel 正从一个电子表格工具演变为人工智能驱动的商业决策平台。</p><p style=\"text-align: center;\"></p><p>名为 Everett 的网友向琼斯询问 Excel 和 AI 之间的长期关系，以及 Excel 是否正在“从电子表格工具演",
+      "published": "2026-07-23T13:04:27+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，北京智谱华章科技股份有限公司官方微博今日发文谈及了“闭源的矛与开源的盾”这一话题。智谱官方分享了一起案例：</p><blockquote><p>近日，一次前沿模型安全评测演变成真实安全事件。OpenAI 披露，<strong>GPT‑5.6 Sol 及一款尚未发布的模型突破隔离环境，进入 Hugging Face 的生产基础设施</strong>。</p><p",
       "is_policy": false
     },
     {
-      "title": "Alphabet 上调 2026 全年资本支出指引至 1950~2050 亿美元",
-      "url": "https://www.ithome.com/0/980/647.htm",
+      "title": "我国成功发射天链二号 06 星",
+      "url": "https://www.ithome.com/0/980/836.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:40:41+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，Google（谷歌）母公司 Alphabet 在其 2026Q2 财报电话会议中宣布将 2026 全年资本支出指引<strong>从此前的 1800~1900 亿美元进一步上调至 </strong><strong>1950~2050 亿美元</strong>（IT之家注：现汇率约合 1.32 ~ 1.39 万亿元人民币）。</p><p>Alphabet 在 2",
+      "published": "2026-07-23T12:54:24+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，据央视新闻报道，今天，我国在西昌卫星发射中心使用长征三号乙运载火箭，成功将天链二号 06 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
       "is_policy": false
     },
     {
-      "title": "比亚迪全新 B 级闪充轿车秦 MAX 正式发布，将于 8 月 13 日上市",
-      "url": "https://www.ithome.com/0/980/646.htm",
+      "title": "东风奕派 M8 上市：首批搭载华为乾崑智驾 ADS 5 Pro，限时权益价 16.58 万元起",
+      "url": "https://www.ithome.com/0/980/835.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:38:23+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，比亚迪今天正式发布了秦 MAX 车型，该车搭载闪充技术以及天神之眼 B 驾驶辅助系统，将于 8 月 13 日上市。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4c5bfbaa-767d-4c87-978a-f5e1c4665",
+      "published": "2026-07-23T12:52:59+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，东风奕派 M8 新能源 SUV 今晚上市，首批搭载华为乾崑智驾 ADS 5 Pro，提供纯电、增程双动力版本，售价 17.98 万元起，<strong>限时权益价 16.58 万元起</strong>。</p><p><strong>纯电版</strong></p><p>600 Max 乾崑版官方指导价 21.98 万元，限时权益价 20.58 万元</p><p",
       "is_policy": false
     },
     {
-      "title": "特斯拉车载 AI 助手 Grok 将登陆全欧洲，并进入更多亚洲国家",
-      "url": "https://www.ithome.com/0/980/645.htm",
+      "title": "蔚来乐道 Coconut / Coconut+ 椰子 3.1.0 版本推送：升级人机共驾模式、高德地图巡航红绿灯显示等",
+      "url": "https://www.ithome.com/0/980/833.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:36:34+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，特斯拉宣布，旗下集成的 SpaceXAI Grok 人工智能助手即将覆盖整个欧洲市场。这一消息与 2026 年夏季软件更新一同公布，新版本将为 Grok 增加车辆控制功能，驾驶员只需通过语音即可拨打电话、控制音乐播放、调节空调、打开手套箱等，无需手动操作。</p><p style=\"text-align: center;\"><img class=\"no-alt",
+      "published": "2026-07-23T12:45:45+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，蔚来旗下乐道汽车今日宣布，Coconut 椰子 3.1.0、Coconut+ 椰子 3.1.0 版本已开启推送。乐道面向超 17 万全量用户推送重磅版本更新，升级覆盖智能辅助驾驶、智能座舱、智能底盘等功能域。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.i",
       "is_policy": false
     },
     {
-      "title": "钙钛矿光伏电池新突破：为极地、太空使用铺路，东南大学成果登 Nature",
-      "url": "https://www.ithome.com/0/980/644.htm",
+      "title": "马斯克：值得承担致命 AI 风险，AI 最有可能带来全民富足",
+      "url": "https://www.ithome.com/0/980/832.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:35:57+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，东南大学今日宣布，东南大学材料科学与工程学院张天恺教授联合苏州大学李耀文教授、陈先凯教授团队，<strong>提出一种新型钙钛矿光伏电池界面层设计策略 —— 具有强“电子共振”结构的单分子层</strong>，相关成果 7 月 22 日发表于国际顶级期刊《Nature》。</p><p style=\"text-align: center;\"><img alt=\"",
+      "published": "2026-07-23T12:33:49+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，埃隆 · 马斯克表示，人类或许不该为人工智能踩下刹车，即便有能力这么做。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/2/099fa3af-9c1d-4eec-97ad-e5593da50a5",
       "is_policy": false
     },
     {
-      "title": "《龙之谷》之父全力打造：买断制二游《龙之剑：觉醒》正式发售，Steam 国区 98 元全球最低",
-      "url": "https://www.ithome.com/0/980/643.htm",
+      "title": "我国自主研制新型盾构换刀装备成功应用，创盾构工程领域多项纪录",
+      "url": "https://www.ithome.com/0/980/831.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:33:15+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，由《龙之谷》原制作人朴正植领衔的韩国工作室 Hound13 开发的开放世界动作角色扮演游戏《龙之剑：觉醒》今日在 Steam 平台全球同步发售。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/f16ee9b0-e9d8-4630",
+      "published": "2026-07-23T12:30:32+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，据央视新闻今日报道，我国自主研制的新型盾构换刀装备在世界最长海底高铁隧道 —— 甬舟铁路金塘海底隧道<strong>完成了大规模海底换刀作业</strong>，创下盾构工程领域多项纪录。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/n",
       "is_policy": false
     },
     {
-      "title": "全球首个右舵全无人驾驶落地香港，百度萝卜快跑 7 月 27 日启动测试",
-      "url": "https://www.ithome.com/0/980/642.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-23T07:32:53+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，7 月 23 日，香港运输署宣布向萝卜快跑发放香港首个无人驾驶测试牌照，允许其于香港机场岛开展车内无安全员的全无人驾驶测试，<strong>该测试将于本月 27 日正式启动</strong>。据悉，这是全球首次在“右舵左行”交通体系中开展全无人驾驶公开道路测试。</p><p>IT之家从官方公告获悉，香港运输署于二月批准在机场岛的测试路段，开始在车上后备操作员以",
+      "title": "NeurIPS E and D track submissions still showing 0 reviews even after deadline [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v4cfyz/neurips_e_and_d_track_submissions_still_showing_0/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-23T12:26:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I submitted 2 papers to NeurIPS E and D track and the deadline for reviews just passed but nothing’s showing for me. It’s still saying 0 reviews. What does this mean?",
       "is_policy": false
     },
     {
-      "title": "极简翻盖手机 Light Flip 完整规格信息公布：联发科 MT8873 + 6G + 128G 售 299 美元",
-      "url": "https://www.ithome.com/0/980/641.htm",
+      "title": "领克家族首款旅行车 07GT 上市：同级唯一 MRC 悬架、标配千里浩瀚 H5 辅助驾驶，15.78 万元起",
+      "url": "https://www.ithome.com/0/980/830.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:31:24+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，制造商 Light 现已公布旗下<a href=\"https://www.ithome.com/0/979/824.htm\" target=\"_blank\">极简翻盖手机 Light Flip</a> 完整规格信息，该机定价为 299 美元（IT之家注：现汇率约合 2028 元人民币），IT之家整理参数如下：</p><p>该机使用塑料材质，提供 IP54 认证",
+      "published": "2026-07-23T12:18:07+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，领克家族首款旅行车 07GT 今晚正式上市，新车共推出 3 车型，预售价区间为 16.58-18.58 万元、<strong>上市指导价区间为 15.78-17.78 万元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2",
       "is_policy": false
     },
     {
-      "title": "《幻兽帕鲁》销量突破 3000 万份，Steam 玩家占比超六成",
-      "url": "https://www.ithome.com/0/980/639.htm",
+      "title": "QCC 推出 Dongle Pro2 蓝牙发射器：基于第二代高通 S5 音频平台、支持专属游戏模式，499 元",
+      "url": "https://www.ithome.com/0/980/829.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:26:21+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，《幻兽帕鲁》（Palworld）1.0 版本上线至今反响空前，过去两周，这款游戏连续刷新自 2024 年开启抢先体验以来的最高同时在线玩家纪录，热度持续攀升。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles",
+      "published": "2026-07-23T12:17:33+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，QCC 旷世之声宣布推出一款 Dongle Pro2 蓝牙发射器，<strong>定价为 499 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/9DjxXDh\" target=\"_blank\"><span class=\"card main-site\"><span cl",
       "is_policy": false
     },
     {
-      "title": "23988 元赛科龙摩托车 AQS600 上市，ND560 发动机 + AMT 自动挡",
-      "url": "https://www.ithome.com/0/980/638.htm",
+      "title": "马斯克：特斯拉 AI 投资越快越好，不怕部分资金浪费",
+      "url": "https://www.ithome.com/0/980/828.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:25:36+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，赛科龙今日发布了其中量级智控运动巡航车型 AQS600，官方指导价 23988 元。</p><p>首批购车用户可获赠价值 1366 元的大礼包，包含价值 480 元的折叠后靠背、价值 198 元的保险杠，以及价值 688 元的 1 年主动救援服务。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"htt",
+      "published": "2026-07-23T12:14:39+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，特斯拉首席执行官埃隆 · 马斯克表示，公司应该在人工智能（AI）领域投入更多资金，即便其中一部分资金最终被浪费。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/d8b7c57e-fb56-",
       "is_policy": false
     },
     {
-      "title": "深开鸿 KaihongOS 桌面版（x86）首个三方应用上线，支持与华为鸿蒙设备通过 IP 互联",
-      "url": "https://www.ithome.com/0/980/637.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-23T07:21:44+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，深开鸿官方宣布，KaihongOS 桌面版（x86）首个三方应用上线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/41d359d2-969b-48e0-9645-160c1492a043",
+      "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-23T12:13:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>good luck!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Business-Kale-1406\"> /u/Business-Kale-1406 </a> <br /> <span><a href",
       "is_policy": false
     },
     {
-      "title": "Amble One 越野车亮相：奥迪 R8 和苹果 Apple Watch 设计师霍尼格打造",
-      "url": "https://www.ithome.com/0/980/636.htm",
+      "title": "绿联 HiTune Max5s 头戴式耳机发售：40mm 动圈、续航 112 小时，169 元",
+      "url": "https://www.ithome.com/0/980/827.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:16:50+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，汽车媒体 AutoCar 今天（7 月 23 日）发布博文，葡萄牙初创公司 Amble 发布了一款名为 One 的微型越野车，<strong>总重低于 450 公斤，定位在各种气候和应用场景下使用的越野车。</strong></p><p>该越野车最大的亮点，在于出自朱利安 · 霍尼格（Julian Hoenig）之手，他曾是奥迪资深设计师，主导奥迪 R8、RS",
+      "published": "2026-07-23T12:11:54+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，绿联旗下 HiTune Max5s 头戴式蓝牙耳机现已在京东发售，该产品获得国家 A 级降噪认证，号称 AI 功能终身免费，续航 112 小时，<strong>定价为 169 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/96jok6M\" target=\"_blank",
       "is_policy": false
     },
     {
-      "title": "北京现代艾尼氪 V 车型将于 9 月正式上市：溜背式造型设计、号称为中国用户量身定制",
-      "url": "https://www.ithome.com/0/980/635.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-23T07:16:39+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，在 7 月 21 日至 7 月 23 日举行的 2026 中国汽车论坛上，北京现代汽车有限公司总经理李凤刚表示艾尼氪 V 将于 9 月正式上市，并表示公司今年将推出三款新车。</p><p style=\"text-align: center;\"><img class=\"lazy no-alt-img\" src=\"https://img.ithome.com/ne",
+      "title": "First ML coding round (HackerRank) at Adyen, what should I expect? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c3tz/first_ml_coding_round_hackerrank_at_adyen_what/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-23T12:10:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Hi everyone,</h1> <h1>I recently received an interview offer for ML position at Adyen, and the first round will be a live coding round on HackerRank. I scheduled it ",
       "is_policy": false
     },
     {
-      "title": "字节跳动启动 Seed STEM 科学家计划，邀请 100 位学者推动 AI 加速科学发现",
-      "url": "https://www.ithome.com/0/980/634.htm",
-      "source": "IT之家",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "source": "MIT Tech Review",
       "category": "news",
-      "published": "2026-07-23T07:14:41+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，字节跳动今日宣布<span class=\"js_title_inner\"> Seed STEM 科学家计划正式启动，</span><strong>邀请 100 位前沿科学领域的优秀学者</strong>，围绕真实科研问题展开合作，推动 AI 加速科学发现，进一步突破智能的边界与上限。</p><p>IT之家注意到，字节跳动此前启动了 Seed Edge 研究计划",
+      "published": "2026-07-23T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid ",
       "is_policy": false
     },
     {
-      "title": "腾讯云发布云端智能体 CodeBuddy NPC：直接交付，不费 Token",
-      "url": "https://www.ithome.com/0/980/633.htm",
+      "title": "北京首例“拆单购物牟利索赔”案宣判，职业索赔被认定敲诈勒索",
+      "url": "https://www.ithome.com/0/980/826.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:14:21+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，今日，腾讯云正式发布云端智能体 CodeBuddy NPC。据介绍，开发者只需派发一个任务，CodeBuddy NPC 即可自主完成方案规划、代码开发、提交 PR、执行测试，并根据 CI 结果持续修改，直到交付可验收的成果。</p><p>IT之家附官方详细介绍如下：</p><p>作为腾讯云代码助手 CodeBuddy 面向企业研发流程推出的新一代智能体，NPC",
+      "published": "2026-07-23T12:09:28+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，据北京市场监管，7 月 22 日，北京市朝阳区人民法院依法公开宣判王某某、谢某某“牟利性索赔”敲诈勒索案。</p><p>经查，被告人王某某、谢某某通过控制多个账号累计拆单购物千余笔，以“不撤销投诉、要求市场监管部门立案处罚”为要挟，<strong>向某大型线上商超频繁高额索赔</strong>。法院一审以敲诈勒索罪判处王某某有期徒刑三年六个月，罚金两万元，判处",
+      "is_policy": true
+    },
+    {
+      "title": "瑞士铁路巨头 Stadler 遭黑客组织 Everest 入侵，公司严正拒绝支付赎金",
+      "url": "https://www.ithome.com/0/980/825.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-23T12:02:21+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，瑞士铁路巨头 Stadler Rail（施泰德铁路）发布公告，透露公司近期遭到黑客组织 Everest 攻击，公司拒绝向黑客团队支付赎金，并计划提起法律诉讼。</p><p>公开信息显示，Stadler Rail 是全球知名铁路车辆跨国制造商，业务涵盖高速列车、城际列车、区域铁路车辆以及通勤列车等产品，并在德国、意大利、荷兰、奥地利、波兰、西班牙等多个国家设有子",
       "is_policy": false
     },
     {
-      "title": "小米推出米家智能净烟机 3 白色版本：三重净烟设计、内置 PM 2.5 传感器，2940 元",
-      "url": "https://www.ithome.com/0/980/631.htm",
-      "source": "IT之家",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review",
       "category": "news",
-      "published": "2026-07-23T07:10:49+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，小米现已在京东上架米家智能净烟机 3 白色版本，该产品提供三重净烟、7 级吸力，<strong>预售价 2940 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/912",
+      "published": "2026-07-23T12:00:00+00:00",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos",
       "is_policy": false
     },
     {
-      "title": "代码暗示，特斯拉 App 已开始为 Optimus 人形机器人上线做准备",
-      "url": "https://www.ithome.com/0/980/629.htm",
+      "title": "惠普推出“S24a”23.8 英寸显示器：1080P 100Hz，529 元",
+      "url": "https://www.ithome.com/0/980/824.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:08:36+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，最新代码显示，特斯拉已经开始在手机 App 中为 Optimus 人形机器人的推出做准备。埃隆 · 马斯克此前曾表示，Optimus 将成为“有史以来销量最高的产品”，如今，特斯拉正逐步完善与其相关的软件支持。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuplo",
+      "published": "2026-07-23T11:52:25+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，惠普现已在京东上架一款型号为 S24a 的 23.8 英寸显示器，该机主打 1080P 100Hz，<strong>定价为 529 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/96jUZGA\" target=\"_blank\"><span class=\"card ma",
       "is_policy": false
     },
     {
-      "title": "阿尔法战略开启 508 天后的又一转变，李健详解荣耀全新品牌图形标识及主张",
-      "url": "https://www.ithome.com/0/980/627.htm",
+      "title": "鸿蒙智行：华为巨鲸电池平台并非单一电池，而是全域体系化电池平台",
+      "url": "https://www.ithome.com/0/980/823.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:01:35+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，今天下午，荣耀终端股份有限公司 CEO 李健通过微博正式揭晓了荣耀全新品牌图形标识「荣耀之环」和荣耀全新品牌主张「敢想，敢不同」。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/ed520f",
+      "published": "2026-07-23T11:47:39+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，鸿蒙智行官方今日发布电池相关疑问统一解答，并表示华为巨鲸电池平台并非单一电池，而是全域体系化电池平台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/6527211d-ed07-47d9-b",
       "is_policy": false
     },
     {
-      "title": "鑫谷推出无界巡天 400T 机箱：三面大面积 Mesh 网孔、可安装 5 把风扇，279 元",
-      "url": "https://www.ithome.com/0/980/626.htm",
+      "title": "红果短剧将启动专项治理，整治“高频 AI 脸”",
+      "url": "https://www.ithome.com/0/980/822.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:00:29+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，鑫谷现已在京东上架无界巡天 400T 机箱，提供钛光金配色，<strong>定价为 279 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/96ckIRv\" target=\"_blank\"><span class=\"card main-site\"><span class",
+      "published": "2026-07-23T11:47:19+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，红果短剧昨日发布《关于规范 AI 剧角色创作的公告》，从角色差异化、版权合规两个维度明确创作标准，降低“高频 AI 脸”使用率。</p><p>IT之家注意到，相应《规范》明确规定，一部剧的主要角色应具备清晰的形象区分度，鼓励打造有记忆点、高辨识度的角色，并要求创作者丰富人物形象设计，<strong>避免不同剧集、不同角色使用高度相似的形象，防止用户审美疲劳</",
+      "is_policy": true
+    },
+    {
+      "title": "北京经开区建成全市首家词元工厂，词元日产能达 1.4 万亿",
+      "url": "https://www.ithome.com/0/980/821.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-23T11:46:16+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，7 月 23 日，北京市人民政府新闻办公室举行《北京市关于加快智能体引领发展的若干措施》新闻发布会。</p><p>据介绍，<strong>北京经开区建成全市首家词元工厂，词元日产能达 1.4 万亿</strong>，全面支撑模型训练及应用落地。建成全国首个人工智能数据训练基地，创新构建数据监管沙盒机制，打造医疗、空天、自动驾驶等行业数据专区，打通数据流通应用链",
+      "is_policy": true
+    },
+    {
+      "title": "吉利首座欧洲工厂落地西班牙，与福特合资首款车型 2028 年下线",
+      "url": "https://www.ithome.com/0/980/819.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-23T11:42:18+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，当地时间 23 日（今天），福特汽车公司与吉利汽车控股有限公司达成协议，双方将在西班牙瓦伦西亚成立合资公司，通过产能共享，为欧洲市场打造<strong>福特及吉利品牌的多种新能源汽车产品</strong>。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/n",
       "is_policy": false
     },
     {
-      "title": "诺基亚 2026 财年半年报归母净利润 9200 万欧元，同比增长 156%",
-      "url": "https://www.ithome.com/0/980/609.htm",
+      "title": "《守望先锋》2026 暴雪嘉年华专属数字内容包上架 Steam，国区售价 188 元",
+      "url": "https://www.ithome.com/0/980/342.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T07:00:12+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，诺基亚今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 财年半年报</h3><li><p><strong>营业总收入</strong>：",
+      "published": "2026-07-23T11:41:58+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，暴雪娱乐出品的《守望先锋 ® 暴雪嘉年华 ® 礼包》现已正式在 Steam 平台上架，该作由 Blizzard Entertainment, Inc. 自行开发并发行，国区定价 188 元，玩家需拥有 Steam 版《守望先锋》基础游戏才可正常使用该礼包内容，同时游玩时需要网络连接与战网账号登录。IT之家附游戏商品页（<a href=\"https://stor",
       "is_policy": false
     },
     {
-      "title": "特斯拉 Semi 电动卡车何时能用上 FSD？马斯克称今年底至明年初",
-      "url": "https://www.ithome.com/0/980/625.htm",
+      "title": "小米米家智能浴霸 P1 人感版开启众筹：全嵌式升降灯板，3000W 大功率升温，999 元",
+      "url": "https://www.ithome.com/0/980/818.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T06:55:26+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，在今日举行的特斯拉第二季度财报电话会议上，有分析师询问埃隆 · 马斯克，特斯拉何时会将自动驾驶技术应用到 Semi 电动卡车上。马斯克首次给出了较为明确的时间表，表示 Tesla Semi 的自动驾驶功能预计将在“今年年底或明年年初”实现可用。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" ",
+      "published": "2026-07-23T11:40:30+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，小米旗下“米家智能浴霸 P1 人感版”现已在有品开启众筹（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3",
       "is_policy": false
     },
     {
-      "title": "消息称 Claude 语音模式将支持调用 Opus 和 Sonnet AI 模型",
-      "url": "https://www.ithome.com/0/980/624.htm",
+      "title": "85km/h 全球旅行车第一：领克 07GT 通过行业首个特殊工况麋鹿测试",
+      "url": "https://www.ithome.com/0/980/816.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T06:55:11+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，科技媒体 testingcatalog 昨日（7 月 22 日）发布博文，报道称 Anthropic 有望本周升级 Claude 语音模式，<strong>支持调用 Opus 和 Sonnet 更强模型。</strong></p><p>Claude 的语音模式支持用户和 AI 完整的语音对话，用户无需输入提示并阅读书面回复，可以和 Claude 交谈并听取其回",
+      "published": "2026-07-23T11:33:56+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，在今晚的领克 07GT 上市发布会上，领克汽车官方宣布，领克 07GT 通过了行业首个特殊工况麋鹿测试：<strong>85km/h 麋鹿测试成绩，全球旅行车第一</strong>。</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p>车顶行李箱满载工况下 82.1km/h</p><",
       "is_policy": false
     },
     {
-      "title": "埃隆 · 马斯克：感谢美光向特斯拉分配可观内存产能",
-      "url": "https://www.ithome.com/0/980/623.htm",
+      "title": "谷歌遭欧盟近 9 亿欧元重罚，但整改措施已获后者认可",
+      "url": "https://www.ithome.com/0/980/815.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T06:52:55+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，<span class=\"index___CMugD\"></span>Tesla（特斯拉）首席执行官 Elon Musk（埃隆 · 马斯克）当地时间 22 日在公司 2026Q2 财报电话会议上表达了对 Micron（美光）的感谢：</p><blockquote><p>我也想感谢美光为我们分配内存。他们在内存分配方面不得不做出一些非常艰难的决定。我们非常感谢美",
+      "published": "2026-07-23T11:27:43+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，欧盟委员会今天（23 日）宣布，谷歌因违反旨在约束大型科技公司市场权力的欧盟规则，共被罚款 8.9 亿欧元（IT之家注：现汇率约合 68.82 亿元人民币）。</p><p>据路透社报道，欧盟监管机构同时<strong>肯定了谷歌近期在整改方面取得的进展</strong>，谷歌因此很可能不会面临追加罚款。</p><p>根据规定，谷歌必须在 60 天内完成整改，具",
+      "is_policy": true
+    },
+    {
+      "title": "节奏游戏 & RPG《hololive Dreams》发售：收录超 150 首乐曲、支持简体中文",
+      "url": "https://www.ithome.com/0/980/384.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-23T11:24:21+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，由 QualiArts, Inc. 开发并发行的 hololive 官方节奏 &amp; RPG 游戏《hololive Dreams》现已正式登陆 Steam 平台，游戏为免费开玩模式，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4282500/hololive_Dreams/?l=schin",
       "is_policy": false
     },
     {
-      "title": "给“AI”发身份证，国内首个智能体互联标准体系发布",
-      "url": "https://www.ithome.com/0/980/622.htm",
+      "title": "贝尔金推出新款 32W 移动电源：2C + 2A，26000mAh 电芯售 273 元",
+      "url": "https://www.ithome.com/0/980/814.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T06:51:26+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，据央视新闻今日报道，《人工智<span class=\"no-auto-spacing\">能 智</span>能体互联》系列国家标准应用推进专题会议近日在北京中关村展示中心召开。现场发布 GB/Z185-2026 七项指导性国家标准，这是<span class=\"color-00269a\"><strong>国内首个覆盖智能体全生命周期的互联标准体系</stron",
+      "published": "2026-07-23T11:21:50+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，贝尔金现已在京东上架一款型号为 BPB06 的 26000mAh 移动电源，该产品采用 2C+2A 设计，<strong>首发价为 273 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/8d8e990f-",
       "is_policy": false
     },
     {
-      "title": "小米智能太阳能摄像机 4 Pro 4G 双摄版发售：免费流量、免装网线，649 元",
-      "url": "https://www.ithome.com/0/980/620.htm",
+      "title": "罗巍：荣耀影像技术发布会主题就是“敢想 敢不同”，将详解“光智进化律”",
+      "url": "https://www.ithome.com/0/980/813.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T06:48:00+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，小米智能太阳能摄像机 4 Pro 4G 双摄版现已在京东发售，定价为 649 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/9acFB4W\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><im",
+      "published": "2026-07-23T11:20:16+00:00",
+      "summary": "<p class=\"v-focus\">IT之家 7 月 23 日消息，今天下午，荣耀终端股份有限公司 CEO 李健通过微博正式揭晓了<a href=\"https://www.ithome.com/0/980/603.htm\" target=\"_blank\">荣耀全新品牌图形标识</a>「荣耀之环」和荣耀全新品牌主张「敢想，敢不同」。</p><p style=\"text-align: center;",
       "is_policy": false
     },
     {
-      "title": "法国拒绝批准特斯拉 FSD：称其存在安全隐患，需做出改变",
-      "url": "https://www.ithome.com/0/980/619.htm",
+      "title": "高德上线包车业务：覆盖全球 20 多个国家、国内 140 多个城市，不满意包赔",
+      "url": "https://www.ithome.com/0/980/812.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-07-23T06:46:25+00:00",
-      "summary": "<p>IT之家 7 月 23 日消息，特斯拉推动 FSD（监督版）在欧洲获批的计划再次遭遇阻碍。法国官方已决定，不批准目前版本的 FSD 在该国投入使用，认为该系统目前仍存在过多安全隐患，不适合在公共道路上运行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsupl",
+      "published": "2026-07-23T11:11:23+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，高德今日宣布正式上线包车业务，包车服务覆盖全球 20 多个国家、国内 140 多个城市。覆盖家庭出游、商务接待、机场接送、跨城往返等多场景用车需求，同步推出极速接单、不满意包赔等多项服务标准。</p><p>据介绍，高德包车要求合作服务商对接入的司机和车辆设置明确准入门槛，在此基础上，高德推出无车必赔、迟到必赔、爽约退一赔一的<strong>“不满意包赔”</s",
+      "is_policy": false
+    },
+    {
+      "title": "长鑫科技：公司股票将于 2026 年 7 月 27 日在上海证券交易所科创板上市",
+      "url": "https://www.ithome.com/0/980/811.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-23T11:07:52+00:00",
+      "summary": "<p>IT之家 7 月 23 日消息，国产 DRAM（动态随机存取存储器）龙头企业长鑫科技公告称，公司股票将于 2026 年 7 月 27 日在上海证券交易所科创板上市。</p><p>IT之家注意到，7 月 16 日，长鑫科技正式开启新股申购，按 8.66 元 / 股的发行价计算，公司发行市值约 5791.88 亿元，预计募集资金 579.19 亿元，成为 2026 年以来 A 股规模最大的 IP",
+      "is_policy": false
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-23T11:00:00+00:00",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "is_policy": false
+    },
+    {
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-07-23T09:00:00+00:00",
+      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that p",
       "is_policy": false
     },
     {
@@ -374,15 +428,6 @@
       "category": "news",
       "published": "2026-07-23T06:09:13+00:00",
       "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "is_policy": false
-    },
-    {
-      "title": "Real task cost across GPT, Claude, Gemini and Kimi, 10.6x spread on models with only 2x price difference [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v450o3/real_task_cost_across_gpt_claude_gemini_and_kimi/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-23T05:51:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1v450o3/real_task_cost_across_gpt_claude_gemini_and_kimi/\"> <img alt=\"Real task cost across GPT, Claude, Gemini and Kimi, 10",
       "is_policy": false
     },
     {
@@ -1853,6 +1898,15 @@
       "is_policy": false
     },
     {
+      "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
+      "url": "https://huggingface.co/papers/2607.19865",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-21T20:00:00+00:00",
+      "summary": "As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace w",
+      "is_policy": false
+    },
+    {
       "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
       "url": "https://huggingface.co/papers/2607.20379",
       "source": "HF Papers",
@@ -1949,15 +2003,6 @@
       "category": "papers",
       "published": "2026-07-21T20:00:00+00:00",
       "summary": "Scaling executable agent training data for LLM post-training is bottlenecked by substrate-bound methods that tie task generation to predefined tools, repositories, or skill graphs: expanding coverage ",
-      "is_policy": false
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-21T19:43:41+00:00",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
       "is_policy": false
     },
     {
@@ -2294,15 +2339,6 @@
       "is_policy": false
     },
     {
-      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
-      "url": "https://huggingface.co/papers/2607.18367",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-20T13:15:41+00:00",
-      "summary": "Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments fr",
-      "is_policy": false
-    },
-    {
       "title": "The Download: AI hiring biases, and weather data sabotage",
       "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
       "source": "MIT Tech Review",
@@ -2339,24 +2375,6 @@
       "is_policy": false
     },
     {
-      "title": "ARR 2026 Meta Review score [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v1bd95/arr_2026_meta_review_score_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-20T04:29:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey any one experience overall score 2.66 and then Meta score 3 in some previous cycle ?? Or meta reviewer just rounded off 2.66 to 2.5?? Any Meta Reviewer here?? bec",
-      "is_policy": false
-    },
-    {
-      "title": "Are there some textbooks that take a primarily engineering approach to machine learning (as opposed to a \"scientific\" approach)? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v16l6a/are_there_some_textbooks_that_take_a_primarily/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-20T00:32:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As someone who studied stats undergrad and industrial engineering operations research grad, and who thinks about the practical business of ML components in software..",
-      "is_policy": false
-    },
-    {
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "source": "Google DeepMind",
@@ -2366,39 +2384,12 @@
       "is_policy": false
     },
     {
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-07-17T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t ",
-      "is_policy": false
-    },
-    {
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-07-17T10:00:00+00:00",
       "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "is_policy": false
-    },
-    {
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-07-17T09:00:00+00:00",
-      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers.",
-      "is_policy": false
-    },
-    {
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-07-17T08:57:32+00:00",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance",
       "is_policy": false
     },
     {
@@ -2444,15 +2435,6 @@
       "category": "news",
       "published": "2026-07-16T16:00:00+00:00",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "is_policy": false
-    },
-    {
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "source": "Google DeepMind",
-      "category": "news",
-      "published": "2026-07-16T09:30:42+00:00",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "is_policy": false
     }
   ]
