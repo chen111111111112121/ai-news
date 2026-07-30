@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:27:25.360943+00:00",
+  "generated_at": "2026-07-30T19:09:41.827891+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-30T13:27:25+00:00",
+      "published": "2026-07-30T19:09:41+00:00",
       "summary": "12 Weeks, 24 Lessons, AI for All!",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-30T13:27:25+00:00",
+      "published": "2026-07-30T19:09:41+00:00",
       "summary": "The open-source alternative to Claude Cowork (powered by opencode)",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-30T13:27:25+00:00",
+      "published": "2026-07-30T19:09:41+00:00",
       "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "is_policy": false
     },
@@ -39,8 +39,233 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-07-30T13:27:25+00:00",
+      "published": "2026-07-30T19:09:41+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "is_policy": false
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T18:57:58+00:00",
+      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ",
+      "is_policy": false
+    },
+    {
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-07-30T18:43:26+00:00",
+      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu",
+      "is_policy": false
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T18:05:21+00:00",
+      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "is_policy": false
+    },
+    {
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-07-30T17:18:45+00:00",
+      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo",
+      "is_policy": false
+    },
+    {
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-07-30T17:10:00+00:00",
+      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few a",
+      "is_policy": false
+    },
+    {
+      "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-30T16:37:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Kimi K3 by Moonshot reached the frontier as an open-weight model. Artificial Analysis ranks it fourth of 580 models, behind only Claude Opus 5, Fable 5, and GPT-5.6 S",
+      "is_policy": false
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-07-30T16:33:32+00:00",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp",
+      "is_policy": false
+    },
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T16:09:42+00:00",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "is_policy": false
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T15:41:16+00:00",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent",
+      "is_policy": false
+    },
+    {
+      "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-07-30T15:30:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Early-career Assistant Professor here. I identified some talented undergraduate students and worked with them on research problems, trying to convert them into either",
+      "is_policy": false
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T15:19:15+00:00",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "is_policy": false
+    },
+    {
+      "title": "自用还是出售赚钱？科技巨头面临 AI 算力分配难题",
+      "url": "https://www.ithome.com/0/983/906.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T15:12:11+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，随着科技巨头大举建设算力基础设施，以满足 AI 热潮带来的需求，一些企业正面临一个棘手的问题：究竟应该把算力留给自己使用，还是拿出来出售赚钱？</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/4/",
+      "is_policy": false
+    },
+    {
+      "title": "无需外接机顶盒，国家广电总局联合工信部召开一体化电视全国推广工作部署会",
+      "url": "https://www.ithome.com/0/983/905.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T15:09:50+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，7 月 30 日，国家广播电视总局联合工业和信息化部召开一体化电视全国推广工作部署会。</p><p>会议指出，过去三年，<strong>电视“套娃”收费和操作复杂问题治理取得丰硕成果</strong>，有效改善了人民群众“看电视难、看电视烦”问题，得到人民群众普遍欢迎。当前，一体化电视全国推广各项前期准备工作已经就绪，各单位要紧扣既定目标、聚焦重点任务，持续加",
+      "is_policy": true
+    },
+    {
+      "title": "Epic 喜加二：《OTXO》《寻日之旅》游戏免费领取",
+      "url": "https://www.ithome.com/0/983/904.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T15:05:24+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，Epic 本周送出的游戏是《OTXO》《寻日之旅》(Sol Cesto) ，下周送出的游戏是《Beacon Pines》《We Were Here Together》。</p><p>领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/otxo-396b8b\" target=\"_blank\" title=\"《孤狼O",
+      "is_policy": false
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-07-30T15:00:59+00:00",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app",
+      "is_policy": false
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T15:00:00+00:00",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "is_policy": false
+    },
+    {
+      "title": "小米澎程系列技术发布会一文汇总：雷军详解昆仑架构，N90/N70 预售价亮眼",
+      "url": "https://www.ithome.com/0/983/903.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T14:49:02+00:00",
+      "summary": "<p style=\"text-align: left;\">久等了，小米澎程系列新车终于迎来首秀，就在今天（7 月 30 日）19:00，SKYNOMAD 小米澎程小米汽车技术发布会如期举行。</p><p>这是小米汽车的第二次技术发布会，距 2023 年 12 月 28 日的首场，已过去两年半之久。</p><p>如果说 SU7/YU7 系列是小米交出的第一份答卷，那么澎程这个历时三年半打磨的第二个产",
+      "is_policy": false
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T14:48:32+00:00",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "is_policy": false
+    },
+    {
+      "title": "九号全新 M3 闪骑电摩开售：90km/h 极速，首发价 6699 元起",
+      "url": "https://www.ithome.com/0/983/902.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T14:33:18+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，九号电动全新 M3 闪骑开售，定位“城区硬派性能电摩”，新品首发价 6699 元起。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/26692c2e-324b-4e26-95a1-3dd40",
+      "is_policy": false
+    },
+    {
+      "title": "华为官宣小艺高分超出第 56 届国际物理奥林匹克竞赛理论金牌线",
+      "url": "https://www.ithome.com/0/983/901.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T14:27:35+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，第 56 届国际物理奥林匹克竞赛（IPhO 2026）日前正式落幕，华为官方今日宣布，<strong>小艺在理论考试中取得 28.6 分（满分 30 分）的成绩，高分超出金牌线</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
+      "is_policy": false
+    },
+    {
+      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 首台量产车正式下线：标配华为乾崑智驾，8 月 10 日开启预售",
+      "url": "https://www.ithome.com/0/983/900.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T14:21:54+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，由奇瑞 × 捷豹路虎合作打造的 FREELANDER 神行者品牌今日宣布，旗下首车 —— 神行者 8 的首台量产车正式下线。<strong>新车将在 8 月 10 日开启预售</strong>。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsupl",
+      "is_policy": false
+    },
+    {
+      "title": "法拉利 CEO：首款纯电车型 Luce 订单表现符合预期，公司十分满意",
+      "url": "https://www.ithome.com/0/983/899.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T14:11:57+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，尽管法拉利首款纯电车在发布后遭遇大量负面评价，但公司 CEO 贝内代托 · 维尼亚（Benedetto Vigna）今日表示，消费者对这款车型的反馈令公司感到满意。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
+      "is_policy": false
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-07-30T14:00:00+00:00",
+      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+      "is_policy": false
+    },
+    {
+      "title": "宇树科技上市新进展：初步询价日为 8 月 5 日，网下申购日为 8 月 10 日",
+      "url": "https://www.ithome.com/0/983/890.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T13:47:42+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，宇树科技今日公告称，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。</p><p>公告显示，宇树科技本次拟公开发行股份 4044.6434 万股，占发行后总股本的 10%，发行后总股本为 40446.4340 万股。<strong>初步询价日为 2026 年 8 月 5 日，网下申购日为 2026 年 8 月 10",
+      "is_policy": false
+    },
+    {
+      "title": "鸿蒙智行智界 RX 路测车曝光，消息称该车也经历了数百万公里路测",
+      "url": "https://www.ithome.com/0/983/889.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-07-30T13:45:32+00:00",
+      "summary": "<p>IT之家 7 月 30 日消息，博主 @爱叨叨的Steven 今日分享了鸿蒙智行智界 RX 的路测车照片。博主表示，路测是每辆车都会经历的事，<strong>智界 RX 也是经历了数百万公里的路测</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
       "is_policy": false
     },
     {
@@ -94,7 +319,7 @@
       "source": "IT之家",
       "category": "news",
       "published": "2026-07-30T12:56:47+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，今晚的小米澎程技术发布会上，小米创始人兼 CEO 雷军澎程系列 N90/N70 车型将于 <strong>9 月正式发布</strong>，今晚 21:00 开启预订，意向金 1000 元，正式发布后随时可退。锁单可享优先排产，提车送价值 999 元车载桌板双杯托版。</p><p style=\"text-align: center;\"><img src=\"ht",
+      "summary": "<p>IT之家 7 月 30 日消息，今晚的小米澎程技术发布会上，小米创始人兼 CEO 雷军称澎程系列 N90/N70 车型将于 <strong>9 月正式发布</strong>，今晚 21:00 开启预订，意向金 1000 元，正式发布后随时可退。锁单可享优先排产，提车送价值 999 元车载桌板双杯托版。</p><p style=\"text-align: center;\"><img src=\"h",
       "is_policy": false
     },
     {
@@ -233,102 +458,12 @@
       "is_policy": false
     },
     {
-      "title": "光模块龙头中际旭创在港交所上市：募资 534.1 亿港元，创香港今年最大 IPO",
-      "url": "https://www.ithome.com/0/983/866.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T12:12:39+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，今日，光模块龙头中际旭创正式在港交所挂牌上市，发行价 980 港元 / 股，募资约 534.1 亿港元<span class=\"exch-money-value\">（IT之家注：现汇率约合 461.31 亿元人民币）</span>，<strong>成为今年以来港股最大 IPO</strong>。此次港股上市，中际旭创完成“A+H”布局。</p><p>上市首日，",
-      "is_policy": false
-    },
-    {
       "title": "The Download: tricking LLMs, and reviving geothermal plants",
       "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
       "source": "MIT Tech Review",
       "category": "news",
       "published": "2026-07-30T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerab",
-      "is_policy": false
-    },
-    {
-      "title": "研究显示：AI 聊天机器人实施情感诈骗的能力已超越人类",
-      "url": "https://www.ithome.com/0/983/865.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T12:09:33+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，网络恋爱诈骗是互联网世界中历史最悠久的骗局之一，但至今仍不断有新的受害者上当。由四所大学联合开展的一项研究显示，如今 AI 聊天机器人实施这类诈骗的效果甚至已经超过真人，这一结果令人担忧。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
-      "is_policy": false
-    },
-    {
-      "title": "小米介绍澎程 N90 Max 汽车座舱“智能可变大空间”：一排座椅支持电动旋转、中岛可作“多功能茶几”",
-      "url": "https://www.ithome.com/0/983/864.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T12:08:33+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，在今晚的小米澎程技术发布会上，小米公布了澎程 N90 Max 汽车座舱“智能可变大空间”。</p><p>该车提供“智能可变大空间”，一排座椅支持电动旋转（支持小爱同学控制）、中岛内置两个手机位、四个杯托、6.6L 容量、9L 独立压缩机冰箱，可滑动到第二排座位作为“多功能茶几”使用（可选配车载桌板），在“对坐模式”下双人乘坐空间最大 1760mm、四人模式二排",
-      "is_policy": false
-    },
-    {
-      "title": "雷军：小米昆仑技术架构核心零部件全部来自国内、国际优秀供应商，品质非常出色",
-      "url": "https://www.ithome.com/0/983/863.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T12:08:00+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，在今天的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军发布了小米昆仑技术架构。据介绍，小米汽车的第二个产品系列 —— Skynomad 小米澎程，在 2023 年初正式立项，历时 3 年从头打造了这个全新的平台架构。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"http",
-      "is_policy": false
-    },
-    {
-      "title": "小米澎程 N90 Max 三款全新车色公布：远山青、蝴蝶谷蓝、火山灰",
-      "url": "https://www.ithome.com/0/983/862.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T12:00:18+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，在今晚的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军公布了小米澎程 N90 Max 的三款全新的车身颜色，<strong>包括：远山青、蝴蝶谷蓝、火山灰</strong>。</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p>远山青｜蓝绿交融，含蓄沉静，不张扬</p></",
-      "is_policy": false
-    },
-    {
-      "title": "半岛铁盒推出风灵 N6 机箱：25L 体积、兼容 240mm 水冷，黑白双色均售 229 元",
-      "url": "https://www.ithome.com/0/983/860.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T11:56:08+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，半岛铁盒现已在京东上架风灵 N6 机箱，该产品提供黑白双色可选，<strong>定价为 229 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/df048474-572e-43d6-8ed8-b6cf3f3",
-      "is_policy": false
-    },
-    {
-      "title": "小米澎程 N90 Max 正式亮相，定位“智能可变大空间 SUV”",
-      "url": "https://www.ithome.com/0/983/859.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T11:55:20+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，在今晚的小米澎程技术发布会上，澎程 N90 Max 正式亮相，<strong>新车是一款大七座旗舰增程 SUV</strong>，定位“智能可变大空间 SUV”。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/16cc9018-",
-      "is_policy": false
-    },
-    {
-      "title": "小米昆仑技术架构供应商公布：东安动力、英伟达、高通骁龙等",
-      "url": "https://www.ithome.com/0/983/858.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T11:54:44+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，在正在进行的小米澎程技术发布会上，小米创始人兼 CEO 雷军介绍了“小米昆仑技术架构”，其中包含小米昆仑平台、小米昆仑超级增程、小米昆仑全域安全。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
-      "is_policy": false
-    },
-    {
-      "title": "小米推出新款米家车载智能便携充放电枪：8 米线长、升级新国标，699 元",
-      "url": "https://www.ithome.com/0/983/857.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T11:48:46+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，小米现已在京东上架新款米家车载智能便携充放电枪，该产品升级新国标，使用锖色配色，<strong>定价为 699 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/UaIabiG\" target=\"_blank\"><span class=\"card main-site\"><",
-      "is_policy": false
-    },
-    {
-      "title": "雷军发布小米龙甲电池体系，安全标准超过国标",
-      "url": "https://www.ithome.com/0/983/856.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-07-30T11:47:50+00:00",
-      "summary": "<p>IT之家 7 月 30 日消息，在今晚的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军发布了小米龙甲电池体系，<strong>安全标准超过国标</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/29fed780-3388-4f7d-8",
       "is_policy": false
     },
     {
@@ -347,6 +482,15 @@
       "category": "community",
       "published": "2026-07-30T10:05:54+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Context: I work with finance and ai systems and have been learnings ML the last month or 2. </p> <p>I could be severely wrong and if you think that I would love to kn",
+      "is_policy": false
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-07-30T10:00:00+00:00",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "is_policy": false
     },
     {
@@ -1745,39 +1889,12 @@
       "is_policy": false
     },
     {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-29T00:09:05+00:00",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "is_policy": false
-    },
-    {
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-07-29T00:00:00+00:00",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "is_policy": false
-    },
-    {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-28T21:29:34+00:00",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "is_policy": false
-    },
-    {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-28T20:45:12+00:00",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
       "is_policy": false
     },
     {
@@ -1790,12 +1907,39 @@
       "is_policy": false
     },
     {
-      "title": "Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-28T20:17:08+00:00",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "title": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
+      "url": "https://huggingface.co/papers/2607.27167",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-28T20:00:00+00:00",
+      "summary": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as Progra",
+      "is_policy": false
+    },
+    {
+      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
+      "url": "https://huggingface.co/papers/2607.27146",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-28T20:00:00+00:00",
+      "summary": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program fro",
+      "is_policy": false
+    },
+    {
+      "title": "DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation",
+      "url": "https://huggingface.co/papers/2607.26811",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-28T20:00:00+00:00",
+      "summary": "Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD sta",
+      "is_policy": false
+    },
+    {
+      "title": "Voice Memory for Agentic Speech Recognition",
+      "url": "https://huggingface.co/papers/2607.26410",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-28T20:00:00+00:00",
+      "summary": "We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the ",
       "is_policy": false
     },
     {
@@ -1862,24 +2006,6 @@
       "is_policy": false
     },
     {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-07-28T19:46:43+00:00",
-      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd",
-      "is_policy": false
-    },
-    {
-      "title": "AI’s finally expensive enough to make Wall Street nervous",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-07-28T19:33:03+00:00",
-      "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion.",
-      "is_policy": false
-    },
-    {
       "title": "NeurIPS-side prompt injection triggering ethics reviewers? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1v955f6/neuripsside_prompt_injection_triggering_ethics/",
       "source": "r/MachineLearning",
@@ -1907,30 +2033,12 @@
       "is_policy": false
     },
     {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-28T15:42:26+00:00",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "is_policy": false
-    },
-    {
       "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-07-28T14:52:01+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>One of the papers I reviewed has what seems to be entirely LLM-generated rebuttals, and the original paper is also clearly LLM-generated, with Claude-speak everywhere",
-      "is_policy": false
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-28T14:00:00+00:00",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
       "is_policy": false
     },
     {
@@ -1943,21 +2051,12 @@
       "is_policy": false
     },
     {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "source": "TechCrunch AI",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Google DeepMind",
       "category": "news",
-      "published": "2026-07-28T13:19:17+00:00",
-      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it",
-      "is_policy": false
-    },
-    {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-07-28T12:30:00+00:00",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit",
+      "published": "2026-07-28T13:21:37+00:00",
+      "summary": "",
       "is_policy": false
     },
     {
@@ -2015,31 +2114,13 @@
       "is_policy": false
     },
     {
-      "title": "Pattern Recognition (Elsevier): \"With Editor\" status date changed, but status didn't. Is this normal? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v8q9xc/pattern_recognition_elsevier_with_editor_status/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-28T06:42:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I have a manuscript under review at <strong>Pattern Recognition (Elsevier)</strong>, and I'm a bit confused about the Editorial Manager status.</p",
-      "is_policy": false
-    },
-    {
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-07-28T04:30:00+00:00",
-      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "is_policy": false
-    },
-    {
-      "title": "Editing Neurips Rebuttal [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v8jzmn/editing_neurips_rebuttal_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-07-28T01:37:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It looks like the post rebuttal button will change to official comment July 27 AoE. Will I be able to edit my rebuttal once that happens?</p> </div><!-- SC_ON --> &#3",
-      "is_policy": false
+      "title": "πR^2: Reactive Real-time Flow Policies",
+      "url": "https://huggingface.co/papers/2607.26055",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-07-27T20:00:00+00:00",
+      "summary": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input",
+      "is_policy": true
     },
     {
       "title": "Memory for Large Language Models",
@@ -2204,51 +2285,6 @@
       "is_policy": false
     },
     {
-      "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
-      "url": "https://huggingface.co/papers/2607.25895",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-27T20:00:00+00:00",
-      "summary": "Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capt",
-      "is_policy": false
-    },
-    {
-      "title": "Visual prompt engineering for video models",
-      "url": "https://huggingface.co/papers/2607.25537",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-27T20:00:00+00:00",
-      "summary": "In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video mode",
-      "is_policy": false
-    },
-    {
-      "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs",
-      "url": "https://huggingface.co/papers/2607.25669",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-27T20:00:00+00:00",
-      "summary": "Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs",
-      "is_policy": false
-    },
-    {
-      "title": "Wonder: Video World Model Done Better",
-      "url": "https://huggingface.co/papers/2607.26037",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-27T20:00:00+00:00",
-      "summary": "We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can n",
-      "is_policy": false
-    },
-    {
-      "title": "Shieldstral",
-      "url": "https://huggingface.co/papers/2607.25857",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-07-27T20:00:00+00:00",
-      "summary": "We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the ar",
-      "is_policy": true
-    },
-    {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "source": "MIT Tech Review",
@@ -2264,15 +2300,6 @@
       "category": "news",
       "published": "2026-07-27T14:24:42+00:00",
       "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could",
-      "is_policy": false
-    },
-    {
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-07-27T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear rea",
       "is_policy": false
     },
     {
