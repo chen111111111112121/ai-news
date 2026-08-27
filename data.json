@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:47:43.019262+00:00",
+  "generated_at": "2026-08-27T17:05:53.487014+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,21 +8,30 @@
   ],
   "items": [
     {
-      "title": "tt-a1i / archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "is_policy": false
-    },
-    {
       "title": "freestylefly / awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
+      "published": "2026-08-27T17:05:53+00:00",
       "summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "is_policy": false
+    },
+    {
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "is_policy": false
+    },
+    {
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "Help AI coding agents write modern Go",
       "is_policy": false
     },
     {
@@ -30,62 +39,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
+      "published": "2026-08-27T17:05:53+00:00",
       "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "is_policy": false
-    },
-    {
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "is_policy": false
-    },
-    {
-      "title": "AgriciDaniel / claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
-      "is_policy": false
-    },
-    {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "Learn it. Build it. Ship it for others.",
-      "is_policy": false
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "is_policy": false
-    },
-    {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "is_policy": false
-    },
-    {
-      "title": "browser-use / browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "is_policy": false
     },
     {
@@ -93,170 +48,539 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
+      "published": "2026-08-27T17:05:53+00:00",
       "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog",
       "is_policy": false
     },
     {
-      "title": "VoltAgent / awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-27T05:47:43+00:00",
-      "summary": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
     {
-      "title": "消息称 vivo X500、iQOO 16 手机 9 月发布，手持云台“晚一点点”",
-      "url": "https://www.ithome.com/0/994/972.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T05:42:11+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，博主 @数码闲聊站 今日爆料，vivo X500 系列 9 月三杯齐发，大概率是最早发布的国产直板旗舰，Pro 系列首发 2nm 天玑 9600 Pro。</p><p>此外，他还爆料，9 月底还有 iQOO 16 和 iQOO 小平板，蓝厂（vivo）的手持云台要<strong>再晚一点点</strong>，后期会单独发布。</p><p style=\"text",
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
       "is_policy": false
     },
     {
-      "title": "英伟达黄仁勋秀饭局影响力：“我和谁吃饭，第二天股价就翻倍”",
-      "url": "https://www.ithome.com/0/994/970.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T05:35:51+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，雅虎财经今天（8 月 27 日）发布博文，报道称在英伟达最新财报电话会议上，公司 CEO 黄仁勋以调侃的口吻表示，<strong>2026 年最佳美股交易策略就是看他和谁一起吃饭，第二天他们的股票价格就会翻倍。</strong></p><p style=\"text-align: center;\"></p><p>黄仁勋在财报会议上表示：“在过去 1 年时间里，最",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "Learn it. Build it. Ship it for others.",
       "is_policy": false
     },
     {
-      "title": "拷走 AI 软件去创业，北京首例 AIGC 商业秘密行政处罚案开出 10 万元罚单",
-      "url": "https://www.ithome.com/0/994/968.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T05:29:16+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，北京市市场监督管理局今日发文，<span class=\"js_title_inner\"><strong>全市首例 AIGC 领域商业秘密行政处罚案</strong>开出 10 万元罚单。</span></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithom",
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
       "is_policy": false
     },
     {
-      "title": "阿里千问办公上线 Qwen3.8-Flash 及标准模式：单任务生成速度提升约 100%，Token 消耗平均减少 75%",
-      "url": "https://www.ithome.com/0/994/967.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T05:23:34+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，今天，阿里旗下千问办公首发上线刚刚发布的 Qwen3.8-Flash 模型，同时推出标准模式。</p><p>即日起，所有用户可通过全新的标准模式体验 Qwen3.8-Flash<strong>。</strong>基于最新的模型，用户可以用更少的积分消耗、更快的 Token 吞吐速度完成任务。未来，千问办公的模型供给将会有标准和高级两种模式。<strong>95",
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
       "is_policy": false
     },
     {
-      "title": "我拉 55 吨电动矿卡？小米澎程汽车 × 徐工集团：一次特别的挑战，明天见",
-      "url": "https://www.ithome.com/0/994/966.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T05:21:48+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，小米澎程官方今日发布预告视频，将在明日（8 月 28 日）与徐工集团进行一次特别的挑战。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/5ffbbff2-471e-45ae-935f-50f",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "is_policy": false
     },
     {
-      "title": "微软 Microsoft 365 路线图更名为 AI at Work Roadmap",
-      "url": "https://www.ithome.com/0/994/965.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T05:21:05+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，科技媒体 Windows Latest 今天（8 月 27 日）发布博文，<strong>报道称微软已将 Microsoft 365 Roadmap 更名为 AI at Work Roadmap</strong>，从而集中展示 Microsoft 365、Copilot、AI 智能体及其他 AI 功能的后续更新。</p><p>Microsoft 365 Roa",
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-27T17:05:53+00:00",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "is_policy": false
     },
     {
-      "title": "比亚迪第 1 万座汽车闪充站明日落成，用时不到半年",
-      "url": "https://www.ithome.com/0/994/964.htm",
-      "source": "IT之家",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "source": "The Verge AI",
       "category": "news",
-      "published": "2026-08-27T05:09:22+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，比亚迪汽车今日官宣，<strong>第 1 万座闪充站</strong>落成仪式将于 2026 年 8 月 28 日 9:00 举行。</p><p>比亚迪第 1 万座闪充站为<strong>深圳龙华闪充旗舰站</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"htt",
+      "published": "2026-08-27T16:15:52+00:00",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.",
       "is_policy": false
     },
     {
-      "title": "米哈游旗下恋爱手游《未定事件簿》宣布停止与德芙联名合作",
-      "url": "https://www.ithome.com/0/994/963.htm",
-      "source": "IT之家",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
       "category": "news",
-      "published": "2026-08-27T05:00:30+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，米哈游旗下律政恋爱推理手游《未定事件簿》8 月 26 日发布与德芙联名合作取消说明：</p><blockquote><p>亲爱的律师：</p><p>非常抱歉以此方式打扰大家。</p><p>自《未定事件簿》与德芙品牌合作筹备以来，我们始终希望通过本次联名为大家带来一份甜蜜与惊喜。然而，近日我们关注到合作方在某视频平台发布了不恰当的文案。截至目前，德芙品牌方针对此",
+      "published": "2026-08-27T16:11:32+00:00",
+      "summary": "",
       "is_policy": false
     },
     {
-      "title": "阿里云：下调百炼平台 Qwen3.8-Flash 大模型计费单价",
-      "url": "https://www.ithome.com/0/994/961.htm",
+      "title": "豆瓣 IMDb 双榜第一：影史经典《肖申克的救赎》4K 修复版首次登陆中国内地院线，IMAX 版本系全球首度呈现",
+      "url": "https://www.ithome.com/0/995/326.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-08-27T04:51:21+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，阿里云公告，大模型服务平台百炼将于北京时间 2026 年 8 月 27 日 12:00:00 起，对 Qwen3.8-Flash 模型模式计费单价进行下调调整。</p><p style=\"text-align: left;\">具体如下:</p><table><tbody><tr class=\"firstRow\"><td colspan=\"1\" rowspan=",
+      "published": "2026-08-27T16:00:12+00:00",
+      "summary": "<p>IT之家 8 月 28 日消息，影史经典《肖申克的救赎》4K 修复版今日正式登陆中国内地院线。这是该片自 1994 年上映以来，首次在中国内地大银幕公映。</p><p>此次公映由华纳兄弟电影发行，提供 2D、CINITY LED 及 IMAX 等多种制式。IT之家注意到，IMAX 版本系全球首度呈现。</p><p style=\"text-align: center;\"></p><p>《肖申克",
       "is_policy": false
     },
     {
-      "title": "谷歌发布 Gemini 3.5 Transcribe 语音转文本模型，能自动删除口头禅",
-      "url": "https://www.ithome.com/0/994/960.htm",
-      "source": "IT之家",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-08-27T04:38:39+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，在外界仍等待 Gemini 3.5 Pro 发布之际，谷歌先推出了 3.5 系列中的另一款模型。该公司今日发布了 Gemini 3.5 Transcribe 语音转文本模型，这是一款旨在优化语音输入体验的 AI 模型，能够自动删除语音中的“嗯”“呃”等口头禅以及说错后自行纠正的内容，最终生成更加通顺、整洁的文本。</p><p style=\"text-align",
+      "published": "2026-08-27T16:00:00+00:00",
+      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann",
       "is_policy": false
     },
     {
-      "title": "岚图汽车 2026 上半年营收大涨 42.4% 但同比由盈转亏，归母净亏损 3.89 亿元",
-      "url": "https://www.ithome.com/0/994/956.htm",
+      "title": "宝马新世代车型搭载新型车门：下车时其他车辆接近即自动上锁，源头阻止“开门杀”",
+      "url": "https://www.ithome.com/0/995/323.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-08-27T04:35:45+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，岚图汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：181.59 亿元，同比增长 42.4%</p></li><li><p><strong>毛利",
+      "published": "2026-08-27T15:40:20+00:00",
+      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\">IT之家 8 月 27 日消息，据外媒 BMW Blog 今天（27 日）报道，宝马新世代车型将标配更多主动安全功能，量产版新世代 iX3 将率先搭载，随后扩展到 i3、X5 和 7 系。</p><p class=\"PDq2pG_selectionAnchorContainer\">此次最值得注意的变化，是开门预警",
       "is_policy": false
     },
     {
-      "title": "综合续航 1030 公里：捷尼赛思首款增程 EREV 汽车官宣 2027 年推出",
-      "url": "https://www.ithome.com/0/994/959.htm",
+      "title": "中汽协倡议：坚决抵制非理性竞争，切实防范“浮躁”心态，杜绝“伪创新”",
+      "url": "https://www.ithome.com/0/995/322.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-08-27T04:32:14+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，今天（8 月 27 日）在韩国首尔举办的 CEO 投资者日上，<strong>现代汽车集团旗下独立豪华汽车品牌捷尼赛思（Genesis）宣布将于 2027 年推出其首款增程式电动车（EREV），综合续航里程将超过 1,030 公里。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-im",
+      "published": "2026-08-27T15:23:28+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，中国汽车工业协会今天（27 日）晚间发布《关于提升汽车产品生产一致性和质量安全水平的倡议》，其中提出，为深入贯彻落实工业和信息化部、公安部、生态环境部、市场监督管理总局联合发布的《关于开展道路机动车辆产品生产一致性和质量提升专项行动的通知》要求，进一步强化企业产品生产一致性和质量安全主体责任，加快推进我国汽车强国建设，全行业务必同心协力，携手做好质量提升工作，",
       "is_policy": false
     },
     {
-      "title": "批量劝退应届生的车灯公司星宇股份 2026 上半年净利润 6.69 亿元，应付职工薪酬同比下降 45.9%",
-      "url": "https://www.ithome.com/0/994/958.htm",
+      "title": "Epic 喜加二：《Breathedge》《Rival Stars Horse Racing》",
+      "url": "https://www.ithome.com/0/995/321.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-08-27T04:30:40+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，陷入批量劝退应届生舆论事件的车灯上市公司星宇股份今日发布 2026 上半年财报：</p><ul class=\" list-paddingleft-2\"><li><p>营业收入 68.84 亿元，<strong>同比增长 1.87%</strong>。</p></li><li><p>归属于上市公司股东的净利润 6.69 亿元，<strong>同比下滑 5.26%",
+      "published": "2026-08-27T15:05:17+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，Epic 本周送出的游戏是《Breathedge》，《Rival Stars Horse Racing : Desktop Edition》，下周送出的游戏是《Alone With You》。</p><p>领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/breathedge\">《Breathedge》</a>",
       "is_policy": false
     },
     {
-      "title": "彭博社：苹果首款折叠手机 iPhone Ultra 首年出货量预估超 1000 万台",
-      "url": "https://www.ithome.com/0/994/957.htm",
-      "source": "IT之家",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-08-27T04:30:00+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，彭博社今天（8 月 27 日）发布博文，援引市场调查机构 IDC 数据，<strong>预估苹果首款折叠手机（上市后有望名为 iPhone Ultra）首年出货量为 1000 万台。</strong></p><p><a href=\"https://www.ithome.com/0/994/880.htm\" target=\"_blank\">IT之家查询 IDC ",
+      "published": "2026-08-27T14:56:52+00:00",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
       "is_policy": false
     },
     {
-      "title": "微软逐步推进 Win11 功能现代化改造，控制面板暂不会被移除",
-      "url": "https://www.ithome.com/0/994/954.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T04:14:26+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，Windows 11 正迎来其历史上规模最大的设计升级之一，包括“打印管理”、文件资源管理器中的“属性”窗口，甚至是 Windows 8 时代的“自动播放”对话框，都将迎来 WinUI 设计改造。不过，控制面板会怎么样？目前来看，还没有看到微软准备移除控制面板的迹象，而且出于一些合理原因，这件事可能在短期内不会发生。</p><p style=\"text-ali",
+      "title": "MCA final year — need a real-world-scale AI project idea, not a toy/tutorial-level one[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vzw4fg/mca_final_year_need_a_realworldscale_ai_project/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-08-27T14:50:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm an MCA student with hands-on experience in Python, LangChain, Chroma, HuggingFace, and FastAPI (built a RAG document-QA system already). My project guide specific",
       "is_policy": false
     },
     {
-      "title": "理想汽车 CEO 李想称不会将成本压力转嫁给消费者，将推两大举措应对成本波动",
-      "url": "https://www.ithome.com/0/994/953.htm",
+      "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+      "url": "https://www.ithome.com/0/995/320.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-08-27T04:12:11+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，理想汽车 8 月 26 日发布 2026 财年上半年（2026 年 1 月～2026 年 6 月）报告，营业总收入 486.5 亿元，同比下降 13.4%；归母净亏损 39.94 亿元，同比由盈转亏；毛利率 9.5%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://",
+      "published": "2026-08-27T14:46:57+00:00",
+      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\">IT之家 8 月 27 日消息，AI 数据中心快速扩张正引发内存芯片供应紧张，为此，谷歌将着手调整安卓应用的质量标准。本周公布的新要求中，有一项专门针对<strong>应用的内存占用和代码优化</strong>。<span class=\"PDq2pG_selectionAnchor\"></span></p><p>",
       "is_policy": false
     },
     {
-      "title": "赵长江：智界 RX 四驱版本前备箱确实没有做到“极致大”，优先让位给“纯粹驾趣”“硬核安全”与“全场景舒适”",
-      "url": "https://www.ithome.com/0/994/947.htm",
+      "title": "网易《七日世界》主机版海外上线：PS5/Xbox 免费开玩，支持跨平台联机并新增第一人称",
+      "url": "https://www.ithome.com/0/995/319.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-08-27T04:00:52+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，智界汽车执行董事及执行副总裁赵长江今日发文，谈到了智界 RX 的前备箱空间。</p><p>赵长江表示，<strong>智界 RX 的四驱版本前备箱确实没有做到“极致大”</strong>，因为把这部分空间优先让位给了全系标配的“纯粹驾趣”“硬核安全”与“全场景舒适”。</p><p>赵长江认为，前舱绝不仅是储物格，它是整车的重要操控支点、安全缓冲堡垒和热管理核心",
+      "published": "2026-08-27T14:40:19+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，网易旗下 Starry Studio 开发的免费多人在线怪奇末日生存游戏《七日世界（Once Human）》主机版，于 2026 年 8 月 26 日在海外正式上线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
+      "is_policy": false
+    },
+    {
+      "title": "驰援西藏吉隆：阿里巴巴追加 1000 万捐款，第二批物资今晚送达",
+      "url": "https://www.ithome.com/0/995/318.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:39:03+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，据阿里巴巴公益分享，<strong>阿里巴巴今日宣布追加 1000 万元捐款，用于西藏日喀则市吉隆县吉隆口岸灾区的紧急救援、过渡安置及灾后重建工作</strong>。昨日灾害发生后，阿里巴巴已第一时间紧急调运两批生活物资驰援一线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"ht",
+      "is_policy": false
+    },
+    {
+      "title": "北京越野泰钽 700 上市 48 小时订单突破 6859 辆：搭载华为乾崑智驾 ADS 5，焕新价 24.98 万元起",
+      "url": "https://www.ithome.com/0/995/317.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:35:09+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，北京越野官方今日宣布，<strong>泰钽 700 上市 48 小时订单突破 6859 辆</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/10326395-828c-45",
+      "is_policy": false
+    },
+    {
+      "title": "告别“四排气”迎来“四电机”，全新宝马 iX5 M 路试谍照曝光",
+      "url": "https://www.ithome.com/0/995/316.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:30:36+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，英媒 Auto Express 今天公布了一组宝马 iX5 M 的路试谍照，新车计划 2027 年亮相，并将成为宝马未来<strong>纯电高性能 SUV 阵容中的旗舰车型</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
+      "is_policy": false
+    },
+    {
+      "title": "华为 MateBook Pro / 14 鸿蒙笔记本通过 OpenHarmony 7.0 Release 认证",
+      "url": "https://www.ithome.com/0/995/315.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:30:03+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，开源鸿蒙官网显示，华为 MateBook Pro 和华为 MateBook 14 两款鸿蒙笔记本已通过 OpenHarmony 7.0 Release 认证，<strong>软件版本号分别是 HAD-W24 7.0.0.105 (SP1C00E100R13P5log) / MNT-W54C 7.0.0.105 (SP1C00E100R12P2log)</str",
+      "is_policy": false
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat AI",
+      "category": "news",
+      "published": "2026-08-27T14:30:00+00:00",
+      "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant t",
+      "is_policy": false
+    },
+    {
+      "title": "AI’s memory crunch is coming for Android apps",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-27T14:27:04+00:00",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "is_policy": false
+    },
+    {
+      "title": "奇瑞风云 T7 上市 24 小时订单突破 23188 台：全系 600km 续航，抢先置换价 9.49 万-11.59 万元",
+      "url": "https://www.ithome.com/0/995/314.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:25:38+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，风云新能源官方微博今日宣布，<strong>奇瑞风云 T7 上市 24 小时订单突破 23188 台</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/99a10ff7-8f",
+      "is_policy": false
+    },
+    {
+      "title": "意大利为对抗入侵蓝蟹向亚得里亚海投放 15 万只章鱼，为欧洲首批海洋生物防治试点",
+      "url": "https://www.ithome.com/0/995/313.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:24:33+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，意大利博洛尼亚大学的研究人员本周在亚得里亚海沿岸投放了约 15 万只章鱼（Octopus vulgaris）幼体，以尝试利用该物种控制入侵物种 —— 大西洋蓝蟹（Callinectes sapidus）。这是欧洲首批此类试点实验之一。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"",
+      "is_policy": false
+    },
+    {
+      "title": "Netflix：《GTA 6：分量十足的一瞥》前瞻预告片完全由 PS5 实机画面录制",
+      "url": "https://www.ithome.com/0/995/312.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:17:10+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，Netflix 今天（27 日）晚间通过官方新闻稿宣布，即将于北京时间 28 日凌晨 3 时首播的《GTA 6：分量十足的一瞥》<strong>全部采用 PlayStation 5 实机游戏画面</strong>，将呈现 GTA 系列迄今<strong>规模最大、沉浸感最强</strong>的一次进化。</p><p style=\"text-align: cen",
+      "is_policy": false
+    },
+    {
+      "title": "曝《极限竞速：地平线 6》PS5 版已推迟，2026 年内无望发售",
+      "url": "https://www.ithome.com/0/995/311.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:17:06+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，The Verge 记者 Tom Warren 在 X 上透露，微软 Xbox 开放世界竞速游戏《极限竞速：地平线 6》的 PS5 版本不太可能在 2026 年内如期发售。</p><p>IGN 随后表示其信源也证实了这一消息的准确性。Warren 在回复网友时强调，该游戏最终仍会登陆 PS5 平台，只是发售时间有所推迟。</p><p style=\"text-a",
+      "is_policy": false
+    },
+    {
+      "title": "雷鸟 iO 智能眼镜官宣搭载恒玄科技 BES2800 芯片：6nm 工艺，集成双模蓝牙和低功耗 Wi-Fi 6",
+      "url": "https://www.ithome.com/0/995/309.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:04:45+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，恒玄科技官方宣布，雷鸟 iO 智能眼镜官宣搭载 BES2800 芯片。</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p><strong>采用 6nm 工艺，超低功耗</strong></p></li><li><p><strong>集成多核 CPU + 大容量存储，算力大幅提升</",
+      "is_policy": false
+    },
+    {
+      "title": "Hugging Face 推出新款鸭形机器人：能捡东西、拥有独特音色，399 美元",
+      "url": "https://www.ithome.com/0/995/306.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:01:53+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，北京时间今天（27 日）晚间，Hugging Face 旗下 Pollen Robotics 推出了可爱的新款 AI 机器人 Microduck。</p><p>该产品现已开放预购，售价 399 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 2,688 元人民币）</span>，提供奶油色、石墨色、薰衣草紫和天蓝色",
+      "is_policy": false
+    },
+    {
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-27T14:01:42+00:00",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "is_policy": false
+    },
+    {
+      "title": "Adobe Photoshop 推出“AI 辅助编辑器”测试版：基于提示词的全新图像编辑模式",
+      "url": "https://www.ithome.com/0/995/305.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T14:01:17+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，Adobe 今日宣布为 Photoshop 新增“AI Assisted Editor”（AI 辅助编辑器）测试体验。</p><p>该功能采用基于自然语言提示词的编辑方式，提供简化版操作界面，用户无需使用传统复杂工具即可完成图像修改。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"",
+      "is_policy": false
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "category": "news",
+      "published": "2026-08-27T14:01:00+00:00",
+      "summary": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t d",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-08-27T14:00:00+00:00",
+      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power un",
+      "is_policy": false
+    },
+    {
+      "title": "鸿蒙智行尊界 SUV 测试车谍照再曝，有望提供双尾灯选配",
+      "url": "https://www.ithome.com/0/995/304.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:57:15+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，博主 @拉面师傅Design 今日分享了鸿蒙智行尊界 SUV 测试车谍照。最新谍照显示，<strong>尊界 SUV 配备了 V800 同款尾灯</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
+      "is_policy": false
+    },
+    {
+      "title": "三星 Galaxy S27 Pro 渲染图曝光：无 S Pen 的小号 Ultra，约 6.6 英寸屏",
+      "url": "https://www.ithome.com/0/995/303.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:56:19+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，科技媒体 Android Headlines 今日与爆料人 OnLeaks 合作，曝光了三星 Galaxy S27 Pro 的官方 CAD 渲染图及关键信息。</p><p>据介绍，这款机型将作为 Galaxy S27 系列中的新成员，定位介于标准版与顶配 Ultra 版之间。</p><p style=\"text-align: center;\"><img cla",
+      "is_policy": false
+    },
+    {
+      "title": "腾讯《王者万象棋》定档 9 月 10 日上线，《王者荣耀》推出万象棋 · 迷你战联动玩法",
+      "url": "https://www.ithome.com/0/995/302.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:48:50+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，<a href=\"https://www.ithome.com/0/995/267.htm\" target=\"_blank\">腾讯《王者荣耀》IP 衍生自走棋游戏《王者万象棋》正式宣布定档 2026 年 9 月 10 日全平台上线</a>，支持 iOS、安卓、鸿蒙、桌面模拟器，支持多端数据互通。</p><p style=\"text-align: center;",
+      "is_policy": false
+    },
+    {
+      "title": "曝马斯克、黄仁勋、奥尔特曼将共同出席下周 G20 科技部长级会议",
+      "url": "https://www.ithome.com/0/995/301.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:46:48+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，据彭博社今日报道，美国将于 2026 年 9 月 1 日至 2 日在北卡罗来纳州举行 G20 创新部长级会议。多位科技界领袖将应邀出席并发表讲话。</p><p>其中，SpaceX CEO 埃隆 · 马斯克、前白宫 AI 事务负责人戴维 · 萨克斯计划在 9 月 1 日（IT之家注：会议首日）以线上方式发言。</p><p>除此之外，Meta 总裁迪娜 · 鲍威尔",
+      "is_policy": false
+    },
+    {
+      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+      "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-08-27T13:44:00+00:00",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, la",
+      "is_policy": false
+    },
+    {
+      "title": "英特尔：14A 缺陷密度曲线是 22nm 以来最佳表现，2027 下半年风险试产",
+      "url": "https://www.ithome.com/0/995/300.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:39:12+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，英特尔首席财务官 David Zinsner 在德意志银行 2026 年技术大会上表示，即将推出的 Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect density curve）。</p><p>22nm 是英特尔首个引入 FinFET 晶体管的工艺节点，以 Ivy Bridge 架构闻名。将 14A 与 22nm 对比",
+      "is_policy": false
+    },
+    {
+      "title": "ECCV 2026- MALMO LUND TRAVEL PASS NOT AVAILABLE? [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vzu8uy/eccv_2026_malmo_lund_travel_pass_not_available_n/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-08-27T13:38:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, sorry if this is not the appropriate forum for this question. </p> <p>Is anyone going To ECCV and staying in Lund? Apparently a few days back i saw discount",
+      "is_policy": false
+    },
+    {
+      "title": "网易《逆水寒：新世界》4.1.3 版本更新：全新场景【兰沧寨】、玩法【菠萝农场】上线",
+      "url": "https://www.ithome.com/0/995/299.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:29:10+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，网易《逆水寒：新世界》手游将迎来 <strong>4.1.3 版本更新</strong>，将有大量更新内容和海量福利。</p><p>为保证服务质量和服务器的稳定运行，《逆水寒：新世界》手游将于 <strong>2026 年 8 月 28 日早 4:55 停机</strong>进行维护工作，预计维护到上午 10:00。维护结束后，登录游戏可在主界面领取更新奖励：",
+      "is_policy": false
+    },
+    {
+      "title": "2026 暑期档总票房破 119.67 亿超去年，《功夫女足》《八仙！》《欢迎来龙餐馆》暂列前三",
+      "url": "https://www.ithome.com/0/995/297.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:21:13+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，据猫眼专业版数据，截至 2026 年 8 月 27 日 18 时 32 分，<strong>2026 年暑期档总票房（含预售）突破 119.67 亿，超 2025 年暑期档票房成绩</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithom",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI 将向印度 ChatGPT 免费及 Go 套餐用户投放广告",
+      "url": "https://www.ithome.com/0/995/296.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:19:58+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，OpenAI 宣布，即日起将在印度<strong>向 ChatGPT Free 和 Go 套餐用户投放广告</strong>。本月早些时候，OpenAI 修改了服务条款，明确说明用户在使用 ChatGPT 时可能看到广告。</p><p>今年 2 月的数据显示，ChatGPT 在印度的每周活跃用户已超过 1 亿，其中相当一部分使用<strong>免费版或价格更低",
+      "is_policy": false
+    },
+    {
+      "title": "高通 Anshuman Saxena：基于我们的 SoC 平台，可构建 L3 级解决方案",
+      "url": "https://www.ithome.com/0/995/295.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:15:14+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，高通技术公司副总裁兼 ADAS（高级驾驶辅助系统）和机器人业务总经理 Anshuman Saxena 日前接受了IT之家等媒体采访，谈到关于 L3 等级自动驾驶的相关话题。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuplo",
+      "is_policy": false
+    },
+    {
+      "title": "Plaud is launching AI earbuds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-08-27T13:11:23+00:00",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition ca",
+      "is_policy": false
+    },
+    {
+      "title": "Epic 喜加一：原价 9 元恐怖游戏《Together After Dark》再度限免",
+      "url": "https://www.ithome.com/0/995/294.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:05:50+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，开发商 ALMNHALI 宣布旗下心理恐怖游戏《Together After Dark》在 Epic 游戏商城再度开启限时免费“喜加一”领取活动，活动将持续至北京时间 9 月 2 日，游戏在国区定价为 9 元，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/together-after-dark-fa0ce0",
+      "is_policy": false
+    },
+    {
+      "title": "已运营 21 年：亚马逊将于 9 月 30 日关闭众包平台 Mechanical Turk",
+      "url": "https://www.ithome.com/0/995/291.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:04:42+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，亚马逊发文，宣布将于 9 月 30 日关闭旗下已有 21 年历史的众包平台 Mechanical Turk（MTurk）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/e1f38d84-a",
+      "is_policy": false
+    },
+    {
+      "title": "启境 GX7 阔五座 SUV 内饰亮点公布：首搭华为鸿蒙座舱 6，配备同级最大 88 英寸抬头显示",
+      "url": "https://www.ithome.com/0/995/290.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:04:12+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，启境汽车官方公布了启境 GX7 阔五座 SUV 的内饰亮点，新车首搭华为鸿蒙座舱 HarmonySpace 6，号称“科技大平层”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/bd950",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌推出全球首个双盲 AI 评估技术，基于加密环境保障基准测试公正性",
+      "url": "https://www.ithome.com/0/995/289.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-08-27T13:01:39+00:00",
+      "summary": "<p>IT之家 8 月 27 日消息，谷歌宣布推出<strong>全球首个针对前沿专有 AI 模型的双盲评估</strong>，将外部评估限制在加密“黑箱”环境中，避免模型提前获取测试信息来优化性能。</p><p>就像学生考前不能提前看到试题才能真实反映水平一样，当前 AI 模型评估也面临同样问题：如果模型提前接触测试题目（IT之家注：也就是所谓的“基准污染”），评估结果的可信度就会大打折扣。</",
+      "is_policy": false
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-27T13:00:00+00:00",
+      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "is_policy": false
+    },
+    {
+      "title": "Adobe is adding more AI to Photoshop",
+      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-08-27T13:00:00+00:00",
+      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's ",
+      "is_policy": false
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-08-27T12:59:16+00:00",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "is_policy": false
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-08-27T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Huggi",
+      "is_policy": false
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat AI",
+      "category": "news",
+      "published": "2026-08-27T12:01:00+00:00",
+      "summary": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to",
+      "is_policy": true
+    },
+    {
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-27T11:35:59+00:00",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "is_policy": false
+    },
+    {
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-08-27T10:00:00+00:00",
+      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the sin",
+      "is_policy": false
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-08-27T09:00:00+00:00",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "is_policy": false
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-27T06:32:51+00:00",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "is_policy": false
     },
     {
@@ -1340,124 +1664,16 @@
       "is_policy": false
     },
     {
-      "title": "滴滴出行：紧急响应西藏吉隆口岸泥石流灾害，启动备灾资金、支援应急食品及物资",
-      "url": "https://www.ithome.com/0/994/946.htm",
-      "source": "IT之家",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI Blog",
       "category": "news",
-      "published": "2026-08-27T03:57:42+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，滴滴出行今日发文宣布，<span class=\"js_title_inner\">紧急响应西藏吉隆口岸泥石流灾害。</span></p><p><span class=\"js_title_inner\">IT之家附原文如下：</span></p><blockquote><p>2026 年 8 月 26 日 10 时 30 分许，因尼泊尔一侧发生<span>泥石流灾害",
+      "published": "2026-08-27T03:00:00+00:00",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "is_policy": false
     },
     {
-      "title": "泰坦军团公布 V27MQ7 MAX 显示器：3000nits + AGLR，HD 1060Hz",
-      "url": "https://www.ithome.com/0/994/945.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:54:52+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，泰坦军团 (Titan Army) 今日公布了 V27MQ7 MAX 显示器。这一型号<strong>峰值亮度高达 3000nits</strong>，<strong>表面经过 AGLR 防眩低反处理</strong>，支持 QHD 500Hz / 565Hz 和 HD 1000Hz / 1060Hz 模式。</p><p style=\"text-align: ",
-      "is_policy": false
-    },
-    {
-      "title": "小米澎湃 OS 4 新特性：双持小米手机可跨设备接听来电、接收验证码",
-      "url": "https://www.ithome.com/0/994/944.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:51:34+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，小米今日介绍了澎湃 OS4 新特性，双持小米手机，信息无缝流转：不在同一网络，来电也能跨设备接听；验证码跨设备接收，校验短信随时看。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/c8bd4",
-      "is_policy": false
-    },
-    {
-      "title": "黄仁勋驳斥“循环融资”质疑：AI 行业需要巨额资金，英伟达投资风险很低",
-      "url": "https://www.ithome.com/0/994/943.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:47:34+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，英伟达 CEO 黄仁勋当地时间周三为公司日益深入参与人工智能行业融资进行了辩护。他反驳了外界关于英伟达向其他 AI 公司提供资金支持，是为了人为推高自身营收增长的批评。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsupload",
-      "is_policy": false
-    },
-    {
-      "title": "被盗 iPhone 黑产 AnonyMousKIT 披露：AI 语音钓鱼套取苹果手机密码",
-      "url": "https://www.ithome.com/0/994/942.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:47:17+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，网络安全公司 SOCRadar 于 8 月 25 日发布博文，披露名为 AnonyMousKIT 的网络钓鱼即服务（PhaaS）平台，<strong>主要服务于被盗苹果设备的解锁与转售链条。</strong></p><p>该平台用邮件、短信、WhatsApp、录音电话和 AI 语音电话骗取设备所有者的锁屏密码、Apple ID 与 2FA 验证码，以解除激活锁",
-      "is_policy": false
-    },
-    {
-      "title": "2026 款奥迪 A7L 汽车上市：可选 7 个版本，41.87 万 ~66.62 万元",
-      "url": "https://www.ithome.com/0/994/933.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:32:47+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，据汽车之家今日报道，上汽奥迪旗下中大型轿车 ——2026 款奥迪 A7L 正式上市，共推出 7 个版本，<strong>售价区间为 41.87 万 ~66.62 万元</strong>。</p><table class=\"editor-table\"><tbody><tr class=\"firstRow\"><td><p class=\"editor-paragra",
-      "is_policy": false
-    },
-    {
-      "title": "换机苹果 iPhone 18 Pro / Max 参考：SellCell 称旧机回收价 10 天内最高跌幅 20.2%",
-      "url": "https://www.ithome.com/0/994/932.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:32:47+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，美国头部二手服务商 SellCell 于 8 月 25 日发布博文，基于以往数据，<strong>在苹果新款 iPhone 发布到发售的约 10 天间隔内，其用户手中的旧款 iPhone 二手回收价格损失最高可达 20.2%。</strong></p><p>IT之家注：SellCell 成立于 2008 年，是美国头部的科技产品以旧换新比价平台，主打二手手机及",
-      "is_policy": false
-    },
-    {
-      "title": "因应用商店提供仿冒奢侈腕表表盘，三星被判赔偿斯沃琪 1160 万美元",
-      "url": "https://www.ithome.com/0/994/925.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:29:03+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，三星被判向瑞士钟表集团 Swatch Group（斯沃琪集团）支付 1,160 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 7,815.9 万元人民币）</span>赔偿，此前一名法官认定，三星在智能手表应用商店中提供奢侈腕表的数字仿制表盘，对这家瑞士钟表制造商造成了“非常严重的损害”。</p><p styl",
-      "is_policy": false
-    },
-    {
-      "title": "大金计划斥资 100 亿日元在墨建设数据中心冷却系统工厂",
-      "url": "https://www.ithome.com/0/994/921.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:26:05+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，根据《日经亚洲》报道，日本知名空调制造商<strong>大金（ダイキン，Daikin）计划在墨西哥建设一座生产数据中心冷却系统的工厂</strong>，项目投资金额约 100 亿日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 4.23 亿元人民币）</span>。</p><p>这座工厂将生产可为数据中心服务器机房提供",
-      "is_policy": false
-    },
-    {
-      "title": "首款专为苹果 iPhone 用户打造的 Agent 耳机：网易有道 OpenPods 预售，到手价 1499 元",
-      "url": "https://www.ithome.com/0/994/911.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:17:24+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，今日网易有道将正式发布 OpenPods 有道 AI 耳机，即首款专为 iPhone 用户打造的 Agent 耳机，并同步开启预售，首发补贴后到手价 1499 元，将于 9 月 10 日正式发售，提供黑色、白色两款配色。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:/",
-      "is_policy": false
-    },
-    {
-      "title": "古尔曼解读苹果 iPhone 18 Pro / Max 邀请函：可变光圈、新天蓝色",
-      "url": "https://www.ithome.com/0/994/909.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:09:46+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 27 日）在 X 平台发布推文，解读苹果 2026 年秋季新品发布会，认为苹果 iPhone 18 Pro / Max 会有 2 大卖点。</p><p>IT之家昨日报道，苹果官方宣布将于美国当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“亮新篇, 来耀",
-      "is_policy": false
-    },
-    {
-      "title": "消息称英伟达调整 HBM4 内存需求，8Hi 低堆叠占比提升",
-      "url": "https://www.ithome.com/0/994/908.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:03:50+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，韩媒 ZDNET Korea 当地时间 26 日援引消息人士报道称，NVIDIA（英伟达）已要求上游 HBM 内存供应商调整 HBM4 内存的供应规划，<strong>提升 8 层堆叠 (8Hi) 产品占比</strong>，更高堆叠的 12Hi HBM4 比例相应减少。</p><p style=\"text-align: center;\"><img class",
-      "is_policy": false
-    },
-    {
-      "title": "拆封影响七天无理由退货？中消协发布消费提示解答相关疑问",
-      "url": "https://www.ithome.com/0/994/907.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-08-27T03:03:49+00:00",
-      "summary": "<p>IT之家 8 月 27 日消息，中国消费者协会今日发文称，日常网络消费中，消费者因虚假宣传、商品质量等原因申请退货，商家以“超过七天不能退”“拆封不能退”等类似理由拒绝退货合理吗？为保障广大消费者依法享有的退货权，中国消费者协会提醒消费者注意退货相关问题，避免被忽悠放弃退货。</p><h2>IT之家整理主要内容如下：</h2><h3><strong>1.问：商家以超过七天为由不退货，合法吗？",
-      "is_policy": false
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TechCrunch AI",
       "category": "news",
@@ -1601,15 +1817,6 @@
       "is_policy": false
     },
     {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat AI",
-      "category": "news",
-      "published": "2026-08-26T14:30:00+00:00",
-      "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant t",
-      "is_policy": false
-    },
-    {
       "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
       "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
       "source": "TechCrunch AI",
@@ -1655,30 +1862,12 @@
       "is_policy": false
     },
     {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T12:00:00+00:00",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "is_policy": false
-    },
-    {
       "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
       "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-08-26T11:07:40+00:00",
       "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means fo",
-      "is_policy": false
-    },
-    {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T11:00:00+00:00",
-      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
       "is_policy": false
     },
     {
@@ -1745,33 +1934,6 @@
       "is_policy": false
     },
     {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T03:30:00+00:00",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "is_policy": false
-    },
-    {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T00:40:59+00:00",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T00:06:20+00:00",
-      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-      "is_policy": false
-    },
-    {
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "source": "OpenAI Blog",
@@ -1817,21 +1979,30 @@
       "is_policy": false
     },
     {
-      "title": "A new stamp on cyberfraud prevention",
-      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “pr",
+      "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+      "url": "https://huggingface.co/papers/2608.25832",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-25T20:00:00+00:00",
+      "summary": "Large language models access knowledge inconsistently across languages, but to what extent do they differ in their skill sets when interacting with different languages? This work quantifies cross-ling",
       "is_policy": false
     },
     {
-      "title": "AgeLab research inspires an A I startup",
-      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard mo",
+      "title": "Prefix Sliding for efficient test-time scaling",
+      "url": "https://huggingface.co/papers/2608.26070",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-25T20:00:00+00:00",
+      "summary": "Test-time scaling uses extra test-time compute to improve performance, such as letting language models reason longer when solving a problem. As models keep the entire reasoning trace in memory via ful",
+      "is_policy": false
+    },
+    {
+      "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+      "url": "https://huggingface.co/papers/2608.25625",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-25T20:00:00+00:00",
+      "summary": "Document retrieval increasingly supports high-stakes information access in finance, healthcare, and law. Modern retrieval pipelines vary both in modality (text or multimodal) and in retrieval architec",
       "is_policy": false
     },
     {
@@ -1850,6 +2021,15 @@
       "category": "papers",
       "published": "2026-08-25T20:00:00+00:00",
       "summary": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture ",
+      "is_policy": false
+    },
+    {
+      "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation",
+      "url": "https://huggingface.co/papers/2608.15062",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-25T20:00:00+00:00",
+      "summary": "Scaling transformer language models creates an inherent tension between expressivity and memory efficiency. While unique weights across layers preserve functional specialization---from input-grounding",
       "is_policy": false
     },
     {
@@ -1916,30 +2096,12 @@
       "is_policy": false
     },
     {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-25T19:03:47+00:00",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "is_policy": false
-    },
-    {
       "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-08-25T18:34:35+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m researching how to design an AI agent for a medicine-reminder system. The agent has to decide, at each relevant time, whether to:</p> <ul> <li",
-      "is_policy": false
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-25T17:50:33+00:00",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
       "is_policy": false
     },
     {
@@ -1976,15 +2138,6 @@
       "category": "community",
       "published": "2026-08-25T10:30:17+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/\"> <img alt=\"Continual Learning of Frontier Models for SovereignAI. Tech R",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-25T09:15:03+00:00",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked anoth",
       "is_policy": false
     },
     {
@@ -2051,21 +2204,30 @@
       "is_policy": false
     },
     {
+      "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+      "url": "https://huggingface.co/papers/2608.25204",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-24T20:00:00+00:00",
+      "summary": "We introduce LibriBrain100, a large-scale MEG dataset for speech decoding designed from the ground up for reproducible, standardised evaluation. LibriBrain100 more than doubles the size of the origina",
+      "is_policy": false
+    },
+    {
+      "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
+      "url": "https://huggingface.co/papers/2608.24358",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-24T20:00:00+00:00",
+      "summary": "Coding agents perform long-running tasks spanning dozens of model calls, tool uses, and code edits. As these runs unfold, users face a practical cost-quality trade-off: escalating to a stronger model ",
+      "is_policy": false
+    },
+    {
       "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
       "url": "https://huggingface.co/papers/2608.24138",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-08-24T20:00:00+00:00",
       "summary": "Large vision-language models have shown strong progress in UI-to-code generation, yet their test-time self-evolution remains unstable. We first identify a fundamental obstacle, termed visual repair co",
-      "is_policy": false
-    },
-    {
-      "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers",
-      "url": "https://huggingface.co/papers/2608.15062",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Scaling transformer language models creates an inherent tension between expressivity and memory efficiency. While unique weights across layers preserve functional specialization---from input-grounding",
       "is_policy": false
     },
     {
@@ -2186,60 +2348,6 @@
       "is_policy": false
     },
     {
-      "title": "Best Practice Critic Optimization",
-      "url": "https://huggingface.co/papers/2608.23566",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token",
-      "is_policy": false
-    },
-    {
-      "title": "On-policy Distillation with Verifiable Reward",
-      "url": "https://huggingface.co/papers/2608.24696",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) and on-policy distillation (OPD) have become two widely adopted paradigms for post-training large language models. However, RLVR suffers from spar",
-      "is_policy": true
-    },
-    {
-      "title": "On-Policy Self-Distillation in Diffusion Models",
-      "url": "https://huggingface.co/papers/2608.24646",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We in",
-      "is_policy": true
-    },
-    {
-      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-      "url": "https://huggingface.co/papers/2608.24876",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin",
-      "is_policy": false
-    },
-    {
-      "title": "Meta^n: Recursive Self-Improvement through Emergent Depth",
-      "url": "https://huggingface.co/papers/2608.24735",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own ",
-      "is_policy": false
-    },
-    {
-      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
-      "url": "https://huggingface.co/papers/2608.24794",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-24T20:00:00+00:00",
-      "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Tre",
-      "is_policy": false
-    },
-    {
       "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
       "source": "r/MachineLearning",
@@ -2312,6 +2420,15 @@
       "is_policy": false
     },
     {
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "url": "https://huggingface.co/papers/2608.23564",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-23T20:00:00+00:00",
+      "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ",
+      "is_policy": false
+    },
+    {
       "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
       "source": "r/MachineLearning",
@@ -2339,42 +2456,6 @@
       "is_policy": false
     },
     {
-      "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-23T12:30:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>been building ShardFlow for the past few months, a distributed LLM inference </p> <p>framework that splits any HuggingFace transformer across N GPU machines and uses ",
-      "is_policy": false
-    },
-    {
-      "title": "Implementing Watermarking for Language Models [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-23T08:09:02+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently implemented a minimal, educational version of SynthID-Text-style watermarking for language models.</p> <p>I saw anthropic post about how they'll start addi",
-      "is_policy": false
-    },
-    {
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-21T21:25:50+00:00",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
-      "is_policy": false
-    },
-    {
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-21T13:37:52+00:00",
-      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform ",
-      "is_policy": false
-    },
-    {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "source": "Google DeepMind",
@@ -2382,42 +2463,6 @@
       "published": "2026-08-21T11:59:48+00:00",
       "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "is_policy": false
-    },
-    {
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-20T21:50:22+00:00",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak y",
-      "is_policy": false
-    },
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-20T15:45:55+00:00",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides",
-      "is_policy": false
-    },
-    {
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "is_policy": true
-    },
-    {
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "is_policy": true
     }
   ]
 }
