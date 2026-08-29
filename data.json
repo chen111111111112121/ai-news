@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T16:12:56.968064+00:00",
+  "generated_at": "2026-08-29T20:10:17.388434+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/tt-a1i/archify",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
+      "published": "2026-08-29T20:10:17+00:00",
       "summary": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "is_policy": false
     },
@@ -21,26 +21,17 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
+      "published": "2026-08-29T20:10:17+00:00",
       "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog",
       "is_policy": false
     },
     {
-      "title": "anthropics / claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "THU-MAIC / OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "is_policy": false
-    },
-    {
-      "title": "abhigyanpatwari / GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZI",
+      "published": "2026-08-29T20:10:17+00:00",
+      "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "is_policy": false
     },
     {
@@ -48,8 +39,17 @@
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
+      "published": "2026-08-29T20:10:17+00:00",
       "summary": "Help AI coding agents write modern Go",
+      "is_policy": false
+    },
+    {
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-08-29T20:10:17+00:00",
+      "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "is_policy": false
     },
     {
@@ -57,53 +57,80 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
+      "published": "2026-08-29T20:10:17+00:00",
       "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
       "is_policy": false
     },
     {
-      "title": "freestylefly / awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "title": "Osmantic / ODS",
+      "url": "https://github.com/Osmantic/ODS",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "published": "2026-08-29T20:10:17+00:00",
+      "summary": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
       "is_policy": false
     },
     {
-      "title": "tashfeenahmed / freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
+      "published": "2026-08-29T20:10:17+00:00",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "is_policy": false
     },
     {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "Learn it. Build it. Ship it for others.",
+      "published": "2026-08-29T20:10:17+00:00",
+      "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
     {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
+      "title": "workweave / router",
+      "url": "https://github.com/workweave/router",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "published": "2026-08-29T20:10:17+00:00",
+      "summary": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "is_policy": false
     },
     {
-      "title": "livekit / agents",
-      "url": "https://github.com/livekit/agents",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-08-29T16:12:56+00:00",
-      "summary": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-29T18:41:59+00:00",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "is_policy": false
+    },
+    {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-08-29T18:19:53+00:00",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The compani",
+      "is_policy": false
+    },
+    {
+      "title": "Finished ML + DL — what should I do next? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1tr86/finished_ml_dl_what_should_i_do_next_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-08-29T18:17:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve recently completed learning Machine Learning and Deep Learning, including the mathematics behind the major concepts and algorithms rather than just learning to u",
+      "is_policy": false
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-08-29T17:36:47+00:00",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
       "is_policy": false
     },
     {
@@ -131,15 +158,6 @@
       "category": "news",
       "published": "2026-08-29T15:13:23+00:00",
       "summary": "<p>IT之家 8 月 29 日消息，据《华尔街日报》昨天报道，韩国政府计划向全体国民提供免费生成式 AI 服务，帮助民众处理预约医疗、寻找住房、办理税务等日常事务。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/3cb3538",
-      "is_policy": false
-    },
-    {
-      "title": "built an ml tool that saves tokens in a logical way ...[p]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1ox13/built_an_ml_tool_that_saves_tokens_in_a_logical/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-29T15:05:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>need constructive criticism please guys <a href=\"https://github.com/devkancheti4-design/fluid-router\">https://github.com/devkancheti4-design/fluid-router</a></p> </di",
       "is_policy": false
     },
     {
@@ -365,6 +383,15 @@
       "category": "news",
       "published": "2026-08-29T12:05:04+00:00",
       "summary": "<p>IT之家 8 月 29 日消息，据彭博社昨日报道，美国联邦贸易委员会（FTC）正就 Alphabet 旗下 YouTube 进行调查，调查焦点集中在 YouTube 对用户封号、限流、删除内容时，是否违反了消费者保护法。</p><p>知情人士透露，FTC 自 2025 年起对 YouTube 展开调查，目前已进入准备提起潜在诉讼的最后阶段。</p><p style=\"text-align: ",
+      "is_policy": false
+    },
+    {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-08-29T12:00:00+00:00",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive",
       "is_policy": false
     },
     {
@@ -1103,42 +1130,6 @@
       "category": "news",
       "published": "2026-08-27T00:24:57+00:00",
       "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "is_policy": false
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T23:47:18+00:00",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "is_policy": false
-    },
-    {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-26T21:40:53+00:00",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet h",
-      "is_policy": false
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-26T21:37:39+00:00",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-08-26T21:36:06+00:00",
-      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and ha",
       "is_policy": false
     },
     {
