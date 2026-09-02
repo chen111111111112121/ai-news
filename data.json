@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:37:43.431336+00:00",
+  "generated_at": "2026-09-02T20:18:08.914486+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/google-research/timesfm",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-02T15:37:43+00:00",
+      "published": "2026-09-02T20:18:08+00:00",
       "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-02T15:37:43+00:00",
+      "published": "2026-09-02T20:18:08+00:00",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-02T15:37:43+00:00",
+      "published": "2026-09-02T20:18:08+00:00",
       "summary": "The agent that grows with you",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/superlinked/sie",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-02T15:37:43+00:00",
+      "published": "2026-09-02T20:18:08+00:00",
       "summary": "Open-source inference server and production cluster for all the models your agent needs.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-02T15:37:43+00:00",
+      "published": "2026-09-02T20:18:08+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -57,8 +57,215 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-02T15:37:43+00:00",
+      "published": "2026-09-02T20:18:08+00:00",
       "summary": "Agent skill that removes signs of AI-generated writing from text",
+      "is_policy": false
+    },
+    {
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-02T20:11:40+00:00",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex t",
+      "is_policy": false
+    },
+    {
+      "title": "慧与 2026 财年半年报归母净利润 25.29 亿美元",
+      "url": "https://www.ithome.com/0/997/712.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T20:11:14+00:00",
+      "summary": "<p class=\"v-focus\"> IT之家 9 月 3 日消息，慧与今日发布 2026 财年（2025年11月1日～2026年10月31日）半年报（2025年11月1日～2026年7月31日）及第三财季（2026年5月1日～2026年7月31日）报告：</p><ul class=\"list-paddingleft-2 v-focus\"> <h3 class=\"v-focus\"> 2026 财",
+      "is_policy": false
+    },
+    {
+      "title": "I built an explainable bone-lesion screener for X-rays and ran it for £5 month [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5iaz8/i_built_an_explainable_bonelesion_screener_for/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-02T18:14:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a biomedical-to-CS student, and I wanted to see how far a genuinely explainable (Use of heatmapping) medical imaging prototype could get on near-zero infrastructu",
+      "is_policy": false
+    },
+    {
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-02T17:52:56+00:00",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit",
+      "is_policy": false
+    },
+    {
+      "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-02T17:38:17+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just uploaded the full 5.94 billion TikTok video dataset to Hugging Face. It’s fully open source:<br /> <a href=\"https://huggingface.co/datasets/kuben-developer/tikto",
+      "is_policy": false
+    },
+    {
+      "title": "Where can I find legally usable datasets for advanced audio chord recognition? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5gynb/where_can_i_find_legally_usable_datasets_for/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-02T17:27:32+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m researching how to build or fine-tune an audio-to-chord-recognition engine comparable in ambition to Song Master Pro / Auralis Sound Prism.<br /> The goal is not ",
+      "is_policy": false
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-02T17:18:13+00:00",
+      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
+      "is_policy": false
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-02T17:09:57+00:00",
+      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
+      "is_policy": false
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-02T17:09:06+00:00",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t",
+      "is_policy": false
+    },
+    {
+      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-02T16:49:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've spent the last month building a local C++ machine learning library called Deepity to test alternative credit assignment algorithms; specifically Predictive Codin",
+      "is_policy": false
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-02T16:40:50+00:00",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about",
+      "is_policy": false
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-09-02T16:24:24+00:00",
+      "summary": "",
+      "is_policy": false
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-09-02T16:18:31+00:00",
+      "summary": "",
+      "is_policy": false
+    },
+    {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-02T16:12:25+00:00",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that ",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
+      "url": "https://www.ithome.com/0/997/708.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T16:09:52+00:00",
+      "summary": "<p>IT之家 9 月 3 日消息，当地时间 9 月 2 日，谷歌宣布推出 Gemini 3.8 Flash Cyber 模型，通过 Fairwind 计划面向首批受信任的安全防护团队开放。</p><p>官方表示，在针对漏洞挖掘的行业权威基准测试 CyberGym 上，Gemini 3.8 Flash Cyber 展现出了顶尖水平的自主漏洞挖掘能力。不仅超越了前代 3.5 Flash Cyber，",
+      "is_policy": false
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-02T16:04:10+00:00",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "is_policy": false
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-02T16:01:48+00:00",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "is_policy": false
+    },
+    {
+      "title": "森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元",
+      "url": "https://www.ithome.com/0/997/707.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T15:58:05+00:00",
+      "summary": "<p>IT之家 9 月 2 日消息，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版将于 9 月 3 日 0:00 首销，<strong>到手价 2399 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "is_policy": false
+    },
+    {
+      "title": "抛弃红帽生态，欧洲核子研究组织（CERN）转投 Debian 系统",
+      "url": "https://www.ithome.com/0/997/706.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T15:53:54+00:00",
+      "summary": "<p>IT之家 9 月 2 日消息，欧洲核子研究组织（CERN）上周在瑞士温特图尔举行 MiniDebConf 大会，宣布将放弃 RHEL（Red Hat Enterprise Linux），转投 Debian 系统。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/news",
+      "is_policy": false
+    },
+    {
+      "title": "神谷英树：游戏能否真正保存，比“实体版还是数字版”更重要",
+      "url": "https://www.ithome.com/0/997/705.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T15:53:50+00:00",
+      "summary": "<p>IT之家 9 月 2 日消息，据外媒 VGC 今天（2 日）晚间报道，《大神》《鬼泣》和《猎天使魔女》创作者神谷英树认为，相比游戏未来究竟发行实体版还是数字版，更值得担忧的是这些作品能否真正保存下来，让后来的玩家继续游玩。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com",
+      "is_policy": false
+    },
+    {
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-02T15:47:03+00:00",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds",
+      "is_policy": false
+    },
+    {
+      "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
+      "url": "https://www.ithome.com/0/997/704.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T15:44:15+00:00",
+      "summary": "<p>IT之家 9 月 2 日消息，据科技媒体 Appleinsider 今天报道，近期有黑客在暗网 Nexus 出售超 1.53 亿份驾驶证扫描件。除此之外，这些不法分子拥有超 1000 万份身份证件、300 万份旅行证件及 57.9 万张医疗卡。</p><p>安全研究组织 KrebsOnSecurity 上月末获悉该暗网网站存在。他们研究后获悉，这名黑客口中的 1.53 亿份驾照文件并非空穴来",
+      "is_policy": false
+    },
+    {
+      "title": "大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕",
+      "url": "https://www.ithome.com/0/997/703.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-02T15:42:55+00:00",
+      "summary": "<p class=\"isSelectedEnd\">IT之家 9 月 2 日消息，当地时间 1 日，德国《经济周刊》披露了 147 页的内部文件，详细介绍大众汽车监事会对集团未来重组的设想。文件描绘了一场<strong>“激进”而“痛苦”的重组</strong>，规模甚至被形容为“经济史上前所未有”。</p><p class=\"isSelectedEnd\">据IT之家了解，大众汽车考虑关闭<stro",
       "is_policy": false
     },
     {
@@ -112,7 +319,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-02T15:01:23+00:00",
-      "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
       "is_policy": false
     },
     {
@@ -338,69 +545,6 @@
       "category": "news",
       "published": "2026-09-02T13:44:52+00:00",
       "summary": "<p>IT之家 9 月 2 日消息，据 DigiTimes 今天报道，美光正在研究高耐久性 NAND 闪存模块，该公司计划将其部署在距离 GPU 更近的位置，而不是像传统存储方案那样，通过多个协议连接到距 GPU 较远的存储池。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com",
-      "is_policy": false
-    },
-    {
-      "title": "研究发现：AI 客服“更像人”未必带来更佳体验",
-      "url": "https://www.ithome.com/0/997/667.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:41:48+00:00",
-      "summary": "<p>IT之家 9 月 2 日消息，如今，各行各业的许多机构都在投入使用越来越像真人的 AI，用它们回答问题、排查故障和处理投诉。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/c3fb1e43-be71-4b2a-b92d-b",
-      "is_policy": false
-    },
-    {
-      "title": "网易云音乐鸿蒙尝鲜内测版 App 获 9.5.82 升级，优化后台播放、音频切换等",
-      "url": "https://www.ithome.com/0/997/666.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:38:46+00:00",
-      "summary": "<p>IT之家 9 月 2 日消息，网易云音乐鸿蒙尝鲜内测版今日推送了 <strong>9.5.82(9050820)</strong> 版本升级（依旧需要在“应用尝鲜”专区下载更新）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
-      "is_policy": false
-    },
-    {
-      "title": "英伟达 CEO 黄仁勋呼吁 G20 成员国加快发展、应用 AI，以促进经济增长",
-      "url": "https://www.ithome.com/0/997/665.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:37:51+00:00",
-      "summary": "<p class=\"isSelectedEnd\">IT之家 9 月 2 日消息，据彭博社今天（2 日）报道，英伟达 CEO 黄仁勋呼吁二十国集团（G20）成员<strong>加快发展和应用人工智能</strong>，以促进经济增长，同时扩大数据中心等基础设施建设为 AI 产业发展提供支撑。</p><p class=\"isSelectedEnd\">黄仁勋在美国为 G20 成员于北卡罗来纳州举办的一场",
-      "is_policy": false
-    },
-    {
-      "title": "299 元：ANBERNIC 安伯尼克 RG 35 竖版掌机开售，RK3326 芯片、3.5 寸屏幕",
-      "url": "https://www.ithome.com/0/997/664.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:29:22+00:00",
-      "summary": "<p>IT之家 9 月 2 日消息，ANBERNIC 安伯尼克 RG 35 掌机现已开售，新品采用竖版设计，可游玩各种复古游戏，<strong>定价 299 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/",
-      "is_policy": false
-    },
-    {
-      "title": "高通披露新一代 Adreno GPU 细节：矩阵核心强化 AI 算力，有望进一步改善画面升频效果",
-      "url": "https://www.ithome.com/0/997/663.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:25:32+00:00",
-      "summary": "<p class=\"isSelectedEnd\">IT之家 9 月 2 日消息，据外媒 Android Authority 今天（2 日）晚间报道，在公布下一代旗舰处理器的 CPU 升级细节后，高通又进一步披露了新一代 Adreno GPU 的变化，其中最重要的新设计是加入 Adreno 矩阵核心。</p><p class=\"isSelectedEnd\">高通公布的示意图显示，GPU 预计配备 3",
-      "is_policy": false
-    },
-    {
-      "title": "中国科学院青岛能源所开发出新型高容量与强选择性海水提铀材料",
-      "url": "https://www.ithome.com/0/997/662.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:19:59+00:00",
-      "summary": "<p>IT之家 9 月 2 日消息，中国科学院青岛生物能源与过程研究所（简称“青岛能源所”）宣布，<strong>该所研究团队近期在海水提铀材料领域取得系列进展</strong>。</p><p>团队首次将离散分子拓扑设计引入多孔有机笼体系，合成出磷酸功能化材料 PhosCage，并进一步将其与芳纶纳米纤维复合，制备出兼具高选择性、高容量和抗生物污损能力的复合气凝胶微球 AC-POC。相关成果发表于",
-      "is_policy": false
-    },
-    {
-      "title": "广汽传祺方盒子 SUV 越 7 开启预售：两驱、四驱共 4 款配置，权益价 17.18 万-21.78 万元",
-      "url": "https://www.ithome.com/0/997/659.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-02T13:00:51+00:00",
-      "summary": "<p style=\"text-align: left;\">IT之家 9 月 2 日消息，广汽传祺全新方盒子 SUV 越 7 今天（2 日）晚间正式开启预售，新车提供 4 种不同配置，预售价区间为 17.98 万-22.58 万元，预售权益价区间则是 17.18 万-21.78 万元。</p><p style=\"text-align: left;\">IT之家汇总新车主要信息如下：</p><ul cl",
       "is_policy": false
     },
     {
@@ -1628,30 +1772,12 @@
       "is_policy": false
     },
     {
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-01T19:02:54+00:00",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguis",
-      "is_policy": false
-    },
-    {
       "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-01T19:02:45+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>2nd-year PhD candidate here staring down my first A* submission deadline (AAMAS 2027). I could really use some perspective on theory expectations,",
-      "is_policy": false
-    },
-    {
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-01T18:19:26+00:00",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple ",
       "is_policy": false
     },
     {
@@ -1697,24 +1823,6 @@
       "category": "news",
       "published": "2026-09-01T16:31:04+00:00",
       "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "is_policy": false
-    },
-    {
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-01T16:00:52+00:00",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi",
-      "is_policy": false
-    },
-    {
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-01T16:00:00+00:00",
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built a",
       "is_policy": false
     },
     {
@@ -1778,15 +1886,6 @@
       "category": "news",
       "published": "2026-09-01T14:00:00+00:00",
       "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could",
-      "is_policy": false
-    },
-    {
-      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-01T13:00:00+00:00",
-      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smo",
       "is_policy": false
     },
     {
@@ -1862,12 +1961,12 @@
       "is_policy": false
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-31T20:13:45+00:00",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "title": "DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation",
+      "url": "https://huggingface.co/papers/2609.00646",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-31T20:00:00+00:00",
+      "summary": "Commercial short-drama production follows a multi-stage chain: script, storyboard, keyframe imagery, shot-level video, and the finished short drama. Most existing benchmarks evaluate solely the video-",
       "is_policy": false
     },
     {
@@ -1979,30 +2078,12 @@
       "is_policy": true
     },
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-31T19:16:59+00:00",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "is_policy": false
-    },
-    {
       "title": "ACML 2026 Journal Track Any update ?[D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w3n4ig/acml_2026_journal_track_any_update_d/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-08-31T18:53:03+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have submitted a paper to acml 2026 journal track, the official date of release of review is 27 August, but I have not heard anything from them, if anyone received ",
-      "is_policy": false
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-31T18:35:11+00:00",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
       "is_policy": false
     },
     {
@@ -2021,24 +2102,6 @@
       "category": "community",
       "published": "2026-08-31T16:35:42+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sliding Window Attention with sinks, one of the simplest existing fixes for the quadratic-cost problem in LLMs, holds up as well or better than the linear-attention v",
-      "is_policy": false
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-31T16:00:00+00:00",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "is_policy": false
-    },
-    {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-08-31T15:15:25+00:00",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
       "is_policy": false
     },
     {
@@ -2111,6 +2174,24 @@
       "category": "community",
       "published": "2026-08-30T23:24:07+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work.</p> <p>I started using Claude Code for the boring parts: argpar",
+      "is_policy": false
+    },
+    {
+      "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
+      "url": "https://huggingface.co/papers/2608.31082",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-30T20:00:00+00:00",
+      "summary": "Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this dat",
+      "is_policy": false
+    },
+    {
+      "title": "Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You",
+      "url": "https://huggingface.co/papers/2609.00374",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-08-30T20:00:00+00:00",
+      "summary": "Test-time adaptation (TTA) typically assumes that model parameters can be updated at inference time. This assumption is restrictive for inference-only accelerators, frozen or third-party models, and m",
       "is_policy": false
     },
     {
@@ -2249,69 +2330,6 @@
       "is_policy": false
     },
     {
-      "title": "Verification-Aware Training for Speculative Decoding",
-      "url": "https://huggingface.co/papers/2608.30135",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-30T20:00:00+00:00",
-      "summary": "Speculative decoding accelerates large language model inference by using a draft model to generate candidate tokens, which are verified by the target model in a single forward pass. Verification proce",
-      "is_policy": false
-    },
-    {
-      "title": "Normalized Low-Rank Adaptation",
-      "url": "https://huggingface.co/papers/2608.31036",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-30T20:00:00+00:00",
-      "summary": "While low-rank adaptation (LoRA) is widely used for parameter-efficient model adaptation, how to regularize its training dynamics for stable and effective optimization remains underexplored. Because L",
-      "is_policy": false
-    },
-    {
-      "title": "PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback",
-      "url": "https://huggingface.co/papers/2608.30241",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-08-30T20:00:00+00:00",
-      "summary": "Recent efforts have aimed to automate scientific diagram generation from paper content (Lin et al., 2026; Zhu et al., 2026a). However, fully satisfying an author's visual and communicative preferences",
-      "is_policy": false
-    },
-    {
-      "title": "NeurIPS accepted papers leaked? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-30T19:34:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the ",
-      "is_policy": false
-    },
-    {
-      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-30T11:55:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/\"> <img alt=\"[R] Autonomous Mathematical Discovery in an Open-World Multi-",
-      "is_policy": false
-    },
-    {
-      "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-30T07:28:13+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/\"> <img alt=\"Implementing Kimi K3 from scratch in PyTorch [P]\" src=\"h",
-      "is_policy": false
-    },
-    {
-      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-29T20:16:17+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/\"> <img alt=\"You can beat SOTA Time Series Anomaly Detection methods",
-      "is_policy": false
-    },
-    {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "source": "MIT Tech Review",
@@ -2408,15 +2426,6 @@
       "category": "news",
       "published": "2026-08-27T03:00:00+00:00",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "is_policy": false
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "source": "Google DeepMind",
-      "category": "news",
-      "published": "2026-08-26T17:01:00+00:00",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
       "is_policy": false
     }
   ]
