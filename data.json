@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:28:49.157416+00:00",
+  "generated_at": "2026-09-03T20:17:18.659333+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "The agent that grows with you",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/anthropics/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "Public repository for Agent Skills",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "Agent skill that removes signs of AI-generated writing from text",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/google-research/timesfm",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
@@ -75,8 +75,125 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-03T15:28:49+00:00",
+      "published": "2026-09-03T20:17:18+00:00",
       "summary": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
+      "is_policy": false
+    },
+    {
+      "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-03T19:56:27+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: <a href=\"https://f",
+      "is_policy": false
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-03T19:36:29+00:00",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "is_policy": false
+    },
+    {
+      "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-03T19:09:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit.</p> </div><!-- SC_ON --> &#32; submitted by",
+      "is_policy": false
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-03T18:37:57+00:00",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "is_policy": false
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-03T18:19:56+00:00",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-03T18:01:45+00:00",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-03T18:00:00+00:00",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
+      "is_policy": false
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-03T16:09:01+00:00",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "is_policy": false
+    },
+    {
+      "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
+      "url": "https://www.ithome.com/0/998/202.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-03T16:00:06+00:00",
+      "summary": "<p>IT之家 9 月 4 日消息，英伟达今天宣布，<strong>全新 RTX Spark Windows PC 将于 10 月上市</strong>，为 AI 发烧友、开发者提供更多创作方式。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/e8dd",
+      "is_policy": false
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious ",
+      "is_policy": false
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, ",
+      "is_policy": false
+    },
+    {
+      "title": "徕卡发布 Summicron-M 66mm f/2 镜头：1.09 万美元，全球限量 660 枚",
+      "url": "https://www.ithome.com/0/998/201.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-03T15:53:01+00:00",
+      "summary": "<p>IT之家 9 月 3 日消息，徕卡今天宣布推出 Summicron-M 66mm f/2 镜头。这款产品是 20 世纪 60 年代经典名镜 Elcan 66mm f/2 的复刻版，<strong>全球限量 660 枚</strong>，<strong>售价 10,900 美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 73,428",
+      "is_policy": false
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-03T15:35:14+00:00",
+      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
       "is_policy": false
     },
     {
@@ -98,21 +215,30 @@
       "is_policy": false
     },
     {
+      "title": "谷歌 DeepMind 发布 WeatherNext 3：分辨率最高 5 公里，号称全球最先进、精准 AI 天气预报模型",
+      "url": "https://www.ithome.com/0/998/198.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-03T15:15:52+00:00",
+      "summary": "<p>IT之家 9 月 3 日消息，谷歌 DeepMind 和 Google Research 今天宣布推出 <strong>WeatherNext 3</strong> ，号称是目前最先进、最准确的全球气象模型。该模型可直接从实时观测中学习，能够为影响人类的天气事件提供更及时、更本地化的预测。</p><p>该模型可以原始卫星数据为基础，每小时生成一次高分辨率预报，为全球谷歌产品提供可靠的天气预报",
+      "is_policy": false
+    },
+    {
       "title": "辉能宣布 381 Wh/kg 锂陶瓷全固态电池量产",
       "url": "https://www.ithome.com/0/998/196.htm",
       "source": "IT之家",
       "category": "news",
       "published": "2026-09-03T15:09:14+00:00",
-      "summary": "<p>IT之家 9 月 3 日消息，中国台湾地区电池制造商辉能 (ProLogium) 本月 2 日宣布，<strong>其 Gen 3.5 锂陶瓷全固态电池已于其岛内 Giga-level 工业平台量产</strong>。</p><p>辉能的 185.4Ah 大容量电芯<strong>实现了 381 Wh/kg 的能量密度、903 Wh/L 的体积能量密度</strong>，120℃ 真空环境放",
+      "summary": "<p>IT之家 9 月 3 日消息，中国台湾地区电池制造商辉能 (ProLogium) 本月 2 日宣布，<strong>其 Gen 3.5 锂陶瓷全固态电池已于其岛内 Giga-level 工业平台量产</strong>。</p><p>辉能的 185.4Ah 大容量电芯<strong>实现了 381 Wh/kg 的质量能量密度、903 Wh/L 的体积能量密度</strong>，120℃ 真空环",
       "is_policy": false
     },
     {
-      "title": "ChatGPT、Grok、Claude、Cursor 集体突发故障",
+      "title": "（更新：已恢复正常）ChatGPT、Grok、Claude、Cursor 集体突发故障",
       "url": "https://www.ithome.com/0/998/195.htm",
       "source": "IT之家",
       "category": "news",
       "published": "2026-09-03T15:07:21+00:00",
-      "summary": "<p>IT之家 9 月 3 日消息，据IT之家网友投稿反馈，ChatGPT、Grok、Claude、Cursor 等多款 AI 模型今晚突发故障。此外，用户请求 Codex 会出现“404 Not Found”错误。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsu",
+      "summary": "<p>【9 月 4 日 1:13 更新】目前文中提到的模型 / AI 工具官网“Status”主页均显示已经恢复正常。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/307b10d9-15e8-42e3-a698-ca89afa",
       "is_policy": false
     },
     {
@@ -175,7 +301,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-03T15:00:00+00:00",
-      "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior mo",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
       "is_policy": false
     },
     {
@@ -357,33 +483,6 @@
       "published": "2026-09-03T13:31:51+00:00",
       "summary": "<p>IT之家 9 月 3 日消息，小红书官方账号“薯管家”今日发布《关于 AI 制作医美、民宿等虚假内容治理公告》，宣布将 AI 制作发布虚假内容纳入常态化治理。</p><p>IT之家从公告获悉，小红书近期发现部分账号利用 AI 生成虚假体验笔记，用 AI 生成或拼接的图片伪造实景，<strong>杜撰探店、住宿、就医、美容等使用体验等内容</strong>，误导用户决策。</p><p>小红书积",
       "is_policy": true
-    },
-    {
-      "title": "FREELANDER 神行者 8 正式上市：标配华为乾崑智驾 ADS 5，权益价 28.99 万-37.99 万元",
-      "url": "https://www.ithome.com/0/998/156.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-03T13:24:59+00:00",
-      "summary": "<p>IT之家 9 月 3 日消息，奇瑞捷豹路虎 FREELANDER 神行者 8 今天（3 日）晚间正式上市，新车全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片；全系标配 800V 高压平台。</p><table class=\"table_news\"><tbody><tr class=\"firstRow\"><td>车型</td><td>上市指导价（万元）</",
-      "is_policy": false
-    },
-    {
-      "title": "小米汽车出海首站为何选欧洲？卢伟冰称采用“先难后易”战略",
-      "url": "https://www.ithome.com/0/998/155.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-03T13:18:44+00:00",
-      "summary": "<p>IT之家 9 月 3 日消息，在今晚的“直击 IFA 国际消费电子展 —— 卢伟冰现场直播”中，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰回应了小米汽车出海为何先选择了欧洲。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2",
-      "is_policy": false
-    },
-    {
-      "title": "沪宁合高铁沪宁段铺轨施工启动，全长约 554 公里、设计时速 350 公里",
-      "url": "https://www.ithome.com/0/998/154.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-03T13:18:23+00:00",
-      "summary": "<p>IT之家 9 月 3 日消息，据中国铁路官方，9 月 3 日，在江苏省南通市通泰扬特大桥施工现场，随着首对 500 米长钢轨在铺轨机牵引下缓缓牵出、精准落位，<strong>新建上海至南京至合肥高速铁路沪宁段</strong>（以下简称“沪宁合高铁沪宁段”）铺轨施工正式启动。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" ",
-      "is_policy": false
     },
     {
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
@@ -1664,15 +1763,6 @@
       "is_policy": false
     },
     {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-02T15:47:03+00:00",
-      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds",
-      "is_policy": false
-    },
-    {
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
       "source": "TechCrunch AI",
@@ -1709,24 +1799,6 @@
       "is_policy": false
     },
     {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-02T14:35:03+00:00",
-      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported ",
-      "is_policy": false
-    },
-    {
-      "title": "NYC bans AI use for students until they reach high school",
-      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-02T14:30:00+00:00",
-      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w",
-      "is_policy": true
-    },
-    {
       "title": "Adobe acquires Indian market intelligence startup Rilo",
       "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
       "source": "TechCrunch AI",
@@ -1751,15 +1823,6 @@
       "category": "news",
       "published": "2026-09-02T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you f",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-02T12:09:42+00:00",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
       "is_policy": false
     },
     {
@@ -1814,42 +1877,6 @@
       "category": "community",
       "published": "2026-09-02T02:15:07+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for produ",
-      "is_policy": false
-    },
-    {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-01T22:50:29+00:00",
-      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange",
-      "is_policy": false
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-01T22:08:24+00:00",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-01T21:06:24+00:00",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "is_policy": false
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-01T20:53:05+00:00",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
       "is_policy": false
     },
     {
@@ -1943,15 +1970,6 @@
       "is_policy": false
     },
     {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-01T19:39:22+00:00",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "is_policy": false
-    },
-    {
       "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
       "source": "r/MachineLearning",
@@ -1976,15 +1994,6 @@
       "category": "community",
       "published": "2026-09-01T19:02:45+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>2nd-year PhD candidate here staring down my first A* submission deadline (AAMAS 2027). I could really use some perspective on theory expectations,",
-      "is_policy": false
-    },
-    {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-01T17:35:37+00:00",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
       "is_policy": false
     },
     {
@@ -2294,15 +2303,6 @@
       "is_policy": false
     },
     {
-      "title": "How to assess if there is a strong signal in your dirty data [Project]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-31T12:02:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm sharing this new tabular data diagnostic tool (Entropic Scree). It can be used to estimate these properties of your high-d, real-world, dirty dataset:</p> <ul> <l",
-      "is_policy": false
-    },
-    {
       "title": "Good Machine Learning Posters [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
       "source": "r/MachineLearning",
@@ -2384,15 +2384,6 @@
       "is_policy": false
     },
     {
-      "title": "NeurIPS accepted papers leaked? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-08-30T19:34:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the ",
-      "is_policy": false
-    },
-    {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI Blog",
@@ -2408,15 +2399,6 @@
       "category": "news",
       "published": "2026-08-28T02:00:00+00:00",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "is_policy": false
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "Google DeepMind",
-      "category": "news",
-      "published": "2026-08-27T16:11:32+00:00",
-      "summary": "",
       "is_policy": false
     }
   ]
