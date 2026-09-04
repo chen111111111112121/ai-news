@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:26:42.059353+00:00",
+  "generated_at": "2026-09-04T20:02:01.876000+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/anthropics/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "Public repository for Agent Skills",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "Agent skill that removes signs of AI-generated writing from text",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "The agent that grows with you",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/google-research/timesfm",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "is_policy": false
     },
@@ -75,7 +75,7 @@
       "url": "https://github.com/radixark/miles",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
       "is_policy": false
     },
@@ -84,8 +84,71 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-04T15:26:42+00:00",
+      "published": "2026-09-04T20:02:01+00:00",
       "summary": "The open source coding agent.",
+      "is_policy": false
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-09-04T18:39:19+00:00",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "is_policy": false
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-04T17:51:35+00:00",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW",
+      "is_policy": false
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-04T17:18:00+00:00",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a ",
+      "is_policy": false
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-04T16:21:11+00:00",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-04T16:05:57+00:00",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it",
+      "is_policy": false
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-04T16:04:08+00:00",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a ",
+      "is_policy": false
+    },
+    {
+      "title": "理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线",
+      "url": "https://www.ithome.com/0/998/624.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-04T15:32:45+00:00",
+      "summary": "<p>IT之家 9 月 4 日消息，9 月 3 日，芯联集成与理想签订新一轮战略合作协议，双方共同见证 8 英寸碳化硅晶圆成功下线，开启深化合作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/46aa96d3-8bf1-448",
       "is_policy": false
     },
     {
@@ -386,15 +449,6 @@
       "is_policy": false
     },
     {
-      "title": "2026 科隆游戏展多家独立开发商设备失窃，主办方连发两次声明回应",
-      "url": "https://www.ithome.com/0/998/585.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-04T12:08:19+00:00",
-      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\">IT之家 9 月 4 日消息，今年科隆游戏展举行期间，多家参展独立游戏开发商遭遇设备失窃，笔记本电脑、掌机乃至 VR 头显都被人从展馆内偷走，而这些设备当时本应处于安保人员的看管之下。<span class=\"PDq2pG_selectionAnchor\"></span></p><p>随后有消息称，盗窃事件发生在",
-      "is_policy": false
-    },
-    {
       "title": "Instagram’s AI detection is a mess (again)",
       "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
       "source": "The Verge AI",
@@ -446,15 +500,6 @@
       "category": "news",
       "published": "2026-09-04T09:25:19+00:00",
       "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "is_policy": false
-    },
-    {
-      "title": "How does one approach towards machine learning?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w6z6kz/how_does_one_approach_towards_machine_learningd/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-04T09:10:43+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I honestly am so confused rn as the ml community is overburst with people only caring about building rag modules and agentic ai for larger corporations.</p> <p>I have",
       "is_policy": false
     },
     {
@@ -1673,24 +1718,6 @@
       "is_policy": false
     },
     {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-03T16:00:00+00:00",
-      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, ",
-      "is_policy": false
-    },
-    {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-03T15:35:14+00:00",
-      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
-      "is_policy": false
-    },
-    {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "Google DeepMind",
@@ -1745,21 +1772,21 @@
       "is_policy": false
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "is_policy": false
-    },
-    {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-09-03T12:00:00+00:00",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "is_policy": false
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "is_policy": false
     },
     {
@@ -2015,24 +2042,6 @@
       "is_policy": false
     },
     {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-02T17:09:57+00:00",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
-      "is_policy": false
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-02T17:09:06+00:00",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t",
-      "is_policy": false
-    },
-    {
       "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
       "source": "r/MachineLearning",
@@ -2057,15 +2066,6 @@
       "category": "news",
       "published": "2026-09-02T16:18:31+00:00",
       "summary": "",
-      "is_policy": false
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-02T16:04:10+00:00",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
       "is_policy": false
     },
     {
@@ -2312,15 +2312,6 @@
       "is_policy": false
     },
     {
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-09-01T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’",
-      "is_policy": false
-    },
-    {
       "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "source": "OpenAI Blog",
@@ -2390,6 +2381,15 @@
       "category": "papers",
       "published": "2026-08-31T20:00:00+00:00",
       "summary": "Compact token sequences are essential for efficient 3D generation. However, existing 3D tokenizers typically organize latent representations either over spatial regions or as fixed-size sets of global",
+      "is_policy": false
+    },
+    {
+      "title": "Sliding-window attention beats linear on long-context reasoning [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-08-31T16:35:42+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sliding Window Attention with sinks, one of the simplest existing fixes for the quadratic-cost problem in LLMs, holds up as well or better than the linear-attention v",
       "is_policy": false
     },
     {
