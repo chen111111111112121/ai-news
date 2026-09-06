@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:54:46.676289+00:00",
+  "generated_at": "2026-09-06T14:37:48.143724+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,17 +12,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
+      "published": "2026-09-06T14:37:48+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "is_policy": false
-    },
-    {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
     {
@@ -30,17 +21,17 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
+      "published": "2026-09-06T14:37:48+00:00",
       "summary": "The agent that grows with you",
       "is_policy": false
     },
     {
-      "title": "anthropics / skills",
-      "url": "https://github.com/anthropics/skills",
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
-      "summary": "Public repository for Agent Skills",
+      "published": "2026-09-06T14:37:48+00:00",
+      "summary": "Skills Catalog for Codex",
       "is_policy": false
     },
     {
@@ -48,17 +39,8 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
+      "published": "2026-09-06T14:37:48+00:00",
       "summary": "The open source coding agent.",
-      "is_policy": false
-    },
-    {
-      "title": "ruvnet / ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
-      "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
       "is_policy": false
     },
     {
@@ -66,17 +48,26 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
+      "published": "2026-09-06T14:37:48+00:00",
       "summary": "Agent skill that removes signs of AI-generated writing from text",
       "is_policy": false
     },
     {
-      "title": "WorldFlowAI / everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
-      "summary": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "published": "2026-09-06T14:37:48+00:00",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "is_policy": false
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-06T14:37:48+00:00",
+      "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
       "is_policy": false
     },
     {
@@ -84,8 +75,251 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T09:54:46+00:00",
+      "published": "2026-09-06T14:37:48+00:00",
       "summary": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
+      "is_policy": false
+    },
+    {
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-06T14:37:48+00:00",
+      "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "is_policy": false
+    },
+    {
+      "title": "aipoch / open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-06T14:37:48+00:00",
+      "summary": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible",
+      "is_policy": false
+    },
+    {
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-06T14:37:48+00:00",
+      "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "is_policy": false
+    },
+    {
+      "title": "诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无",
+      "url": "https://www.ithome.com/0/999/042.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T14:37:44+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据卫报报道，午休期间，吉尔 · 森内特看到了一些让她完全提不起食欲的东西，于是忍不住分享给自己在 X 平台上的 2.6 万名粉丝：一家牙买加烧烤快闪餐厅使用人工智能生成的菜单图片，里面的肉看起来像是一条条皮带，上面还爬满了细小的甲虫。</p><p>这些图片随后被 500 多人转发，许多人同样表达了厌恶之情。现年 37 岁、居住在丹佛的护士森内特表示，吃饭“是人类",
+      "is_policy": false
+    },
+    {
+      "title": "小米卢伟冰预告明晚发布会有惊喜，雷军讲全场",
+      "url": "https://www.ithome.com/0/999/041.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T14:30:11+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，小米集团合伙人、总裁卢伟冰今晚发文称：“彩排结束，内容很丰富，<strong>还有惊喜</strong>。”此外，他还在评论区透露本次发布会不会登场，<strong>雷军将讲全场</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
+      "is_policy": false
+    },
+    {
+      "title": "长安汽车响应《汽车行业境外竞争行为与合规建设指引》：将以更高标准推进海外合规建设",
+      "url": "https://www.ithome.com/0/999/040.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T14:20:36+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，9 月 1 日，商务部、工业和信息化部、市场监管总局三部门发布《<a href=\"https://www.ithome.com/0/996/965.htm\" target=\"_blank\">汽车行业境外竞争行为与合规建设指引</a>》。</p><p>《汽车行业境外竞争行为与合规建设指引》为从事国际化生产经营活动的中国汽车行业企业在境外发生的市场竞争等生产经营行为",
+      "is_policy": true
+    },
+    {
+      "title": "联想来酷 Air 16 酷睿版笔记本开启预约，国补到手价 3314.15 元起",
+      "url": "https://www.ithome.com/0/999/039.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T14:11:29+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，联想来酷 Air 16 酷睿版笔记本今日开启预约，9 月 10 日 20:00 &nbsp;正式开售，国补到手价 3314.15 元起。</p><p>据介绍，该产品约 1.28kg 轻盈全金属机身，超薄约 13.3mm，采用 16 英寸黄金尺寸，提供凝霜银、暮霞紫、涧云蓝配色，支持 3 挡背光调节、1.2mm 键程。该产品搭载第三代英特尔酷睿处理器，Intel ",
+      "is_policy": false
+    },
+    {
+      "title": "AI 短剧爆发带火“人脸授权”，普通人数字肖像价格约每部 100 元",
+      "url": "https://www.ithome.com/0/999/037.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T14:06:14+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据央视财经报道，随着 AI 短剧、数字广告产业快速扩张，<strong>数字人脸素材采购需求持续高涨</strong>。</p><p>一门特殊的生意 ——“人脸授权”也因此火了起来。不用出镜拍戏、无需线下试镜，<strong>依靠自己的面部形象就能赚取收益</strong>。</p><p>IT之家从报道获悉，平台工作人员表示，根据授权人不同，AI 数字形象分为普",
+      "is_policy": false
+    },
+    {
+      "title": "科技巨头密集更新 AI 模型，“模型疲劳”问题凸显",
+      "url": "https://www.ithome.com/0/999/036.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T13:44:18+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据 CNBC 报道，本周，人工智能行业再次迎来一轮密集更新。首先是 Anthropic 更新了 Fable 和 Mythos 模型，随后 Meta 和谷歌相继推出模型升级，OpenAI 紧接着发布了 GPT-6 Astra。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:",
+      "is_policy": false
+    },
+    {
+      "title": "便携式甲醛检测仪号称精度 99.9%？科普提醒多数产品检测结果不可信",
+      "url": "https://www.ithome.com/0/999/035.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T13:35:23+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，新房装修过后，不少家庭担心室内甲醛超标，便携式甲醛检测仪凭借小巧便携、操作简单的特点，成为电商平台的热销商品。部分商家大肆宣传产品“精准度高达 99.9%”，声称可以精准测出室内甲醛浓度。对此，“科学辟谣”公众号今日进行了科普。</p><p>文章称，<strong>这种说法没有科学依据</strong>。网上的便携式甲醛检测仪很难精确测量甲醛的浓度，而且测量结果",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪：今年受电池产能制约，闪充太受欢迎",
+      "url": "https://www.ithome.com/0/999/034.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T13:29:43+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，比亚迪于 9 月 4 日发布投资者关系活动记录表，其中指出，今年受电池产能制约，闪充太受欢迎。</p><ul class=\" list-paddingleft-2\"><li><p>问题：如果以 5 年为角度，公司新兴业务的发展节奏大概会是怎样的？</p></li></ul><blockquote><p>答：储能相对来讲前景很清晰，尤其是 AI 数据中心的发展，公",
+      "is_policy": false
+    },
+    {
+      "title": "《文明 7》公布更新计划：2027 年推免费大更新 + 首个付费 DLC",
+      "url": "https://www.ithome.com/0/999/033.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T13:21:58+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，在 PAX West 游戏展上，为庆祝《文明》系列迎来 35 周年，2K 与 Firaxis Games 今日公布了《席德 · 梅尔的文明 VII》（Sid Meier's Civilization VII）的后续更新计划。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:",
+      "is_policy": false
+    },
+    {
+      "title": "帕拉丁也要出“方盒子”SUV？东风日产副总经理王骞发文暗示",
+      "url": "https://www.ithome.com/0/999/030.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T13:08:59+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，近日，有博主表示希望复活一台方盒子帕拉丁。对此，东风日产汽车销售有限公司副总经理王骞进行了转发，并表示：“<strong>收到！许愿池已开启</strong>”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfile",
+      "is_policy": false
+    },
+    {
+      "title": "深光影像 AF 35mm F2.2 相机镜头新增富士 X 卡口，699 元起",
+      "url": "https://www.ithome.com/0/999/027.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T12:36:06+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，深光影像宣布，AF 35mm F2.2 相机镜头新增富士 X 卡口，将于 9 月 7 日 10:00 开售，<strong>售价 699 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p>黑色：699 元</p></li><li><p>银色：739 元</p></li></ul><p style=\"te",
+      "is_policy": false
+    },
+    {
+      "title": "“阳台太阳能”在美国市场兴起，多州放宽部署限制",
+      "url": "https://www.ithome.com/0/999/026.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T12:32:52+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，DIY 插电式太阳能套装，有时也被称为“阳台太阳能”，已经在欧洲安全、高效地运行了多年，如今也正在逐步进入美国市场，让更多普通家庭能够参与能源生产。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
+      "is_policy": false
+    },
+    {
+      "title": "我国已建成高效完备的动力电池产业体系，下一步将突破全固态电池等技术",
+      "url": "https://www.ithome.com/0/999/025.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T12:25:45+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据央视网今日报道，记者从工业和信息化部获悉，目前，我国已建成高效完备的动力电池产业体系。最新数据显示，2026 年 1—7 月份，我国动力电池产业保持良好增长态势，累计销量达到 790.4 吉瓦时，同比增长 37.1%。</p><p>此外，在电池产品的创新水平上，我国的<strong>磷酸铁锂、三元</strong>电池能量密度不断提升，高倍率快充电池加速应用，",
+      "is_policy": false
+    },
+    {
+      "title": "《GT 赛车 7》将推出 Spec IV 大型更新：分两阶段上线，迎接系列 30 周年",
+      "url": "https://www.ithome.com/0/999/024.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T12:14:14+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，《Gran Turismo 7》（GT 赛车 7）公布了大型 Spec IV 更新，将加入多款新车、新赛道以及全新的游戏模式。此次更新将分为两个阶段推出，分别安排在 2026 年 10 月和 12 月。《Gran Turismo 7》此前已预告，Spec IV 更新将成为系列周年庆典的一部分。</p><p style=\"text-align: center;\">",
+      "is_policy": false
+    },
+    {
+      "title": "中核集团首个海上风电项目首桩入海，年供能 10.34 亿千瓦时",
+      "url": "https://www.ithome.com/0/999/022.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T12:09:30+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，9 月 4 日，中核集团首个海上风电项目 —— 湛江徐闻东二海上风电项目首根大型钢管桩完成精准沉桩，标志着该项目海上主体工程进入实质性施工阶段。</p><p>IT之家从公告获悉，此次沉桩的 1 号机位钢管桩是本项目最长的单桩，施工精度要求极高，<strong>垂直度偏差不得超过 3‰</strong>。为确保沉桩任务万无一失，项目团队科学精准勘察，优化施工组织方",
+      "is_policy": false
+    },
+    {
+      "title": "索尼 2028 年停产游戏光盘，但全球仍有 62% 的国家和地区无法使用 PSN 服务",
+      "url": "https://www.ithome.com/0/999/021.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T12:01:45+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，索尼已经宣布，从 2028 年开始将停止生产实体光盘，未来的 PlayStation 主机将逐步转向纯数字化模式。这一决定本身已经引发争议，而更令人难以接受的是，目前全球仍有 121 个国家和地区无法正式使用 PlayStation Network（PSN）账户，约占全球国家和地区总数的 62%。</p><p style=\"text-align: center;",
+      "is_policy": false
+    },
+    {
+      "title": "2026 WSBK 法国站第二回合：张雪机车德比斯再获季军",
+      "url": "https://www.ithome.com/0/999/020.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T11:33:41+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，2026 世界超级摩托车锦标赛（WSBK）法国站 WorldSSP 组别次回合正赛今日在法国讷韦尔-马尼库尔赛道举行，比赛进行到还剩 8 圈时一度红旗中断，重新发车后排在第二的张雪机车 53 号车手瓦伦丁 · 德比斯最终完成 5 圈比赛拿下第三名，继第一回合季军登台后本赛季第 8 次登上领奖台。IT之家注意到，另一位张雪机车车手卡里卡苏洛，以第 8 名的成绩同样",
+      "is_policy": false
+    },
+    {
+      "title": "JPR：2026 二季度 PC 市场需求疲软，独立 GPU 出货量逆势增长 12.2%",
+      "url": "https://www.ithome.com/0/999/018.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T11:28:38+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，尽管个人电脑市场出现季节性放缓，且内存短缺导致组件成本上升，但第二季度独立显卡出货量仍实现增长。考虑到第二季度通常比第一季度表现更弱，这一增长尤其值得关注。与此同时，内存短缺已经推高了 PC 厂商和消费者的成本，尤其是搭载高端显卡的 PC 产品受到的影响更为明显。</p><p style=\"text-align: center;\"><img class=\"no-",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪、理想、北汽集团等多家车企预祝小米澎程上市成功，雷军发文致谢",
+      "url": "https://www.ithome.com/0/999/017.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T11:28:31+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，今日，比亚迪、理想汽车、深蓝汽车、长安汽车、凯迪拉克、北汽集团等车企纷纷在微博发文，预祝小米澎程上市成功。对此，小米创办人，董事长兼 CEO 雷军发文致谢：“感谢所有的朋友们，谢谢大家！”</p><p>从雷军公布的截图看，共 54 个微博账号为小米澎程送出祝福。除了大家熟悉的汽车品牌外，欣旺达、中创新航、东安动力、禾赛科技、宇树科技、快手、百度、飞书等品牌也进行",
+      "is_policy": false
+    },
+    {
+      "title": "首发 389 → 311 元：小米 1.5L 米家破壁机 3 预售，可拆刀座轻松洗",
+      "url": "https://www.ithome.com/0/999/016.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T11:23:10+00:00",
+      "summary": "<p>小米新一代米家破壁机 3 现已开启预售，主打可拆洗刀座设计与多重降噪结构，京东售价 389 元，叠加国补后到手价 330.65 元起。</p><p>晒单返 20 元京豆，折合仅需 310.65 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xOa1MsK\" target=\"_blank\"><span class=\"c",
+      "is_policy": false
+    },
+    {
+      "title": "微软借力 AI 重塑 Win11 应用生态：30 分钟即可生成 WinUI 原生应用",
+      "url": "https://www.ithome.com/0/999/015.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T11:17:12+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，在普遍认为企业还不知道该如何真正利用 AI 的当下，微软却已经制定了一套计划：借助 AI，让更多原生 WinUI 应用进入 Microsoft Store。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2",
+      "is_policy": false
+    },
+    {
+      "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+      "url": "https://www.ithome.com/0/999/014.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T10:51:36+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据 Windows Latest 报道，微软希望 Windows 重新赢得用户喜爱，并正在采取一系列措施改善这款操作系统。该系统将迎来可移动的任务栏，甚至还有不再依赖 Bing 的 Windows 搜索。不过，这是否意味着微软会从 Windows 11 中彻底淡化 AI，把精力重新放在稳定性和质量上？当然不是。未来只是不会再把重点放在 Copilot 按钮上。<",
+      "is_policy": false
+    },
+    {
+      "title": "大众与众 08 猎影版车型已陆续登陆全国门店：预售价 23 万元，9 月 12 日上市",
+      "url": "https://www.ithome.com/0/999/012.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T10:34:39+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，大众安徽今日宣布，<strong>与众 08 猎影版已陆续登陆全国门店</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/0198003d-a003-4071-9eda-0ee",
+      "is_policy": false
+    },
+    {
+      "title": "2026 世界动力电池大会重大标志性技术成果公布：超快充动力电池技术、高比能混合固液电池技术等",
+      "url": "https://www.ithome.com/0/999/011.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T10:02:10+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据新浪汽车今日报道，2026 世界动力电池大会上，欧阳明高院士发布电池领域重大标志性技术成果：</p><ul class=\" list-paddingleft-2\"><li><p>超快充动力电池技术：实现十分钟左右安全快充。</p></li><li><p>高比能混合固液电池技术：实现 350Wh/kg 高比能高安全电池规模化生产。</p></li><li><p>",
       "is_policy": false
     },
     {
@@ -152,228 +386,12 @@
       "is_policy": false
     },
     {
-      "title": "微软 10 月终止 Office 2021 支持，第三方推出付费非官方续命补丁",
-      "url": "https://www.ithome.com/0/998/998.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:15:54+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，今年 10 月，微软将正式终止对多款 Windows 和 Office 产品的支持，其中包括 Windows 11 24H2、Windows Server 2022 以及 Office LTSC 2021。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ith",
-      "is_policy": false
-    },
-    {
-      "title": "阿里千问开源 Qwen-Drive-1.0-4B：首个面向自动驾驶的视觉语言基础模型",
-      "url": "https://www.ithome.com/0/998/997.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:15:06+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，阿里千问本周开源了 Qwen-Drive-1.0-4B，这是一款基于 Qwen3.5-4B 构建的自动驾驶视觉语言模型。</p><p>官方表示，Qwen-Drive-1.0 是<strong>首个面向自动驾驶的视觉语言基础模型</strong>，在预训练阶段统一了 3D 感知与视觉问答，并进一步扩展至运动规划，同时完全保留了预训练 VLM 的原始架构。</p><",
-      "is_policy": false
-    },
-    {
-      "title": "三星 Galaxy S27 Pro / Ultra 手机获 3C 认证，支持 60W 有线快充",
-      "url": "https://www.ithome.com/0/998/996.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:58:31+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，三星计划于明年年初推出四款高端旗舰手机，分别为 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 和 Galaxy S27 Ultra。目前，这几款手机的大部分规格已经陆续曝光，而 Galaxy S27 Pro 的有线充电速度如今也浮出水面。</p><p style=\"text-align: center;\"><img class=\"n",
-      "is_policy": false
-    },
-    {
-      "title": "加南科技预告新款屏显 AI 眼镜：整机 26g、无边框设计，计划 2027 年春季发布",
-      "url": "https://www.ithome.com/0/998/995.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:57:24+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，加南科技本周预告了新款<strong>屏显 AI 眼镜</strong>，称新品正在加速产品化进程，计划于 <strong>2027 年春季</strong>正式发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
-      "is_policy": false
-    },
-    {
-      "title": "央视解码手机回收：一台现代手机黄金含量仅 0.02—0.03 克",
-      "url": "https://www.ithome.com/0/998/993.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:56:23+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，今日，央视《身边的大循环》系列报道解码手机回收背后的资源大循环，回应了网上一直流传“一吨废旧手机能提炼 200 克黄金”的说法。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/0e2b7ae7",
-      "is_policy": false
-    },
-    {
-      "title": "SEMI：2026 年第二季度全球半导体设备出货金额 405.3 亿美元同比增长 23%，连续两季度创新高",
-      "url": "https://www.ithome.com/0/998/992.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:41:43+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，国际半导体产业协会 SEMI 发布《全球半导体设备市场报告》显示，2026 年第二季度全球半导体设备出货金额<strong>同比增长 23%</strong>，达到 405.3 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 2,729.46 亿元人民币）</span>，<strong>环比增长 11%</stro",
-      "is_policy": false
-    },
-    {
-      "title": "马斯克：特斯拉 Cybercab 电机没有使用稀土金属，且续航不打折",
-      "url": "https://www.ithome.com/0/998/991.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:28:28+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，在本周低调举行的 Cybercab 活动上，特斯拉还展示了一项新的技术成果：一款不使用稀土材料的 Cybercab 电机。据称，这款电机在功率密度和效率方面都有明显提升。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsupload",
-      "is_policy": false
-    },
-    {
-      "title": "理想汽车回应雷军：增程不是路线之争，而是从用户需求出发、解决真实使用场景的产品选择",
-      "url": "https://www.ithome.com/0/998/987.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:19:58+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，小米创办人、董事长兼 CEO 雷军今日发文表示，增程还是纯电，没有技术路线的绝对优劣，只有产品体验的高下之分。雷军认为，增程汽车，大有可为！雷军称这不仅仅是小米的观点，<strong>事实上理想汽车等同行也不断证明，用户愿意为优秀的增程汽车买单</strong>。</p><p>对此，理想汽车进行了转发，并回应称：</p><blockquote><p>增程不是路线",
-      "is_policy": false
-    },
-    {
-      "title": "特斯拉 Cybercab 确认不支持交流充电，仅支持直流快充",
-      "url": "https://www.ithome.com/0/998/970.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:15:43+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，在一款完全围绕商业车队运营需求打造的汽车上，为了降低成本、提高可靠性，一些传统汽车配置往往会被直接取消。对于普通消费者来说，在家安装交流充电桩已经是相当常见的事情，但特斯拉专门打造的双座自动驾驶汽车 Cybercab 却完全没有提供这种充电能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" ",
-      "is_policy": false
-    },
-    {
-      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
-      "url": "https://www.ithome.com/0/998/949.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:09:13+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月上市，官方现已陆续公布新机的合作厂商，包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等等。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
-      "is_policy": false
-    },
-    {
-      "title": "华为 Pura X Max 阔折叠手机新配色曝光：含波尔多红，采用纯色无花纹设计",
-      "url": "https://www.ithome.com/0/998/948.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:04:25+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，<strong>华为 Pura X Max 阔折叠手机新配色外观曝光</strong>，消息称将在明天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上正式亮相。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
-      "is_policy": false
-    },
-    {
-      "title": "多位储能业内人士：有关部门正全面摸底产能，企业新建产能项目审批暂缓",
-      "url": "https://www.ithome.com/0/998/947.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:03:09+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据财联社从多位产业链人士获悉，针对当前储能行业产能过剩风险加剧，有关部门近期正全面摸排现有及规划中的产能底数，<strong>储能电芯是重点领域之一</strong>，对尚处规划阶段、未正式开工的项目暂缓审批和推进，已备案且在建的项目不受影响。</p><p>据多位业内人士了解，此次收紧并非全面叫停，<strong>后续有望根据市场实际需求动态调整</strong",
-      "is_policy": false
-    },
-    {
-      "title": "全新一代智己 LS6“象灰米”内饰官图公布，展车陆续到店",
-      "url": "https://www.ithome.com/0/998/946.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T08:00:09+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，智己汽车今日公布全新一代智己 LS6“拉斐尔茶 × 象灰米”外观官图，全国展车陆续到店。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://qimg.ithome.com/newfiles/2026/9/73b08756-a472-40b9-9c8b-fbad9f28e8",
-      "is_policy": false
-    },
-    {
-      "title": "网友“手搓”Apple Music 鸿蒙版应用：适配沉浸光感特性，上架时间待定",
-      "url": "https://www.ithome.com/0/998/945.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:51:43+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据B站 UP 主 @Jerry的鸿蒙开发日常 分享，<strong>其在华为鸿蒙 HarmonyOS 系统上开发了一款三方 Apple Music 应用</strong>，具体上架时间待定。</p><p style=\"text-align: center;\"></p><p style=\"text-align: center;\"></p><p>该开发者表示，目前这",
-      "is_policy": false
-    },
-    {
-      "title": "AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场",
-      "url": "https://www.ithome.com/0/998/943.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:44:02+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据央视财经报道，今年以来，AI 短剧迎来一轮爆发：技术门槛下降，大量从业者涌入，产能快速扩张，制作价格随之“跳水”。</p><p>同样制作 AI 短剧，<strong>每分钟报价从 5000 元跌至几百元，逼近成本线</strong>；但定制短剧业务依旧可以达到每分钟 1 万 ‑ 2 万元。当“会制作”不再是稀缺能力，AI 短剧行业竞争正从拼产量、拼价格，<st",
-      "is_policy": false
-    },
-    {
-      "title": "澳门轻轨将更换闸机，未来支持微信 / 支付宝、交通联合卡扫码或刷卡乘车",
-      "url": "https://www.ithome.com/0/998/942.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:34:13+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，澳门特别行政区政府今天宣布，澳门轻轨将更换具有多元电子支付功能的闸机。首阶段工作本月起在协和医院站及横琴线莲花站率先启动，然后逐步扩展至其他车站，力争年底前全线完成更换工作、投入试运，日后全线车站将新旧闸机共同运作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://im",
-      "is_policy": false
-    },
-    {
       "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-06T07:33:50+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, ",
-      "is_policy": false
-    },
-    {
-      "title": "商家隐瞒关键信息致消费者错失购车补贴，法院判赔 1.3 万元",
-      "url": "https://www.ithome.com/0/998/941.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:33:07+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，当下各地陆续推出汽车“以旧换新”补贴政策，不少消费者把能否享受补贴作为购车重要考量。部分汽车经销商为促成订单，在自身并不具备补贴经销资质的情况下，口头向消费者承诺可以申领补贴，事后却无法兑现，由此引发多起汽车买卖合同纠纷。</p><p>据人民法院报 9 月 4 日报道，近日，广东省深圳市南山区人民法院审结一起买卖合同纠纷案，认定汽车销售公司未履行如实告知义务，存",
-      "is_policy": true
-    },
-    {
-      "title": "马斯克：特斯拉 Cybercab 未来可连接 PlayStation / Xbox",
-      "url": "https://www.ithome.com/0/998/940.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:31:27+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，没有方向盘、踏板和其他需要人工操控的部件，乘坐自动驾驶汽车意味着乘客可以彻底摆脱驾驶任务，将原本花在开车上的时间用于其他事情。特斯拉显然准备在专为自动驾驶设计的 Cybercab 上进一步强化娱乐体验。按照埃隆 · 马斯克的最新说法，未来乘客甚至可能可以将游戏设备直接连接到车内屏幕。</p><p style=\"text-align: center;\"><img ",
-      "is_policy": false
-    },
-    {
-      "title": "小米雷军谈“增程汽车大有可为”：理想等同行也不断证明，用户愿意为优秀的增程汽车买单",
-      "url": "https://www.ithome.com/0/998/939.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:26:23+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，小米创办人，董事长兼 CEO 雷军今日发文表示，增程还是纯电，没有技术路线的绝对优劣，<strong>只有产品体验的高下之分</strong>。</p><p>雷军认为，增程汽车，大有可为！雷军称这不仅仅是小米的观点，事实上<strong>理想汽车等同行也不断证明，用户愿意为优秀的增程汽车买单</strong>。</p><p style=\"text-align: ",
-      "is_policy": false
-    },
-    {
-      "title": "我国动力电池 2026 年 1‑7 月累计销量 790.4 吉瓦时，同比增长 37.1%",
-      "url": "https://www.ithome.com/0/998/937.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:20:55+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据央视财经报道，今年以来，我国动力电池产业发展势头强劲。工业和信息化部装备工业发展中心课题组近期发布动力电池产业发展指数，全方位展现产业发展成效。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/2258727970/RgPqRk1m",
-      "is_policy": false
-    },
-    {
-      "title": "国内首款 AI 辅助创新药艾普司韦获批上市",
-      "url": "https://www.ithome.com/0/998/936.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:14:03+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据西湖大学微信公众号消息，由西湖大学、西湖实验室、西湖制药联合研发的创新药 —— 盐酸伊司特韦片（商品名：艾普司韦）近期正式获得国家药品监督管理局附条件批准上市。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfile",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI 应用研究主管谈空间推理，称 Astra 模型已补上人类少数优势",
-      "url": "https://www.ithome.com/0/998/935.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:12:57+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，OpenAI 应用研究主管鲍里斯 · 鲍尔（Boris Power）今天在 X 平台表示，<strong>空间推理曾是人类大幅领先计算机的少数优势之一</strong>，如今有了 Astra 模型，这一差距已不复存在。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://i",
-      "is_policy": false
-    },
-    {
-      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
-      "url": "https://www.ithome.com/0/998/934.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:10:22+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，雷鸟今日宣布推出鹤 6 Ultra 竞技款电视，现已在京东开启预售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p>75 英寸：760 个 Mini LED ",
-      "is_policy": false
-    },
-    {
-      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
-      "url": "https://www.ithome.com/0/998/933.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T07:08:53+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，特斯拉已开始逐步推送 FSD v14.3.9（监督版），新版本加入了一层主动安全机制，即使车辆当前由驾驶员手动驾驶，该功能也可以在必要时接管车辆。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9",
       "is_policy": false
     },
     {
