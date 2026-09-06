@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:37:48.143724+00:00",
+  "generated_at": "2026-09-06T19:45:55.901102+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "The agent that grows with you",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/openai/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Skills Catalog for Codex",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "The open source coding agent.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Agent skill that removes signs of AI-generated writing from text",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
       "is_policy": false
     },
@@ -75,7 +75,7 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
       "is_policy": false
     },
@@ -84,7 +84,7 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "is_policy": false
     },
@@ -93,7 +93,7 @@
       "url": "https://github.com/aipoch/open-science",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible",
       "is_policy": false
     },
@@ -102,8 +102,116 @@
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-06T14:37:48+00:00",
+      "published": "2026-09-06T19:45:55+00:00",
       "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "is_policy": false
+    },
+    {
+      "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-06T18:41:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I ported MoE expert expansion to llama.cpp 🚀</p> <p>Run MoE models with MORE routed experts than the native top-K (8-&gt;x), adaptive threshold, 99→50% influence deca",
+      "is_policy": false
+    },
+    {
+      "title": "Point density, not architecture, was the bottleneck for a 5-class radar-only object [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w934ew/point_density_not_architecture_was_the_bottleneck/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-06T17:55:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w934ew/point_density_not_architecture_was_the_bottleneck/\"> <img alt=\"Point density, not architecture, was the bottleneck f",
+      "is_policy": false
+    },
+    {
+      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-06T17:29:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>I feel that reproducibility is now a lost cause in machine learning research for three reasons:</strong></p> <ol> <li><p>Many research is moving towards the p",
+      "is_policy": false
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-06T16:45:00+00:00",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "is_policy": false
+    },
+    {
+      "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w90x3i/i_built_a_localfirst_hybrid_router_for_ai_agent/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-06T16:34:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w90x3i/i_built_a_localfirst_hybrid_router_for_ai_agent/\"> <img alt=\"I built a local-first hybrid router for AI Agent Skills",
+      "is_policy": false
+    },
+    {
+      "title": "今日白露：“露凝而白也”，一场秋雨一场凉",
+      "url": "https://www.ithome.com/0/999/048.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T16:00:00+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，经历了七八月的酷暑之后，时间来到了 9 月份，这也就意味着天气开始转向凉爽。除了秋老虎肆虐的地区，其他地区的人们终于可以摆脱毒辣的阳光，享受到最为舒适的秋天。而白露便是气候由暖转凉的一个重要转折点。白露是农历二十四节气中的第十五个节气，当太阳到达黄经 165 度时为白露。</p><p>①今日迎来白露节气。②白露是秋天第三个节气，表示孟秋结束，仲秋开始，进入一年中",
+      "is_policy": false
+    },
+    {
+      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-06T15:59:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>AACL-IJCNLP 2026 acceptance results will be released in a few hours.</p> <p>Feel free to share your thoughts and feelings! How did you do?</p> </div><!-- SC_ON --> &#",
+      "is_policy": false
+    },
+    {
+      "title": "联想 ThinkPad E16 2026 笔记本新增酷睿 5 320 版本，7299 元",
+      "url": "https://www.ithome.com/0/999/047.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T15:52:43+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，联想 ThinkPad E16 2026 笔记本现已新增酷睿 5 320 版本，16GB+512GB <strong>售价 7299 元</strong>，将于 9 月 7 日 0:00 开售。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
+      "is_policy": false
+    },
+    {
+      "title": "直播间免费鉴宝、砸蛋抽奖专骗老年人，武汉警方打掉特大直播诈骗团伙、涉案金额超千万元",
+      "url": "https://www.ithome.com/0/999/046.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T15:49:15+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据央视新闻今日报道，近日，湖北武汉市公安局洪山区分局的民警根据举报，成功打掉一个特大“免费鉴宝引流、直播抽奖诈骗”的犯罪团伙，<strong>涉案金额超千万元</strong>。</p><p>一位老人看到一条关于收藏品的网络广告，由于家里有收藏的纸币想变现，广告里的承诺也让她动了心，于是便在对方的诱导下进入了直播间，并按要求将藏品照片传给了对方。</p><p>很",
+      "is_policy": false
+    },
+    {
+      "title": "古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代",
+      "url": "https://www.ithome.com/0/999/045.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T15:21:29+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，苹果公司于 9 月 1 日换帅迈入“特努斯时代”，约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而<strong>库克同日转任董事会执行主席</strong>。</p><p>苹果公司将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“亮新篇，来耀眼”（Surpr",
+      "is_policy": false
+    },
+    {
+      "title": "古尔曼：苹果考虑调整 App Store 以提高收入和利润率",
+      "url": "https://www.ithome.com/0/999/044.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T15:03:28+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据彭博社记者马克 · 古尔曼最新一期《Power On》时事通讯透露，苹果据称正在考虑对 App Store 进行一些调整，目标是进一步提高这一平台带来的收入。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles",
+      "is_policy": false
+    },
+    {
+      "title": "三星电子 DX 部门工会不满与其他部门薪酬差距，将在会长李在镕住宅前集会抗议",
+      "url": "https://www.ithome.com/0/999/043.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-06T14:43:13+00:00",
+      "summary": "<p>IT之家 9 月 6 日消息，据韩联社昨日报道，三星电子同行工会宣布，将在三星电子会长李在镕的住宅前举行集会，抗议内部薪酬差距。该工会主要由负责智能手机、家电等终端产品的 DX 部门员工组成。</p><p>业内人士于 9 月 5 日透露，同行工会计划从 18 日开始，在首尔龙山区李在镕住宅附近持续举行集会及单人示威。</p><p>同行工会相关负责人接受采访时表示：“我们不设截止期限，计划长期",
       "is_policy": false
     },
     {
@@ -112,7 +220,7 @@
       "source": "IT之家",
       "category": "news",
       "published": "2026-09-06T14:37:44+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据卫报报道，午休期间，吉尔 · 森内特看到了一些让她完全提不起食欲的东西，于是忍不住分享给自己在 X 平台上的 2.6 万名粉丝：一家牙买加烧烤快闪餐厅使用人工智能生成的菜单图片，里面的肉看起来像是一条条皮带，上面还爬满了细小的甲虫。</p><p>这些图片随后被 500 多人转发，许多人同样表达了厌恶之情。现年 37 岁、居住在丹佛的护士森内特表示，吃饭“是人类",
+      "summary": "<p>IT之家 9 月 6 日消息，据卫报报道，午休期间，吉尔 · 森内特看到了一些让她完全提不起食欲的东西，于是忍不住分享给自己在 X 平台上的 2.6 万名粉丝：一家牙买加烧烤快闪餐厅使用人工智能生成的菜单图片，里面的肉看起来像是一条条皮带，上面还爬满了细小的甲虫。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
       "is_policy": false
     },
     {
@@ -323,51 +431,6 @@
       "is_policy": false
     },
     {
-      "title": "smart 精灵 2 号伪装车亮相街头，定位两座纯电小车",
-      "url": "https://www.ithome.com/0/999/009.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:51:06+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，smart 中国 9 月 5 日发布官图，smart 精灵 2 号伪装车亮相北京、深圳、上海街头，预计将于近期上市。</p><p>今年 6 月，smart 官方公布了 <a href=\"https://www.ithome.com/0/966/969.htm\" target=\"_blank\">smart 精灵 2 号概念车的外观，以及新车部分配置细节</a>。新",
-      "is_policy": false
-    },
-    {
-      "title": "宁德时代：签下 3 份铜箔供应链战略协议，供应端与合作方未来 3 年共同新建 40 万吨产能",
-      "url": "https://www.ithome.com/0/999/004.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:43:26+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，宁德时代今日宣布，签下 3 份铜箔供应链战略协议。</p><ul class=\" list-paddingleft-2\"><li><p>在装备端，宁德时代与泰金新能建立统一统筹、统一标准、统一集中采购管理机制。泰金新能为新扩建项目提供标准化、规模化集中交付，推动<strong>装备端系统性降本</strong>与技术迭代升级。</p></li><li><p>在供",
-      "is_policy": false
-    },
-    {
-      "title": "复古硬件玩出新花样：任天堂 NES 红白机实现全球航班实时监控",
-      "url": "https://www.ithome.com/0/999/003.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:39:17+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，如果你家里有一台闲置已久的 NES（Nintendo Entertainment System，任天堂红白机），又想找一种办法把实时航班信息显示到电视上，那么这个项目可能正合适。有人想出了利用 NES 追踪航班的方法，而且确实需要从互联网获取数据才能运行。更有意思的是，项目作者还找到了一种相当巧妙的方式，将互联网数据传输到 NES 上，因此这台老游戏机能够实时显",
-      "is_policy": false
-    },
-    {
-      "title": "央视曝光后，浙江台州对“非标”电动自行车 53 家相关单位立案调查",
-      "url": "https://www.ithome.com/0/999/002.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:33:06+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据央视新闻今日报道，在浙江台州，督察组对曾被曝光的“非标”电动自行车问题开展跟踪核查，<strong>发现</strong><span class=\"color-00269a\"><strong>涉事企业生产线已被查封，当地已对 53 家相关单位立案调查</strong></span>，并着手制定产业高质量发展方案，力求标本兼治。</p><p>在浙江钻豹电动车股份",
-      "is_policy": false
-    },
-    {
-      "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
-      "url": "https://www.ithome.com/0/999/001.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-06T09:30:01+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，据央视新闻今日报道，9 月 4 日，可自动巡航杂交授粉的智能育种机器人“吉儿”，在北京发布具身智能版本。<strong>新升级的机器人可完成花蕊识别、定位、授粉与表型采集等复杂工作</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
-      "is_policy": false
-    },
-    {
       "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
       "source": "r/MachineLearning",
@@ -377,12 +440,21 @@
       "is_policy": false
     },
     {
-      "title": "OPPO A7 Pro 真机亮相：8000mAh 电池，9 月 11 日发售",
-      "url": "https://www.ithome.com/0/998/999.htm",
-      "source": "IT之家",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI Blog",
       "category": "news",
-      "published": "2026-09-06T09:17:48+00:00",
-      "summary": "<p>IT之家 9 月 6 日消息，OPPO A7 Pro 手机将于 9 月 11 日 10:00 开售，抖音平台 @OPPO A 系列直播间已分享实机外观。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/c23e2842-5a",
+      "published": "2026-09-06T09:00:00+00:00",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "is_policy": false
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-09-06T08:00:00+00:00",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "is_policy": false
     },
     {
@@ -800,15 +872,6 @@
       "is_policy": false
     },
     {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-03T15:00:00+00:00",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
-      "is_policy": false
-    },
-    {
       "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
       "source": "r/MachineLearning",
@@ -836,21 +899,21 @@
       "is_policy": false
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "is_policy": false
-    },
-    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-09-03T12:00:00+00:00",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "is_policy": false
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "is_policy": false
     },
     {
@@ -1097,24 +1160,6 @@
       "is_policy": false
     },
     {
-      "title": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-02T14:46:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/\"> <img alt=\"CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, ",
-      "is_policy": false
-    },
-    {
-      "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-02T14:40:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Jasper Research just released a cookbook on <strong>how to build a text-to-image model from scratch.</strong></p> <p>It shares the full reasoning and intermediate res",
-      "is_policy": false
-    },
-    {
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "source": "MIT Tech Review",
@@ -1133,39 +1178,12 @@
       "is_policy": false
     },
     {
-      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-02T12:04:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol.</p> <p>Setup:</p> <p>- Pu",
-      "is_policy": false
-    },
-    {
-      "title": "What kinds of ML bottlenecks are a good fit for Triton? [Manning giveaway] [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58dib/what_kinds_of_ml_bottlenecks_are_a_good_fit_for/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-02T12:02:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w58dib/what_kinds_of_ml_bottlenecks_are_a_good_fit_for/\"> <img alt=\"What kinds of ML bottlenecks are a good fit for Triton?",
-      "is_policy": false
-    },
-    {
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "url": "https://openai.com/index/atv-big-air-tour",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-09-02T12:00:00+00:00",
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "is_policy": false
-    },
-    {
-      "title": "MIR with AudioMuse-AI-SAE [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-02T08:47:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,<br /> I recently read this paper:<br /> Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. <em>Steering dense music retrieval with open-vocabulary conce",
       "is_policy": false
     },
     {
