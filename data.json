@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:02:54.494932+00:00",
+  "generated_at": "2026-09-07T16:51:54.488954+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,75 +8,30 @@
   ],
   "items": [
     {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-07T16:51:54+00:00",
+      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "is_policy": false
+    },
+    {
+      "title": "jo-inc / camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-07T16:51:54+00:00",
+      "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "is_policy": false
+    },
+    {
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
+      "published": "2026-09-07T16:51:54+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "is_policy": false
-    },
-    {
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "The agent that grows with you",
-      "is_policy": false
-    },
-    {
-      "title": "openai / skills",
-      "url": "https://github.com/openai/skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "Skills Catalog for Codex",
-      "is_policy": false
-    },
-    {
-      "title": "anomalyco / opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "The open source coding agent.",
-      "is_policy": false
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "Agent skill that removes signs of AI-generated writing from text",
-      "is_policy": false
-    },
-    {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "is_policy": false
-    },
-    {
-      "title": "ruvnet / ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
-      "is_policy": false
-    },
-    {
-      "title": "magnitudedev / magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
       "is_policy": false
     },
     {
@@ -84,17 +39,8 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
+      "published": "2026-09-07T16:51:54+00:00",
       "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "is_policy": false
-    },
-    {
-      "title": "aipoch / open-science",
-      "url": "https://github.com/aipoch/open-science",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
-      "summary": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible",
       "is_policy": false
     },
     {
@@ -102,116 +48,323 @@
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T11:02:54+00:00",
+      "published": "2026-09-07T16:51:54+00:00",
       "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "is_policy": false
     },
     {
-      "title": "华为韬确认！全新麒麟 9050 Pro 官宣是首款逻辑折叠 τ 芯片",
-      "url": "https://www.ithome.com/0/999/429.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T11:02:47+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了麒麟 9050 Pro 处理器。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-07T16:51:54+00:00",
+      "summary": "Skills Catalog for Codex",
       "is_policy": false
     },
     {
-      "title": "安克 Anker Zolo 自带线新国标 20000mAh 充电宝开售：3C+1A、55W Max，299 元",
-      "url": "https://www.ithome.com/0/999/428.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T10:59:04+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，安克 Anker Zolo 自带线充电宝（安克安心充充电宝）今晚 19:00 开售，通过 2026 新国标 3C 认证，<strong>售价 299 元</strong>。</p><p>这款充电宝尺寸为 121x74.3x32.8mm，提供流光粉、晴海蓝、海盐白、星夜黑四种配色，正面带有 LED 数显，内置 20000mAh 电芯。</p><p style=\"t",
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-07T16:51:54+00:00",
+      "summary": "Lightpanda: the headless browser designed for AI and automation",
       "is_policy": false
     },
     {
-      "title": "国家版权局：加大软件侵权行为打击力度，支持软件企业海外维权",
-      "url": "https://www.ithome.com/0/999/421.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T10:53:50+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，国家版权局印发<a href=\"https://www.ncac.gov.cn/xxfb/tzgg/202609/t20260907_1007129.html\" target=\"_blank\">《版权工作“十五五”规划》</a>。</p><p>其中提出，到 2030 年，版权法律制度更加完善，版权工作法治化水平持续提高；版权保护力度不断加大，版权执法监管水平显著",
-      "is_policy": true
-    },
-    {
-      "title": "华为发布会一文汇总：史上最强麒麟处理器 9050 Pro 登场，Mate XT 2 首发，余承东狂飙英语，还有 Pura X View 等一票新品",
-      "url": "https://www.ithome.com/0/999/416.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T10:50:41+00:00",
-      "summary": "<p style=\"text-align: left;\">来了！华为全新一代三折叠手机终于来了！今天（9 月 7 日）14:30，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会准时启幕。</p><p>整场发布会的焦点毫无悬念 —— <strong>一边是鸿蒙 HarmonyOS 7 的全面进化，另一边则是 Mate XT 2 折叠形态的再次突破。</strong>",
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-07T16:51:54+00:00",
+      "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
       "is_policy": false
     },
     {
-      "title": "京东 JoyAI App 推出首个能实时视频购物的 AI 数字人",
-      "url": "https://www.ithome.com/0/999/415.htm",
+      "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月 15 日晚",
+      "url": "https://www.ithome.com/0/999/493.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:46:50+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，京东 JoyAI App 推出首个能实时视频购物的 AI 数字人，可实现“看见就能买，开口就下单”。用户上传一张图片，即可自定义数字人的形象、人设、音色、交互场景，生成专属 AI 数字人。</p><p>IT之家附官方详细介绍如下：</p><p><strong>视频通话里，</strong><strong>“万能博士”陪你边逛边买</strong></p><p>市",
+      "published": "2026-09-07T15:22:38+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，2026 荣耀全球开发者大会将于 9 月 15 日在深圳举行，官方今日公布活动日程。其中，MagicOS 11 将于当晚 19:00-20:00 发布。</p><h2>IT之家整理如下：</h2><h3>主论坛</h3><p><strong>19:00-20:00</strong></p><ul class=\" list-paddingleft-2\"><li><",
       "is_policy": false
     },
     {
-      "title": "OpenAI 首席科学家呼吁放慢 AI 发展速度，警告智能体可能失控",
-      "url": "https://www.ithome.com/0/999/414.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T10:40:32+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，就在 OpenAI 发布一款能力强大的新模型几天后，该公司的首席科学家却发出了放慢 AI 发展速度的呼吁。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/bcc04636-273b-4f88-",
+      "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-07T15:22:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/\"> <img alt=\"[UPDATE - EIC confirmed ghost reviewer]How to get rejecte",
       "is_policy": false
     },
     {
-      "title": "Omdia：2026 年上半年全球 XR 头戴式设备出货量 190 万台，同比下降 38.7%",
-      "url": "https://www.ithome.com/0/999/413.htm",
+      "title": "Steam 今年已为 Valve 带来 150 亿美元收入，《极限竞速：地平线 6》领跑新作",
+      "url": "https://www.ithome.com/0/999/491.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:40:09+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，Omdia 数据显示，2026 年上半年，全球 XR 头戴式设备出货量<strong>同比下降 38.7%</strong>，降至 190 万台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9",
+      "published": "2026-09-07T15:08:15+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，对于 Valve 来说，2026 年显然又是一个“赚得盆满钵满”的年份，这一切都要归功于 Steam 强大的吸金能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/f2fda126-c1a4",
       "is_policy": false
     },
     {
-      "title": "华为一天发布五款 eSIM 终端，含 Mate XT 2 非凡大师、Pura X View 等",
-      "url": "https://www.ithome.com/0/999/412.htm",
+      "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
+      "url": "https://www.ithome.com/0/999/490.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:35:34+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长正式发布了 Mate XT 2 非凡大师和 Pura X View 两款新机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"http",
+      "published": "2026-09-07T15:07:59+00:00",
+      "summary": "<p>全新发布的展翼式三折叠华为Mate XT2 体验如何？随IT之家的镜头一起来看一下吧。 </p> <p style=\"text-align: center;\">   </p> <p> <a href=\"https://space.bilibili.com/13938355\" target=\"_blank\">点击关注IT之家B站账号</a> </p>",
       "is_policy": false
     },
     {
-      "title": "让 AI 替你和朋友的 AI 聊天，微信内测“小微 AI 社交”功能",
-      "url": "https://www.ithome.com/0/999/411.htm",
+      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+      "url": "https://www.ithome.com/0/999/488.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:25:10+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，据每日经济新闻今日报道，微信正在内测“<strong>小微 AI 社交</strong>”功能。</p><p>用户的小微可直接找到好友的“小微”进行对话，只需告知自己的“小微”诉求，由它前往对方的“小微”沟通；对方确认后，<strong>两个“小微”先行交流，再将结果带回</strong>，其间需要用户拍板时会提醒其确认。</p><p>报道称，与“代发微信消息”",
+      "published": "2026-09-07T14:40:44+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/",
       "is_policy": false
     },
     {
-      "title": "比亚迪腾势 N8L 纯电“金耀墨”“冬日青”全新车色官图公布，续航 960km",
-      "url": "https://www.ithome.com/0/999/410.htm",
+      "title": "Hyper 预览 HyperJuice 5K Qi2 半固态电池移动电源，20W / 15W 输出",
+      "url": "https://www.ithome.com/0/999/487.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:20:55+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，比亚迪超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日。腾势汽车今日公布了比亚迪腾势 N8L 纯电“<strong>金耀墨</strong>”“<strong>冬日青</strong>”两款全新车色。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://",
+      "published": "2026-09-07T14:37:29+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，配件外设制造商 Hyper 在 IFA 2026 上预览了其 2027 产品线，包括新款 HyperDrive Next 集线器、HyperShield Creator 背包，以及 HyperJuice 5K Qi2 半固态（固液混合）电池移动电源。</p><p style=\"text-align: center;\"><img class=\"no-alt-img",
       "is_policy": false
     },
     {
-      "title": "雷军透露小米澎程有准新车，一周到五周内交付",
-      "url": "https://www.ithome.com/0/999/409.htm",
+      "title": "小米汽车：澎程系列 4 分钟锁单突破 1 万台",
+      "url": "https://www.ithome.com/0/999/484.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:17:06+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，小米秋季旗舰新品发布会将在今晚 19:00 举行。小米创办人、董事长兼 CEO 雷军刚刚发布微博，并在评论区中解答了部分网友的疑惑。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/f20a41",
+      "published": "2026-09-07T14:30:01+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，小米汽车刚刚宣布，小米澎程系列 <strong>4 分钟锁单突破 10,000 台</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/4d4d0df1-70c3-4bb2-bc",
       "is_policy": false
     },
     {
-      "title": "腾讯 WorkBuddy 华为鸿蒙手表端上线，支持多端状态实时同步",
-      "url": "https://www.ithome.com/0/999/407.htm",
+      "title": "预售 24.99 万起，比亚迪大汉 EV 旗舰轿车到店 32 城",
+      "url": "https://www.ithome.com/0/999/483.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-07T10:03:27+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，腾讯 WorkBuddy 今日宣布，WorkBuddy 鸿蒙手表端正式上线。WorkBuddy 手表端目前已适配 HUAWEI WATCH 多个系列产品，包括今日发布的<a href=\"https://www.ithome.com/0/999/354.htm\" target=\"_blank\">华为 WATCH 6 系列</a>。</p><p style=\"tex",
+      "published": "2026-09-07T14:29:53+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，比亚迪今日宣布，王朝 9 系旗舰轿车大汉全国 32 座城市展车陆续到店。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/d6d86937-95dd-4b97-994f-756288f006af",
+      "is_policy": false
+    },
+    {
+      "title": "广汽集团称坚决不造“速成车”：不赶工期、不压验证，每一辆车都要经得起时间考验",
+      "url": "https://www.ithome.com/0/999/482.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T14:20:53+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，广汽集团今晚发文，称<strong>坚决不造“速成车”，只下“笨功夫”</strong>—— 不赶工期，不压验证，每一辆车都要经得起时间考验。</p><p>广汽集团表示，新车开发严格恪守“<strong>两冬一夏</strong>”验证周期，更采用远超行业的“<strong>五高一山一尘</strong>”极限测试标准 —— 在高寒、高温、高海拔三高试验基础上，",
+      "is_policy": false
+    },
+    {
+      "title": "联发科技带来曦力 G99+ 移动平台，支持 5500Mbps LPDDR5X 内存",
+      "url": "https://www.ithome.com/0/999/481.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T14:13:37+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，联发科技 (MediaTek) 现已在其官网公布曦力 (Helio) G99+ 移动平台。这款 4G 芯片相比原版 G99 并无重大变化，<strong>仅是将内存支持从 4266Mbps LPDDR4X 调整为 5500Mbps LPDDR5X</strong>。</p><p style=\"text-align: center;\"><img class=\"no",
+      "is_policy": false
+    },
+    {
+      "title": "小米汽车推出智能生态套装：含智能表盘 2、智能车载便携充放电枪等，首销 2499 元",
+      "url": "https://www.ithome.com/0/999/480.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:57:25+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，小米澎程 N70/N90 车型今晚上市，与其一同推出的还有小米汽车全系智能生态套装、澎程舒享套装等配件产品。</p><p>小米汽车全系车主可购买智能生态套装，<strong>首销期限时优惠价 2499 元</strong>，建议零售价 3351 元，包含智能表盘 2、拾音氛围灯、智能香氛机套装、中控屏物理按键、智能车载便携充放电枪、磁吸物理按键、遥控钥匙鹅卵石版",
+      "is_policy": false
+    },
+    {
+      "title": "2025 年国际邀请赛冠军 Team Falcons 宣布退出《Dota 2》领域",
+      "url": "https://www.ithome.com/0/999/479.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:56:06+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，沙特阿拉伯电子竞技组织 <strong>Team Falcons 当地时间本月 6 日宣布退出《Dota 2》领域</strong>。Team Falcons《Dota 2》战队曾在去年赢得国际邀请赛冠军，今年则收获国际邀请赛第 7~8 名。</p><p>Team Falcons 表示，此举是因为其“全球战略重心正转向拓展那些能为组织带来更强战略契合度及长期运营",
+      "is_policy": false
+    },
+    {
+      "title": "广汽集团：2026 年 1‑8 月累计销量突破 100 万辆，自主品牌同比增长 31.44%",
+      "url": "https://www.ithome.com/0/999/477.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:47:52+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，广汽集团今日宣布，<strong>2026 年 1‑8 月累计销量突破 100 万辆</strong>，达 101.26 万辆。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/51c1bbf6",
+      "is_policy": false
+    },
+    {
+      "title": "驰为 UniBox AI495 Pro 迷你主机亮相，X 型金属框架设计",
+      "url": "https://www.ithome.com/0/999/473.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:37:24+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，驰为 (CHUWI) 在 IFA 2026 上公布了 2 款 AI 工作站迷你主机，分别是 UniBox AI495 Pro 和 UniBox AI395，<strong>搭载对应型号的 AMD 锐龙 AI Max+ 处理器</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" s",
+      "is_policy": false
+    },
+    {
+      "title": "小米汽车无忧服务包上新：增程版 2399 元 / 年，增程系统免费保养",
+      "url": "https://www.ithome.com/0/999/472.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:36:18+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，小米汽车无忧服务包上新，可选标准版、Pro 版、增程版，IT之家整理如下：</p><p><strong>标准版 1299 元 / 年</strong></p><ul class=\" list-paddingleft-2\"><li><p>免费更换受损玻璃：车窗玻璃受损，免费更换 1 块 (不含车顶玻璃 / 天幕)，至高价值 5000 元</p></li><li><",
+      "is_policy": false
+    },
+    {
+      "title": "小米澎程 N90 Max 探索版 1:18 合金车模发布，799 元",
+      "url": "https://www.ithome.com/0/999/469.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:29:08+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，小米澎程 N90 Max 探索版 1:18 合金车模今日正式发布，内含合金车模、露营套装摆件，<strong>售价 799 元</strong>，可在小米汽车 App 商城购买。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsup",
+      "is_policy": false
+    },
+    {
+      "title": "泰坦军团公布 P2410R3 显示器：23.8\" QHD 180Hz Fast IPS",
+      "url": "https://www.ithome.com/0/999/468.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:27:25+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，泰坦军团 (Titan Army) 近日公布显示器新品 P2410R3。这一型号基于 23.8\" Fast IPS 显示面板，拥有 QHD (2560×1440) 分辨率和 180Hz 刷新率。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
+      "is_policy": false
+    },
+    {
+      "title": "售价 29.99 万元、自带原生电动升降顶，小米澎程 N90 Max 探索版正式发布",
+      "url": "https://www.ithome.com/0/999/467.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:21:21+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的小米秋季旗舰新品发布会上，小米澎程 N90 Max 探索版正式发布，自带原生电动升降顶，采用大五座布局，售价 29.99 万元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/7851",
+      "is_policy": false
+    },
+    {
+      "title": "消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀",
+      "url": "https://www.ithome.com/0/999/466.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:21:04+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，据韩媒 sedaily 消息，三星电子正加快其人形机器人原型机的研发，计划在明年 1 月于美国拉斯维加斯举办的 CES 2027 上，<strong>首次公开其自主研发的人形机器人</strong>。</p><p>业内消息称，在三星电子 DX 部门负责人卢泰文（Roh Tae-moon）的直属管辖下，三星机器人 RX 部门正主导筹备将于明年 CES 登场的样机。",
+      "is_policy": false
+    },
+    {
+      "title": "雷军：小米澎程 N90 Max 探索版升降顶舱年检不用拆下来，因为是原生的",
+      "url": "https://www.ithome.com/0/999/465.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:13:20+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的小米秋季旗舰新品发布会最后，小米创办人、董事长兼 CEO 雷军发布了澎程 N90 Max 探索版车型。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/34fafc2b-66fd-405",
+      "is_policy": false
+    },
+    {
+      "title": "vivo 最强影像旗舰 X500 系列手机官宣 9 月 21 日发布",
+      "url": "https://www.ithome.com/0/999/462.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:05:50+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo X500 系列手机宣布将于 <strong>9 月 21 日</strong>正式发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/5fb6",
+      "is_policy": false
+    },
+    {
+      "title": "26.99 万元，小米澎程 N90 Max 大七座旗舰 SUV 正式上市",
+      "url": "https://www.ithome.com/0/999/461.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T13:01:25+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的小米秋季旗舰新品发布会上，雷军宣布小米澎程 N90 Max 大七座旗舰 SUV 正式上市，售价为 26.99 万元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/d8d4390a-1",
+      "is_policy": false
+    },
+    {
+      "title": "小米 18 Fold 首发搭载，长鑫官宣 LPDDR6 率先实现旗舰手机端量产",
+      "url": "https://www.ithome.com/0/999/459.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:42:31+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，长鑫存储今日官宣，长鑫存储自主研发的 LPDDR6 芯片已实现量产商用，<a href=\"https://www.ithome.com/0/999/441.htm\" target=\"_blank\">首发搭载于<strong><span class=\"wx_search_keyword_wrap\">小米</span><span> 18 Fold</span></s",
+      "is_policy": false
+    },
+    {
+      "title": "小米澎程 N70 Max 大五座四驱增程 SUV 发布：CLTC 综合续航 1461km、满配辅助驾驶，23.99 万元起",
+      "url": "https://www.ithome.com/0/999/458.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:38:48+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的小米秋季旗舰新品发布会上，小米创办人、董事长兼 CEO 雷军正式发布了澎程 N70 Max 大五座四驱增程 SUV，<strong>定价 23.99 万元起</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/new",
+      "is_policy": false
+    },
+    {
+      "title": "小米澎程 N70 生态产品公布：智能表盘 2、磁吸碰碰贴、车载公网对讲机等",
+      "url": "https://www.ithome.com/0/999/457.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:35:56+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，小米秋季旗舰新品发布会正在进行中，小米澎程 N70 丰富的生态产品，拓展出行更多可能性。</p><ul class=\" list-paddingleft-2\"><li><p>智能表盘 2，语音唤醒小爱可左右灵活转动，可触摸互动、丰富动态表情</p></li><li><p>磁吸碰碰贴，内置 NFC，小米手机碰一碰可快速流转音乐、连接 Wi-Fi，iPhone 碰一",
+      "is_policy": false
+    },
+    {
+      "title": "20.99 万元，小米澎程 N70 Pro 中大型五座增程 SUV 发布",
+      "url": "https://www.ithome.com/0/999/456.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:35:27+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今天的小米秋季旗舰新品发布会中，小米澎程 N70 Pro 中大型五座增程 SUV 正式发布，<strong>定价为 20.99 万元</strong>，首销期间赠前排免费旋转座椅、8000 元轮毂选装券和 3000 元车漆选装券。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"ht",
+      "is_policy": false
+    },
+    {
+      "title": "vivo X500 系列首发 8K 原生 Live 直出、专业 Log 视频硬件，支持 4K 960 帧慢动作",
+      "url": "https://www.ithome.com/0/999/455.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:34:12+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo 官方公布了 X500 系列手机的视频拍摄能力。</p><p>vivo X500 系列全球首发搭载蓝图光御 900 传感器，<strong>首次实现 17EV 动态范围</strong>，对标电影级；支持 10bit 422 编码、ACES 学院色彩编码系统，将在达芬奇未来版中更新上线。</p><p style=\"t",
+      "is_policy": false
+    },
+    {
+      "title": "玄戒 O3 8+256G 4799 → 4049 元：小米 13.3 英寸平板 9 Pro Max 首发赠 599 元触控笔",
+      "url": "https://www.ithome.com/0/999/454.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:18:31+00:00",
+      "summary": "<p>小米平板 9 Pro Max 今日正式发布，搭载玄戒 O3 芯片，13.3 英寸 3.4K 144Hz 大屏，12000mAh 电池 +120W 快充，支持 DP 显示输入。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/",
+      "is_policy": false
+    },
+    {
+      "title": "小米澎程 N70 座舱细节公布，集齐“冰箱、彩电、大沙发”",
+      "url": "https://www.ithome.com/0/999/453.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:17:54+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，小米秋季旗舰新品发布会正在进行中，小米澎程 N70 座舱细节现已陆续公布，集齐“冰箱、彩电、大沙发”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/bd139368-cbbb-49ce-a8",
+      "is_policy": false
+    },
+    {
+      "title": "vivo X500 系列手机全球首发蓝图光御 900 传感器，CIPA 7.0 防抖、AI 摄影助手",
+      "url": "https://www.ithome.com/0/999/452.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:16:29+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo 官方公布了 X500 系列手机的影像配置。</p><p>vivo X500 系列将<strong>首发主摄和潜望长焦 CIPA 7.0 防抖等级</strong>，全新升级 2 亿长焦画质。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=",
+      "is_policy": false
+    },
+    {
+      "title": "凯迪拉克 XT5 PHEV 上市：纯电续航 215km，权益价 25.99 万元起",
+      "url": "https://www.ithome.com/0/999/451.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-07T12:13:18+00:00",
+      "summary": "<p>IT之家 9 月 7 日消息，凯迪拉克 XT5 PHEV 已上市，新车共推出 2 款车型，建议零售价 31-35 万元，全款一口价 27.99-29.99 万元，可享限时两周年购车权益，包括 1 万元两周年感恩购车补贴和至高 1 万元增换购补贴，限时权益价 25.99-27.99 万元。</p><p style=\"text-align: center;\"><img class=\"no-alt",
+      "is_policy": false
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-09-07T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry ",
       "is_policy": false
     },
     {
@@ -224,174 +377,12 @@
       "is_policy": false
     },
     {
-      "title": "Stellantis 推出翻新高压动力电池，性能和质保与原厂件保持一致",
-      "url": "https://www.ithome.com/0/999/406.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T10:01:23+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，Stellantis 的循环经济业务部门 SUSTAINera 致力于通过“4R”战略，即再制造（Remanufacturing）、维修（Repair）、再利用（Reuse）和回收（Recycle），开发能够延长产品使用寿命、减少浪费、节约资源并降低二氧化碳排放的解决方案。其中一项重要业务，就是拆解和翻新汽车零部件，使其能够作为备件重新用于其他车辆。</p><p",
-      "is_policy": false
-    },
-    {
-      "title": "中科院上海光机所在多维复用光计算领域取得进展",
-      "url": "https://www.ithome.com/0/999/400.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:54:21+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，据中科院上海光机所消息，中国科学院上海光学精密机械研究所空天激光技术与系统部谢鹏研究员团队近期在多维复用光计算领域取得进展。相关成果发表于 Laser&amp;PhotonicsReviews。</p><p>据IT之家了解，研究团队在“流星一号”超高并行光计算集成芯片研究基础上，进一步拓展波分复用、空分复用的融合和多任务矩阵网络共享，构建多维复用的光计算架构，实",
-      "is_policy": false
-    },
-    {
-      "title": "奥迪 A2 E-Tron 纯电小车官图公布，预计今年秋季发布",
-      "url": "https://www.ithome.com/0/999/396.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:53:19+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，奥迪 A2 E-Tron 纯电小车官图今日公布，奥迪预计将于今年秋季正式发布 2026 款 A2，并在 2027 年年初上市发售。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/cd98830",
-      "is_policy": false
-    },
-    {
-      "title": "工信部：对应付账款规模大、故意拉长账期或投诉较多的汽车企业，联合相关部门开展约谈并督促整改",
-      "url": "https://www.ithome.com/0/999/395.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:49:28+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，近日，工业和信息化部、市场监管总局联合印发<a href=\"https://www.ithome.com/0/999/384.htm\" target=\"_blank\">《关于推动汽车企业规范供应商账款支付优化账期管理的通知》</a>（工信厅联通装函〔2026〕424 号）（以下简称《通知》）。工业和信息化部相关负责人就《通知》有关内容回答了记者提问。</p><p",
-      "is_policy": true
-    },
-    {
-      "title": "长鑫科技黄丹阳：展望 2026 年下半年，全球 DRAM 产品供给紧缺格局将继续延续",
-      "url": "https://www.ithome.com/0/999/393.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:46:42+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，长鑫科技今日下午举行了 2026 年半年度业绩说明会，2026 年上半年，公司实现营业收入 1,503.10 亿元，同比增长 873.64%；归属于上市公司股东的净利润 776.05 亿元。</p><p>有投资者询问长鑫科技第三季度 DRAM 价格情况，公司高级副总裁、财务负责人黄丹阳认为，展望 2026 年下半年，全球 DRAM 产品供给紧缺格局将延续。</p",
-      "is_policy": false
-    },
-    {
-      "title": "华为 Mate XT 2 非凡大师三折叠手机屏幕参数公布，普通版内屏支持 1-90Hz LTPO 自适应刷新率",
-      "url": "https://www.ithome.com/0/999/391.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:40:51+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师全新展翼三折叠手机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://im",
-      "is_policy": false
-    },
-    {
-      "title": "长鑫科技总经理赵纶回应与苹果合作传闻：保持开放态度，已具备与国际主流厂商竞争能力",
-      "url": "https://www.ithome.com/0/999/388.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:40:14+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，长鑫科技今日下午举行了 2026 年半年度业绩说明会，2026 年上半年，公司实现营业收入 1,503.10 亿元，同比增长 873.64%；归属于上市公司股东的净利润 776.05 亿元。</p><p>有投资者提问长鑫科技与苹果公司的合作进展，长鑫科技总经理赵纶表示，公司始终以开放的态度与全球范围内的优质客户探讨合作机会。<strong>公司产品在性能、质量和",
-      "is_policy": false
-    },
-    {
-      "title": "两部门联合出台汽车行业首个国家级账期管理规范文件：要求每年 7 月底、1 月底前报送支付情况报告",
-      "url": "https://www.ithome.com/0/999/384.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:39:09+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，今天，工业和信息化部、市场监管总局联合发布了《关于推动汽车企业规范供应商账款支付优化账期管理的通知》，这是国家层面出台的首个面向行业领域的账期管理文件。</p><p>IT之家注意到，《通知》针对汽车企业供应商账款支付问题，提出五个方面的要求。</p><p><strong>一是进一步规范账期起算时间</strong>。明确账期自供应商交付货物、工程、服务并验收合格",
-      "is_policy": true
-    },
-    {
-      "title": "长鑫科技：公司与阿里云、字节跳动、腾讯、联想、小米、传音、荣耀、OPPO、vivo 等行业核心客户均已开展深度合作",
-      "url": "https://www.ithome.com/0/999/376.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:33:50+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，长鑫科技今日下午举行了 2026 年半年度业绩说明会，2026 年上半年，公司实现营业收入 1,503.10 亿元，同比增长 873.64%；归属于上市公司股东的净利润 776.05 亿元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
-      "is_policy": false
-    },
-    {
-      "title": "腾讯混元：Hy4 preview 模型升级，显著降低任务轮次及输入输出 Token 消耗",
-      "url": "https://www.ithome.com/0/999/369.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:26:57+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，腾讯混元与 WorkBuddy 联合团队今日宣布，针对 Hy4 preview 模型“复杂任务下的长思考、过度自我验证”等问题，进行了专项优化并全量上线。</p><blockquote><p>通过 Bench 指标与人工评测双重监控，<strong>在不损失任务效果的前提下，优化版本显著降低了任务轮次及输入输出 token 消耗</strong>。</p></b",
-      "is_policy": false
-    },
-    {
-      "title": "余承东：全新展翼三折叠手机 Mate XT 2 非凡大师是华为折叠技术集大成之作",
-      "url": "https://www.ithome.com/0/999/368.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:26:14+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会已经落幕。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚在自己的微博发文，回顾了全新展翼三折叠手机 —— MateXT 2 非凡大师。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
-      "is_policy": false
-    },
-    {
-      "title": "售价 4499 元起，全新一代华为 MatePad Air / 悦享款平板电脑发布",
-      "url": "https://www.ithome.com/0/999/366.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:24:13+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，在今日的鸿蒙操作系统 7 | 华为 Mate XT 2 新品发布会上，全新一代华为 MatePad Air 平板电脑发布，定位年轻用户的潮流伙伴。新品在轻薄设计、屏幕显示、AI 创作、性能续航及配件生态等方面实现全面升级，并同步推出“悦享款”及多款个性化配件，售价 4499 元起。</p><p style=\"text-align: center;\"><img c",
-      "is_policy": false
-    },
-    {
-      "title": "B站联合会员大促：赠 WPS 超级会员年卡 158 元、赠网易云音乐黑胶年卡 168 元",
-      "url": "https://www.ithome.com/0/999/365.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:17:21+00:00",
-      "summary": "<p>哔哩哔哩大会员联合会员大促优惠，可选百度网盘超级会员季卡、WPS 超级会员年卡、网易云音乐黑胶会员年卡、优酷 VIP 会员季卡等。</p><p>活动时间：9 月 4 日 - 8 日。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xgrBlWv\" target=\"_blank\"><span class=\"card main",
-      "is_policy": false
-    },
-    {
-      "title": "华为 FreeBuds 7 半入耳主动降噪悦彰耳机发布：平均降噪深度提升至 230%，售价 999 元",
-      "url": "https://www.ithome.com/0/999/364.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:16:08+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，华为 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会正在进行中，华为 FreeBuds 7 悦彰耳机正式发布，<strong>售价 999 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
-      "is_policy": false
-    },
-    {
-      "title": "鸿蒙智行智界 R7 焕新款全新车色「钛空银」官图发布，采用流光环抱式座舱设计",
-      "url": "https://www.ithome.com/0/999/363.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:13:55+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，鸿蒙智行智界汽车今日发布了智界 R7 焕新款全新车色「钛空银」官图。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/79cbfccf-c765-414f-b197-ba023384962e.j",
-      "is_policy": false
-    },
-    {
-      "title": "WALLHACK 发布小岛工作室联名款 SP-005 玻璃鼠标垫",
-      "url": "https://www.ithome.com/0/999/360.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:06:07+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，玻璃鼠标垫制造商 WALLHACK（沃哈克）本月 5 日宣布与小岛工作室 (KOJIMA PRODUCTIONS) 联名，推出两款 KJP 特别版 SP-005 鼠标垫产品。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuplo",
-      "is_policy": false
-    },
-    {
       "title": "KV cache as an agent runtime [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-07T09:03:48+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems.</p> <p>One of the team members wro",
-      "is_policy": false
-    },
-    {
-      "title": "国补后 5499 元起 + 12 期免息：华为 Pura X View 阔直板手机预售开启",
-      "url": "https://www.ithome.com/0/999/358.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:02:20+00:00",
-      "summary": "<p>华为 Pura X View 阔直板手机今日正式上市，官方定价 5999 元起。</p><p>京东自营预售支持 500 元国补，实付 5499 元起 + 12 期免息：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/x1rEl1T\" target=\"_blank\"><span class=\"card main-site\">",
-      "is_policy": false
-    },
-    {
-      "title": "华为 WATCH Ultimate 2 非凡探索智能手表雪域白、迪桑特联名款发布，6999 元",
-      "url": "https://www.ithome.com/0/999/357.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-07T09:00:33+00:00",
-      "summary": "<p>IT之家 9 月 7 日消息，华为 WATCH Ultimate 2 非凡探索智能手表今日发布了雪域白新配色，采用冰雪主题表盘，<strong>售价 6,999 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/20",
       "is_policy": false
     },
     {
@@ -1529,15 +1520,6 @@
       "is_policy": false
     },
     {
-      "title": "What is the correct way to vibe-code Machine Learning projects?[p]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w98h2p/what_is_the_correct_way_to_vibecode_machine/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-06T21:14:51+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm currently learning Machine Learning through a course, and I want to start building projects alongside it.</p> <p>My main goal right now is simply to <strong>build",
-      "is_policy": false
-    },
-    {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "source": "TechCrunch AI",
@@ -1925,6 +1907,33 @@
       "is_policy": false
     },
     {
+      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2609.04720",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-03T20:00:00+00:00",
+      "summary": "Vision-language models (VLMs) are expected to respond helpfully to appropriate requests while withholding compliance with requests that are incorrect, unsafe, infeasible, or unanswerable. However, exi",
+      "is_policy": false
+    },
+    {
+      "title": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
+      "url": "https://huggingface.co/papers/2609.04714",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-03T20:00:00+00:00",
+      "summary": "Striking a balance between helpfulness and safety remains a fundamental challenge in aligning large language models. To achieve this balance, models should refuse harmful queries (e.g., \"How do I shoo",
+      "is_policy": false
+    },
+    {
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "url": "https://huggingface.co/papers/2609.05415",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-03T20:00:00+00:00",
+      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ",
+      "is_policy": false
+    },
+    {
       "title": "Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reasoning Operations in LLMs",
       "url": "https://huggingface.co/papers/2609.04753",
       "source": "HF Papers",
@@ -2123,6 +2132,33 @@
       "is_policy": false
     },
     {
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "url": "https://huggingface.co/papers/2609.04444",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-02T20:00:00+00:00",
+      "summary": "Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living cr",
+      "is_policy": false
+    },
+    {
+      "title": "The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100",
+      "url": "https://huggingface.co/papers/2609.03231",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-02T20:00:00+00:00",
+      "summary": "The ambition of the 2025 PNPL competition (Landau et al., 2025) was to launch a multi-year curriculum for non-invasive speech decoding. Designed to progress from foundational tasks toward the linguist",
+      "is_policy": false
+    },
+    {
+      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+      "url": "https://huggingface.co/papers/2609.04190",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-02T20:00:00+00:00",
+      "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a t",
+      "is_policy": false
+    },
+    {
       "title": "The Attention Triangle in Audio-Video Models",
       "url": "https://huggingface.co/papers/2609.03586",
       "source": "HF Papers",
@@ -2285,60 +2321,6 @@
       "is_policy": true
     },
     {
-      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "url": "https://huggingface.co/papers/2609.04083",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-02T20:00:00+00:00",
-      "summary": "MLLM-based embedding models remain limited in compositional retrieval, often failing to distinguish scenes containing the same concepts but different attribute-object bindings. Yet the same backbone c",
-      "is_policy": false
-    },
-    {
-      "title": "Editable Visual Design",
-      "url": "https://huggingface.co/papers/2609.04034",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-02T20:00:00+00:00",
-      "summary": "While diffusion base models such as GPT-Image-2 and Nano-Banana exhibit remarkable visual expressiveness, their end-to-end generation inherently yields flattened bitmaps with error-prone text, preclud",
-      "is_policy": false
-    },
-    {
-      "title": "Environment Evolution for Terminal Agents",
-      "url": "https://huggingface.co/papers/2609.04128",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-02T20:00:00+00:00",
-      "summary": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus",
-      "is_policy": false
-    },
-    {
-      "title": "Principia: Relational Physics Tests for Video Models",
-      "url": "https://huggingface.co/papers/2609.04200",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-02T20:00:00+00:00",
-      "summary": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavaila",
-      "is_policy": false
-    },
-    {
-      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "url": "https://huggingface.co/papers/2609.04148",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-02T20:00:00+00:00",
-      "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training",
-      "is_policy": false
-    },
-    {
-      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
-      "url": "https://huggingface.co/papers/2609.03796",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-02T20:00:00+00:00",
-      "summary": "We introduce LLaDA-Image, a unified framework that pairs a 6B Diffusion Transformer (DiT) trained from scratch with a frozen vision-language understanding module built on the LLaDA2.0-Mini diffusion l",
-      "is_policy": false
-    },
-    {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "source": "Google DeepMind",
@@ -2417,15 +2399,6 @@
       "category": "news",
       "published": "2026-09-01T17:00:00+00:00",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "is_policy": false
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-09-01T14:00:00+00:00",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could",
       "is_policy": false
     },
     {
