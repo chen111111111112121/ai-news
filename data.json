@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:51:54.488954+00:00",
+  "generated_at": "2026-09-07T20:54:46.123754+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/openai/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "Skills Catalog for Codex",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "Lightpanda: the headless browser designed for AI and automation",
       "is_policy": false
     },
@@ -75,8 +75,26 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-07T16:51:54+00:00",
+      "published": "2026-09-07T20:54:46+00:00",
       "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
+      "is_policy": false
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-07T19:24:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "is_policy": false
+    },
+    {
+      "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-07T16:54:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic",
       "is_policy": false
     },
     {
@@ -1673,7 +1691,7 @@
       "is_policy": false
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch AI",
       "category": "news",
@@ -1706,15 +1724,6 @@
       "category": "community",
       "published": "2026-09-04T20:55:18+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>From what I've seen online so far, the description of these systems is roughly: </p> <p>They asked the model (often Aster) to generate statements in LEAN and then sub",
-      "is_policy": false
-    },
-    {
-      "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-04T20:02:03+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>an observation : GPT-5-class models are genuinely capable(They are) of doing a substantial fraction of knowledge work, why haven’t we seen a noticeable productivity s",
       "is_policy": false
     },
     {
