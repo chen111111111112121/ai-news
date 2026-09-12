@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:47:58.581876+00:00",
+  "generated_at": "2026-09-12T14:38:29.414388+00:00",
   "categories": [
     "news",
     "papers",
@@ -17,48 +17,21 @@
       "is_policy": false
     },
     {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "is_policy": false
-    },
-    {
       "title": "melgarafael / DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
+      "published": "2026-09-12T14:38:29+00:00",
       "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "is_policy": false
     },
     {
-      "title": "vastsa / PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "is_policy": false
-    },
-    {
-      "title": "alsk1992 / CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
-      "is_policy": false
-    },
-    {
-      "title": "nashsu / llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
+      "published": "2026-09-12T14:38:29+00:00",
+      "summary": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B",
       "is_policy": false
     },
     {
@@ -66,35 +39,332 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
+      "published": "2026-09-12T14:38:29+00:00",
       "summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "is_policy": false
     },
     {
-      "title": "jordan-gibbs / hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "published": "2026-09-12T14:38:29+00:00",
+      "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
       "is_policy": false
     },
     {
-      "title": "alphaXiv / OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "Run parallel research agents with any model",
+      "published": "2026-09-12T14:38:29+00:00",
+      "summary": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "is_policy": false
     },
     {
-      "title": "pascalorg / editor",
-      "url": "https://github.com/pascalorg/editor",
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-12T09:47:58+00:00",
-      "summary": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "published": "2026-09-12T14:38:29+00:00",
+      "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "is_policy": false
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-12T14:38:29+00:00",
+      "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "is_policy": false
+    },
+    {
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-12T14:38:29+00:00",
+      "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "is_policy": false
+    },
+    {
+      "title": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
+      "url": "https://www.ithome.com/1/001/650.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T14:27:39+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，9 月 12 日，在 2026 中国算力大会主论坛上，中国移动正式发布 AI 可信计算（<span class=\"wx_search_keyword_wrap\">AITC<em class=\"wx_search_keyword\"></em></span>），并启动 AI 可信计算生态共建战略合作。</p><p>据介绍，中国移动率先布局 AI 可信计算，基于移动",
+      "is_policy": false
+    },
+    {
+      "title": "特斯拉 FSD v15 将提升主动避险能力：更早的危险预测、更快的反应时间",
+      "url": "https://www.ithome.com/1/001/649.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T14:16:28+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据外媒 Teslarati 今天（12 日）晚间报道，特斯拉计划在下一次 FSD 重大更新（v15）中加入一系列重要的安全和事故规避功能，进一步提升系统的主动避险能力。</p><p>特斯拉 AI 负责人阿肖克 · 埃卢斯瓦米借本周一起险些发生碰撞的事件，提前透露了 FSD v15 在安全方面的升级方向。</p><p>当时，一名车主的车辆为了避让从停车场驶出的另",
+      "is_policy": false
+    },
+    {
+      "title": "天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞",
+      "url": "https://www.ithome.com/1/001/648.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T14:08:34+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据每日经济新闻报道，天兵科技介绍，公司正按照归零后形成的最新技术状态，稳步推进遥二相关准备工作。</p><p>“<strong>我们不会为了保成功而去降低火箭性能</strong>。”天兵科技火箭研发部副总经理、助理总设计师张建宏认为：“行业仍处在技术持续验证和快速迭代的阶段，<strong>机会窗口仍在</strong>，这个窗口不是等来的，要靠把设计、试验",
+      "is_policy": false
+    },
+    {
+      "title": "长安 UNI-V 蓝鲸超擎混动上市，限时 10.99 万-11.39 万元",
+      "url": "https://www.ithome.com/1/001/646.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T13:47:23+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，长安 UNI-V 蓝鲸超擎混动今天（12 日）晚间正式上市，新车定位“电感运动轿跑”，提供智悦型、智领型两款配置，官方指导价分别为 11.49 万元、11.99 万元，限时优惠价分别为 <strong>10.99 万元、11.39 万元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt",
+      "is_policy": false
+    },
+    {
+      "title": "九号 Mz3 闪骑电动自行车开售：五级可调后减震、12 寸满盘电机，首发 6299 元起",
+      "url": "https://www.ithome.com/1/001/645.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T13:37:57+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，九号 Mz3 闪骑新国标电动自行车今日开售，首发价 6299 元起。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/a8bdb2c5-6334-4459-aed3-08f971465d64.",
+      "is_policy": false
+    },
+    {
+      "title": "Debian 发布第 7 个稳定版小版本 13.7，修复 Bug 并更新关键基础设施",
+      "url": "https://www.ithome.com/1/001/644.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T13:36:18+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，Debian 13 今天（12 日）迎来第 7 个稳定版小版本 Debian 13.7，重点加入安全补丁、Bug 修复和关键基础设施更新。对于重新下载安装系统的用户来说，直接使用 13.7 镜像可以减少安装完成后还要继续补装的安全更新数量。</p><p>Debian 13.7 将安装程序使用的 Linux ABI <strong>升级至 6.12.107+de",
+      "is_policy": false
+    },
+    {
+      "title": "漫步者花再 Halo PixelBar 桌面音箱强化版开售：支持实时歌词显示，419 元",
+      "url": "https://www.ithome.com/1/001/643.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T13:34:15+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，漫步者旗下品牌花再 Halo PixelBar 桌面音箱强化版（26 年新款）现已开售，<strong>售价 419 元</strong>，部分地区国补到手价 377.1 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsup",
+      "is_policy": false
+    },
+    {
+      "title": "一句话加油、买电影票，理想汽车联合支付宝升级智舱全场景生态服务",
+      "url": "https://www.ithome.com/1/001/642.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T13:09:11+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，9 月 11 日，理想汽车亮相 2026 支付宝外滩大会，双方在原有车端支付宝停车缴费基础上升级智舱全场景生态服务。</p><p>据介绍，加油的路上，语音下达“帮我用一键加油”即可查询油枪订单，实现语音直达加油支付；唤醒理想同学说出“帮我买张电影票”，查询周边热映影片，确认观影场次与人数后，<strong>系统自动匹配合适座位</strong>，语音直达完成支",
+      "is_policy": false
+    },
+    {
+      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
+      "url": "https://www.ithome.com/1/001/641.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T13:05:13+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p>参赛者可以使用 RTX 50 系列显卡开启 DLSS 5，在《NBA 2K27》中<strong>截取游戏画面或视频</strong>，也可以通过由 RTX 5080 服务器提供算力的 GeForce NOW Ultimate 云游戏服务完成",
+      "is_policy": false
+    },
+    {
+      "title": "Counterpoint 预测：2026-2030 年折叠屏手机面板出货将增长 74%",
+      "url": "https://www.ithome.com/1/001/639.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:46:23+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，根据 Counterpoint 最新报告，预计 2026 年至 2030 年，折叠屏智能手机面板出货量将增长 74%，对应约 15% 的复合年增长率（CAGR）。<strong>增长将日益集中于大折叠和多折叠产品</strong>。</p><p>该机构称，预计 2026 年至 2030 年，大折叠面板出货量将增长 79%，份额由 81% 升至 84%；多折叠面",
+      "is_policy": false
+    },
+    {
+      "title": "VGN 推出蜻蜓 3 Turbo 系列鼠标：PAW 3950/3955 Extreme，269 元起",
+      "url": "https://www.ithome.com/1/001/638.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:41:42+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，VGN 今日发布了蜻蜓 3 Turbo 系列鼠标，将于 9 月 14 日 20:00 发售，<strong>售价 269 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>蜻蜓 3 Turbo（白色、黑金）：269 元</p></li><li><p>蜻蜓 3 Turbo+（白色、",
+      "is_policy": false
+    },
+    {
+      "title": "创维数字：与谷歌签署智能家居合作协议，首批产品覆盖欧洲 14 国",
+      "url": "https://www.ithome.com/1/001/636.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:27:07+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，创维数字 9 月 11 日在业绩说明会上表示，近日，公司与 Google Asia PacificPte. Ltd 正式签署《智能家居合作协议》。</p><p>IT之家从官方介绍获悉，该公司作为 Google 授权的智能家居合作伙伴及智能家居服务授权经销商，围绕智能家居产品及服务开展深度协同，共同推动智能产品创新与产业化商用落地。双方首批合作产品包括 Gemi",
+      "is_policy": false
+    },
+    {
+      "title": "全球首个适配万台级产能，柳州优必选万台级工业人形机器人超级智慧工厂投产",
+      "url": "https://www.ithome.com/1/001/635.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:22:23+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据柳州市融媒体中心“柳州 1 号”公众号，9 月 12 日，柳州优必选万台级工业人形机器人超级智慧工厂投产仪式在北部生态新区举行。</p><p>该超级智慧工厂是优必选打造的<strong>全球首个适配万台级产能</strong>的工业人形机器人智能制造标杆工厂，依托工业仿真系统智能规划、数字化“智慧大脑”全域调度，真正落地“用机器人造机器人”新质生产力智造模式",
+      "is_policy": false
+    },
+    {
+      "title": "中国工程院院士邬贺铨：2030 年中国算力有望占到全球 30%",
+      "url": "https://www.ithome.com/1/001/634.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:14:05+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据中国算力大会官方，9 月 12 日，在 2026 中国算力大会主论坛上，中国工程院院士邬贺铨指出，智能体的出现带动了 Token 的消费。</p><blockquote><p>今年 3 月，Token 的消费已经达到日均 140 万亿。随着技术进步，<strong>Token 的消耗并不是以多为荣，而是以效率为荣</strong>。中国 Token 的应用成",
+      "is_policy": false
+    },
+    {
+      "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+      "url": "https://www.ithome.com/1/001/633.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:12:14+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据《商业内幕》报道，随着 AI 彻底改变软件开发，Anthropic Claude Code 创作者鲍里斯 · 切尔尼认为，开发者真正需要守住的不是亲手写下每一行代码，而是代码质量本身。</p><p class=\"isSelectedEnd\">当地时间 10 日，切尔尼晒出了一封开发者写给他的邮件，标题是“怎么处理 AI 垃圾代码？”他提到，自己每天都会收到类",
+      "is_policy": false
+    },
+    {
+      "title": "鸿蒙智行问界 M9 Ultimate 领世加长版开启全国交付，64.98 万元起",
+      "url": "https://www.ithome.com/1/001/632.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T12:01:37+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，鸿蒙智行问界 M9 Ultimate 领世加长版今日在赛力斯超级工厂（龙兴）开启全国交付。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/fa9259c9-865f-4d88-a3c5-1d",
+      "is_policy": false
+    },
+    {
+      "title": "消息称国产折叠屏学习苹果 iPhone Duo 开合透视动画，文件夹已创建",
+      "url": "https://www.ithome.com/1/001/631.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T11:49:56+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，博主 @数码闲聊站 分享了<span class=\"hot-topic\">苹果 iPhone Duo</span> 开合透视动画，并发文称：“国产折叠将严肃学习此动画，文件夹已创建”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/ne",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 系列预购开启：新增可变光圈、首发 2 纳米 A20 Pro 芯片，9999 元起",
+      "url": "https://www.ithome.com/1/001/630.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T11:45:02+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，苹果 iPhone 18 Pro 系列手机将于今晚 8 点开启预购，新机包括 18 Pro 和 18 Pro Max 两款机型，起售价分别为 9999 元和 10999 元。</p><h3>IT之家整理价格信息如下：</h3><p><strong>iPhone 18 Pro</strong></p><ul class=\" list-paddingleft-2\"",
+      "is_policy": false
+    },
+    {
+      "title": "荣耀“魔法画报”事件进展：第三方机构证实事发时手机正常接打十次电话",
+      "url": "https://www.ithome.com/1/001/629.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T11:42:08+00:00",
+      "summary": "<p>9 月 10 日晚，济南张先生在社交媒体发文反映，母亲突发心梗，因荣耀手机“魔法画报”错过最佳抢救时间，此事引发大量网友关注。</p><p>9 月 11 日，荣耀“魔法画报”事件当事人通过媒体澄清，该事件是其“情绪激动”和“误解”，与荣耀手机无关，并就给该品牌造成的影响道歉。</p><p>据媒体报道，第三方机构证实，11 日下午，荣耀与“魔法画报”事件当事人首次见面，现场还原当时使用场景。最",
+      "is_policy": false
+    },
+    {
+      "title": "航天员出舱时空间站如何稳姿？官方详解 CMG 与喷气控制",
+      "url": "https://www.ithome.com/1/001/627.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T11:27:55+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据中国载人航天工程办公室，近期，神二十三乘组圆满完成了约 5.5 小时的出舱活动。中国空间站要实现长期在轨可靠、安全稳定运行，必须具备在轨组装及维修维护能力。因此，需要航天员出舱完成舱外载荷和设备的维修、安装等一系列舱外操作任务。那么，在出舱活动期间，空间站是如何调控姿态，为航天员提供稳定的舱外作业环境呢？</p><p style=\"text-align: c",
+      "is_policy": false
+    },
+    {
+      "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-12T11:23:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/\"> <img alt=\"A Severe Misalignment of AI in Mathematics (Declaration by 2",
+      "is_policy": false
+    },
+    {
+      "title": "网易《逆水寒：新世界》“含金量最高版本”9 月 24 日上线，联动盗墓笔记",
+      "url": "https://www.ithome.com/1/001/626.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T11:04:21+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，网易《逆水寒：新世界》今日官宣，开服史上真 · 含金量最高的版本，将于 9 月 24 日开启，带来<strong>盗墓笔记联动、新玩法、新剧情</strong>等。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/9",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-12T11:00:00+00:00",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium P",
+      "is_policy": false
+    },
+    {
+      "title": "绿联发布 AI NAS iDX6011 Pro：酷睿 Ultra 7 255H、内存 64GB，首发价 15999 元",
+      "url": "https://www.ithome.com/1/001/625.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T10:50:08+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，绿联今日发布了 AI NAS iDX6011 Pro，日常价 19999 元，<strong>首发到手价 15999 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/e",
+      "is_policy": false
+    },
+    {
+      "title": "索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入",
+      "url": "https://www.ithome.com/1/001/624.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T10:42:05+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据外媒 TechPowerup 当地时间 11 日报道，索尼计划从 2028 年起逐步减少实体光盘生产，然而 Alinea Analytics 分析师里斯 · 埃利奥特分享的数据显示，实体游戏依然为 PlayStation 多款重磅独占游戏<strong>贡献了相当可观的收入</strong>。</p><ul class=\" list-paddingleft-",
+      "is_policy": false
+    },
+    {
+      "title": "Stellantis CEO 菲洛萨称当今全球车市已明显分成两部分：美国和其他",
+      "url": "https://www.ithome.com/1/001/623.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T10:23:43+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据路透社报道，当地时间 10 日，Stellantis 集团 CEO 安东尼奥 · 菲洛萨在一场分析师会议上指出，当前全球汽车市场已经明显分成两部分：美国，以及世界其他地区。</p><p>Stellantis 目前正面临美国与欧洲等其他地区贸易和政策环境日益分化的问题，车企如何与中国企业合作尤其如此。菲洛萨此次谈到的重点，正是 Stellantis 集团该如何",
+      "is_policy": true
+    },
+    {
+      "title": "8080 元起：新大洲本田推出 NS125FX 摩托车，含自由高达联名限量版",
+      "url": "https://www.ithome.com/1/001/622.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T10:15:32+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，新大洲本田今日推出 NS125FX 摩托车，可选自由高达联名限量版，<strong>售价 8080 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>碟刹版：8080 元</p></li><li><p>碟刹尾箱版：8380 元</p></li><li><p>ABS 版：8980 ",
+      "is_policy": false
+    },
+    {
+      "title": "乘联分会崔东树：本轮乘用车市场下行属于阶段性结构性波动",
+      "url": "https://www.ithome.com/1/001/621.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T10:07:57+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，乘联分会秘书长崔东树今天（12 日）在个人公众号发文称，2026 年 8 月车市零售环比回升 5.5%，是油价高位压制、宏观景气偏弱、政策预期升温、成都车展带动等多重因素交织共振的结果。</p><p>崔东树表示，地缘冲突持续困扰霍尔木兹海峡的通航，推动国际油价维持高位震荡，2026 年国内汽油价格累计上调<strong>已超 1720 元 / 吨</stron",
+      "is_policy": true
+    },
+    {
+      "title": "微软承认 Win11 更新引发“代码 10”错误，部分 USB 音频设备无法正常工作",
+      "url": "https://www.ithome.com/1/001/609.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T09:55:13+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据外媒 Neowin 今天（11 日）下午报道，此前消息称，微软确认 Windows 11 最新“补丁星期二”更新引发了两个新问题。数小时后，微软又确认了一项新的故障，<strong>导致 USB Audio Class 1.0 设备无法正常工作</strong>。</p><p>安装更新后，部分设备会在设备管理器中<strong>出现“代码 10”错误</st",
+      "is_policy": false
+    },
+    {
+      "title": "鸿蒙版腾讯视频首发端侧 A2A 能力，一句指令唤醒跨应用智能服务",
+      "url": "https://www.ithome.com/1/001/606.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T09:52:15+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，据“HarmonyOS 开发者技术”公众号 9 月 11 日发文，鸿蒙版腾讯视频率先尝试 A2A 能力 —— 让小艺和 App 配合，通过 openJiuwen A2A 把系统级 AI 直接带进追剧日常。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ith",
+      "is_policy": false
+    },
+    {
+      "title": "《潜水员戴夫》游戏累计销量突破 1000 万份，正式发售超三年",
+      "url": "https://www.ithome.com/1/001/605.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-12T09:49:43+00:00",
+      "summary": "<p>IT之家 9 月 12 日消息，《潜水员戴夫》（Dave the Diver）游戏官方本周宣布，<strong>游戏累计销量突破 1000 万份</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/aa2b2",
       "is_policy": false
     },
     {
@@ -104,267 +374,6 @@
       "category": "news",
       "published": "2026-09-12T09:36:20+00:00",
       "summary": "<p>IT之家 9 月 12 日消息，长城魏牌高山新版型将于 9 月 14 日开启下订，官方今日公布座舱信息。</p><p>据介绍，该车搭载全新 CoffeeOS 4 智能座舱、高通骁龙 8797 旗舰芯片（4nm 车规芯片），提供 AI 算力 640TOPS、前后排双 500 万像素超广角摄像头。新车配备小魏同学座舱 VLA 智能体，号称“有记忆、懂情绪、会聊天、能规划”。</p><p styl",
-      "is_policy": false
-    },
-    {
-      "title": "大规模建数据中心带来现金压力，甲骨文将再花 7 亿美元用于裁员",
-      "url": "https://www.ithome.com/1/001/603.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T09:34:34+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据彭博社报道，受大规模建设 AI 数据中心造成的现金压力影响，甲骨文<strong>进一步扩大裁员计划的规模</strong>。</p><p style=\"text-align: justify;\">甲骨文把本轮裁员<strong>列入“2026 年重组计划”</strong>，预计总成本升至约 28 亿美元<span class=\"exch-money-va",
-      "is_policy": false
-    },
-    {
-      "title": "洛图科技：中国智能眼镜线上规模首次下跌，7 月销量同比下降 15%",
-      "url": "https://www.ithome.com/1/001/602.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T09:22:10+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，洛图科技本周发布的报告显示，2026 年 7 月，在京东、天猫、抖音三大主流电商平台上，<strong>智能眼镜市场的监测零售量为 7.4 万台，同比下降 15.3%，环比下降 20.9%</strong>；零售额达 1.3 亿元，同比下降 25.8%，环比下降 43.0%。</p><p>洛图科技表示，市场大盘的量额回落，应是受 6 月“618”大促后需求透支",
-      "is_policy": false
-    },
-    {
-      "title": "小米 18 Fold 及澎程 SUV 热度高涨，王晓雁称部分门店高峰客流量暴涨 400％",
-      "url": "https://www.ithome.com/1/001/600.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T09:16:09+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，小米 18 Fold 中折叠手机、澎程 SUV 于 9 月 7 日发布，小米集团高级副总裁、中国区总裁王晓雁今日透露，部分门店高峰时段客流量<strong>直接暴涨 400%</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
-      "is_policy": false
-    },
-    {
-      "title": "欧洲首例全无人 Robotaxi 启动载客测试：小马智行、极狐参与，车内不设安全员",
-      "url": "https://www.ithome.com/1/001/599.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T09:14:22+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，获 Rimac 支持的自动驾驶网约车初创公司 Verne，在克罗地亚萨格勒布正式开放公共道路完全无人驾驶载客测试，成为欧洲首个实现该形式运营的企业。</p><p>此次测试由 Verne 与小马智行合作推出，用户可通过 Uber 应用体验服务。测试路线全长 22km，连接 Verne 总部、市中心商业区以及萨格勒布机场。</p><p>Verne 此次测试<str",
-      "is_policy": false
-    },
-    {
-      "title": "到 2030 年，全国新型储能规模将达 3 亿千瓦",
-      "url": "https://www.ithome.com/1/001/598.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T09:02:19+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据央视新闻今天（12 日）下午报道，今年以来，我国新型储能建设持续保持高速发展态势。截至 6 月底，全国已建成投运新型储能装机规模达<strong> 1.53 亿千瓦 / 3.96 亿千瓦时</strong>，同比增长 61%。</p><p>全国新型储能利用情况逐年向好，2023 年、2024 年、2025 年全国新型储能等效利用小时数分别达到 <strong",
-      "is_policy": false
-    },
-    {
-      "title": "阿里 Qoder CLI 个人版 v1.1.50 开放自定义模型接入",
-      "url": "https://www.ithome.com/1/001/597.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:59:28+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，阿里 Qoder 今日宣布，从 v1.1.50 开始，<strong>Qoder CLI 正式向个人版用户开放自定义模型接入</strong>。</p><p>Qoder CLI 是阿里巴巴于 2025 年 10 月发布的 AI 编程命令行工具，属于 Qoder 智能体编程平台的产品形态之一。</p><p style=\"text-align: center;\">",
-      "is_policy": false
-    },
-    {
-      "title": "我国词元需求呈现爆发式增长，预计今年消耗量将达 10 亿亿",
-      "url": "https://www.ithome.com/1/001/596.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:46:56+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据央视新闻今天（12 日）下午报道，中国电信研究院发布的《智能体时代 AI 基础设施发展研究报告（2026）》显示，随着人工智能产业发展重心从大模型和算力竞争转向智能体规模落地、应用变现，我国词元（Token）需求呈现爆发式增长。</p><p>中国电信研究院行业与企业战略研究所所长饶少阳称，预计 2026 年我国 Token 年消耗量<strong>将达到 1",
-      "is_policy": false
-    },
-    {
-      "title": "老蛙推出 AF 35mm F2.8 1X APO 微距镜头，到手价 2688 元",
-      "url": "https://www.ithome.com/1/001/594.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:43:30+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，老蛙本周推出了 AF 35mm F2.8 1X APO 微距镜头，支持 EF、E、Z、X 卡口；此外还有手动对焦版本支持 RF、L 卡口，原价 2980 元，新品预售优惠<strong>到手价 2688 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"http",
-      "is_policy": false
-    },
-    {
-      "title": "宏碁 8 月营收新台币 301.8 亿元，创下同期 13 年新高",
-      "url": "https://www.ithome.com/1/001/593.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:30:39+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，宏碁公布 8 月单月合并营收为 301.80 亿元新台币<span class=\"exch-money-value\">（IT之家注：现汇率约合 64.07 亿元人民币）</span>，同比增长 38.4%；累计前八月营收 2,148.11 亿元新台币<span class=\"exch-money-value\">（现汇率约合 456.04 亿元人民币）</spa",
-      "is_policy": false
-    },
-    {
-      "title": "2027 款极氪 7X 申报图公布，计划 2026 年四季度上市",
-      "url": "https://www.ithome.com/1/001/592.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:18:45+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，工信部近日发布第 411 批《道路机动车辆生产企业及产品公告》，2027 款极氪 7X 正式现身。新车新增 85kWh 金砖电池版本车型，将于 2026 年四季度上市。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsupload",
-      "is_policy": false
-    },
-    {
-      "title": "华为 Pura X Max 阔折叠手机“波尔多红”“尼斯蓝”配色首销，11999 元起",
-      "url": "https://www.ithome.com/1/001/591.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:14:33+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，华为终端今日宣布，华为 Pura X Max 波尔多红、尼斯蓝焕新登场，正式开售。</p><ul class=\"medium-size list-paddingleft-2\"><li><p>12GB+512GB（波尔多红、尼斯蓝）：11999 元</p></li><li><p>典藏版 16GB+512GB（波尔多红）：12999 元</p></li><li><",
-      "is_policy": false
-    },
-    {
-      "title": "开源 AI 移动自动化项目 Minitap 指控谷歌盗用自家代码，且起初未注明出处",
-      "url": "https://www.ithome.com/1/001/590.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T08:07:48+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据外媒 Neowin 今天（12 日）报道，Minitap 联合创始人兼 CEO 尼古拉 · 德汉舒韦克公开指控谷歌未经适当署名，使用了 Minitap 的代码、提示词和测试用例。被用于谷歌的 Artemis 移动自动化代码库的相关内容，来自 Minitap 开源的 mobile-use 项目。</p><p>IT之家注：mobile-use 是一项允许 AI ",
-      "is_policy": false
-    },
-    {
-      "title": "大众安徽与众 08 SUV 焕新上市：标配宁德时代电池、800V 快充，限时尝鲜价 18.99 万元起",
-      "url": "https://www.ithome.com/1/001/588.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:54:52+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，大众安徽与众 08 SUV 今日焕新上市，共推出三款车型，限时尝鲜价 18.99 万元起。</p><ul class=\" list-paddingleft-2\"><li><p>Pure 版 82kWh | 630km CLTC 续航里程，限时尝鲜价 18.99 万元起</p></li><li><p>Ultra Plus 版 95kWh | 730km CLTC",
-      "is_policy": false
-    },
-    {
-      "title": "Anthropic 研究员警告“AI 灭绝人类”后，美国两党议员呼吁政府采取更多行动",
-      "url": "https://www.ithome.com/1/001/587.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:54:20+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，在 Anthropic 两名研究人员警告称，快速发展的 AI 可能在不久的将来导致人类灭绝后，越来越多美国议员开始呼吁出台新的 AI 监管规则。</p><p>本周，Anthropic 研究员雅各布 · 考克森宣布辞职。“真正认真开发 AI 的人相信，AI 可能在本世纪 20 年代结束前杀死我们所有人。”这一言论进一步加剧了外界对 AI 潜在风险的担忧。</p>",
-      "is_policy": true
-    },
-    {
-      "title": "为电网量身定制的“超级充电宝”，世界最大盐穴压缩空气储能项目机组在江苏启动",
-      "url": "https://www.ithome.com/1/001/586.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:41:44+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据央视新闻报道，今天（12 日），<strong>世界最大盐穴压缩空气储能项目两台机组在江苏常州金坛区完成整组启动</strong>，全面验证了设备运行稳定性，标志着我国在大容量盐穴压缩空气储能领域的关键核心技术和系统集成能力<strong>实现重要突破</strong>。</p><p style=\"text-align: center;\"><a class=",
-      "is_policy": false
-    },
-    {
-      "title": "大众安徽与众 08 猎影版 SUV 上市：纯电续航超 700km，限时权益价 21.99 万元起",
-      "url": "https://www.ithome.com/1/001/585.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:40:36+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，大众安徽与众 08 猎影版今日上市，号称“能上赛道的家用 SUV”，共推出两款车型，限时权益价 21.99 万元起。</p><ul class=\" list-paddingleft-2\"><li><p>猎影版两驱 95kWh / CLTC 续航里程 730km，限时权益价 21.99 万元</p></li><li><p>猎影版四驱 95kWh / CLTC 续",
-      "is_policy": false
-    },
-    {
-      "title": "MINI PAUL SMITH 设计师款燃油版车型预售，可选三门、五门、敞篷",
-      "url": "https://www.ithome.com/1/001/584.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:27:05+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，MINI 官方今日宣布，<strong>MINI PAUL SMITH 设计师款燃油版</strong>在中国市场开启预售，可选三门版、五门版和敞篷车 3 款车型，具体价格暂未公布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/new",
-      "is_policy": false
-    },
-    {
-      "title": "Hugging Face CEO：Anthropic 研究员谈 AI 灭绝风险，就像空调维修工谈气候变化",
-      "url": "https://www.ithome.com/1/001/582.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:23:20+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，Hugging Face CEO 克莱门特 · 德朗格质疑了外界围绕前 Anthropic 研究人员雅各布 · 考克森展开的讨论。</p><p>考克森曾提出，AI 从业者私下担忧这项技术<strong>最终可能导致全人类灭亡</strong>。对此，德朗格 11 日晚间在 X 上写道：“抱歉，但让雅各布讨论 AI 灭绝风险，就像让你的空调维修工讨论气候变化一样",
-      "is_policy": false
-    },
-    {
-      "title": "小米 18 Fold 中折叠手机首销情况曝光，开售当日约 3.6 万台",
-      "url": "https://www.ithome.com/1/001/581.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:11:58+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了小米 18 Fold 手机的首销情况（Sell out）。</p><blockquote><p><strong>小米 18 Fold 开售当日的 SO 约为 36K</strong></p><p>作为万元起售的机器，表现还可以。</p><p>PS：第三方数据源，仅供参考。</p></blockqu",
-      "is_policy": false
-    },
-    {
-      "title": "AMD 发布 R5 7500 和 5500F：售价 189/99 美元，扩展 AM5、AM4 桌面处理器产品线",
-      "url": "https://www.ithome.com/1/001/580.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T07:06:41+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，AMD 已确认锐龙 5 7500 和锐龙 5 5500F 两款桌面处理器建议零售价分别为 189 美元和 99 美元。前者面向 AM5 平台，后者则继续为 AM4 平台提供升级选择。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/new",
-      "is_policy": false
-    },
-    {
-      "title": "阿维塔 9 系旗舰 SUV 黑色款官图亮相，全新设计语言",
-      "url": "https://www.ithome.com/1/001/579.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:58:39+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，阿维塔今日公布 9 系全新旗舰 SUV 黑色款官图，新车前脸采用全新设计语言，搭配贯穿式尾灯，车顶配备激光雷达，预计支持高阶辅助驾驶。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/26ab",
-      "is_policy": false
-    },
-    {
-      "title": "国家超算互联网注册用户量突破 170 万，国产算力占比超 95%",
-      "url": "https://www.ithome.com/1/001/578.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:58:00+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据界面新闻报道，9 月 12 日，中科曙光副总裁曹振南在 2026 中国算力大会主论坛上披露，<strong>国家超算互联网注册用户量已突破 170 万，累计完成作业量突破 2.7 亿个，国产算力占比超 95%</strong>。</p><p>曹振南介绍，国家超算互联网平台已汇聚 CPU 核心超 350 万、GPU 卡超 25 万，日均作业数突破 30 万个，",
-      "is_policy": false
-    },
-    {
-      "title": "小米澎程 SUV 今日开启交付，雷军在彭城给首批车主开车门",
-      "url": "https://www.ithome.com/1/001/576.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:52:09+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，小米澎程今日（9 月 12 日）开启交付，覆盖全国 75 个城市。</p><p>根据网友拍到的视频，<strong>小米创办人、董事长兼 CEO 雷军现身江苏徐州的首批车主交付现场</strong>，为车主开车门、递钥匙。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:",
-      "is_policy": false
-    },
-    {
-      "title": "vivo 首发「百度地图双端同步显示」功能，目的地、路线随时查看和修改",
-      "url": "https://www.ithome.com/1/001/575.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:49:22+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，vivo OriginOS 今日官宣首发「百度地图双端同步显示」功能，手机端发起导航后，<strong>vivo 智能车载车机端实时同步</strong>，目的地、路线信息两端都能随时查看和修改。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
-      "is_policy": false
-    },
-    {
-      "title": "华境汽车：明天全量 OTA，华为乾崑智驾 ADS 5 Pro 上车",
-      "url": "https://www.ithome.com/1/001/574.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:48:04+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，华境汽车今日官宣，<strong>明天全量 OTA，华为乾崑智驾 ADS 5 Pro 上车</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/3dee254b-ed05-44",
-      "is_policy": false
-    },
-    {
-      "title": "苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购",
-      "url": "https://www.ithome.com/1/001/571.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:28:37+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，苹果 iPhone 18 Pro/Pro Max 手机今晚 8 点开启预购，目前苹果官网 Apple Store 已开始维护，提示：“即将与你见面。<strong>北京时间晚 8 点接受预购</strong>。<span class=\"nowrap\">一会儿见。</span>”</p><p style=\"text-align: center;\"><img cl",
-      "is_policy": false
-    },
-    {
-      "title": "海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元",
-      "url": "https://www.ithome.com/1/001/570.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:21:56+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，美商海盗船推出 SHUGO DDR5 守护者艺术联名版 DDR5 6000 内存条，提供黑曜刃、樱花版两种，32GB（16G×2）CL28 版本 5499 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xDlSdSk\" target=\"_blank\"><span class=",
-      "is_policy": false
-    },
-    {
-      "title": "Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元",
-      "url": "https://www.ithome.com/1/001/568.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T06:11:53+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，戴尔 14（国行商品标题又写作灵越 14 Air）现已在京东上架，将于 9 月 14 日 10:00 开售，IT之家汇总价格如下：</p><ul class=\" list-paddingleft-2\"><li><p>酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、FHD+ 60Hz 屏幕：5999 元</p></li><li><p>酷睿 5 3",
-      "is_policy": false
-    },
-    {
-      "title": "全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元",
-      "url": "https://www.ithome.com/1/001/563.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-12T05:49:25+00:00",
-      "summary": "<p>IT之家 9 月 12 日消息，据央视新闻今日报道，近期有多所高校购置存量房源改造学生宿舍，引发社会关注。</p><p>湖北大学购置校园周边存量商品房，将与阳逻校区一路之隔的武汉城建 · 水岸的一些房源改造为学生公寓，<strong>成为高校收购周边商品房改造学生公寓的全国首个案例</strong>。从武汉城建 · 水岸学生公寓出发，步行约 5 分钟即可到达湖北大学教学区，每栋楼还配有专属的",
       "is_policy": false
     },
     {
@@ -1142,15 +1151,6 @@
       "is_policy": false
     },
     {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-09T21:42:19+00:00",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not inc",
-      "is_policy": false
-    },
-    {
       "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
       "url": "https://huggingface.co/papers/2609.11085",
       "source": "HF Papers",
@@ -1643,15 +1643,6 @@
       "category": "news",
       "published": "2026-09-07T00:00:00+00:00",
       "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "is_policy": false
-    },
-    {
-      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-06T17:29:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>I feel that reproducibility is now a lost cause in machine learning research for three reasons:</strong></p> <ol> <li><p>Many research is moving towards the p",
       "is_policy": false
     },
     {
