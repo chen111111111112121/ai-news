@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:54:54.613541+00:00",
+  "generated_at": "2026-09-15T20:39:06.135197+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-15T15:54:54+00:00",
+      "published": "2026-09-15T20:39:06+00:00",
       "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/JustVugg/colibri",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-15T15:54:54+00:00",
+      "published": "2026-09-15T20:39:06+00:00",
       "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-15T15:54:54+00:00",
+      "published": "2026-09-15T20:39:06+00:00",
       "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/danny-avila/LibreChat",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-15T15:54:54+00:00",
+      "published": "2026-09-15T20:39:06+00:00",
       "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-15T15:54:54+00:00",
+      "published": "2026-09-15T20:39:06+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
@@ -57,8 +57,98 @@
       "url": "https://github.com/earendil-works/pi",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-15T15:54:54+00:00",
+      "published": "2026-09-15T20:39:06+00:00",
       "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "is_policy": false
+    },
+    {
+      "title": "Have you pivoted away from AI/ML due to ethical concerns? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1whc02l/have_you_pivoted_away_from_aiml_due_to_ethical/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-15T20:31:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a question for those among you who've enjoyed creating ML models or working in a role adjacent to AI, but have become sceptical about the direction the field i",
+      "is_policy": false
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-15T20:12:53+00:00",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "is_policy": false
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-15T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "is_policy": false
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-15T18:29:20+00:00",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "is_policy": false
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-09-15T17:47:51+00:00",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more",
+      "is_policy": false
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-15T17:42:59+00:00",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "is_policy": false
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-09-15T17:05:57+00:00",
+      "summary": "",
+      "is_policy": false
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-15T17:05:24+00:00",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "is_policy": false
+    },
+    {
+      "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-15T16:18:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Prior Labs released their latest tabular foundation model, TabPFN-3.5 today.</p> <p>The model is top of both TabArena and BeyondArena and SOTA for 1M rows and up to 2",
+      "is_policy": false
+    },
+    {
+      "title": "Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元",
+      "url": "https://www.ithome.com/1/002/818.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-15T15:57:09+00:00",
+      "summary": "<p>IT之家 9 月 15 日消息，Meta 今天（15 日）晚间宣布上线的 Meta One 套餐，把 Facebook、Instagram 和 WhatsApp 等独立订阅与更高的 AI 使用额度打包销售，面向“AI 重度用户”及创作者、商业用户。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://i",
       "is_policy": false
     },
     {
@@ -392,15 +482,6 @@
       "category": "news",
       "published": "2026-09-15T13:36:31+00:00",
       "summary": "<p>IT之家 9 月 15 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 9 月 8 日 - 2026 年 9 月 15 日，无免费游戏），上期榜首《黎明行者之血》跌至第 5 名，新作《战狗》冲上全球榜首，同时拿下国区榜单第一，</p><p>全球榜单：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>《战狗》</",
-      "is_policy": false
-    },
-    {
-      "title": "ATK RS7 Air 磁轴键盘新增中国航母 FLEET 18 IP 联名款，到手低至 379.05 元",
-      "url": "https://www.ithome.com/1/002/775.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-15T13:32:30+00:00",
-      "summary": "<p>IT之家 9 月 15 日消息，ATK 今日正式推出与中船七一四所合作的中国航母 FLEET 18 文创 IP 款 RS7 Air 磁轴键盘。这一联名款式的<strong>“宠粉补贴到手价”为 379.05 元</strong>。</p><p>该联名款键盘整体采用海蓝配色，键盘背部、键帽等处导入航母丝印设计，侧面的 CNC 金属铭牌则以激光雕刻 FLEET 18 字样。</p><p styl",
       "is_policy": false
     },
     {
@@ -1709,33 +1790,6 @@
       "is_policy": false
     },
     {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-14T14:30:00+00:00",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo",
-      "is_policy": false
-    },
-    {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-14T14:00:00+00:00",
-      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investor",
-      "is_policy": false
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-14T13:55:00+00:00",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "is_policy": false
-    },
-    {
       "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
       "source": "r/MachineLearning",
@@ -1979,15 +2033,6 @@
       "is_policy": false
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-13T19:40:15+00:00",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "is_policy": false
-    },
-    {
       "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
       "source": "r/MachineLearning",
@@ -2003,15 +2048,6 @@
       "category": "community",
       "published": "2026-09-13T18:01:03+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/\"> <img alt=\"[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! ",
-      "is_policy": false
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-13T16:30:00+00:00",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
       "is_policy": false
     },
     {
@@ -2096,39 +2132,12 @@
       "is_policy": false
     },
     {
-      "title": "How much do tech reports matter for a PhD application? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-12T14:40:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The title, by tech reports I don't mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above,",
-      "is_policy": false
-    },
-    {
       "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-12T11:23:51+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/\"> <img alt=\"A Severe Misalignment of AI in Mathematics (Declaration by 2",
-      "is_policy": false
-    },
-    {
-      "title": "Confusion regarding EMNLP registration [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-11T23:24:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I posted some months ago and got some very helpful responses (for another conference), but I have some confusions regarding EMNLP (and the way registration works ",
-      "is_policy": false
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-09-11T20:05:06+00:00",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
       "is_policy": false
     },
     {
@@ -2186,6 +2195,24 @@
       "is_policy": false
     },
     {
+      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
+      "url": "https://huggingface.co/papers/2609.13443",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-10T20:00:00+00:00",
+      "summary": "We demonstrate that training LLMs with RL does not improve performance equally across a dataset. RL shows large improvements on easy problems that an LLM is already good at solving, but small improvem",
+      "is_policy": false
+    },
+    {
+      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+      "url": "https://huggingface.co/papers/2609.13463",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-10T20:00:00+00:00",
+      "summary": "The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals ",
+      "is_policy": false
+    },
+    {
       "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
       "url": "https://huggingface.co/papers/2609.13053",
       "source": "HF Papers",
@@ -2237,15 +2264,6 @@
       "category": "papers",
       "published": "2026-09-10T20:00:00+00:00",
       "summary": "In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models ",
-      "is_policy": false
-    },
-    {
-      "title": "StepAudio 3 Gen Technical Report",
-      "url": "https://huggingface.co/papers/2609.12945",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-10T20:00:00+00:00",
-      "summary": "We introduce StepAudio 3 Gen, a general-purpose audio generation model that supports zero-shot text-to-speech (TTS), voice design, vocal generation, sound effects, music, vibe speech, and mixtures of ",
       "is_policy": false
     },
     {
@@ -2330,15 +2348,6 @@
       "is_policy": false
     },
     {
-      "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
-      "url": "https://huggingface.co/papers/2609.12101",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-09T20:00:00+00:00",
-      "summary": "In hybrid forecasting, a language model is often one of several available signals. A system may already have a market, crowd, or statistical forecast and must decide whether the model adds useful info",
-      "is_policy": false
-    },
-    {
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "source": "OpenAI Blog",
@@ -2372,15 +2381,6 @@
       "category": "community",
       "published": "2026-09-09T07:54:14+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/machinelearning\">r/machinelearning</a>. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab.</p> <p>I bui",
-      "is_policy": false
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-09-08T17:00:00+00:00",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "is_policy": false
     }
   ]
