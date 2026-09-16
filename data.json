@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:46:27.403064+00:00",
+  "generated_at": "2026-09-16T20:38:40.947042+00:00",
   "categories": [
     "news",
     "papers",
@@ -7,6 +7,231 @@
     "community"
   ],
   "items": [
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
+      "is_policy": false
+    },
+    {
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "is_policy": false
+    },
+    {
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "is_policy": false
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "The open-source AI voice studio. Clone, dictate, create.",
+      "is_policy": false
+    },
+    {
+      "title": "roboflow / supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "We write your reusable computer vision tools. 💜",
+      "is_policy": false
+    },
+    {
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "is_policy": false
+    },
+    {
+      "title": "rlaope / oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "is_policy": false
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "is_policy": false
+    },
+    {
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "is_policy": false
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "is_policy": false
+    },
+    {
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "is_policy": false
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-16T20:38:40+00:00",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "is_policy": false
+    },
+    {
+      "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-16T20:19:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When models from different families are given the same underspecified task, they often fail in the same way rather than in independent ways. My question is about meas",
+      "is_policy": false
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-16T20:12:00+00:00",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 发布",
+      "url": "https://www.ithome.com/1/003/345.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-16T19:00:11+00:00",
+      "summary": "<p style=\"text-align: center;\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p> IT之家 9 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 更新（内部版本号：24S5086l），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布",
+      "url": "https://www.ithome.com/1/003/344.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-16T19:00:11+00:00",
+      "summary": "<p> IT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style=\"text-align: center;\"> <img alt=\"苹果 visionOS 操作系统\" src=\"https://img.itho",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 发布",
+      "url": "https://www.ithome.com/1/003/343.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-16T19:00:11+00:00",
+      "summary": "<p> IT之家 9 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 更新（内部版本号：26B5086k），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style=\"text-align: center;\"> <img alt=\"苹果 macOS 操作系统\" src=\"https://img.ithome.com/news",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 发布",
+      "url": "https://www.ithome.com/1/003/342.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-16T19:00:10+00:00",
+      "summary": "<p style=\"text-align: center;\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p> IT之家 9 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 更新（内部版本号：24B5084k），本次更新距离上次发布 Beta/RC 间隔 7 天。</",
+      "is_policy": false
+    },
+    {
+      "title": "GoBench: Evaluating LLMs on the game of Go [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-16T18:54:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/\"> <img alt=\"GoBench: Evaluating LLMs on the game of Go [R]\" src=\"https:",
+      "is_policy": false
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-16T18:25:25+00:00",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "is_policy": false
+    },
+    {
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-16T17:20:29+00:00",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterp",
+      "is_policy": false
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a",
+      "is_policy": false
+    },
+    {
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Pr",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-16T16:30:00+00:00",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "is_policy": false
+    },
+    {
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-16T16:30:00+00:00",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part o",
+      "is_policy": false
+    },
     {
       "title": "Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -17,112 +242,13 @@
       "is_policy": false
     },
     {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
-      "is_policy": false
-    },
-    {
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "is_policy": false
-    },
-    {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "is_policy": false
-    },
-    {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "The open-source AI voice studio. Clone, dictate, create.",
-      "is_policy": false
-    },
-    {
-      "title": "roboflow / supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "We write your reusable computer vision tools. 💜",
-      "is_policy": false
-    },
-    {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "is_policy": false
-    },
-    {
-      "title": "rlaope / oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "is_policy": false
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "is_policy": false
-    },
-    {
-      "title": "multimodal-art-projection / YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "is_policy": false
-    },
-    {
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "Production-grade engineering skills for AI coding agents.",
-      "is_policy": false
-    },
-    {
-      "title": "cline / cline",
-      "url": "https://github.com/cline/cline",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "is_policy": false
-    },
-    {
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-16T15:46:27+00:00",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "is_policy": false
+      "title": "联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争",
+      "url": "https://www.ithome.com/1/003/338.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-16T15:47:40+00:00",
+      "summary": "<p>IT之家 9 月 16 日消息，据彭博社今天（16 日）晚间报道，联合国秘书长安东尼奥 · 古特雷斯呼吁各国共同推进 AI 监管，并加强对技术的监督。“我们不能忽视已经出现的担忧，尤其不能忽视那些<strong>亲自参与 AI 开发的人提出的警告</strong>。地缘政治分歧确实存在，也可能诱使各方采取冒险做法。然而，<strong>世界承受不起在 AI 安全领域不断的恶性竞争</stro",
+      "is_policy": true
     },
     {
       "title": "多名欧美艺人集体发帖，暗示自己将入选《GTA 6》电台音乐或出任 DJ",
@@ -413,66 +539,12 @@
       "is_policy": false
     },
     {
-      "title": "PhD in ML in the AI era, autoresearch [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1whxlgq/phd_in_ml_in_the_ai_era_autoresearch_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-16T13:41:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I am currently a first year PhD student in AI/ML.</p> <p>I am just wondering if I am not wasting my time doing a PhD in academia vs going to a ",
-      "is_policy": false
-    },
-    {
-      "title": "英伟达、谷歌、Emerald AI 发起成立 AI 能源管理联盟，推动灵活型 AI 数据中心发展",
-      "url": "https://www.ithome.com/1/003/301.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-16T13:37:57+00:00",
-      "summary": "<p>IT之家 9 月 16 日消息，AI 工厂是智能时代的基础设施。要以负责任的方式扩大 AI 工厂的规模，既需要数据中心内部的技术创新，同样也离不开整个电网侧的革新。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/6d491",
-      "is_policy": false
-    },
-    {
-      "title": "朱江明：零跑已做出完全自研机器人，待其“能赚钱”才能拿出手",
-      "url": "https://www.ithome.com/1/003/300.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-16T13:36:53+00:00",
-      "summary": "<p>IT之家 9 月 16 日消息，在今晚的零跑 2026 年度技术发布会上，零跑科技创始人、董事长、CEO 朱江明在演讲中提到，有很多人问零跑为什么不做具身智能。“论技术积累的深度和广度，不论自制和外部供应链的团队，零跑是最具条件做具身智能这个非常火热的行业。”</p><p>朱江明强调，零跑做事的理念是“不炒概念”，零跑对具身智能也做了小规模的评估，处于跟随状态，<strong>也做出了完全自",
-      "is_policy": false
-    },
-    {
-      "title": "全新奔驰长轴距 GLE SUV 上市，59.98 万元起",
-      "url": "https://www.ithome.com/1/003/299.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-16T13:34:13+00:00",
-      "summary": "<p>IT之家 9 月 16 日消息，全新奔驰长轴距 GLE SUV 今日上市，提供多种配置，<strong>售价 59.98 万元-76.78 万元</strong>。这是 GLE 系列首次在中国本土化生产，该车相比进口标轴版车型在轴距增加 120mm 至 3115mm，即日起购车可享受专属购置税礼、3 年不限里程整车保修等权益。</p><p style=\"text-align: center;",
-      "is_policy": false
-    },
-    {
-      "title": "亚马逊公布三项员工福利：美国最低起薪提至每小时 20 美元",
-      "url": "https://www.ithome.com/1/003/298.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-16T13:30:48+00:00",
-      "summary": "<p>IT之家 9 月 16 日消息，亚马逊对外公布了针对员工的三项新福利，将美国最低起薪提高至每小时 20 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 134.5 元人民币）</span>，斥资超过 15 亿美元<span class=\"exch-money-value \">（现汇率约合 100.9 亿元人民币）</span>用于提高美国核心运营",
-      "is_policy": false
-    },
-    {
       "title": "LARA: small, composable behaviours for frozen LLMs [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-16T13:28:40+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/\"> <img alt=\"LARA: small, composable behaviours for frozen LLMs [",
-      "is_policy": false
-    },
-    {
-      "title": "消息称苹果筹划重返服务器业务，高配版搭载 4 颗 M8 Ultra 芯片",
-      "url": "https://www.ithome.com/1/003/297.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-16T13:27:34+00:00",
-      "summary": "<p>IT之家 9 月 16 日消息，The Information 今天（16 日）晚间援引知情人士消息称，苹果公司正筹划推出企业级服务器，采用自研芯片，并可能<strong>接入英伟达的网络设备</strong>。</p><p>随着 AI 开发者对苹果电脑的需求不断上升，苹果希望借此进入更大的 AI 硬件市场。</p><p>知情人士透露，苹果计划面向 AI 开发者、企业和政府机构销售这款服务器",
       "is_policy": false
     },
     {
@@ -530,12 +602,30 @@
       "is_policy": true
     },
     {
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-09-16T12:00:00+00:00",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "is_policy": false
+    },
+    {
       "title": "Amazon launches Alexa+ in India with Hindi support",
       "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-16T10:34:47+00:00",
       "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+      "is_policy": false
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-09-16T09:00:00+00:00",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "is_policy": false
     },
     {
@@ -1745,33 +1835,6 @@
       "is_policy": false
     },
     {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-15T14:42:37+00:00",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "is_policy": false
-    },
-    {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-15T14:30:00+00:00",
-      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock",
-      "is_policy": false
-    },
-    {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-15T14:00:00+00:00",
-      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "is_policy": false
-    },
-    {
       "title": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
       "source": "r/MachineLearning",
@@ -1787,15 +1850,6 @@
       "category": "news",
       "published": "2026-09-15T13:36:45+00:00",
       "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the c",
-      "is_policy": false
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-15T13:00:00+00:00",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "is_policy": false
     },
     {
@@ -1871,12 +1925,12 @@
       "is_policy": false
     },
     {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-14T20:03:37+00:00",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, b",
+      "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+      "url": "https://huggingface.co/papers/2609.16591",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-14T20:00:00+00:00",
+      "summary": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This",
       "is_policy": false
     },
     {
@@ -1994,15 +2048,6 @@
       "category": "community",
       "published": "2026-09-14T13:28:01+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>TLDR: I made &quot;poor man’s&quot; DSSM (Deep Structured Semantic Model) — the count-based translation table that can enrich the inverted index for full-text search.",
-      "is_policy": false
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-14T13:00:00+00:00",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI developm",
       "is_policy": false
     },
     {
@@ -2231,33 +2276,6 @@
       "is_policy": true
     },
     {
-      "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
-      "url": "https://huggingface.co/papers/2609.15973",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-13T20:00:00+00:00",
-      "summary": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a fur",
-      "is_policy": false
-    },
-    {
-      "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
-      "url": "https://huggingface.co/papers/2609.15478",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-13T20:00:00+00:00",
-      "summary": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question ",
-      "is_policy": false
-    },
-    {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-13T19:41:48+00:00",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo",
-      "is_policy": false
-    },
-    {
       "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
       "source": "r/MachineLearning",
@@ -2294,13 +2312,13 @@
       "is_policy": false
     },
     {
-      "title": "When NeurIPS'26 final decision release? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-13T10:38:50+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Will it be strictly Sep'24 AoE? Is there any possibility for releasing before Sep'18 AoE, ICLR abstract submission date?</p> </div><!-- SC_ON --> &#32; submitted by &",
-      "is_policy": false
+      "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+      "url": "https://huggingface.co/papers/2609.16057",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-12T20:00:00+00:00",
+      "summary": "Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience",
+      "is_policy": true
     },
     {
       "title": "Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?",
@@ -2402,15 +2420,6 @@
       "is_policy": false
     },
     {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "is_policy": false
-    },
-    {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "source": "OpenAI Blog",
@@ -2420,12 +2429,12 @@
       "is_policy": false
     },
     {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "source": "OpenAI Blog",
       "category": "news",
-      "published": "2026-09-09T17:00:00+00:00",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "is_policy": false
     }
   ]
