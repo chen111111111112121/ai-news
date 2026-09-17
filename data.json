@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:53:17.618710+00:00",
+  "generated_at": "2026-09-17T20:45:17.849987+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/Tencent/WeKnora",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/jamiepine/voicebox",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "The open-source AI voice studio. Clone, dictate, create.",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -75,7 +75,7 @@
       "url": "https://github.com/roboflow/supervision",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "We write your reusable computer vision tools. 💜",
       "is_policy": false
     },
@@ -84,7 +84,7 @@
       "url": "https://github.com/JustVugg/colibri",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "is_policy": false
     },
@@ -93,7 +93,7 @@
       "url": "https://github.com/TencentCloud/Octop",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "is_policy": false
     },
@@ -102,7 +102,7 @@
       "url": "https://github.com/cline/cline",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "is_policy": false
     },
@@ -111,8 +111,134 @@
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-17T15:53:17+00:00",
+      "published": "2026-09-17T20:45:17+00:00",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "is_policy": false
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T20:34:47+00:00",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T20:34:24+00:00",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable ",
+      "is_policy": false
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T20:19:37+00:00",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "is_policy": false
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T20:00:00+00:00",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T19:46:08+00:00",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul",
+      "is_policy": false
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-17T19:28:24+00:00",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
+      "is_policy": false
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-17T18:58:05+00:00",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other too",
+      "is_policy": false
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T17:26:25+00:00",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "is_policy": false
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T17:15:59+00:00",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "is_policy": false
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-17T17:15:00+00:00",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 Apple Watch Series 12 与 Ultra 4 今日开售，2999/6499 元起",
+      "url": "https://www.ithome.com/1/003/874.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-17T16:00:15+00:00",
+      "summary": "<p>IT之家 9 月 18 日消息，苹果最新发布的 Apple Watch Series 12 与 Apple Watch Ultra 4 两款智能手表今日正式发售。</p><p>其中，Apple Watch Series 12 的 GPS 款国行起售价 2999 元（教育优惠 2699 元起），GPS + 蜂窝网络款 3799 元；Apple Watch Ultra 4 起售价 6499 元（",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补",
+      "url": "https://www.ithome.com/1/003/873.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-17T16:00:14+00:00",
+      "summary": "<p>IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。</p><p>IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/46Lp",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 iPhone 18 Pro/Max 系列今日正式开售，国行 9999 元起",
+      "url": "https://www.ithome.com/1/003/872.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-17T16:00:14+00:00",
+      "summary": "<p>IT之家 9 月 18 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型将于 9 月 18 日正式开售，而如果是在苹果官网参与预购的用户也会在今天收到包裹。</p><p>苹果 iPhone 18 Pro 国行起售价为 9999 元，iPhone 18 Pro Max 为 10999 元，均为 256GB 存储起步。</p><dir><a conten",
+      "is_policy": false
+    },
+    {
+      "title": "XGBoost vs Human Markets [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-17T15:59:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What is the generally thought of as the upper limit of the predictive power of XGBoost vs an aggregate of humans? </p> <p>Right now I feed the model the same informat",
       "is_policy": false
     },
     {
@@ -410,33 +536,6 @@
       "category": "news",
       "published": "2026-09-17T13:08:04+00:00",
       "summary": "<p>IT之家 9 月 17 日消息，英伟达 CEO 黄仁勋当地时间周四表示，预计公司 2027 年的芯片销量将是 2026 年的约两倍。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/3/278316e8-1c15-4d6e-86",
-      "is_policy": false
-    },
-    {
-      "title": "出于隐私安全考量，澳大利亚拟禁止在联邦办公场所使用智能眼镜",
-      "url": "https://www.ithome.com/1/003/829.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-17T13:02:49+00:00",
-      "summary": "<p>IT之家 9 月 17 日消息，据彭博社报道，澳大利亚政府正在考虑禁止在联邦政府办公场所使用智能眼镜，理由是这类设备可能带来隐私和安全风险，尤其是用户可以在他人不知情的情况下进行录音、录像。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles",
-      "is_policy": false
-    },
-    {
-      "title": "《GTA 6》实体原声专辑公布：最高售价近 125 美元，超游戏终极版",
-      "url": "https://www.ithome.com/1/003/826.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-17T12:54:50+00:00",
-      "summary": "<p>IT之家 9 月 17 日消息，Rockstar Games 最新公告确认，《GTA 6》将推出实体版原声专辑，其中最高规格版本售价接近 125 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 840.3 元人民币），</span>甚至高于售价 100 美元<span class=\"exch-money-value \">（现汇率约合 672.2 ",
-      "is_policy": false
-    },
-    {
-      "title": "华为 Mate 80 系列手机获 HarmonyOS 7.0.0.107SP8 升级，优化相机、控制中心等使用体验",
-      "url": "https://www.ithome.com/1/003/825.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-17T12:47:38+00:00",
-      "summary": "<p>IT之家 9 月 17 日消息，华为今日面向 Mate 80 系列手机率先开启了<strong> HarmonyOS 7.0.0.107 SP8</strong> 升级，系统包大小约 0.97GB。据介绍，新版本优化了相机、控制中心等场景的使用体验。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://",
       "is_policy": false
     },
     {
@@ -1592,6 +1691,15 @@
       "is_policy": false
     },
     {
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "is_policy": false
+    },
+    {
       "title": "Al Gore says the real AI risk isn’t data centers",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "source": "TechCrunch AI",
@@ -1727,24 +1835,6 @@
       "is_policy": false
     },
     {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T16:30:00+00:00",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "is_policy": false
-    },
-    {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-16T16:30:00+00:00",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part o",
-      "is_policy": false
-    },
-    {
       "title": "Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI Blog",
@@ -1754,57 +1844,12 @@
       "is_policy": false
     },
     {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T15:00:00+00:00",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $",
-      "is_policy": false
-    },
-    {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
       "source": "MIT Tech Review",
       "category": "news",
       "published": "2026-09-16T15:00:00+00:00",
       "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so careful",
-      "is_policy": false
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-16T14:45:00+00:00",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, sh",
-      "is_policy": false
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T14:24:58+00:00",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h",
-      "is_policy": false
-    },
-    {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T14:15:00+00:00",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult",
-      "is_policy": false
-    },
-    {
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T14:00:00+00:00",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
       "is_policy": false
     },
     {
@@ -1823,24 +1868,6 @@
       "category": "community",
       "published": "2026-09-16T13:28:40+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/\"> <img alt=\"LARA: small, composable behaviours for frozen LLMs [",
-      "is_policy": false
-    },
-    {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T13:23:02+00:00",
-      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "is_policy": false
-    },
-    {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T13:00:00+00:00",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
       "is_policy": false
     },
     {
@@ -1877,15 +1904,6 @@
       "category": "news",
       "published": "2026-09-16T12:00:00+00:00",
       "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "is_policy": false
-    },
-    {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-16T10:34:47+00:00",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
       "is_policy": false
     },
     {
@@ -2084,6 +2102,15 @@
       "category": "community",
       "published": "2026-09-15T08:50:58+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I'm trying to reproduce a paper where the reported dataset statistics in Table 1 don't match what I get from the public raw data, even after implementi",
+      "is_policy": false
+    },
+    {
+      "title": "Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand",
+      "url": "https://huggingface.co/papers/2609.17172",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-14T20:00:00+00:00",
+      "summary": "A walking robotic hand must use the same fingers to move its body, support its weight, and interact with the environment. We show how an anthropomorphic hand can learn these skills while retaining its",
       "is_policy": false
     },
     {
@@ -2294,15 +2321,6 @@
       "is_policy": false
     },
     {
-      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-13T20:32:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi 👋 long time lurker </p> <p>It’s been a few years since the last post about Horse Racing within this sub. </p> <p>A few years ago I was reading a popular science bo",
-      "is_policy": false
-    },
-    {
       "title": "Assessing nnU-Net Generalization across Brain Tumor Populations in BraTS-GoAT 2026",
       "url": "https://huggingface.co/papers/2609.15524",
       "source": "HF Papers",
@@ -2348,15 +2366,6 @@
       "is_policy": false
     },
     {
-      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
-      "url": "https://huggingface.co/papers/2609.15195",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-13T20:00:00+00:00",
-      "summary": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generaliza",
-      "is_policy": false
-    },
-    {
       "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
       "source": "r/MachineLearning",
@@ -2390,15 +2399,6 @@
       "category": "news",
       "published": "2026-09-11T10:00:00+00:00",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "is_policy": false
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "is_policy": false
     }
   ]
