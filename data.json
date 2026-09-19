@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:57:08.171996+00:00",
+  "generated_at": "2026-09-19T15:02:15.950563+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,35 +12,8 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
+      "published": "2026-09-19T15:02:15+00:00",
       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "is_policy": false
-    },
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-      "is_policy": false
-    },
-    {
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "is_policy": false
-    },
-    {
-      "title": "Tencent / BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "is_policy": false
     },
     {
@@ -48,53 +21,350 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
+      "published": "2026-09-19T15:02:15+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
     {
-      "title": "TencentCloud / Octop",
-      "url": "https://github.com/TencentCloud/Octop",
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "published": "2026-09-19T15:02:15+00:00",
+      "summary": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "is_policy": false
     },
     {
-      "title": "Fission-AI / OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
+      "title": "docling-project / docling",
+      "url": "https://github.com/docling-project/docling",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "Spec-driven development (SDD) for AI coding assistants.",
+      "published": "2026-09-19T15:02:15+00:00",
+      "summary": "Get your documents ready for gen AI",
       "is_policy": false
     },
     {
-      "title": "supermemoryai / supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "published": "2026-09-19T15:02:15+00:00",
+      "summary": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
       "is_policy": false
     },
     {
-      "title": "tradesdontlie / tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "title": "yynxxxxx / Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "published": "2026-09-19T15:02:15+00:00",
+      "summary": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
       "is_policy": false
     },
     {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-19T09:57:08+00:00",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "title": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-19T15:00:00+00:00",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "is_policy": false
+    },
+    {
+      "title": "美联邦航空管理局斥资 8.75 亿美元打造 AI 空管系统，治理空中交通问题",
+      "url": "https://www.ithome.com/1/004/569.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:55:04+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，据《华尔街日报》当地时间 17 日报道，美国联邦航空官员将在全美最繁忙的航空走廊之一启用一套 AI 空中交通管理工具，最快当地时间 21 日上线。</p><p>据美国政府和航空业官员透露，这套名为 Smart 的软件将率先在华盛顿特区一带投入使用，随后逐步推广至全美。Smart 旨在帮助美国联邦航空管理局（FAA）和航空公司<strong>减少航班延误与取消<",
+      "is_policy": true
+    },
+    {
+      "title": "马云深度参与：淘宝闪购城市骑士制服获 2026 年法国设计奖最高奖，金奖首次授予一线劳动者职业制服",
+      "url": "https://www.ithome.com/1/004/568.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:48:34+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，阿里巴巴今日宣布，9 月 19 日，2026 年法国设计奖（French Design Award）颁奖典礼在巴黎举行，<strong>淘宝闪购城市骑士制服获颁金奖</strong>。</p><p>据悉，这是该奖设立以来，<strong>首次将金奖授予一套面向一线劳动者的职业制服</strong>。</p><p style=\"text-align: cente",
+      "is_policy": false
+    },
+    {
+      "title": "阿维塔 06T 猎装骑士版更多官图公布：896 线激光雷达、9 月 20 日上市",
+      "url": "https://www.ithome.com/1/004/567.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:48:20+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，阿维塔 06T 猎装骑士版公布更多官图，新车将于 9 月 20 日正式上市。</p><p>结合官方海报可以看到，该车前脸采用家族式设计，配备半隐藏式门把手，车顶搭载 896 线激光雷达，尾部则采用当下流行的贯穿式尾灯，标配太行分布式电驱。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src",
+      "is_policy": false
+    },
+    {
+      "title": "曾让宇航员滞留太空数月的波音星际客机，被 NASA 希望再负责至少 10 次载人飞行任务",
+      "url": "https://www.ithome.com/1/004/566.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:36:50+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，2024 年的故障滞留事件两年后，据《华尔街日报》当地时间 18 日报道，NASA 正与波音洽谈，希望让星际客机继续承担新的载人飞行任务。</p><p style=\"text-align: start;\">知情人士透露，双方讨论的方案包括<strong>未来数年安排星际客机执行至少 10 次新任务</strong>。</p><p style=\"text-ali",
+      "is_policy": false
+    },
+    {
+      "title": "市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”：都是新技术带来的安全缺陷",
+      "url": "https://www.ithome.com/1/004/565.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:23:28+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，据每日经济新闻报道，9 月 19 日，国家市场监督管理总局缺陷产品召回技术中心工业品所所长肖凌云在 2026 中国汽车产业发展（泰达）国际论坛上透露，<strong>我国 2025 年召回的车辆中，有一半是企业主动召回</strong>。</p><blockquote><p>真正能够召回的企业是好的企业、优秀的企业。真正主动去召回的企业，也是质量能够走向优先的",
+      "is_policy": true
+    },
+    {
+      "title": "滨口直树：《最终幻想 7：启示录》游戏容量或达 200GB，需“一定程度”突破硬件限制",
+      "url": "https://www.ithome.com/1/004/564.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:15:32+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，《最终幻想 7：启示录》游戏总监滨口直树在 2026 东京电玩展接受外媒 VGC 采访时透露，本作容量可能达到约 200GB。</p><p>在被问到游戏下载容量是否会超过前两作使用的两张蓝光光盘时，滨口直树回应称：“简单来说，是的。目前还有一些细节没有最终确定，但游戏容量<strong>大概会达到 200GB</strong>。我知道大家对此有很多不同看法，不",
+      "is_policy": false
+    },
+    {
+      "title": "奕境汽车：奕境 X9 顶压实测 20 吨，车身结构没有任何变形",
+      "url": "https://www.ithome.com/1/004/563.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T14:08:30+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，奕境汽车今日发布视频，提到了在 8 月份举行的预售发布会上，宣传的挑战 16 吨集装箱垂直压顶的测试，ABCD 柱结构完整、无变形，车门可正常开启，<strong>当时 16 吨已经是行业最高的数据</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://",
+      "is_policy": false
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-19T14:00:00+00:00",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Bid",
+      "is_policy": false
+    },
+    {
+      "title": "2026《英雄联盟》S16 全球总决赛 LPL 四支参赛队出炉：AL、BLG、TES、iG",
+      "url": "https://www.ithome.com/1/004/562.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T13:51:51+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，2026《英雄联盟》S16 全球总决赛 LPL 赛区四支参赛队伍全部出炉，历经三个赛段鏖战争锋，AL（一号种子）、BLG（二号种子）、TES（三号种子）、IG（四号种子）四支队伍突围而出。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪第二代腾势 D9 车型 OTA 升级，AI 超级智能体“迪迪虾”上新",
+      "url": "https://www.ithome.com/1/004/561.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T13:35:59+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，比亚迪第二代腾势 D9 OTA 于近日焕新升级，AI 超级智能体“迪迪虾”上新。</p><p>IT之家整理如下：</p><ul class=\" list-paddingleft-2\"><li><p>新增迪迪虾智能搭子，焕新上线。一站式解锁五大新功能，支持 7 分屏和全屏设置。</p></li><li><p>新增生态智能体服务吃喝玩乐，支持听音乐、刷视频、点外卖",
+      "is_policy": false
+    },
+    {
+      "title": "“工作垃圾”飞来飞去，曾大力拥抱 AI 的科技大佬开始“踩刹车”了",
+      "url": "https://www.ithome.com/1/004/560.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T13:31:41+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，当地时间 17 日，据《财富》杂志网站报道，曾经把 AI 吹捧为释放员工全部潜力关键的科技行业领导者，正开始逐渐改变说法。</p><p>Shopify 联合创始人兼 CEO 托比亚斯 · 吕特克就是其中之一。去年，他还要求员工把使用 AI 当作基本要求，在申请更多资源之前，先证明现有工作无法通过 AI 完成。</p><p>时间来到现在，吕特克开始批评员工<st",
+      "is_policy": false
+    },
+    {
+      "title": "649 美元的“第二设备”，Clicks Communicator 全键盘手机 12 月发货",
+      "url": "https://www.ithome.com/1/004/559.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T13:14:38+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，Clicks 首款智能手机 Clicks Communicator 定于 12 月开始发货，时间点距离在 CES 2026 首次亮相接近一年。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/",
+      "is_policy": false
+    },
+    {
+      "title": "璇玑动力中型智能四足机器人全球首发：最大陡坡攀爬 45°，支持自动充电",
+      "url": "https://www.ithome.com/1/004/558.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T13:11:13+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，璇玑动力中型智能四足机器人及智能技术全球首发，正式推出 Hypertron-SW01 泛行业中型智能四足机器人。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/26252873-d52a-4",
+      "is_policy": false
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-19T13:00:00+00:00",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "is_policy": false
+    },
+    {
+      "title": "The AI regulation smackdown isn’t over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-19T13:00:00+00:00",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
+      "is_policy": true
+    },
+    {
+      "title": "消息称新能源车险定价区间对标燃油车，保费将走向“一车一价”",
+      "url": "https://www.ithome.com/1/004/557.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:57:51+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，据中新经纬从业内了解到，<strong>新能源商业车险自主定价系数区间预计调整为 0.5-1.5，与燃油车保持一致</strong>。</p><p>IT之家此前曾报道，2025 年 1 月，国家金融监督管理总局等四部门发布《<a href=\"https://www.ithome.com/0/827/039.htm\" target=\"_blank\">关于深化改革",
+      "is_policy": false
+    },
+    {
+      "title": "中国空间站稳定运行五年，我国航天健康保障体系总体达到国际先进水平",
+      "url": "https://www.ithome.com/1/004/556.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:57:08+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，今天（19 日）晚间的央视《新闻联播》报道，中国空间站稳定运行五年来，我国航天健康保障体系总体达到国际先进水平，空间站长期驻留保障能力持续提升。</p><p style=\"text-align: left;\">今天召开的我国首届航天医学工程大会介绍，我国已构建了“<strong>失重防护 — 营养保障 — 医监医保 — 心理保障 — 环境安全</strong>",
+      "is_policy": false
+    },
+    {
+      "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-19T12:54:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. </p> <p>Covers the full stack: - Classical ML (scikit-learn, XGBoo",
+      "is_policy": false
+    },
+    {
+      "title": "达尔优 A5 头戴式游戏耳机发布：CS / 三角洲行动 / 竞技模式一键切换，预售 369 元起",
+      "url": "https://www.ithome.com/1/004/555.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:41:43+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，达尔优 A5 头戴式游戏耳机今日发布，9 月 21 日 20:00 全平台开售，Pro 版预售 369 元，Max 版 459 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/8e21c",
+      "is_policy": false
+    },
+    {
+      "title": "批评 3A 游戏“无聊”却误伤《战神：劳菲》，前顽皮狗游戏总监发长文致歉",
+      "url": "https://www.ithome.com/1/004/542.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:32:01+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，据外媒 VGC 今天（19 日）晚间报道，曾执导《最后生还者》《神秘海域 2》和《神秘海域 4》的前顽皮狗游戏总监布鲁斯 · 斯特拉利，因近期批评 3A 游戏现状的言论，向索尼圣莫尼卡工作室《战神：劳菲》团队致歉。</p><p>斯特拉利曾在顽皮狗工作 18 年，其间担任《最后生还者》及《最后生还者：遗落》DLC 游戏总监、《神秘海域》联合艺术总监，并先后执导《",
+      "is_policy": false
+    },
+    {
+      "title": "联想 CEO 杨元庆个人捐建，中国科大“周光召楼”正式开工",
+      "url": "https://www.ithome.com/1/004/541.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:28:27+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，据联想集团，9 月 19 日，由杨元庆个人捐资建设并命名的中国科学技术大学少年班学院“周光召楼”正式培土奠基。</p><p>联想集团董事长兼 CEO、中国科大校董、计算机科学系 89 届校友杨元庆重返母校，与中国科大党委书记舒歌群、校长常进等共同挥锹，为“周光召楼”培下第一锹土。</p><p style=\"text-align: center;\"><img c",
+      "is_policy": false
+    },
+    {
+      "title": "消息称大众加大保时捷裁员力度，拟再裁逾 4000 人填补约 7 亿欧元成本缺口",
+      "url": "https://www.ithome.com/1/004/539.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:03:01+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，当地时间 19 日，德国《商报》发布消息称，大众汽车集团准备<strong>进一步扩大保时捷裁员规模</strong>，计划再削减超过 4000 个岗位。此前，保时捷业务困境拖累集团业绩，并引发盈利预警。</p><p>《商报》获得的文件显示，大众集团监事会近期通过了一项重组协议，准备启动集团迄今规模最大的改革，其中拟在保时捷<strong>再裁减约 4100 ",
+      "is_policy": false
+    },
+    {
+      "title": "京东：苹果 iPhone 18 Pro 系列开售 1 小时，全国已有 3 万用户签收新机",
+      "url": "https://www.ithome.com/1/004/538.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T12:00:03+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，苹果 iPhone 18 Pro 与 iPhone 18 Pro Max 两款机型于 9 月 18 日正式开售，起售价为 9999 元。京东数据显示，开售 1 小时，全国已有 3 万用户签收 iPhone 18 Pro 系列新机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"ht",
+      "is_policy": false
+    },
+    {
+      "title": "一箭四星：株洲太空星际 PIESAT-2 13~16 星发射任务圆满成功",
+      "url": "https://www.ithome.com/1/004/537.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T11:43:32+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，据央视新闻报道，今天（19 日），我国在太原卫星发射中心使用长征二号丁运载火箭，成功将株洲太空星际 PIESAT-2 13~16 星发射升空。卫星顺利进入预定轨道，发射任务取得圆满成功。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/n",
+      "is_policy": false
+    },
+    {
+      "title": "荣耀学习空间 App 手机版上线：Magic8、WIN 系列等机型率先适配",
+      "url": "https://www.ithome.com/1/004/536.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T11:36:56+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，荣耀学习空间 App 手机版今日官宣上线，AI 作业辅导工具、同步教材、课后教辅、名师课统统装进荣耀手机里。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/a965592a-0739-448",
+      "is_policy": false
+    },
+    {
+      "title": "巨头喊 AI 刹车，宏碁董事长陈俊圣称不太可能、技术发展只会越来越快",
+      "url": "https://www.ithome.com/1/004/535.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T11:31:16+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，近期，Anthropic 首席执行官达里奥 · 阿莫迪、OpenAI 首席执行官萨姆 · 奥尔特曼以及特斯拉首席执行官埃隆 · 马斯克相继呼吁，应暂缓最先进人工智能的研发步伐。</p><p>据台媒经济日报今日报道，宏碁集团创始人施振荣认为，<strong>科技的进步实际上是停不下来</strong>；宏碁董事长陈俊圣更直言“不太可能”，<strong>因为技术",
+      "is_policy": false
+    },
+    {
+      "title": "SpaceXAI 发布 Grok Voice Transcribe 2.0 语音转文本模型：错误率降低约一半，价格保持不变",
+      "url": "https://www.ithome.com/1/004/534.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T11:12:32+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，当地时间 9 月 18 日，SpaceXAI 发布了 Grok Voice Transcribe 2.0 语音转文本模型，在保持价格不变的前提下，错误率降低约一半。</p><p>官方表示，Grok Voice Transcribe 2.0 基于 Grok Voice 底层的音频基础模型构建。目前，Grok Voice 已全面赋能实际业务：每天承接数万通客服电话",
+      "is_policy": false
+    },
+    {
+      "title": "消息称荣耀 WIN 平板搭载 8.4 英寸超高刷 OLED 屏，可能是第一个万级大电池小平板",
+      "url": "https://www.ithome.com/1/004/532.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T10:47:00+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，博主 @体验more 今日透露，<span class=\"hot-topic\">荣耀 WIN</span> 平板搭载<strong> 8.4 英寸超高刷 OLED 屏</strong>，芯片为骁龙 8 Elite Gen 5（第五代骁龙 8 至尊版），支持主动散热风扇，<strong>可能是第一个万级大电池小平板</strong>。</p><p style=\"",
+      "is_policy": false
+    },
+    {
+      "title": "18.99 万-22.99 万元，比亚迪方程豹宣布方程 S 新车抵达 133 城 289 店",
+      "url": "https://www.ithome.com/1/004/531.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T10:38:37+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，比亚迪方程豹汽车今天（19 日）通过官微宣布，方程 S 新车现已抵达 <strong>133 城 289 店</strong>。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/",
+      "is_policy": false
+    },
+    {
+      "title": "中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B",
+      "url": "https://www.ithome.com/1/004/530.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T10:33:14+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，中国电信于 9 月 17 日发布新一代星辰大模型 Xing4.0-29B-A4B，该模型总参数量 29B，激活参数仅 4B，原生支持 256K 上下文，可扩展至 512K，<strong>是国内首个基于国产算力与国产框架完成训练、面向复杂工程任务深度优化的百亿参数大模型</strong>。</p><p>官方表示，从训练芯片到推理部署，<strong>全栈国产<",
+      "is_policy": false
+    },
+    {
+      "title": "AI 演员接受英文采访时突然说粤语，制作公司回应称不是故障",
+      "url": "https://www.ithome.com/1/004/524.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T10:22:37+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，在接受英国知名主持人皮尔斯 · 摩根（Piers Morgan）的采访期间，AI 女演员提丽 · 诺伍德（Tilly Norwood）疑似发生运行故障，出现了短暂的语言切换异常。</p><p>在访谈期间，演员汤姆 · 康蒂（Tom Conti）询问诺伍德，关于即将上映电影的相关细节。AI 演员刚开始用英语回答，随后却突然中断英语，<strong>毫无预兆地说了",
+      "is_policy": false
+    },
+    {
+      "title": "微软 AI CEO 苏莱曼：我们不应创造自己无法控制的东西",
+      "url": "https://www.ithome.com/1/004/507.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T10:12:31+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，微软 AI CEO 穆斯塔法 · 苏莱曼称，自己竟然还需要专门强调 AI 必须与人类保持一致，为此感觉荒诞。“<strong>我们不应该创造自己无法控制的东西</strong>。如果技术发展最终会造出某种不仅比全人类加起来更强大，而且根本无法控制的东西，那么 AI 也就<strong>失去了最根本的意义</strong>。”</p><p>苏莱曼坦言，真正做到这",
+      "is_policy": false
+    },
+    {
+      "title": "DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费",
+      "url": "https://www.ithome.com/1/004/494.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-19T10:03:18+00:00",
+      "summary": "<p>IT之家 9 月 19 日消息，DeepSeek 今日发布 API 峰谷时间说明：调休上班的周末、中国法定节假日全天均按空闲时段计费。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/598f3255-c82e-4a56-b",
       "is_policy": false
     },
     {
@@ -107,273 +377,12 @@
       "is_policy": true
     },
     {
-      "title": "赛力斯总裁刘宗成：汽车产业最大的风险不是慢，而是“速成”",
-      "url": "https://www.ithome.com/1/004/485.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:37:23+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据每日经济新闻，在今天（19 日）的 2026 中国汽车产业发展国际论坛上，赛力斯集团科技公司总裁刘宗成发表演讲指出，汽车产业最大的风险<strong>不是慢，而是“速成”</strong>。</p><p>刘宗成认为，靠“速成”走不远，靠低价赢不了未来。“中国汽车要从规模领先迈向质量领先，<strong>不能靠压缩验证周期，降低安全标准来抢速度</strong",
-      "is_policy": false
-    },
-    {
-      "title": "全球首个低倾角遥感卫星星座“五羊星座”先导 A 星出征",
-      "url": "https://www.ithome.com/1/004/484.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:28:04+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，西光肆号 01 星（五羊星座先导 A 星）本周在陕西省西咸新区空港新城整装出征，奔赴发射场。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/c8b74e91-14a5-47f4-8ce6-9",
-      "is_policy": false
-    },
-    {
-      "title": "我国完成“地星三号”卧床实验，为太空长期驻留和载人登月任务提供技术支持",
-      "url": "https://www.ithome.com/1/004/482.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:26:29+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据新华社今日报道，记者从 19 日在天津召开的首届航天医学工程大会获悉，我国已完成“地星三号”卧床实验，结果表明对人体骨肌、心血管等能够起到很好的防护作用，<strong>将为太空长期驻留和载人登月任务提供技术支持</strong>。</p><p>卧床实验是开展航天医学研究、探究低变重力生理效应、验证防护效果的重要研究手段。中国航天员科研训练中心曲丽娜介绍，为",
-      "is_policy": false
-    },
-    {
-      "title": "加州州长签署行政令，要求专家组建立 AI“紧急停止”机制",
-      "url": "https://www.ithome.com/1/004/481.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:26:18+00:00",
-      "summary": "<p style=\"text-align: start;\">IT之家 9 月 19 日消息，当地时间 18 日，据美国 CNBC 报道，加利福尼亚州州长加文 · 纽森签署了一份行政令，要求进一步加强 AI 监管和安全措施，希望在“为时已晚之前”采取行动。</p><p style=\"text-align: start;\">按照行政令，加州将召集一批 AI 专家举行会议，并在两个月内提出方案，进一步完",
-      "is_policy": true
-    },
-    {
-      "title": "1 至 8 月全国铁路发送旅客 33.2 亿人次：同比增长 3.9%，创历史同期新高",
-      "url": "https://www.ithome.com/1/004/480.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:20:11+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据中国铁路官方消息，1 至 8 月，全国铁路发送旅客 33.2 亿人次，同比增长 3.9%，<strong>创历史同期新高</strong>，全国铁路运输安全平稳有序。</p><p style=\"text-align: center;\"><img alt=\"复兴号行驶\" src=\"https://img.ithome.com/newsuploadfiles/2",
-      "is_policy": false
-    },
-    {
-      "title": "丰田估算自 2028 年起，工厂自动化改造年均投入或达 1 万亿日元",
-      "url": "https://www.ithome.com/1/004/479.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:19:52+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，作为全球最大的汽车制造商，丰田汽车正加速推进自动化与机器人技术的部署。路透社报道称，据丰田估算，<strong>自 2028 年起，其工厂自动化改造项目的年均投入可能达到 1 万亿日元</strong><span class=\"exch-money-value \">（IT之家注：现汇率约合 427.13 亿元人民币）</span>。</p><p><strong",
-      "is_policy": false
-    },
-    {
-      "title": "百度地图张朝远：两轮车用户对地图需求排在 TOP3，如果一辆两轮车没有地图导航能力，很难说它是真的智能",
-      "url": "https://www.ithome.com/1/004/478.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:06:47+00:00",
-      "summary": "<p>9 月 19 日下午消息，在 2026 中国摩托车重庆论坛上，百度地图智能服务产品负责人张朝远发表《骑行智能新旅程》演讲。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/8fd05c03-ca8b-44bd-9ec2-cdb54cdeda9a.j",
-      "is_policy": false
-    },
-    {
-      "title": "“西贝被曝将彻底倒闭”登上热搜，客服回应称目前全国门店均正常运营、恳请大家理性看待网络信息",
-      "url": "https://www.ithome.com/1/004/477.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:05:02+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，“西贝被曝将彻底倒闭”的话题今日登上微博热搜，目前位居热搜榜第一位。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/908f9a9b-e8ed-46f9-81bc-7661f6bfe842.",
-      "is_policy": false
-    },
-    {
-      "title": "一处“毫秒级”软件故障，导致英国多地机场上周突遭瘫痪、逾 2000 架次航班取消",
-      "url": "https://www.ithome.com/1/004/475.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:03:10+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据央视新闻报道，当地时间 18 日，英国全国空中交通管理公司发布的一份初步调查报告认定，上周英国多地机场大范围瘫痪、进出港逾 2000 架次航班取消，根源是一处<strong>“毫秒级”软件故障</strong>。</p><p>调查显示，英国空管系统 9 月 8 日发生软件故障，“整个故障发生在 1 毫秒之内”，<strong>而非当时很多人猜测的人为操作失误",
-      "is_policy": false
-    },
-    {
-      "title": "荣耀 HONOR Life 墨水屏官宣，9 月 28 日亮相",
-      "url": "https://www.ithome.com/1/004/474.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T09:01:59+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，荣耀 HONOR Life 墨水屏今日官宣，并发布倒计时海报。据官方透露，这款新品将于荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会亮相。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
-      "is_policy": false
-    },
-    {
       "title": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wkgx2y/acm_taps_moved_my_cameraready_to_support_deadline/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-19T08:45:58+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>My paper got accepted at an ACM conference and I'm doing the camera-ready through TAPS. The PDF compiled fine, but TAPS flagged a &quot;source to HTML conversion issu",
-      "is_policy": false
-    },
-    {
-      "title": "交通运输部徐剑：规模化落地干线自动驾驶，有望降低超九成事故率",
-      "url": "https://www.ithome.com/1/004/473.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:43:28+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，在今天（19 日）的 2026 中国汽车产业发展（泰达）国际论坛上，交通运输部公路科学研究院副院长徐剑发表演讲指出，自动驾驶为解决传统干线运输的结构性难题提供了全新路径。“根据行业研究数据，规模化落地干线自动驾驶以后，能够<strong>降低综合运输成本 20% 以上</strong>，可以消除绝大部分的人为操作失误，<strong>有望把事故率降低 90% ",
-      "is_policy": false
-    },
-    {
-      "title": "长安汽车张晓宇：2027 年 L3 级自动驾驶将实现量产，2028 年 L4 级开始商业化运营",
-      "url": "https://www.ithome.com/1/004/472.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:41:27+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据每日经济新闻报道，9 月 19 日，中国长安汽车集团首席科学家、重庆长安汽车股份有限公司执行副总裁张晓宇在 2026 中国汽车产业发展（泰达）国际论坛上表示，<strong>2027 年 L3 级自动驾驶将实现量产，2028 年 L4 级自动驾驶开始商业化运营</strong>。</p><p>张晓宇表示，2025 年 L2 级辅助驾驶渗透率达到 66.1%，",
-      "is_policy": false
-    },
-    {
-      "title": "奇瑞捷豹路虎神行者 8 开启交付：华为乾崑智驾 ADS 5，28.99 万元起",
-      "url": "https://www.ithome.com/1/004/471.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:34:22+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，奇瑞捷豹路虎神行者 8 今日正式开启交付。新车官方指导价区间 30.99-39.99 万元，叠加购车权益后售价区间为 28.99-37.99 万元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
-      "is_policy": false
-    },
-    {
-      "title": "AOC AG277QSD 行业首款 HDR 校色显示器开售：26.5 英寸 2K 320Hz QD-OLED，政府补贴价 2799 元",
-      "url": "https://www.ithome.com/1/004/469.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:30:10+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，AOC 爱攻昊天 AG277QSD 显示器现已开售，电商平台标价 3160 元，券后到手价 3110 元，政府补贴到手价 2799 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed",
-      "is_policy": false
-    },
-    {
-      "title": "极米投影 Z6X Pro 三色激光旗舰版 2026 焕新升级：亮度 1500CVIA，首发 2399 元",
-      "url": "https://www.ithome.com/1/004/468.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:27:39+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，极米投影 Z6X Pro 三色激光旗舰版推出 2026 焕新升级款，首发到手价 2399 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/9c16a481-91b3-4d8f-b04b-",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报",
-      "url": "https://www.ithome.com/1/004/467.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:23:03+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据路透社报道，当地时间 18 日，OpenAI 发言人确认，CEO 萨姆 · 奥尔特曼将于下周在纽约举行的联合国大会期间，向联合国安全理事会介绍人工智能议题并作简报。</p><p>由 15 个成员组成的安理会计划在当地时间 23 日召开人工智能与国际安全会议。几周前，多名 AI 行业领导者呼吁各方协调放缓 AI 发展速度，并警告称，随着技术能力不断提升，AI ",
-      "is_policy": false
-    },
-    {
-      "title": "AMD 晒 256 核 EPYC 9996 官方跑分，代际吞吐量提升约 73%",
-      "url": "https://www.ithome.com/1/004/466.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:10:09+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，在官方 9 月 17 日公布的《EPYC Venice 架构与性能概览》白皮书中，<strong>AMD 公布了旗舰第六代霄龙 EPYC 9996 处理器的多项跑分成绩。</strong></p><p>AMD EPYC 9996 是 AMD 第六代 EPYC 9006（代号“Venice”）服务器 CPU 的顶级型号之一，主打单路 256 核心、512 线程的",
-      "is_policy": false
-    },
-    {
-      "title": "小米 REDMI K100 新机入网，有望搭载万级大电池",
-      "url": "https://www.ithome.com/1/004/465.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:07:12+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，一款型号为 M786BC 的小米新机于 9 月 18 日完成工信部申报，预计为 REDMI K100 标准版。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/3b9fbaa7-f7c5-44",
-      "is_policy": false
-    },
-    {
-      "title": "我国舱外航天服整体技术位居国际先进水平，登月服攻克数十项关键技术",
-      "url": "https://www.ithome.com/1/004/463.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:06:29+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据新华社今天（19 日）从天津召开的首届航天医学工程大会上了解到，目前我国舱外航天服整体技术<strong>居于国际先进水平</strong>，“望宇”登月服研制进展顺利，<strong>已攻克数十项关键技术</strong>。</p><p>舱外航天服是航天员在太空出舱活动过程中的核心装备，保障着航天员在舱外活动中的生命安全和高效作业。因研制涉及学科领域广泛，",
-      "is_policy": false
-    },
-    {
-      "title": "欣旺达动力：预计到 2027 年年底将建成 1 万个兆瓦闪充站，适配多品牌车型",
-      "url": "https://www.ithome.com/1/004/462.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T08:06:28+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，9 月 16 日-17 日，2026 新能源电池产业发展大会暨欣旺达动力供应链合作伙伴大会在山东枣庄举行。</p><p>大会期间，欣旺达动力发布“智能闪充电池系统解决方案”与“‘全能 · 无界’光储闪充开放生态平台”两大成果。</p><p>据介绍，智能闪充电池依托智能电芯 3.0、能量域控制器、AI 云控平台三位一体的 AI 智慧管家，实现 20 余类故障可提",
-      "is_policy": false
-    },
-    {
-      "title": "别克至境 E7 全新至境绿、淡暮粉官图公布，9 月 23 日焕新发布",
-      "url": "https://www.ithome.com/1/004/461.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:55:51+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，别克今日公布至境 E7 全新至境绿、淡暮粉官图，9 月 23 日焕新发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/f77328b7-0f36-434a-9c47-af2ac53cd1",
-      "is_policy": false
-    },
-    {
-      "title": "漫威将在 Disney+ 剧集《幻视任务》中引入 AI 复仇者团队：奥创回归，10 月 14 日开播",
-      "url": "https://www.ithome.com/1/004/460.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:55:31+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，当地时间 9 月 17 日，漫威 Disney+ 新剧《幻视任务》（VisionQuest）主创 Terry Matalas 在接受 ScreenRant 采访时确认，他们将在这部剧中引入一支新的复仇者团队，即“AI 复仇者”。</p><p>该团队主要出现在幻视的思维空间（Mindspace）内，成员为被救援的斯塔克工业 AI，包括：</p><ul class",
-      "is_policy": false
-    },
-    {
-      "title": "大众全新电动汽车平台难产，曝奥迪下一代 A4 推迟至 2029 年发布",
-      "url": "https://www.ithome.com/1/004/459.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:53:12+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，奥迪 CEO 高德诺透露，由于大众汽车集团下一代电动汽车架构可扩展系统平台（SSP）遇到技术难题，A4 e-tron 最早要到 2029 年 3 月才能投产。相比高德诺本人 2025 年 10 月定下的 2028 年年中目标，新时间表<strong>又向后推迟了约 9 个月</strong>。</p><p>德国《商报》援引知情人士称，2029 年 3 月仍未必",
-      "is_policy": false
-    },
-    {
-      "title": "工信部总工程师王卫明：进一步提高汽车消费潜力，将出台汽车改装管理办法",
-      "url": "https://www.ithome.com/1/004/457.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:52:44+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据人民财讯报道，9 月 19 日，工业和信息化部总工程师王卫明在 2026 中国汽车产业发展（泰达）国际论坛上表示，当前新一轮科技革命和产业革命深入推进，<strong>我国汽车产业也迎来提质增效转型升级的关键时期</strong>。</p><p>为加强顶层谋划和各方协同，推动产业高质量发展，工业和信息化部牵头印发《智能网联新能源汽车产业发展“十五五”规划》，",
-      "is_policy": false
-    },
-    {
-      "title": "荣耀 Magic9 系列手机搭载行业独家双 3D 生物识别，9 月 28 日发布",
-      "url": "https://www.ithome.com/1/004/456.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:43:36+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，荣耀手机今日宣布，荣耀 Magic9 系列带来行业独家双 3D 生物识别，包括 3D 超声波指纹识别与 3D 人脸识别。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/0ba0c968-fe",
-      "is_policy": false
-    },
-    {
-      "title": "全新猛士 M817 获推 OTA 升级，带来华为乾崑智驾 ADS 5",
-      "url": "https://www.ithome.com/1/004/455.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:34:03+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，猛士汽车今日宣布，全新猛士 M817 获推 OTA 升级，将带来华为乾崑智驾 ADS 5 版本，同时座舱功能全面升级。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/9d1fcaf6-d92",
-      "is_policy": false
-    },
-    {
-      "title": "《僵尸世界大战》电影续集重启：布拉德 · 皮特回归主演",
-      "url": "https://www.ithome.com/1/004/454.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:32:50+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，媒体 Deadline 昨日（9 月 18 日）发布博文，报道称派拉蒙影业已敲定《僵尸世界大战》（World War Z）续集核心阵容，<strong>布拉德 · 皮特（Brad Pitt）回归主演并担任制片人，爱德华 · 伯格（Edward Berger）执导，丹尼斯 · 凯利（Dennis Kelly）编剧。</strong></p><p style=\"t",
-      "is_policy": false
-    },
-    {
-      "title": "《魔兽世界：无限》游戏 Beta 热度超预期，暴雪设计师称数据创 17 年所见峰值",
-      "url": "https://www.ithome.com/1/004/453.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:20:51+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，游戏媒体 gamesradar 今天（9 月 19 日）发布博文，报道称《魔兽世界：无限》（World of Warcraft Forever）于 9 月 17 日开启 Beta 测试后，短时间内涌入大量玩家，服务器随即出现排队、掉线和服务中断。</p><p>暴雪高级游戏设计师乔什 · 格林菲尔德（Josh Greenfield）称，<strong>本次 Be",
-      "is_policy": false
-    },
-    {
-      "title": "Meta CTO 博斯沃思：不希望少数“坏人”影响公众对 Meta 智能眼镜的看法",
-      "url": "https://www.ithome.com/1/004/451.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-19T07:15:54+00:00",
-      "summary": "<p>IT之家 9 月 19 日消息，据《商业内幕》今天（19 日）报道，Meta CTO 安德鲁 · 博斯沃思认为，少数恶意用户不应该主导外界对 Meta 智能眼镜的讨论。</p><p>博斯沃思在个人 Instagram 举行 AMA 问答时，被问到了 Meta 智能眼镜引发的隐私问题。他回答说：“我不希望有关 Meta 智能眼镜的讨论完全被相对少数的恶意用户左右。<strong>绝大多数人使用",
       "is_policy": false
     },
     {
@@ -692,15 +701,6 @@
       "is_policy": false
     },
     {
-      "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-18T10:01:58+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget — and I'd",
-      "is_policy": false
-    },
-    {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
       "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
       "source": "MIT Tech Review",
@@ -716,24 +716,6 @@
       "category": "community",
       "published": "2026-09-18T05:36:32+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>AAAI-27 Phase 1 results are expected on September 24. Anyone else waiting for the decision? Would be useful to keep this thread for updates when people start receivin",
-      "is_policy": false
-    },
-    {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-17T23:25:52+00:00",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "is_policy": false
-    },
-    {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-17T23:21:17+00:00",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their ",
       "is_policy": false
     },
     {
@@ -770,24 +752,6 @@
       "category": "community",
       "published": "2026-09-17T15:59:49+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>What is the generally thought of as the upper limit of the predictive power of XGBoost vs an aggregate of humans? </p> <p>Right now I feed the model the same informat",
-      "is_policy": false
-    },
-    {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-17T14:00:00+00:00",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should",
-      "is_policy": true
-    },
-    {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-17T14:00:00+00:00",
-      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across ",
       "is_policy": false
     },
     {
