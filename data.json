@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:45:05.991125+00:00",
+  "generated_at": "2026-09-24T16:08:50.005759+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,12 +8,21 @@
   ],
   "items": [
     {
-      "title": "BuilderIO / agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
-      "summary": "A framework for building agentic apps",
+      "published": "2026-09-24T16:08:50+00:00",
+      "summary": "Learn it. Build it. Ship it for others.",
+      "is_policy": false
+    },
+    {
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-24T16:08:50+00:00",
+      "summary": "Hindsight: Agent Memory That Learns",
       "is_policy": false
     },
     {
@@ -21,26 +30,17 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
+      "published": "2026-09-24T16:08:50+00:00",
       "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "is_policy": false
     },
     {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
+      "title": "NVIDIA / Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
-      "summary": "Agent Substrate: the core system",
-      "is_policy": false
-    },
-    {
-      "title": "strands-agents / harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
-      "summary": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "published": "2026-09-24T16:08:50+00:00",
+      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre",
       "is_policy": false
     },
     {
@@ -48,8 +48,17 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
+      "published": "2026-09-24T16:08:50+00:00",
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "is_policy": false
+    },
+    {
+      "title": "strands-agents / harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-09-24T16:08:50+00:00",
+      "summary": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "is_policy": false
     },
     {
@@ -57,98 +66,458 @@
       "url": "https://github.com/superdesigndev/treg",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
+      "published": "2026-09-24T16:08:50+00:00",
       "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "is_policy": false
     },
     {
-      "title": "pbakaus / impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
+      "title": "leejet / stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
-      "summary": "The design language that makes your AI harness better at design.",
+      "published": "2026-09-24T16:08:50+00:00",
+      "summary": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "is_policy": false
     },
     {
-      "title": "TNT-Likely / PanWatch",
-      "url": "https://github.com/TNT-Likely/PanWatch",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-09-24T10:45:05+00:00",
-      "summary": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T16:04:31+00:00",
+      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an a",
       "is_policy": false
     },
     {
-      "title": "比亚迪第二代海鸥座舱草图公布，采用最新设计语言",
-      "url": "https://www.ithome.com/1/006/980.htm",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T16:03:36+00:00",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
+      "is_policy": false
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T16:00:00+00:00",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "is_policy": false
+    },
+    {
+      "title": "Residency, Pre-Doc Programs, or Lesser-Known Fellowships for New Grads? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp5apl/residency_predoc_programs_or_lesserknown/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T15:49:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I graduated with a Bachelor's Degree in data science a couple months ago. I'm interested in applying to any Pre-Doc research programs or AI residencies. However, I ha",
+      "is_policy": false
+    },
+    {
+      "title": "Applying multirate DSP principles to LLMs: A hierarchical \"Semantic Vocoder\" architecture [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp4w9a/applying_multirate_dsp_principles_to_llms_a/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T15:34:32+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’ve been experimenting with bridging Digital Signal Processing (DSP) multirate theory and discrete text generation. I wanted to share a PyTorch ",
+      "is_policy": false
+    },
+    {
+      "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
+      "url": "https://www.ithome.com/1/007/042.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:41:26+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日发文，公布第二代海鸥的座舱设计草图。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/9cebbef1-dc1c-464a-a74b-8b034e3b3",
+      "published": "2026-09-24T15:34:22+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，<strong>售价 400 美元</strong><span class=\"exch-money-value\"><strong>（IT之家注：现汇率约合 2,689 元人民币</strong>）。</span></p><p style=\"text-align: center;\"><",
       "is_policy": false
     },
     {
-      "title": "《生化危机：爆发夜》电影中国内地定档，10 月 5 日上映",
-      "url": "https://www.ithome.com/1/006/970.htm",
+      "title": "育碧编剧透露：《超越善恶 2》游戏仍在积极开发中",
+      "url": "https://www.ithome.com/1/007/041.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:31:35+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，《生化危机：爆发夜》电影今日官宣登陆中国内地大银幕，<strong>10 月 5 日全国上映</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/e81a51c5-b665-4",
+      "published": "2026-09-24T15:18:47+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，育碧波尔多工作室首席编剧 Rik Godwin 前天在 BlueSky 平台透露，他过去几个月以来，一直以顾问身份参加《超越善恶 2》游戏开发工作。<strong>等同于确认本作仍在积极开发中</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img",
       "is_policy": false
     },
     {
-      "title": "全球首富有望入局好莱坞？消息称派拉蒙影业向马斯克寻求投资",
-      "url": "https://www.ithome.com/1/006/969.htm",
+      "title": "李楠谈锤子科技 TNT 生不逢时：有了 Agent 之后，这些操作其实都不是非常难",
+      "url": "https://www.ithome.com/1/007/039.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:28:30+00:00",
-      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\">IT之家 9 月 24 日消息，派拉蒙影业在消化华纳兄弟探索收购交易的同时，也在寻求进一步巩固财务状况，并寻找新的资金来源。当地时间 23 日，据美媒 Semafor 援引知情人士消息称，派拉蒙高管讨论过邀请全球首富马斯克加入一个股权投资财团，<strong>共同向派拉蒙注资</strong>。<span cla",
+      "published": "2026-09-24T15:12:09+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Angry Miao 创始人、前魅族科技 CMO 李楠今天在微博发文称，锤子科技的 TNT 真是生不逢时。今天有了 Agent 之后，这些操作其实都不是非常难了。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfil",
       "is_policy": false
     },
     {
-      "title": "【IT之家开箱】OPPO Watch X3 图赏：TC4 钛合金遇上金属竹节表带，寰月钛更显精致",
-      "url": "https://www.ithome.com/1/006/967.htm",
+      "title": "罗技 G PRO X3 LIGHTSPEED 头戴式游戏耳麦发售，到手价 1699 元",
+      "url": "https://www.ithome.com/1/007/038.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:23:42+00:00",
-      "summary": "<p>9 月 22 日，<a href=\"https://www.ithome.com/1/005/947.htm\" target=\"_blank\">OPPO Watch X3 手表正式发布</a>，建议零售价 2799 元，首销优惠价 2599 元，国补到手价 2209.15 元。</p><p>IT之家拿到了“寰月钛”配色，搭配全新的金属竹节表带。整体设计将金属材质带来的精致硬朗，与氟橡胶材质的",
+      "published": "2026-09-24T15:11:30+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Logitech G（罗技 G）现已在电商平台销售今日推出的 PRO X3 LIGHTSPEED 无线 7.1 游戏耳机，<strong>到手价 1,699 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/news",
       "is_policy": false
     },
     {
-      "title": "超 300 台机器人陪你玩：全球首个大规模具身智能主题乐园今日开园",
-      "url": "https://www.ithome.com/1/006/965.htm",
+      "title": "科学家发现“叛逆”系外行星：公转方向与宿主恒星自转方向相反",
+      "url": "https://www.ithome.com/1/007/037.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:08:42+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，智元官方宣布，全球首个大规模具身智能主题乐园今日正式开园，由智元与长隆集团联手打造。</p><p>IT之家了解到，该乐园作为全球首个、规模最大、场景最丰富、技术最先进的具身智能主题乐园，<strong>拥有超 300 台机器人</strong>，覆盖机器人文娱商演、科普研学、导览导购导引、服务零售站、智能伴游、酒店场景、体育竞技等七大场景。</p><p sty",
+      "published": "2026-09-24T15:08:27+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，科学家发现，一颗遥远的系外行星似乎相当“叛逆”，其运行方式公然违背了宿主红矮星的规律。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/81a6fdf0-07ae-43b8-ac27-8b49",
       "is_policy": false
     },
     {
-      "title": "美图公司 2026 财年上半年归母净利润 6.19 亿元，同比增长 40%",
-      "url": "https://www.ithome.com/1/006/964.htm",
+      "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
+      "url": "https://www.ithome.com/1/007/036.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:05:11+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，美图公司今日发布 2026 财年（2026 年 1 月～2026 年 12 月）上半年（2026 年 1 月～2026 年 6 月）报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：22.13 亿元，同比增长 22.1%</p></li><li><p><strong>毛利润",
+      "published": "2026-09-24T15:05:22+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Epic 本周送出的游戏是《Astrea Six Sided Oracles》和《钢铁指挥官》，下周送出的游戏是《System Shock 2: 25th Anniversary Remaster》和《深埋之星》。</p><p>领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/astrea-six-sided-",
       "is_policy": false
     },
     {
-      "title": "危机感拉满：通用汽车内部每月比拼 AI 使用率",
-      "url": "https://www.ithome.com/1/006/963.htm",
+      "title": "铭凡推出 MS-01 迷你工作站 SE 降级版：支持 DDR4，取消双 10GbE SFP+",
+      "url": "https://www.ithome.com/1/007/035.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:03:57+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，通用汽车（General Motors，GM）的高管们正在人工智能应用方面展开一场“内部竞争”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/926a25a1-f88e-402e-b107",
+      "published": "2026-09-24T15:00:16+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，MINISFORUM（铭凡）近日推出了其工作站型迷你主机 MS-01 的 SE 衍生变体，<strong>多处配置存在降级或调整</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
       "is_policy": false
     },
     {
-      "title": "《俄罗斯方块效应》混合现实版明年问世，登陆 Meta Quest 3 头显、Meta VR 眼镜",
-      "url": "https://www.ithome.com/1/006/962.htm",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+      "is_policy": false
+    },
+    {
+      "title": "原《星空》首席系统设计师库尔曼：可能不会再有《星空 2》了",
+      "url": "https://www.ithome.com/1/007/034.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-09-24T10:03:28+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，《俄罗斯方块效应》明年将迎来<strong>专为混合现实（MR）打造的新作</strong>《俄罗斯方块效应：混合现实》，登陆 Meta Quest 3、Meta Quest 3S 以及即将推出的 Meta VR 眼镜。</p><p>具体玩法暂时仍未公开。与原版《俄罗斯方块效应》一样，新作将由 Monstars 和 Resonair 开发，Enhance 负责",
+      "published": "2026-09-24T14:59:43+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，据外媒 VGC 今天（24 日）晚间报道，曾担任《星空》首席系统设计师的库尔特 · 库尔曼认为，《星空》恐怕不会迎来续作，这个系列也可能因此无法完全实现原本的潜力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
+      "is_policy": false
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能",
+      "url": "https://www.ithome.com/1/007/033.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:51:41+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，华为鸿蒙 <strong>HarmonyOS 7.0.0.109 SP6</strong> 版本今日开启推送，首批面向 Mate 80 系列、Pura 90 系列、nova 16 系列等机型，系统包大小约 702.73MB。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。</p><p style=\"text-align: center;\">",
+      "is_policy": false
+    },
+    {
+      "title": "消息称《帝国时代》开发商 World's Edge 取消开发新作，近半数员工被裁",
+      "url": "https://www.ithome.com/1/007/032.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:44:32+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，据游戏媒体 Insider Gaming 今天报道，多名前员工透露，World's Edge 工作室已取消开发新作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/c3d931af-1556",
+      "is_policy": false
+    },
+    {
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T14:43:25+00:00",
+      "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "is_policy": false
+    },
+    {
+      "title": "罗技 G G304 X SUPERLIGHT 鼠标国行上市：HERO 44K 传感器，到手价 549 元",
+      "url": "https://www.ithome.com/1/007/031.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:39:25+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Logitech G（罗技 G）今日终于将 G304 / G305 X SUPERLIGHT 鼠标带到中国大陆市场。这一型号在延续经典模具的同时升级至 HERO 44K 传感器，<strong>到手价 549 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
+      "is_policy": false
+    },
+    {
+      "title": "劳斯莱斯纯电 SUV 谍照曝光，有望用上对开式引擎盖",
+      "url": "https://www.ithome.com/1/007/030.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:31:15+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，劳斯莱斯即将推出的纯电 SUV，有望成为品牌史上设计最不同寻常的车型之一，一项颇具特色的设计逐渐浮出水面。</p><p>外媒 BMW Blog 今天（24 日）晚间公布的谍照显示，原型车前舱盖正中央有一道清晰的接缝，而近期公开的专利显示，劳斯莱斯或让前舱盖采用<strong>左右分体开启</strong>的方式。</p><p style=\"text-align",
+      "is_policy": false
+    },
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T14:31:00+00:00",
+      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "is_policy": false
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T14:30:00+00:00",
+      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+      "is_policy": false
+    },
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T14:30:00+00:00",
+      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these ",
+      "is_policy": false
+    },
+    {
+      "title": "NASA 毅力号新发现：火星岩石曾经历至少三个阶段水活动",
+      "url": "https://www.ithome.com/1/007/029.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:24:35+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，一项最新研究表明，火星过去可能比今天更加湿润，地质活动也更加活跃。在漫长的历史中，水可能曾以不同形式反复穿过火星岩石，留下了复杂的地质记录。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/b",
+      "is_policy": false
+    },
+    {
+      "title": "m0NESY 同款：罗技 G PRO X2 RAPID 磁轴键盘发售，到手价 1099 元",
+      "url": "https://www.ithome.com/1/007/028.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:24:15+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Logitech G（罗技 G）现已在电商平台销售今日推出的霍尔效应传感器有线磁轴键盘 PRO X2 RAPID，<strong>到手价 1099 元</strong>。该型号也是知名《CS2》选手 Ilya \"m0NESY\" Osipov 目前使用的键盘。</p><p style=\"text-align: center;\"><img class=\"no-al",
+      "is_policy": false
+    },
+    {
+      "title": "涂鸦智能展示 Doova 家庭陪伴机器人，面向独居老人场景",
+      "url": "https://www.ithome.com/1/007/027.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:20:21+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，据财闻今天报道，涂鸦智能在第五届全球数字贸易博览会上展示了家庭陪伴机器人 Doova。该产品面向独居老人场景，够在家中移动、与人对话，<strong>并与智能家居设备联动</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com",
+      "is_policy": false
+    },
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T14:15:17+00:00",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher,",
+      "is_policy": false
+    },
+    {
+      "title": "铭凡推出 UM780L Slim 迷你主机：0.77L 体积，板载 LPDDR5X-7500",
+      "url": "https://www.ithome.com/1/007/026.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:15:08+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，MINISFORUM（铭凡）今日宣布推出 UM780L Slim 迷你主机。这一型号基于 AMD 锐龙 7 7840HS 处理器，板载 LPDDR5X-7500 内存，<strong>体积仅 0.77L</strong>、质量为 0.6kg。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" s",
+      "is_policy": false
+    },
+    {
+      "title": "The vibes are bad for Flock in Washington",
+      "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T14:15:05+00:00",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but th",
+      "is_policy": false
+    },
+    {
+      "title": "I have some questions for Mark Zuckerberg",
+      "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T14:15:00+00:00",
+      "summary": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly",
+      "is_policy": false
+    },
+    {
+      "title": "《控制：共振》登陆 Steam：国区售价 268 元起，支持 DLSS 4.5 光追",
+      "url": "https://www.ithome.com/1/007/025.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:14:10+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Remedy Entertainment 开发并发行的《控制》系列续作《控制：共振》今日正式登陆 Steam 平台，将于 2026 年 9 月 24 日正式解锁，目前已开放预购。该作全平台愿望单数量已超过 200 万，国区定价 268 元起，支持简体中文界面、字幕与完整音频。</p><p>IT之家附游戏商品页（<a href=\"https://store.st",
+      "is_policy": false
+    },
+    {
+      "title": "尊界、享界、智界、尚界集体转发华为余承东微博：鸿蒙智行，未来可期！",
+      "url": "https://www.ithome.com/1/007/023.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:05:06+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日在微博发文，分享自己在安徽合肥巡店的场景，谈到了鸿蒙智行的发展，<strong>称接下来会聚焦尊界、享界、智界、尚界</strong>，让每个界都获得更加充足的资源。</p><p>IT之家注意到，尊界、享界、智界、尚界汽车集体转发了余承东的这条微博，<strong>并配文称：“鸿蒙智行，未来可期",
+      "is_policy": false
+    },
+    {
+      "title": "“太空数据中心”第一步？谷歌下周将发射试验卫星，能处理简单 AI 查询",
+      "url": "https://www.ithome.com/1/007/022.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T14:02:38+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，《华尔街日报》今天（24 日）晚间报道，当地时间 10 月 1 日，谷歌计划把一颗实验卫星 MVP 送入轨道。MVP 具备足够的算力，可以直接在太空中<strong>处理并回答简单的 AI 查询</strong>。</p><p>MVP 属于谷歌雄心勃勃的 Project Suncatcher（IT之家注：直译作“捕日计划”）。谷歌希望<strong>将 AI ",
+      "is_policy": false
+    },
+    {
+      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+      "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T14:00:00+00:00",
+      "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of",
+      "is_policy": false
+    },
+    {
+      "title": "英伟达 GeForce NOW 云游戏更新：9 款新游戏加入，即将适配 Googlebook",
+      "url": "https://www.ithome.com/1/007/021.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:56:40+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，英伟达再次为云游戏平台 GeForce NOW 推送更新。本周，会员用户新增 9 款可通过云端游玩的游戏，前提是用户已经拥有对应游戏，其中包括正式发售的《Control Resonant》。此外，GeForce NOW 很快还将支持另一平台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" s",
+      "is_policy": false
+    },
+    {
+      "title": "三星首款耳夹式耳机 Galaxy Buds On 外观曝光，预计支持睡眠监测、自动调节音量等",
+      "url": "https://www.ithome.com/1/007/020.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:51:44+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，科技媒体 Android Headline 今日发文，放出三星首款耳夹式耳机 Galaxy Buds On 的外观谍照。该机将采用类似耳环的设计，有望支持自动调节音量、语音助手和睡眠检测等功能。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
+      "is_policy": false
+    },
+    {
+      "title": "美国将投入近 20 亿美元升级老化电网，有望为近 1 亿美国人降低用电成本",
+      "url": "https://www.ithome.com/1/007/019.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:43:28+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，据美联社今天（24 日）晚间报道，美国能源部即将投入近 20 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 134.45 亿元人民币）</span>，通过升级老化且负荷吃紧的电网，进一步释放现有电网的输电能力。</p><p>这笔资金将投向 26 个州的 31 个项目，预计可增加<strong>超过 23GW 的电",
+      "is_policy": false
+    },
+    {
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T13:31:43+00:00",
+      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which i",
+      "is_policy": false
+    },
+    {
+      "title": "《控制：共振》游戏发售当日遭破解，部分盗版玩家坚持入正力挺开发商 Remedy",
+      "url": "https://www.ithome.com/1/007/017.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:31:37+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，Remedy 旗下新作《控制：共振》今日发售，登陆 PC、PS5 和 Xbox Series X|S 平台。然而本作发售当天就惨遭破解，但部分盗版玩家却自发选择正版。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
+      "is_policy": false
+    },
+    {
+      "title": "Everything is spying on you and there&#8217;s no opting out",
+      "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T13:30:00+00:00",
+      "summary": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The",
+      "is_policy": false
+    },
+    {
+      "title": "三巨头联手，曝谷歌、OpenAI、Anthropic 拟共同组建 AI 安全标准自律组织",
+      "url": "https://www.ithome.com/1/007/016.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:25:13+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，The Information 今天（24 日）晚间援引知情人士消息称，谷歌、OpenAI 和 Anthropic 三家 AI 公司正自行推进成立 AI 安全标准机构的计划，希望在没有政府监督的情况下，<strong>于今年年底或明年年初启动该组织</strong>。</p><p>知情人士称，三家公司暂定将这个自律组织命名为 Standards Authori",
+      "is_policy": false
+    },
+    {
+      "title": "Waymo 公布 2.71 亿英里自动驾驶数据：严重事故比人类驾驶员少 95%",
+      "url": "https://www.ithome.com/1/007/015.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:24:34+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，每当 Robotaxi（自动驾驶出租车）发生任何类型的事故时，都会引发广泛关注。相比之下，美国每天都有超过 1.5 万起涉及人类驾驶车辆的交通事故向警方报告。因此，即便人们经常看到 Waymo 或特斯拉 Robotaxi 发生事故的新闻，也不能仅凭这一点认定这些车辆不安全。</p><p style=\"text-align: center;\"><img clas",
+      "is_policy": false
+    },
+    {
+      "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
+      "url": "https://www.ithome.com/1/007/014.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:16:35+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，据华尔街日报报道，亚马逊已经是全球最大的机器人制造商之一。随着公司进一步推动仓库作业自动化，亚马逊正在扩大机器人生产规模。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/fe0a73e5-9",
+      "is_policy": false
+    },
+    {
+      "title": "打破谷歌 Pixel 独占，摩托罗拉 Signature 27 手机官宣支持 GrapheneOS 系统",
+      "url": "https://www.ithome.com/1/007/013.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:12:12+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，GrapheneOS 官方昨天在 X 平台确认，摩托罗拉 Signature 27 将是首款支持 GrapheneOS 系统的非谷歌 Pixel 手机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/20",
+      "is_policy": false
+    },
+    {
+      "title": "限时 9.29 万元起、混动燃油双动力，吉利全新第四代博越 L 上市",
+      "url": "https://www.ithome.com/1/007/012.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T13:09:44+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，吉利全新第四代博越<span class=\"js_title_inner\"> L</span> 已正式上市。新车推出燃油与混动两大系列，其中燃油版提供 5 款车型，官方指导价 9.99 万-12.99 万元，上市限时价为 9.29 万-12.29 万元；混动版共 4 款车型，指导价 10.69 万-13.69 万元，上市限时价 9.99 万-12.99 万元。",
+      "is_policy": false
+    },
+    {
+      "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
+      "url": "https://www.ithome.com/1/007/010.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T12:58:49+00:00",
+      "summary": "<p>IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/1d0b8298-80cc-46b",
+      "is_policy": false
+    },
+    {
+      "title": "《暗黑破坏神 4》游戏总监吉布森：我们早该登陆任天堂 Switch 2 了",
+      "url": "https://www.ithome.com/1/007/009.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T12:55:25+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 9 月 24 日消息，《暗黑破坏神 4》终于登陆任天堂 Switch 2。把这样一款大型游戏移植到掌机并不容易，但游戏总监布伦特 · 吉布森对最终呈现的效果相当满意。</p><p style=\"text-align: start;\">据外媒 TechRadar 今天（24 日）晚间报道，吉布森在暴雪嘉年华媒体问答会上直言：“首先",
+      "is_policy": false
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T12:54:19+00:00",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "is_policy": false
+    },
+    {
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-09-24T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killi",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T11:52:32+00:00",
+      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed ",
       "is_policy": false
     },
     {
@@ -161,24 +530,6 @@
       "is_policy": true
     },
     {
-      "title": "Counterpoint 数据：四足机器人 2026H1 全球出货约 3.5 万台，达 2025 全年 3/4",
-      "url": "https://www.ithome.com/1/006/958.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:57:29+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，Counterpoint Research 当地时间 21 日发布见解：全球四足机器人出货规模在 2026 年上半年达到约 3.5 万台，<strong>已是 2025 全年水平的 3/4</strong>；而这 3.5 万台中 40% 面向垂直工业应用。</p><p style=\"text-align: center;\"><img class=\"no-alt",
-      "is_policy": false
-    },
-    {
-      "title": "海外金融巨头 Revolut 推出英国首个线下刷脸支付服务，看镜头笑一笑即可结账",
-      "url": "https://www.ithome.com/1/006/956.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:52:37+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，据科技媒体 TechRadar 今天报道，海外金融巨头 Revolut 宣布在英国推出“Revolut Pay with Smile”，这是英国首个线下刷脸支付服务。消费者不需要带钱包、信用卡，只需要看着支付终端笑一下，就能完成结账。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"",
-      "is_policy": false
-    },
-    {
       "title": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wox8kt/arxiv_receives_multiyear_philanthropic/",
       "source": "r/MachineLearning",
@@ -188,192 +539,12 @@
       "is_policy": false
     },
     {
-      "title": "雷神 STATION 系列 AI 工作站 AI Max+ 395 款预约：128GB + 1TB 到手 25499 元",
-      "url": "https://www.ithome.com/1/006/954.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:39:37+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，雷神 (THUNDEROBOT) 现已在电商平台开启 STATION 系列 AI 工作站 AMD 锐龙 AI Max+ 395 款的预约，<em>后续还将推出 AMD 锐龙 AI Max+ 495 款</em>。</p><p>AMD 锐龙 AI Max+ 395 款雷神 STATION 系列 AI 工作站拥有 128GB LPDDR5X-8000+ 内存、1T",
-      "is_policy": false
-    },
-    {
-      "title": "国家金融监督管理总局：2025 年我国交强险赔付 2524 亿元，3.47 亿辆汽车参保",
-      "url": "https://www.ithome.com/1/006/953.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:34:17+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，国家金融监督管理总局今天（24 日）发文披露，2025 年，国家金融监督管理总局持续指导保险业提升交强险保障功能，积极承担社会责任，助力筑牢民生保障底线，更好服务经济社会发展。</p><p>IT之家从数据中获悉，2025 年交强险覆盖面持续扩大，<strong>参保机动车数量达 3.86 亿辆</strong>，同比增长 3.8%。其中，汽车参保数量共计 3.",
-      "is_policy": false
-    },
-    {
-      "title": "消息称本田将在美国俄亥俄州新建混动汽车工厂，预计 2030 年投产",
-      "url": "https://www.ithome.com/1/006/951.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:32:27+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，据路透社今天报道，本田汽车计划在美国俄亥俄州投资新建一座混合动力汽车工厂，目前已进入最后准备阶段。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/ce536308-1143-412f-942",
-      "is_policy": false
-    },
-    {
-      "title": "微信安卓版 8.0.79 最新官方内测版下载发布",
-      "url": "https://www.ithome.com/1/006/918.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:20:15+00:00",
-      "summary": "<p> IT之家 9 月 24 日消息，微信安卓平台迎来了 8.0.79 测试版更新，本次更新安装包文件详细信息如下：</p> <table> <tbody class=\"weixin-file\"> <tr class=\"firstRow\"> <td colspan=\"2\"> 微信安卓内测版 8.0.79 (ARM64) 安装包 </td> </tr> <tr> <td> 文件大小 </td> <",
-      "is_policy": false
-    },
-    {
-      "title": "《永劫无间》中国队全胜夺金，斩获 2026 亚运会首枚电竞金牌",
-      "url": "https://www.ithome.com/1/006/916.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:19:48+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，2026 年爱知 · 名古屋亚运会电子竞技项目《永劫无间》决赛今日 16:00 在爱知天空展览馆举行。中国队以 3:0 击败泰国队，夺得金牌。这是中国代表团在本届亚运会电子竞技项目中的首枚金牌，而且中国队在所有大场对局中均零封对手。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
-      "is_policy": false
-    },
-    {
-      "title": "我国成功发射遥感四十号 04 组卫星",
-      "url": "https://www.ithome.com/1/006/915.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:19:32+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，据央视新闻报道，北京时间 2026 年 9 月 24 日 16 时 46 分，我国在太原卫星发射中心使用长征六号改运载火箭，<strong>成功将遥感四十号 04 组卫星发射升空</strong>，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于开展电磁环境探测及相关技术试验。</p><p style=\"text-align: center;\"><i",
-      "is_policy": false
-    },
-    {
-      "title": "Omdia 预测：下游终端设备出货疲软，显示面板产能利用率 10 月降至 80%",
-      "url": "https://www.ithome.com/1/006/912.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:18:12+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，Omdia 英国当地时间 21 日发布预测，认为<strong>全球显示面板制造商的平均产能利用率（稼动率）将从本月的 83% 下滑至 10 月的 80%</strong>。</p><p>存储器价格的上行推高了终端设备价格，对 IT 面板需求产生了压力。今年 7 月时笔电显示面板出货疲软，导致当月 IT 面板出现严重供大于求，加剧了面板制造商的库存压力。显示面",
-      "is_policy": false
-    },
-    {
-      "title": "市场监管总局公布五起充电宝质量安全典型案例",
-      "url": "https://www.ithome.com/1/006/903.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:11:02+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，今年以来，全国市场监管系统加强线上线下一体化执法，严厉打击生产、销售充电宝产品无 CCC 认证及不符合国家强制性标准要求等违法违规行为，查处了一批案件。今天（24 日）下午，市场监管总局公布五起充电宝质量安全典型案例。</p><p>IT之家整理如下：</p><h2>案例一：广东省东莞市市场监管局查处东莞市牌头电子科技有限公司涉嫌生产冒用 CCC 标志的移动电源",
-      "is_policy": true
-    },
-    {
-      "title": "28.29%！隆基晶硅电池效率再破世界纪录",
-      "url": "https://www.ithome.com/1/006/898.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:09:40+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，据隆基绿能官方微信公众号消息，当地时间 9 月 24 日，隆基绿能在欧洲正式发布重磅技术成果：公司自主研发的高低温复合钝化背接触电池（HIBC），经德国哈梅林太阳能研究所（ISFH）权威检测认证，光电转换效率达到 28.29%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"htt",
-      "is_policy": false
-    },
-    {
-      "title": "索尼 PlayStation 被曝向游戏工作室征集意见，或重新评估停售实体光盘计划",
-      "url": "https://www.ithome.com/1/006/896.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:08:44+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，距离 PlayStation 宣布这一重大决定已经快 3 个月了：从 2028 年 1 月开始，PlayStation 将不再以光盘形式发行新游戏。这项决定引发的反弹至今仍未平息，尽管 PlayStation 几乎没有在公开场合对此作出回应，但其或许正在私下重新考虑相关计划。</p><p style=\"text-align: center;\"><img cla",
-      "is_policy": false
-    },
-    {
-      "title": "武汉光谷将建 6G 产业试验片区，预计明年建成国内规划规模最大的 6G 综合试验网",
-      "url": "https://www.ithome.com/1/006/894.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:08:01+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，据“中国光谷”公众号今日发文，湖北移动将联合中信科移动、中关村泛联院、华中科技大学等产业伙伴，在武汉光谷建设 6G 产业试验片区。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/a26c4f",
-      "is_policy": false
-    },
-    {
       "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
       "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-09-24T09:04:18+00:00",
       "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appeara",
-      "is_policy": false
-    },
-    {
-      "title": "UBI Research：京东方 9 月启动苹果 iPad OLED 面板验证工作",
-      "url": "https://www.ithome.com/1/006/888.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T09:02:12+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，韩国显示研究机构 UBI Research 当地时间 22 日援引业内人士消息表示，<strong>京东方 (BOE) 计划本月在其成都 B16 生产线上启动苹果 iPad OLED 显示面板的验证工作</strong>，开始试产验证面板。</p><p>京东方 B16 是一条 G8.6 OLED 生产线，从基板尺寸上来看非常适合用于制造 iPad 等 IT 设",
-      "is_policy": false
-    },
-    {
-      "title": "上汽 MG4 第 20 万辆整车下线，用时一年多",
-      "url": "https://www.ithome.com/1/006/870.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:52:34+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，上汽 MG 今日宣布，<strong>第 20 万辆 MG4 汽车</strong>于 9 月 23 日在江苏南京江北新区基地总装车间驶下生产线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
-      "is_policy": false
-    },
-    {
-      "title": "大疆 Pocket 4P 增距镜方案曝光，预计不影响广角镜头取景",
-      "url": "https://www.ithome.com/1/006/866.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:50:07+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，近日，一张疑似大疆 Pocket 4P 增距镜的配件方案图在网络流传，引发网友关注。从曝光图片来看，<strong>这款增距镜大概率安装在机身上方的长焦镜头前</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsu",
-      "is_policy": false
-    },
-    {
-      "title": "布加迪美国首个住宅项目将落户迈阿密，提供高端管家服务",
-      "url": "https://www.ithome.com/1/006/857.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:46:25+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，布加迪近日宣布将在美国开发首个住宅项目，并承诺提供人们对这个超豪华品牌所期待的独特性、精湛工艺以及极具辨识度的品牌元素。不过，布加迪目前还没有公布具体售价。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/",
-      "is_policy": false
-    },
-    {
-      "title": "不买软件就买个包吧：WinRAR 与潮牌 tern 合作推出“压缩包”实体挎包，150 美元",
-      "url": "https://www.ithome.com/1/006/853.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:40:37+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，老牌压缩软件 WinRAR 最近宣布与法国潮流品牌 tern 合作，推出一款以 WinRAR 图标为主题的“Archive Messenger Bag”实体挎包，定价 150 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,008 元人民币）</span>。</p><p style=\"text-align: ce",
-      "is_policy": false
-    },
-    {
-      "title": "荣耀 CEO 李健公布 Magic9 手机价格：16+512GB 国补到手 5499 元",
-      "url": "https://www.ithome.com/1/006/846.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:38:04+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，今天（24 日）下午，荣耀终端股份有限公司 CEO@荣耀李健 宣布，今年是荣耀 Magic 系列诞生的第十年。“荣耀 Magic9 不仅是我们对科技创新的‘敢想敢不同’，更是献给每一位新老用户的十年诚意之作。”</p><p>同时，李健公布了这款新机的价格（IT之家注：16+512GB）。</p><ul class=\" list-paddingleft-2\"><",
-      "is_policy": false
-    },
-    {
-      "title": "全球首发“会感知、能判断”的中国智能地铁列车亮相柏林",
-      "url": "https://www.ithome.com/1/006/845.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:37:22+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，当地时间 9 月 22 日至 25 日，第十五届德国柏林国际轨道交通技术展览会在柏林举行。</p><p>作为全球轨道交通领域的重要专业展会，本届展会吸引来自 59 个国家和地区的 3,000 多家企业参展，共有 180 项全球首发成果亮相，其中中国参展企业超过 200 家。人工智能、新能源等技术成为本届展会的关注重点。</p><p>据央视新闻今日报道，展会期间",
-      "is_policy": false
-    },
-    {
-      "title": "瑞声科技 2026 财年上半年归母净利润 9.01 亿元，同比增长 2.9%",
-      "url": "https://www.ithome.com/1/006/842.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:36:03+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，瑞声科技今日发布 2026 财年（2026 年 1 月～2026 年 12 月）上半年（2026 年 1 月～2026 年 6 月）报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：145.06 亿元，同比增长 8.9%</p></li><li><p><strong>毛利润",
-      "is_policy": false
-    },
-    {
-      "title": "奥迪 A6 Sportback e-tron 单次充电行驶 1338 公里，创吉尼斯世界纪录",
-      "url": "https://www.ithome.com/1/006/841.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T08:35:26+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，米科 · 马尔奇克（Miko Marczyk）又创纪录了。去年，这位波兰拉力赛车手曾驾驶一辆斯柯达 Superb 柴油版，仅凭一箱燃油行驶了惊人的 2831 公里。如今，他再次为量产车创造吉尼斯世界纪录。这一次，他将柴油换成了电力，驾驶一辆名字更加复杂的车型 —— 奥迪 A6 Sportback e-tron，单次充电行驶了 1338 公里。</p><p st",
       "is_policy": false
     },
     {
@@ -1502,57 +1673,12 @@
       "is_policy": false
     },
     {
-      "title": "Muse is coming to Meta smart glasses",
-      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T23:40:56+00:00",
-      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to",
-      "is_policy": false
-    },
-    {
       "title": "Meta introduces camera-free AI glasses",
       "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-23T23:39:44+00:00",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "is_policy": false
-    },
-    {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T23:37:17+00:00",
-      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. O",
-      "is_policy": false
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T23:19:42+00:00",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email a",
-      "is_policy": false
-    },
-    {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T22:45:00+00:00",
-      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that w",
-      "is_policy": false
-    },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T22:30:00+00:00",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be ab",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
       "is_policy": false
     },
     {
@@ -1571,33 +1697,6 @@
       "category": "news",
       "published": "2026-09-23T19:31:28+00:00",
       "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "is_policy": false
-    },
-    {
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T19:00:00+00:00",
-      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of",
-      "is_policy": false
-    },
-    {
-      "title": "Data centers are black boxes, but California wants to change that",
-      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T18:22:57+00:00",
-      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As ",
-      "is_policy": false
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-23T18:00:00+00:00",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched ",
       "is_policy": false
     },
     {
@@ -1682,15 +1781,6 @@
       "is_policy": false
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T14:30:00+00:00",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "is_policy": false
-    },
-    {
       "title": "YouTube releases new AI features for creators within its Studio app",
       "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
       "source": "TechCrunch AI",
@@ -1700,21 +1790,21 @@
       "is_policy": false
     },
     {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-23T14:30:00+00:00",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "is_policy": false
+    },
+    {
       "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-23T14:00:00+00:00",
       "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register",
-      "is_policy": false
-    },
-    {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T13:00:00+00:00",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
       "is_policy": false
     },
     {
@@ -1733,15 +1823,6 @@
       "category": "news",
       "published": "2026-09-23T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India W",
-      "is_policy": false
-    },
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
       "is_policy": false
     },
     {
@@ -1826,15 +1907,6 @@
       "is_policy": false
     },
     {
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T04:59:08+00:00",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-      "is_policy": false
-    },
-    {
       "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
       "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
       "source": "OpenAI Blog",
@@ -1871,39 +1943,12 @@
       "is_policy": false
     },
     {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-22T23:21:49+00:00",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "is_policy": false
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-22T21:56:43+00:00",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "is_policy": false
-    },
-    {
       "title": "Better prompt caching for GPT-6",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-09-22T21:00:00+00:00",
       "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "is_policy": false
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-22T20:00:00+00:00",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
       "is_policy": false
     },
     {
@@ -2033,24 +2078,6 @@
       "is_policy": false
     },
     {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-22T19:09:11+00:00",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-22T18:00:00+00:00",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "is_policy": false
-    },
-    {
       "title": "Introducing GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "source": "OpenAI Blog",
@@ -2177,6 +2204,33 @@
       "is_policy": false
     },
     {
+      "title": "The Linear Representation Hypothesis Needs a Group Action",
+      "url": "https://huggingface.co/papers/2609.27158",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-21T20:00:00+00:00",
+      "summary": "To make claims about representations that generalize beyond a particular trained model, we need to specify when two representations should count as equivalent. The Linear Representation Hypothesis is ",
+      "is_policy": false
+    },
+    {
+      "title": "Knowledge Pull Requests for Continual Document Authoring",
+      "url": "https://huggingface.co/papers/2609.26634",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-21T20:00:00+00:00",
+      "summary": "We introduce Knowledge Pull Requests (KPRs), a framework for continual document authoring that makes each change interpretable. Documents require ongoing revision as new knowledge surfaces from other ",
+      "is_policy": false
+    },
+    {
+      "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+      "url": "https://huggingface.co/papers/2609.26637",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-09-21T20:00:00+00:00",
+      "summary": "The rapid capability gains of frontier language models are widely attributed to improved reasoning abilities, yet this cannot be verified as raw CoT traces in closed-source systems are hidden. By regi",
+      "is_policy": false
+    },
+    {
       "title": "Calibration as a First-Class Criterion in LLM Evaluation",
       "url": "https://huggingface.co/papers/2609.26489",
       "source": "HF Papers",
@@ -2285,39 +2339,12 @@
       "is_policy": false
     },
     {
-      "title": "Recursive self-improvement of AI research agents",
-      "url": "https://huggingface.co/papers/2609.26457",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-21T20:00:00+00:00",
-      "summary": "AI agents are beginning to automate research and development across the AI stack, from improving training efficiency to optimizing inference. A natural next step is to improve the research efficiency ",
-      "is_policy": false
-    },
-    {
-      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-      "url": "https://huggingface.co/papers/2609.26796",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-21T20:00:00+00:00",
-      "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema",
-      "is_policy": false
-    },
-    {
       "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-21T19:44:28+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I wanted to share a project I’ve been working on called <strong>Jayce</strong>.</p> <p>The whole thing started because I was watching a toddler n",
-      "is_policy": false
-    },
-    {
-      "title": "Neurips Sydney Registration [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmihvq/neurips_sydney_registration_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-21T16:57:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi! Neurips Sydney is sold out so I joined the waitlist. Does anyone have any concrete understanding or insights of how the tickets get released and the chances of ge",
       "is_policy": false
     },
     {
@@ -2357,15 +2384,6 @@
       "is_policy": false
     },
     {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a",
-      "is_policy": false
-    },
-    {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "source": "OpenAI Blog",
@@ -2390,15 +2408,6 @@
       "category": "community",
       "published": "2026-09-21T10:55:42+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>The headlines right now are full of stories about AI models &quot;escaping their sandboxes&quot; and literally killing all humans, lol.</p> <p>I've even heard several",
-      "is_policy": false
-    },
-    {
-      "title": "Spider Bench: comparing 9 vision models on 2,000 spider photos [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wm8oz0/spider_bench_comparing_9_vision_models_on_2000/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-21T10:13:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I tested nine vision models on the same 2,000 spider photos. The highest exact-species accuracy was 49.85%. The tasks, predictions, scoring code, and run settings are",
       "is_policy": false
     },
     {
@@ -2438,21 +2447,12 @@
       "is_policy": false
     },
     {
-      "title": "HappyWorld-Bench",
-      "url": "https://huggingface.co/papers/2609.24308",
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2609.25187",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-09-20T20:00:00+00:00",
-      "summary": "Evaluating world models requires assessing both the quality of the worlds they generate and their consistency and responsiveness under exploration, interaction, and modification. We introduce HappyWor",
-      "is_policy": false
-    },
-    {
-      "title": "ImIR: Image-Instruction Tuning for All-in-One Image Restoration",
-      "url": "https://huggingface.co/papers/2609.25267",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-09-20T20:00:00+00:00",
-      "summary": "Degradations vary widely across images, so a practical restoration system has to handle many degradation types with one model. A recent and effective recipe adapts a large pretrained image-editing mod",
+      "summary": "Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this intermediate structure implicit. Ex",
       "is_policy": false
     },
     {
@@ -2471,15 +2471,6 @@
       "category": "news",
       "published": "2026-09-18T12:00:00+00:00",
       "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "is_policy": false
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-09-17T12:00:00+00:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "is_policy": false
     }
   ]
