@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:08:50.005759+00:00",
+  "generated_at": "2026-09-24T20:56:40.142557+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "Learn it. Build it. Ship it for others.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "Hindsight: Agent Memory That Learns",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/strands-agents/harness-sdk",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/superdesigndev/treg",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "is_policy": false
     },
@@ -75,8 +75,206 @@
       "url": "https://github.com/leejet/stable-diffusion.cpp",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-24T16:08:50+00:00",
+      "published": "2026-09-24T20:56:40+00:00",
       "summary": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "is_policy": false
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T19:59:26+00:00",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e",
+      "is_policy": false
+    },
+    {
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T19:15:00+00:00",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "is_policy": false
+    },
+    {
+      "title": "NeurIPS Main Track Decision Emails are Sent [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T19:02:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Valid Main Track submissions:</strong> 30709, <strong>Accepted: 7900,</strong> Oral: 112, Spotlight: 292 !!</p> </div><!-- SC_ON --> &#32; submitted by &#32; ",
+      "is_policy": false
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T19:00:42+00:00",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "is_policy": false
+    },
+    {
+      "title": "NeurIPS reject final justification [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T18:49:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Do all the rejected or accepted papers get a &quot;Final Justification&quot; comment from the PC?</p> <p>Mine got rejected with ratings 4-4-4 yet the meta review is t",
+      "is_policy": false
+    },
+    {
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T18:11:44+00:00",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "is_policy": false
+    },
+    {
+      "title": "I'm a 5+ year experienced Data scientist willing to explain my real life projects on video call to someone willing to learn so that it can help with my Interview preparation [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp925j/im_a_5_year_experienced_data_scientist_willing_to/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T18:09:46+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello people. I have over 5 years of experience working as a Data scientist. I have worked in Fintech, Retail, Healthcare etc and I recently lost my job. As part of m",
+      "is_policy": false
+    },
+    {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T18:04:44+00:00",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on o",
+      "is_policy": false
+    },
+    {
+      "title": "Publication venue recommendations [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T18:02:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am 5th year and have no published research so far. All my papers have been consistently rejected from top tier AI conferences even though they got good review score",
+      "is_policy": false
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T17:52:29+00:00",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a",
+      "is_policy": false
+    },
+    {
+      "title": "华为乾崑智驾 ADS 5 系统 9 月版本更新亮点公布，升级 AR 人找车、实时对讲等功能",
+      "url": "https://www.ithome.com/1/007/047.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T17:51:11+00:00",
+      "summary": "<p>IT之家 9 月 25 日消息，华为乾崑智能汽车解决方案官方宣布，华为乾崑智驾 ADS 5 新版本（即 9 月 OTA 新版本）即将推送，领航 / 泊车体验双升级。新版本还升级了组队出行、导航搜索场景拓展等功能。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/news",
+      "is_policy": false
+    },
+    {
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T17:39:24+00:00",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "is_policy": false
+    },
+    {
+      "title": "华为音悦家 App 获 6.0.0.340 尝鲜升级，新适配 MatePad 11.5 S 2025 等机型",
+      "url": "https://www.ithome.com/1/007/046.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T17:27:54+00:00",
+      "summary": "<p>IT之家 9 月 25 日消息，华为音悦家 App 在华为应用市场 App Gallery 发布了 <strong>6.0.0.340</strong> 版本尝鲜升级。新版本新增适配如下机型：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p><strong>HUAWEI MatePad Pro 12.2 英寸 ",
+      "is_policy": false
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.22.33 邀测升级，新增支持服务号收纳功能",
+      "url": "https://www.ithome.com/1/007/045.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-09-24T17:19:31+00:00",
+      "summary": "<p>IT之家 9 月 25 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）开启了 8.0.22.33 (8394273) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/9/22-2026/10/22。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img",
+      "is_policy": false
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T17:14:12+00:00",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zi",
+      "is_policy": false
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T17:10:38+00:00",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an A",
+      "is_policy": false
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T17:00:00+00:00",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "is_policy": false
+    },
+    {
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-24T17:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ",
+      "is_policy": false
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T16:46:47+00:00",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+      "is_policy": false
+    },
+    {
+      "title": "NeurIPS Accepted Papers are now visible [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-24T16:41:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I haven't received a notification about this -- but my paper just became visible as &quot;accepted&quot;. I expect an email to come some time soon!<br /> Scores were ",
+      "is_policy": false
+    },
+    {
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-24T16:35:13+00:00",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is wh",
+      "is_policy": false
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-09-24T16:20:39+00:00",
+      "summary": "",
       "is_policy": false
     },
     {
@@ -193,7 +391,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-24T15:00:00+00:00",
-      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50",
       "is_policy": false
     },
     {
@@ -256,7 +454,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-09-24T14:31:00+00:00",
-      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
       "is_policy": false
     },
     {
@@ -332,15 +530,6 @@
       "is_policy": false
     },
     {
-      "title": "I have some questions for Mark Zuckerberg",
-      "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T14:15:00+00:00",
-      "summary": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly",
-      "is_policy": false
-    },
-    {
       "title": "《控制：共振》登陆 Steam：国区售价 268 元起，支持 DLSS 4.5 光追",
       "url": "https://www.ithome.com/1/007/025.htm",
       "source": "IT之家",
@@ -404,30 +593,12 @@
       "is_policy": false
     },
     {
-      "title": "Meta’s Muse AI Charms can interact with each other",
-      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T13:31:43+00:00",
-      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which i",
-      "is_policy": false
-    },
-    {
       "title": "《控制：共振》游戏发售当日遭破解，部分盗版玩家坚持入正力挺开发商 Remedy",
       "url": "https://www.ithome.com/1/007/017.htm",
       "source": "IT之家",
       "category": "news",
       "published": "2026-09-24T13:31:37+00:00",
       "summary": "<p>IT之家 9 月 24 日消息，Remedy 旗下新作《控制：共振》今日发售，登陆 PC、PS5 和 Xbox Series X|S 平台。然而本作发售当天就惨遭破解，但部分盗版玩家却自发选择正版。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
-      "is_policy": false
-    },
-    {
-      "title": "Everything is spying on you and there&#8217;s no opting out",
-      "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T13:30:00+00:00",
-      "summary": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The",
       "is_policy": false
     },
     {
@@ -467,33 +638,6 @@
       "is_policy": false
     },
     {
-      "title": "限时 9.29 万元起、混动燃油双动力，吉利全新第四代博越 L 上市",
-      "url": "https://www.ithome.com/1/007/012.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T13:09:44+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，吉利全新第四代博越<span class=\"js_title_inner\"> L</span> 已正式上市。新车推出燃油与混动两大系列，其中燃油版提供 5 款车型，官方指导价 9.99 万-12.99 万元，上市限时价为 9.29 万-12.29 万元；混动版共 4 款车型，指导价 10.69 万-13.69 万元，上市限时价 9.99 万-12.99 万元。",
-      "is_policy": false
-    },
-    {
-      "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
-      "url": "https://www.ithome.com/1/007/010.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T12:58:49+00:00",
-      "summary": "<p>IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/1d0b8298-80cc-46b",
-      "is_policy": false
-    },
-    {
-      "title": "《暗黑破坏神 4》游戏总监吉布森：我们早该登陆任天堂 Switch 2 了",
-      "url": "https://www.ithome.com/1/007/009.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-09-24T12:55:25+00:00",
-      "summary": "<p style=\"text-align: start;\">IT之家 9 月 24 日消息，《暗黑破坏神 4》终于登陆任天堂 Switch 2。把这样一款大型游戏移植到掌机并不容易，但游戏总监布伦特 · 吉布森对最终呈现的效果相当满意。</p><p style=\"text-align: start;\">据外媒 TechRadar 今天（24 日）晚间报道，吉布森在暴雪嘉年华媒体问答会上直言：“首先",
-      "is_policy": false
-    },
-    {
       "title": "Australia to investigate if OpenAI hack of government health website broke the law",
       "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
       "source": "TechCrunch AI",
@@ -512,15 +656,6 @@
       "is_policy": false
     },
     {
-      "title": "OpenAI agents hacked an Australian government website in search for data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T11:52:32+00:00",
-      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed ",
-      "is_policy": false
-    },
-    {
       "title": "AI is dominating the conversation at Climate Week",
       "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
       "source": "MIT Tech Review",
@@ -536,15 +671,6 @@
       "category": "community",
       "published": "2026-09-24T09:43:05+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>$17.2 million investment, spanning three to five years from <a href=\"https://en.wikipedia.org/wiki/Simons_Foundation\">Simons Foundation International</a>, <a href=\"ht",
-      "is_policy": false
-    },
-    {
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T09:04:18+00:00",
-      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appeara",
       "is_policy": false
     },
     {
@@ -1664,15 +1790,6 @@
       "is_policy": false
     },
     {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T00:15:20+00:00",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentat",
-      "is_policy": false
-    },
-    {
       "title": "Meta introduces camera-free AI glasses",
       "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
       "source": "TechCrunch AI",
@@ -1718,24 +1835,6 @@
       "is_policy": true
     },
     {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T17:00:00+00:00",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "is_policy": false
-    },
-    {
-      "title": "Even Americans who use AI every day are worried about it",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T16:49:58+00:00",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "is_policy": true
-    },
-    {
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "source": "Google DeepMind",
@@ -1760,51 +1859,6 @@
       "category": "news",
       "published": "2026-09-23T15:25:14+00:00",
       "summary": "",
-      "is_policy": false
-    },
-    {
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T15:19:30+00:00",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "is_policy": false
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T14:30:00+00:00",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "is_policy": false
-    },
-    {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T14:30:00+00:00",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "is_policy": false
-    },
-    {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T14:30:00+00:00",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "is_policy": false
-    },
-    {
-      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-23T14:00:00+00:00",
-      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register",
       "is_policy": false
     },
     {
@@ -2168,15 +2222,6 @@
       "is_policy": false
     },
     {
-      "title": "OpenTrainDNN: A Browser-Based Real-Time Neural Network Visualizer. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wn472m/opentraindnn_a_browserbased_realtime_neural/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-22T08:59:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>OpenTrainDNN</strong> is an open-source, client-side web application designed to render the step-by-step training mechanics of deep neural networks in real-ti",
-      "is_policy": false
-    },
-    {
       "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/",
       "source": "r/MachineLearning",
@@ -2348,33 +2393,6 @@
       "is_policy": false
     },
     {
-      "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-21T14:43:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am a graduate student looking to meet industry researchers at U.S. tech companies and labs. Does anyone if people from U.S. companies and labs will be going to Sydn",
-      "is_policy": false
-    },
-    {
-      "title": "Systems for Machine Learning[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-21T14:21:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m a computer engineering graduate and come from a traditional embedded systems background, with knowledge of microcontrollers, computer architecture and operating s",
-      "is_policy": false
-    },
-    {
-      "title": "How does arXiv handle announcement order after a moderation hold is cleared? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmdbas/how_does_arxiv_handle_announcement_order_after_a/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-21T13:47:50+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>Our arXiv paper was originally scheduled for announcement on Sep 15, but it was put on hold for moderation before publication.</p> <p>The hold was",
-      "is_policy": false
-    },
-    {
       "title": "The Download: investigating deaths at the US border’s “virtual wall”",
       "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
       "source": "MIT Tech Review",
@@ -2427,15 +2445,6 @@
       "published": "2026-09-21T07:00:00+00:00",
       "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
       "is_policy": false
-    },
-    {
-      "title": "Concerns about the ICLR review policy [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-21T03:21:43+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The ICLR review policy says if your name appears on 3 or more papers, you will need to serve as a reviewer, and it did not say anything about qualifications. I only h",
-      "is_policy": true
     },
     {
       "title": "How V7 gives AI agents institutional memory",
