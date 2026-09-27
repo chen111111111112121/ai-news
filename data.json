@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:01:53.540541+00:00",
+  "generated_at": "2026-09-27T20:36:11.147830+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-27T16:01:53+00:00",
+      "published": "2026-09-27T20:36:11+00:00",
       "summary": "Hindsight: Agent Memory That Learns",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-27T16:01:53+00:00",
+      "published": "2026-09-27T20:36:11+00:00",
       "summary": "Learn it. Build it. Ship it for others.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-27T16:01:53+00:00",
+      "published": "2026-09-27T20:36:11+00:00",
       "summary": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "is_policy": false
     },
@@ -39,8 +39,53 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-09-27T16:01:53+00:00",
+      "published": "2026-09-27T20:36:11+00:00",
       "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-27T20:34:28+00:00",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "is_policy": false
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-27T19:57:30+00:00",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "is_policy": false
+    },
+    {
+      "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-09-27T17:51:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/\"> <img alt=\"Are there machine learning subfields that are becoming ir",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-09-27T17:21:07+00:00",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-09-27T16:30:00+00:00",
+      "summary": "\"AI is the devil and I its maker.\"",
       "is_policy": false
     },
     {
@@ -548,15 +593,6 @@
       "is_policy": false
     },
     {
-      "title": "What are people building in computer vision, and what's still painful? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-25T18:21:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've built a lot of ML systems over the years, mainly computer vision models optimised to run on mobile phones. For example, my previous company built the food recogn",
-      "is_policy": false
-    },
-    {
       "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
       "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
       "source": "TechCrunch AI",
@@ -635,33 +671,6 @@
       "category": "news",
       "published": "2026-09-25T15:39:48+00:00",
       "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from ",
-      "is_policy": false
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-25T15:00:00+00:00",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20",
-      "is_policy": false
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-25T14:15:00+00:00",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "is_policy": false
-    },
-    {
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-09-25T14:00:00+00:00",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl",
       "is_policy": false
     },
     {
@@ -806,15 +815,6 @@
       "category": "community",
       "published": "2026-09-24T18:02:12+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am 5th year and have no published research so far. All my papers have been consistently rejected from top tier AI conferences even though they got good review score",
-      "is_policy": false
-    },
-    {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-09-24T17:52:29+00:00",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a",
       "is_policy": false
     },
     {
