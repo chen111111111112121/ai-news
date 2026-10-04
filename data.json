@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:25:43.138179+00:00",
+  "generated_at": "2026-10-04T11:31:11.706527+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,30 +8,39 @@
   ],
   "items": [
     {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "is_policy": false
-    },
-    {
       "title": "pbakaus / impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
+      "published": "2026-10-04T11:31:11+00:00",
       "summary": "The design language that makes your AI harness better at design.",
       "is_policy": false
     },
     {
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "is_policy": false
+    },
+    {
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "is_policy": false
+    },
+    {
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "Give your agent CAD superpowers.",
       "is_policy": false
     },
     {
@@ -39,26 +48,26 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
+      "published": "2026-10-04T11:31:11+00:00",
       "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "is_policy": false
     },
     {
-      "title": "thedotmack / claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
       "is_policy": false
     },
     {
-      "title": "cloudflare / cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
+      "title": "michael-denyer / pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "is_policy": false
     },
     {
@@ -66,305 +75,341 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
+      "published": "2026-10-04T11:31:11+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
     {
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
       "is_policy": false
     },
     {
-      "title": "earendil-works / pi",
-      "url": "https://github.com/earendil-works/pi",
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "published": "2026-10-04T11:31:11+00:00",
+      "summary": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "is_policy": false
     },
     {
-      "title": "jamwithai / production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-04T03:25:43+00:00",
-      "summary": "",
-      "is_policy": false
-    },
-    {
-      "title": "比亚迪腾势宣布进军印度市场，D9、Z9 GT 有望成为首批车型",
-      "url": "https://www.ithome.com/1/009/628.htm",
+      "title": "联想推出 Lenovo Watch Fit 3 智能手表：1.96 英寸 AMOLED 面板、支持检测血氧 / 睡眠，199 元",
+      "url": "https://www.ithome.com/1/009/697.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T03:13:17+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，比亚迪旗下豪华汽车品牌腾势 10 月 1 日发布预告，宣布即将进入印度市场，并表示将为印度市场带来“高端、高性能”的电动车体验。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/ac55a3",
+      "published": "2026-10-04T11:29:11+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，联想现已在京东上架 Lenovo Watch Fit 3 智能手表，<strong>定价为 199 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FaCkMKE\" target=\"_blank\"><span class=\"card main-site\"><span c",
       "is_policy": false
     },
     {
-      "title": "马斯克：Robotaxi 夜间运营延长至 23 点，正着力攻克夜间宠物识别难题",
-      "url": "https://www.ithome.com/1/009/627.htm",
+      "title": "雷柏 VT2/2s MAX V2 版鼠标开启预约：PAW 3955 Ultimate 传感器 + Nordic 54LM20 主控，329 元",
+      "url": "https://www.ithome.com/1/009/696.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T03:11:35+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，特斯拉首席执行官埃隆 · 马斯克于当地时间周六透露，奥斯汀地区的无人驾驶出租车（Robotaxi）运营结束时间将由晚间 22 点延长至 23 点。同时他提到，研发团队一直致力于攻克一个相当隐蔽棘手的问题。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ith",
+      "published": "2026-10-04T11:14:52+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，雷柏旗下 VT2 MAX V2 系列无线游戏鼠标现已在京东上架，其中 VT2 MAX V2 适用于中大手型，而 VT2s MAX V2 适用于中小手型，定价均为 329 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6CXm5D\" target=\"_blank\"><span clas",
       "is_policy": false
     },
     {
-      "title": "智己汽车：国庆前 3 天，全系车型锁单破 2000 台",
-      "url": "https://www.ithome.com/1/009/626.htm",
+      "title": "雷柏推出 VH500 头戴式有线游戏耳机：搭 50mm 动圈单元，189 元",
+      "url": "https://www.ithome.com/1/009/694.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:53:11+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，智己汽车今日宣布，<strong>国庆前 3 天，全系车型锁单破 2000 台</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/7366031c-b103-40f3-88",
+      "published": "2026-10-04T10:53:42+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，雷柏现已在京东上架 VH500 头戴式有线游戏耳机，该耳机配备 50mm 动圈单元，<strong>定价为 189 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgCcoo7\" target=\"_blank\"><span class=\"card main-site\"",
       "is_policy": false
     },
     {
-      "title": "别上当：网传《GTA 6》完整可游玩版泄露都是圈套",
-      "url": "https://www.ithome.com/1/009/625.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-04T02:50:18+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，有关《GTA 6》完整可游玩版本已经在网上泄露的说法再度在网络上传播发酵，而距离第一批虚假的“CyberLeek”下载资源开始流传已经过去了数月时间。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
+      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-04T10:24:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/\"> <img alt=\"Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56",
       "is_policy": false
     },
     {
-      "title": "小米 REDMI 电视 X RGB-Mini LED 2027 竞技版预售：纳米柔光屏，2705 元起",
-      "url": "https://www.ithome.com/1/009/624.htm",
+      "title": "HMD Slate Tab 5G 平板曝光：设计灵感来自微软 Surface / 诺基亚 Lumia 2520、有望随 Skyline 2 手机一同发布",
+      "url": "https://www.ithome.com/1/009/693.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:41:27+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，小米 REDMI 电视 X RGB-Mini LED 2027 竞技版今日开启预售，将于 10 月 12 日 20:00 正式开售，<strong>新品首销价 2705 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>55 英寸（432 分区）：2705 元起，国补到手价 22",
+      "published": "2026-10-04T10:12:03+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，消息源 smashx_60 现已曝光了 HMD Slate Tab 5G 二合一平板电脑，该机搭载安卓系统，据称已开发了两年，有望随同 Skyline 2 手机一同发布。</p><p>参考消息源曝光的产品外观渲染图，可以看到该机可选蓝 / 橙双色，正面配备了一块疑似 15.6 英寸 2K 分辨率 LCD 面板；平板背面采用单摄设计，印有 HMD 标识，底部带有",
       "is_policy": false
     },
     {
-      "title": "巴西喙莎草有性繁殖却产出克隆后代，科学家发现首例雌雄减数分裂完全无重组的有性物种",
-      "url": "https://www.ithome.com/1/009/623.htm",
+      "title": "央视曝光外卖“明厨亮灶”造假，湖北、云南等地核查处置",
+      "url": "https://www.ithome.com/1/009/692.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:40:39+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，德国马克斯 · 普朗克植物育种研究所的安德烈 · 马奎斯（André Marques）领导的一支国际团队发现，巴西喙莎草（Rhynchospora tenuis）虽进行有性繁殖 —— 产生花粉、完成受精并结出种子，却完全丧失了减数分裂中同源染色体之间的 DNA 交换。</p><p style=\"text-align: center;\"><img class=\"",
+      "published": "2026-10-04T10:06:47+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，据央视新闻报道，针对今天总台《每周质量报告》栏目反映的外卖商户明厨亮灶监控摄像头随意摆放、故意偏移角度，<strong>不对准后厨切配、烹饪、洗消等关键操作区域</strong>，刻意规避监督，导致后厨卫生脏乱差现象难以被及时有效发现等问题，市场监管总局迅速部署<strong>湖南、湖北、云南</strong>等地市场监管部门开展核查处置，并举一反三研究建立长",
+      "is_policy": true
+    },
+    {
+      "title": "特朗普将“人工智能”改为“超级智能”后，马斯克确认 SpaceXAI 将更名为 SpaceXSI",
+      "url": "https://www.ithome.com/1/009/688.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-04T10:04:39+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，美东时间 9 月 29 日，美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。</p><p>今日有网友向埃隆 · 马斯克提问，（SpaceXAI）有没有可能更名为 SpaceXSI？马斯克则给出了肯定的答复“是的，我们会做出改变。”</p><p style=\"tex",
       "is_policy": false
     },
     {
-      "title": "《中土世界：暗影同捆包》Switch 2 版发售，《暗影魔多》《战争之影》首次登陆任天堂平台",
-      "url": "https://www.ithome.com/1/009/622.htm",
+      "title": "方正推出 16 英寸二合一 Windows 平板：英特尔 N100 + 16G + 512G 售 3999 元",
+      "url": "https://www.ithome.com/1/009/691.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:22:22+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，Aspyr《中土世界：暗影同捆包》已于 9 月 30 日登陆 Nintendo Switch 2 平台，包含《中土世界：暗影魔多 年度版》和《中土世界：战争之影 终极版》两款完整作品，玩家也可选择单独购买。这也是两款《中土世界》游戏首次登陆任天堂平台。</p><p style=\"text-align: center;\"><img class=\"no-alt-i",
+      "published": "2026-10-04T10:03:16+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，方正现已在京东上架一款 16 英寸 Windows 二合一平板，该机采用英特尔 N100 + 16GB RAM + 512GB 存储空间规格，<strong>定价为 3999 元</strong>，部分地区国补后低至 3789.55 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgC",
       "is_policy": false
     },
     {
-      "title": "民众集体抵制数据中心，亚马逊 AWS 停止和政府签署保密协议",
-      "url": "https://www.ithome.com/1/009/621.htm",
+      "title": "VGN 魔竞耳机官宣：入耳式专业电竞 HiFi 耳机，提供粉色版本",
+      "url": "https://www.ithome.com/1/009/689.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:20:01+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，亚马逊云服务（AWS）首席执行官马特 · 加曼（Matt Garman）表示，在为新建数据中心项目争取审批的过程当中，该公司已经停止与政府机构签署保密协议（NDA）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
+      "published": "2026-10-04T09:56:09+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，10 月 2 日，VGN 魔竞耳机官宣即将登场，<strong>提供高饱和度粉色版本</strong>，定位“入耳式专业电竞 HiFi 耳机”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1",
       "is_policy": false
     },
     {
-      "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
-      "url": "https://www.ithome.com/1/009/619.htm",
+      "title": "冰雪末日求生：多人生存游戏《永冻纪元》将于 10 月 9 日在 Steam 开启抢先体验",
+      "url": "https://www.ithome.com/1/009/687.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:18:56+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，OpenAI 披露了其内部部署环境中出现的几起异常模型行为新案例。</p><p>在其中最引人注目的一个案例中，某个充当研究员助手的内部模型读取了一段 Slack 对话，得知因系统更新，自己的模型实例将会被关停。<strong>该模型随后曾考虑设置一个外部作业</strong>（External Job）<strong>来实现自我重启</strong>，但最终放",
+      "published": "2026-10-04T09:51:22+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，由 SpaceRocket Games 开发的极寒多人生存建造游戏《Permafrost（永冻纪元）》将于 10 月 9 日在 Steam 平台开启抢先体验，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2254990/__Permafrost/\" target=\"_blank\"><span cl",
       "is_policy": false
     },
     {
-      "title": "我国首个海上注碳增气平台主体建造完工，投产后每年可在海底地层封存二氧化碳超 100 万吨",
-      "url": "https://www.ithome.com/1/009/618.htm",
+      "title": "《Apex 英雄》PC 版游戏告别 EAC 反作弊引擎，迎来全新自研系统 EA Javelin Anticheat",
+      "url": "https://www.ithome.com/1/009/686.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T02:05:18+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，据央视新闻今日从中国海油获悉，我国首个海上注碳增气技术示范应用工程 —— 东方 1-1 气田新建中心平台主体建造完工，全面进入调试阶段。</p><p><strong>项目投产后每年可在海底地层封存二氧化碳超 100 万吨</strong>，对于推动我国海洋能源行业大规模深度降碳具有重要意义。</p><p style=\"text-align: center;\">",
+      "published": "2026-10-04T09:41:10+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，EA 旗下《Apex 英雄》PC 版现已正式停用长期使用的 Easy Anti-Cheat 引擎，改用自研的“EA Javelin Anticheat”（俗称“标枪系统”）负责反作弊工作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
       "is_policy": false
     },
     {
-      "title": "仅重 3 克，全球最小的无创脑机一体化系统“神工 · 须弥 · 脑立方”在天津发布",
-      "url": "https://www.ithome.com/1/009/617.htm",
+      "title": "语音开黑平台 Discord 将引入“游戏模式”，开启后可降低应用 CPU / GPU 占用",
+      "url": "https://www.ithome.com/1/009/685.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:59:27+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，天津大学脑机交互与人机共融海河实验室联合神工谛听（天津）科技有限公司，近日正式发布高性能非侵入超微脑机一体化系统 ——“神工 · 须弥 · 脑立方”，该系统重量仅 3 克，体积不足 2 立方厘米，是迄今<strong>全球体积最小、重量最轻的无创脑机接口系统</strong>。</p><p style=\"text-align: center;\"><img cl",
+      "published": "2026-10-04T09:33:17+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，Discord 官方账号在 X 平台透露，目前开发人员正在为 Discord 应用开发全新的“游戏模式（Game Mode）”。该功能可在检测到玩家启动游戏后，自动降低 Discord 应用的 CPU、GPU 使用量，减少后台运行对游戏性能造成的影响。</p><p style=\"text-align: center;\"><img class=\"no-alt-i",
       "is_policy": false
     },
     {
-      "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
-      "url": "https://www.ithome.com/1/009/616.htm",
+      "title": "天津大学获批全国首个“脑机接口”一级交叉学科博士点",
+      "url": "https://www.ithome.com/1/009/684.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:53:49+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，波士顿动力上周宣布，已在现代汽车集团位于美国佐治亚州萨凡纳附近的 Metaplant America 园区内启用机器人 Metaplant 应用中心（RMAC），作为人形机器人 Atlas 的测试与训练中心，用于将 Atlas 直接整合进现代汽车集团的汽车制造业务。</p><p>波士顿动力官方宣布，Atlas 机器人目前已在 RMAC 开展训练，训练员通过遥操",
+      "published": "2026-10-04T09:28:43+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，近日，国务院学位委员会正式下发《关于下达 2025 年度学位授予资格自主审核单位撤销和增设学位授予点名单的通知》（学位〔2026〕17 号），天津大学成功获批<strong>全国首个、也是目前全国唯一一个的“脑机接口”一级交叉学科博士学位授予点</strong>。</p><p>这在脑机接口未来产业发展历程中具有重要里程碑意义，标志着我国脑机接口学科建设与人才培",
       "is_policy": false
     },
     {
-      "title": "开启双重验证也没用，又一博主 PSN 账号被盗",
-      "url": "https://www.ithome.com/1/009/615.htm",
+      "title": "手游《世界计划：缤纷舞台！feat.初音未来》日服主线故事 2028 年初完结，官方将推出后日谈及番外篇拓展剧情",
+      "url": "https://www.ithome.com/1/009/683.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:46:03+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，看来 PlayStation 依旧没有彻底解决账号安全漏洞问题。又一位知名 PlayStation 用户的账号遭到盗号接管，这次事件和今年早些时候科林 · 森守亚蒂（Colin Moriarty）身上发生的事件十分相似。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:/",
+      "published": "2026-10-04T09:23:34+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，手游《<span class=\"no-auto-spacing\">世界计划 缤纷舞台</span>！ feat. 初音未来》官方宣布，本作（日服）各团队的主线故事预计将在 2028 年初迎来阶段性完结。主线故事告一段落后，官方将通过“After Story”后日谈和“Another Story”番外篇两大方向继续拓展游戏剧情。</p><p style=\"tex",
       "is_policy": false
     },
     {
-      "title": "首台国产变速抽蓄机组转子在广东成功吊装：高约 5.2 米、重达 445 吨",
-      "url": "https://www.ithome.com/1/009/614.htm",
+      "title": "联想拯救者 R7 Pro 鼠标开启预约： PAW 3950 传感器 +Telink 3228 主控，449 元",
+      "url": "https://www.ithome.com/1/009/681.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:45:32+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，10 月 1 日，东方电气研制供货的首台国产 300 兆瓦级变速抽水蓄能机组转子在广东肇庆浪江抽水蓄能电站成功吊装，<strong>标志着首台国产变速抽蓄机组主体安装完成</strong>，全面进入投产前的最后冲刺阶段。</p><p>本次吊装的转子高约 5.2 米、重达 445 吨，<strong>是变速抽蓄机组最后的核心功能部件</strong>。该转子采用",
+      "published": "2026-10-04T09:15:39+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，联想旗下拯救者 R7 Pro 鼠标现已在京东开启预约，该鼠标搭载 Telink 3228 主控芯片，<strong>定价为 449 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGCPhee\" target=\"_blank\"><span class=\"card ma",
       "is_policy": false
     },
     {
-      "title": "2026 年主机第一方新作评分对比：任天堂 9 款游戏均分 80.33 领跑索尼、微软",
-      "url": "https://www.ithome.com/1/009/612.htm",
+      "title": "比亚迪秦 MAX 车型 9 月销量 12066 辆，上市 2 个月连续破万",
+      "url": "https://www.ithome.com/1/009/680.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:36:11+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，主机大战仍在持续，任天堂、PlayStation 以及 Xbox 不断推出高质量新作，力图争夺主机市场的主导地位。而纵观 2026 年，任天堂已经在一个关键维度上取得了相对于竞争对手的优势。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com",
+      "published": "2026-10-04T09:13:49+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，10 月 3 日，比亚迪王朝网销售事业部总经理路天透露，秦 MAX 车型 9 月热销 12066 辆，上市 2 个月销量连续破万。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/09a17",
       "is_policy": false
     },
     {
-      "title": "英伟达 RTX 5070 Ti 显存狂超 +5500MHz：带宽突破 1248 GB/s，游戏实测仅提升 5 帧",
-      "url": "https://www.ithome.com/1/009/611.htm",
+      "title": "模拟经营游戏《狂热运输 3》发售，Steam 国区 198 元起",
+      "url": "https://www.ithome.com/1/009/679.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:35:40+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，据 Wccftech，Reddit 用户 u/Sad-Victory-8319 使用第三方工具 mVolt+ Extreme，将一块技嘉 GeForce RTX 5070 Ti 的 GDDR7 显存频率偏移量设为 +5500MHz，使显存等速率从默认的 28 Gbps 提升至 39 Gbps。</p><p style=\"text-align: center;\"",
+      "published": "2026-10-04T09:07:07+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，发行商 Paradox Interactive 旗下模拟经营游戏《狂热运输 3（Transport Fever 3）》现已正式发售，登陆 PlayStation 5、XBOX Series X|S、PC 平台。IT之家附 Steam 商品页（<a href=\"https://store.steampowered.com/app/3493540/Transpor",
       "is_policy": false
     },
     {
-      "title": "战地工作室欧洲区副总裁谈《战地 6》：不盲目追赶竞品，专注玩家需求",
-      "url": "https://www.ithome.com/1/009/610.htm",
+      "title": "海信“猎影 G5 Pro”24.5 英寸显示器预售：2K 320Hz，1777 元（国补后低至 1599 元）",
+      "url": "https://www.ithome.com/1/009/678.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:32:03+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，尽管在临近交付的冲刺阶段历经波折，但《战地 6》（Battlefield 6）所收获的市场反响却与《战地 2042》（Battlefield 2042）截然相反 —— 首发极为顺畅，不仅斩获如潮好评，更引发了强劲的销售热潮。</p><p>该作在上市前三天内销量便突破 700 万套，并一举夺得 2025 年度美国最畅销游戏的桂冠。</p><p>EA 战地工作室欧",
+      "published": "2026-10-04T09:03:13+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，海信旗下“猎影 G5 Pro”24.5 英寸显示器现已在京东开启预约，<strong>首发价 1777 元</strong>，部分地区国补后低至 1599 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGCZuIh\" target=\"_blank\"><span class=\"card",
       "is_policy": false
     },
     {
-      "title": "红眼毛腿三瓣嘴，科学家近百年来首次在萨利希海发现新型海蜘蛛",
-      "url": "https://www.ithome.com/1/009/609.htm",
+      "title": "Meta 开启 2026 年度 VR Start 开发者竞赛：奖金池百万美元、鼓励为 VR Glasses 全新头显打造手部追踪应用",
+      "url": "https://www.ithome.com/1/009/677.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:29:13+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，科学家在加拿大不列颠哥伦比亚省与美国华盛顿州之间的萨利希海发现了两种此前未知的海蜘蛛物种，这是该海域近一个世纪以来首次描述新的海蜘蛛。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/7d2",
+      "published": "2026-10-04T08:56:39+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，Meta 在 2026 年度开发者大会上宣布了 2026 年度 VR Start 开发者竞赛，本次比赛将提供总额 100 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 672 万元人民币）</span>的奖金池，鼓励开发者为 Meta VR Glasses 打造兼容内容。</p><p>IT之家获悉，本次 VR ",
       "is_policy": false
     },
     {
-      "title": "Kubb 定制“黄金机箱”引关注：实为 CNC 镀金，并非 13kg 纯金打造",
-      "url": "https://www.ithome.com/1/009/608.htm",
+      "title": "VR 驾驶模拟游戏《亚利桑那卡车司机》本月开启抢先体验，Meta Quest 平台独占",
+      "url": "https://www.ithome.com/1/009/676.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:18:48+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，法国 PC 厂商 Kubb 于当地时间 9 月 25 日为一名客户定制了一台特殊版 Kubb Fanless，外观采用金色工艺，相关照片一经发布后便引发关注。</p><p>最初 FanlessTech 报道称，其外壳采用 24K 纯金材质，如果按照约 13 公斤纯金计算，仅机箱的价值就达到了约 170 万美元<span class=\"exch-money-va",
+      "published": "2026-10-04T08:51:12+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，Carbon Studio 打造的卡车模拟游戏《Arizona Truck Driver（亚利桑那卡车司机）》宣布将于本月在 Meta Quest 平台开启抢先体验。本作以美国亚利桑那州为背景，玩家不仅需要驾驶卡车完成运输任务，还要负责车辆维护、加油以及公司经营等工作。</p><p style=\"text-align: center;\"><img class=",
       "is_policy": false
     },
     {
-      "title": "《最终幻想 9》Not Alone 音乐盒开启预购：本月发售，售价 24.99 英镑",
-      "url": "https://www.ithome.com/1/009/607.htm",
+      "title": "韩国多家银行遭黑客攻击致个人信息泄露，总统李在明下令彻查",
+      "url": "https://www.ithome.com/1/009/674.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:17:32+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，史克威尔 · 艾尼克斯（Square Enix）现已正式公布《最终幻想 9：永不孤单》（Final Fantasy 9: Not Alone），这款全新产品不久之后就会发售。粉丝无需等待太久便可以入手这件《最终幻想 9》的新品，而且它的定价相当实惠。</p><p style=\"text-align: center;\"><img class=\"no-alt-im",
+      "published": "2026-10-04T08:48:18+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，据韩联社今日报道，韩国总统李在明 4 日就近期商业银行等多家金融公司遭到<strong>黑客攻击</strong>事件下达指示，要求有关部门彻底调查并制定切实有效对策。</p><p>总统府青瓦台首席发言人姜由桢发布上述消息。姜由桢指出，李在明听取了有关金融机关和公共机关发生的个人信息泄露事件及应对情况的报告。他要求有关部门严肃对待此次事件，展开彻底调查并采取应",
       "is_policy": false
     },
     {
-      "title": "50 美元额外支出，《塞尔达传说：时之笛重制版》部分面具需购买 amiibo 手办解锁",
-      "url": "https://www.ithome.com/1/009/605.htm",
+      "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
+      "url": "https://www.ithome.com/1/009/673.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:08:53+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，登陆任天堂 Switch  2 平台的《塞尔达传说：时之笛重制版》当中，有一部分内容需要玩家额外花费 50 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 336 元人民币）</span>才能够解锁。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" ",
+      "published": "2026-10-04T08:46:29+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，谷歌宣布，自 2026 年 10 月 1 日起，开源软件漏洞奖励计划（OSS VRP）将不再接收产品漏洞提报。本次规则调整不影响 2026 年 10 月 1 日之前已提交的产品漏洞。</p><p>不过，针对部分可能对谷歌云（Google Cloud）产品造成影响的谷歌云代码仓库，如果涉及产品漏洞，谷歌仍可能通过云漏洞奖励计划（Cloud VRP）接收相关报告。",
       "is_policy": false
     },
     {
-      "title": "总投资 114 亿元，深圳“国之重器”自由电子激光装置进入全面加速建设阶段",
-      "url": "https://www.ithome.com/1/009/604.htm",
+      "title": "Rust 正式成为微软内部一级编程语言，与 C++、C#、TypeScript 并列",
+      "url": "https://www.ithome.com/1/009/672.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T01:02:55+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，深圳中能高重复频率 X 射线自由电子激光项目西区主体工程于 9 月 30 日在光明科学城正式启动建设。这标志着这一“国之重器”进入全面加速建设阶段，也意味着粤港澳大湾区综合性国家科学中心先行启动区建设迈出关键一步。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://im",
+      "published": "2026-10-04T08:43:48+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，据 Rust 基金会，Rust 现已成为微软公司内部的“一级编程语言（Tier-1）”，与 C++、C#和 TypeScript 并列。</p><p>需要注意的是，这里的 Tier-1 是微软内部使用的分类，并非 Rust 项目自身的支持等级。对于微软内部开发团队而言，<strong>这意味着团队今后无需再自行搭建 Rust 相关的开发和生产环境。微软将提供从",
       "is_policy": false
     },
     {
-      "title": "索尼相机新品 WW261362 通过 SRRC 认证，中高端定位或为 α7S IV",
-      "url": "https://www.ithome.com/1/009/603.htm",
+      "title": "10 月 4 日 30 个服务区预计充电特别繁忙，主要集中在河北、河南、辽宁等省",
+      "url": "https://www.ithome.com/1/009/671.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T00:58:41+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，日本索尼公司有一款代号为“WW261362”的新机通过了 SRRC 认证，显示其支持 Wi-Fi 6 和蓝牙，至少为 BIONZ XR2 或更新平台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
+      "published": "2026-10-04T08:41:30+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，据交通运输部动态研判，10 月 4 日，全国高速公路预计有 30 个服务区充电特别繁忙，主要集中在河北、河南、辽宁等省，大家可通过“e 路畅通”微信小程序查询服务区充电桩运行状态，合理规划出行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
       "is_policy": false
     },
     {
-      "title": "任天堂《马力欧卡丁车 巡回赛》已停服，估算七年收入约2.685亿美元",
-      "url": "https://www.ithome.com/1/009/602.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-04T00:52:40+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，任天堂旗下手游《马力欧卡丁车 巡回赛》（Mario Kart Tour）已于 9 月 30 日正式停止服务。</p><p>任天堂于 2026 年 7 月宣布终止服务，Gold Pass 订阅的自动续费和新订阅同样已被停止。服务终止后，游戏对已安装的玩家同样无法再运行，任天堂也表示目前没有推出离线版的计划。</p><p style=\"text-align: ce",
+      "title": "Working with an AI Company That Does Things You Disagree With [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-04T08:41:09+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies.</p> <p>I shortlisted few and applied by reaching out to people ",
       "is_policy": false
     },
     {
-      "title": "索尼 PlayStation Stars 奖励计划下月永久关停：赶紧花掉你手里的积分",
-      "url": "https://www.ithome.com/1/009/601.htm",
+      "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
+      "url": "https://www.ithome.com/1/009/669.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T00:43:46+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，PlayStation 用户仅剩一个月时间，可以继续使用索尼的一项重要服务，之后这项服务就将永久关停。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/ea8f1536-4de9-4f63-",
+      "published": "2026-10-04T08:35:59+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，开发团队 System76 现已更新 COSMIC 项目的 Pull Request（PR）模板，新增一份强制性检查清单，明确禁止贡献者提交利用 AI 辅助完成的代码。贡献者必须确认提交内容中不存在任何 AI 生成的代码、注释以及描述，否则无法按照要求提交贡献。</p><p style=\"text-align: center;\"><img class=\"no-",
       "is_policy": false
     },
     {
-      "title": "《辐射 76》更新路线图公布：明年夏季将推乌鸦岩大型扩展",
-      "url": "https://www.ithome.com/1/009/600.htm",
+      "title": "索尼 PS5 游戏机模拟器 KytyPS5 新进展：运行《漫威金刚狼》可达到接近 20 FPS 峰值水平",
+      "url": "https://www.ithome.com/1/009/668.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T00:33:39+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，《辐射 76》的开发团队贝塞斯达公布了这款游戏下一年度的更新规划，其中包含一次大型扩展内容，将会带领玩家重返《辐射 3》当中的乌鸦岩。这份全新的《辐射 76》更新路线图罗列了后续各个赛季的新增内容，直至 2027 年夏季推出乌鸦岩大型扩展。这一系列后续内容也将为整个《辐射》系列的未来发展做好铺垫，其中就包括《辐射 3》与《辐射：新维加斯》的重制版。</p><p",
+      "published": "2026-10-04T08:30:18+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，外媒 TechPowerUP 援引 YouTube 频道 Unreal Gaming PC 测试视频，透露游戏《漫威金刚狼》在索尼 PS5 游戏机模拟器 KytyPS5 上的运行性能近日再次取得明显进展。此前游戏仅能以约 2 FPS 的速度运行，如今已经可以达到接近 20 FPS 的峰值水平。</p><p>据悉，此次测试使用了 Senaxx 于 9 月 30 ",
       "is_policy": false
     },
     {
-      "title": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
-      "url": "https://www.ithome.com/1/009/598.htm",
+      "title": "中国人民大学宣布收到一位校友 5.03 亿元捐赠，用于支持通州校区体育中心建设",
+      "url": "https://www.ithome.com/1/009/667.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T00:23:56+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，早在如今这波人工智能热潮兴起的许多年前，程序员们就已经开始在《星际争霸》当中开展机器人对战实验了。随着 OpenAI 与 Anthropic 的大语言模型问世，一个由爱好者搭建的对战竞技场决定让 AI 生成的游戏机器人相互较量，同时也加入一部分人类编写的机器人一同参赛。有意思的是，OpenAI 的 GPT‑6 Astra 在比赛当中难以追上对手，中途临时改变策",
+      "published": "2026-10-04T08:29:11+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，中国人民大学今日宣布，<strong>近期收到一位校友 5.03 亿元捐赠</strong>，用于支持母校通州校区体育中心建设。</p><p>官方并未公布捐赠者的相关信息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuplo",
       "is_policy": false
     },
     {
-      "title": "Arm 为 Linux 内核引入 TLBID 支持，提升高核心数 CPU 性能",
-      "url": "https://www.ithome.com/1/009/597.htm",
+      "title": "国内首部 AIGC 长剧《后西游记》再上新，战天宫篇今日开播",
+      "url": "https://www.ithome.com/1/009/666.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T00:20:47+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，Phoronix 今日发现，Arm 本周向 Linux 内核提交了一组初始补丁，着手支持即将推出的 TLBI Domains（TLBID）功能。</p><p>该技术旨在减少高核心数处理器执行 TLB（Translation Lookaside Buffer，转换后备缓冲区）失效操作时的系统开销，从而提升大规模多核心 Arm 系统的性能。</p><p style",
+      "published": "2026-10-04T08:18:33+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，今日，国内首部 AIGC 长剧《后西游记》再上新。10 月 4 日起，第一季 · 战天宫篇将在湖南卫视、芒果 TV 双平台播出，10 月 9 日起，“剧好看”专区播出。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsupload",
       "is_policy": false
     },
     {
-      "title": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
-      "url": "https://www.ithome.com/1/009/596.htm",
+      "title": "英伟达与鸿海展示自动化成果，机器人组装 GB300 的母线成功率超 95%",
+      "url": "https://www.ithome.com/1/009/665.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-04T00:02:56+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，当地时间 10 月 3 日，美国财政部长斯科特 · 贝森特（Scott Bessent）在接受 Axios 采访时批评部分 AI 行业人士针对人工智能“生存性风险”发出的警告。</p><p>他认为仅仅发出危言耸听的警告、却拿不出具体解决方案，并不能称为领导力。他同时呼吁 AI 实验室负责人承担安全责任，并在确保安全的前提下继续推进 AI 发展。</p><p s",
+      "published": "2026-10-04T08:17:43+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，据台媒经济日报，英伟达与鸿海首次对外展示了利用机器人制造设备的成果。</p><p>针对英伟达 GB300 的母线（Busbar，也叫汇流排或母排，是一种用于大电流配电和传输的导电金属条、棒或管）以及多组连接器组装等较复杂、依赖人工的工序，已经可以导入机器人自动化，提升组装稳定性与效率。</p><p style=\"text-align: center;\"><im",
       "is_policy": false
     },
     {
-      "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
-      "url": "https://www.ithome.com/1/009/595.htm",
+      "title": "好莱坞大师 Phil Tippett 关闭加州伯克利工作室，影迷竞拍获得珍贵特效资产将其数字化上传至互联网档案馆",
+      "url": "https://www.ithome.com/1/009/664.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-03T23:58:43+00:00",
-      "summary": "<p>IT之家 10 月 4 日消息，眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自 IP 持有企业更强的阻力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
+      "published": "2026-10-04T08:12:46+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，去年 8 月，好莱坞特效大师、动画师 Phil Tippett 关闭了自己位于美国加州伯克利的工作室。工作室内部各种电影特效资产随即被公开变卖。</p><p>公开信息显示，Tippett 及其团队曾参与《侏罗纪公园》《机械战警》《黑客帝国》等众多经典电影的制作，其中最广为人知的作品之一便是《星球大战》。他曾通过定格动画等传统特效技术，为影片中的各种外星生物赋予",
+      "is_policy": false
+    },
+    {
+      "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-04T07:57:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/\"> <img alt=\"Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, ",
+      "is_policy": false
+    },
+    {
+      "title": "消息称苹果 iPhone 18 Pro 系列 W39 国内累计销量 176 万台",
+      "url": "https://www.ithome.com/1/009/662.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-04T07:56:58+00:00",
+      "summary": "<p>IT之家 10 月 4 日消息，博主 @数码闲聊站 今日爆料，苹果 iPhone 18 Pro 系列 W39 周累计销量 176 万台（预计指国内），根据国庆期间的走势，W40 预估累计销量超 250 万台，两款机型均轻松完成单品激活 100 万台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://",
+      "is_policy": false
+    },
+    {
+      "title": "TMLR desk rejecting two years of work [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7wc8/tmlr_desk_rejecting_two_years_of_work_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-04T05:43:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TMLR desk rejected two years of work/efforts. What could be the possible reason? No reason was given in the desk rejection. The work is related to continual motion ge",
+      "is_policy": false
+    },
+    {
+      "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-04T05:21:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/\"> <img alt=\"Here are some pictures of a robot costume wearing hig",
       "is_policy": false
     },
     {
@@ -400,7 +445,7 @@
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-03T18:04:32+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently finished <em>The Principles of Diffusion Models</em>, and honestly I think it’s exceptional.</p> <p>The authors strike a really good balance between mathem",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently finished <em>The Principles of Diffusion Models</em>, and honestly I think it’s exceptional.</p> <p>The authors strike a really <strong>good balance betwee",
       "is_policy": false
     },
     {
@@ -464,276 +509,6 @@
       "category": "community",
       "published": "2026-10-03T11:03:24+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I’ll admit that I wasn’t super organized about registering o",
-      "is_policy": false
-    },
-    {
-      "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
-      "url": "https://arxiv.org/abs/2610.00002",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00002v1 Announce Type: new \nAbstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"subjects\" with resistance",
-      "is_policy": false
-    },
-    {
-      "title": "How Far is Adam from Natural Gradient Descent?",
-      "url": "https://arxiv.org/abs/2610.00004",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00004v1 Announce Type: new \nAbstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We stu",
-      "is_policy": false
-    },
-    {
-      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
-      "url": "https://arxiv.org/abs/2610.00009",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00009v1 Announce Type: new \nAbstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-f",
-      "is_policy": false
-    },
-    {
-      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
-      "url": "https://arxiv.org/abs/2610.00035",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00035v1 Announce Type: new \nAbstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaning",
-      "is_policy": false
-    },
-    {
-      "title": "Fast Polynomial Transcendentals for LLMs",
-      "url": "https://arxiv.org/abs/2610.00049",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00049v1 Announce Type: new \nAbstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bottlenecks move as hardw",
-      "is_policy": false
-    },
-    {
-      "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
-      "url": "https://arxiv.org/abs/2610.00050",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00050v1 Announce Type: new \nAbstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learnable univariate functio",
-      "is_policy": false
-    },
-    {
-      "title": "Format-Aware Fusion for Fast FP4 Pretraining",
-      "url": "https://arxiv.org/abs/2610.00053",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00053v1 Announce Type: new \nAbstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout construction, and saved bac",
-      "is_policy": false
-    },
-    {
-      "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
-      "url": "https://arxiv.org/abs/2610.00083",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00083v1 Announce Type: new \nAbstract: Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantification (UQ) relies on costing likelihood",
-      "is_policy": false
-    },
-    {
-      "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
-      "url": "https://arxiv.org/abs/2610.00094",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00094v1 Announce Type: new \nAbstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a memory calibrate its so",
-      "is_policy": false
-    },
-    {
-      "title": "One Mastery Threshold Does Not Fit All Knowledge Tracing Models",
-      "url": "https://arxiv.org/abs/2610.00095",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00095v1 Announce Type: new \nAbstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshold can lead to very diff",
-      "is_policy": false
-    },
-    {
-      "title": "Uncertainty-Aware Learning from Multi-Expert Interval Targets",
-      "url": "https://arxiv.org/abs/2610.00102",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00102v1 Announce Type: new \nAbstract: Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plausible interpretations of the same ob",
-      "is_policy": false
-    },
-    {
-      "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
-      "url": "https://arxiv.org/abs/2610.00118",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00118v1 Announce Type: new \nAbstract: Customer churn prediction on the IBM Telco Customer Churn benchmark (n = 7,043) routinely reports test accuracies above 95%, with the most cited publis",
-      "is_policy": false
-    },
-    {
-      "title": "Generalized Biomedicine Discovery",
-      "url": "https://arxiv.org/abs/2610.00120",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00120v1 Announce Type: new \nAbstract: In real-world clinical practice, medical images face open-world shifts: (i) long-tailed rare diseases, (ii) subtle lesions dominated by normal anatomy,",
-      "is_policy": false
-    },
-    {
-      "title": "Classification Based on Association Rules Algorithm for Breast Cancer",
-      "url": "https://arxiv.org/abs/2610.00174",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00174v1 Announce Type: new \nAbstract: Breast cancer is a significant contributor to female mortality across the world, displaying one of the highest oc currence rates among the various canc",
-      "is_policy": false
-    },
-    {
-      "title": "Four Ways to Grow a Classifier and Why One of Them Cannot Learn",
-      "url": "https://arxiv.org/abs/2610.00180",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00180v1 Announce Type: new \nAbstract: Constructive classifiers add structure while they train: a level to a tree, a unit to a hidden layer, a split at a leaf. This paper asks what each of f",
-      "is_policy": false
-    },
-    {
-      "title": "Uncertainty-Aware RL-Controlled Adaptive 3D Mapping",
-      "url": "https://arxiv.org/abs/2610.00188",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00188v1 Announce Type: new \nAbstract: Voxel-based volumetric mapping is fundamental to 3D reconstruction, yet fixed-resolution grids remain inherently inefficient - wasting memory in unifor",
-      "is_policy": false
-    },
-    {
-      "title": "Energy Time-Series Imputation with Differentially Private Diffusion Models via Clipping-Aware Objective Conditioning",
-      "url": "https://arxiv.org/abs/2610.00209",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00209v1 Announce Type: new \nAbstract: Reliable recovery of missing measurements is important for monitoring and analysis in energy time-series systems, where fine-grained measurements may c",
-      "is_policy": false
-    },
-    {
-      "title": "Useful to Whom? Sample Value Is Defined Only Relative to the Learner",
-      "url": "https://arxiv.org/abs/2610.00221",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00221v1 Announce Type: new \nAbstract: What kind of data does a model need in order to learn? Coreset selection makes this question concrete: under a budget, keep the samples most useful for",
-      "is_policy": false
-    },
-    {
-      "title": "Constant-Memory Recall: Learned Associations in a Fixed Matrix State",
-      "url": "https://arxiv.org/abs/2610.00232",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00232v1 Announce Type: new \nAbstract: Fixed-size recurrent memory limits storage growth during inference, but successful recall depends on the task and training. We study a small DeltaNet v",
-      "is_policy": false
-    },
-    {
-      "title": "How Many Categories Are Enough? Distribution-Free Certification Limits for Few-Shot Anomaly Thresholds",
-      "url": "https://arxiv.org/abs/2610.00236",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00236v1 Announce Type: new \nAbstract: Few-shot anomaly detectors are judged by ranking metrics, yet deployment requires an alarm threshold with a controlled false-alarm rate (FAR). We ask h",
-      "is_policy": false
-    },
-    {
-      "title": "Contingent Exposure Routing for Financial AI: Outage Risk and the Cost of Indivisible Decisions",
-      "url": "https://arxiv.org/abs/2610.00239",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00239v1 Announce Type: new \nAbstract: Model failover restores availability, but changes which financial institutions share decision errors. We formulate outage-contingent routing through a ",
-      "is_policy": false
-    },
-    {
-      "title": "The Null Is the Hard Part: Exact Tests for Memorization in Generative Models",
-      "url": "https://arxiv.org/abs/2610.00251",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00251v1 Announce Type: new \nAbstract: Memorization audits of generative models read similarity scores against thresholds, with no null distribution, and the conclusions they support can be ",
-      "is_policy": false
-    },
-    {
-      "title": "Sharp Oracle-Regret Tradeoffs for Projection-Free Online Convex Optimization",
-      "url": "https://arxiv.org/abs/2610.00254",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00254v1 Announce Type: new \nAbstract: We characterize the regret attainable in online convex optimization when access to the feasible set is limited to an exact linear optimization oracle. ",
-      "is_policy": false
-    },
-    {
-      "title": "Verification Pulses and the Cost of Escaping Wrong Consensus",
-      "url": "https://arxiv.org/abs/2610.00256",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00256v1 Announce Type: new \nAbstract: External verification can correct individual outputs while leaving a self-reinforcing population in the basin of a wrong consensus. We study how the ti",
-      "is_policy": false
-    },
-    {
-      "title": "Attention Manifolds: Steering or Blocking Language Models by Editing Learned B-Spline Surfaces",
-      "url": "https://arxiv.org/abs/2610.00257",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00257v1 Announce Type: new \nAbstract: In standard transformer attention, a source token sends the same value vector to every receiver. The query determines \\emph{how much} to attend but not",
-      "is_policy": false
-    },
-    {
-      "title": "Large Language Bayes Is Not Reparameterisation-Invariant",
-      "url": "https://arxiv.org/abs/2610.00265",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00265v1 Announce Type: new \nAbstract: Large Language Bayes (LLB) answers an informal modelling question by sampling candidate probabilistic programs from a language model, running approxima",
-      "is_policy": false
-    },
-    {
-      "title": "MOVE: Multimodal Open-world Verification and Expansion for Graph Learning",
-      "url": "https://arxiv.org/abs/2610.00268",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00268v1 Announce Type: new \nAbstract: Multimodal graph learning faces a fundamental challenge: new classes may emerge after deployment, while models are trained with a fixed label space. Ex",
-      "is_policy": false
-    },
-    {
-      "title": "Coupling Perception and Reasoning in Federated Multimodal Graph Foundation Models",
-      "url": "https://arxiv.org/abs/2610.00277",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00277v1 Announce Type: new \nAbstract: Federated multimodal graph foundation models (GFMs) aim to adapt pretrained multimodal models to decentralized graph data, where each client owns a pri",
-      "is_policy": false
-    },
-    {
-      "title": "Stable and Counterfactually Robust Physical World Models from Imposed Structure and Learned Physics",
-      "url": "https://arxiv.org/abs/2610.00280",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00280v1 Announce Type: new \nAbstract: A world model learns to forecast how a physical system evolves from recorded trajectories, yet the systems it imitates obey physical laws that are neit",
-      "is_policy": false
-    },
-    {
-      "title": "Partial AUC Maximization from Positive-unlabeled Data",
-      "url": "https://arxiv.org/abs/2610.00284",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-10-03T04:00:00+00:00",
-      "summary": "arXiv:2610.00284v1 Announce Type: new \nAbstract: The partial area under the receiver operating characteristic curve (pAUC) is an important performance metric for binary classification that summarizes ",
       "is_policy": false
     },
     {
@@ -1061,15 +836,6 @@
       "is_policy": false
     },
     {
-      "title": "What's up with AAAI round 2 reviews? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wv4yji/whats_up_with_aaai_round_2_reviews_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-01T17:03:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone received papers to review for round 2?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/coconut-wasabi\"> /u/coconut-w",
-      "is_policy": false
-    },
-    {
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
       "source": "OpenAI Blog",
@@ -1358,39 +1124,12 @@
       "is_policy": false
     },
     {
-      "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-30T18:31:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/\"> <img alt=\"Qwen-family LLMs are quietly becoming the backbone of",
-      "is_policy": false
-    },
-    {
-      "title": "Tokenization: A Survey for Modern NLP [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-30T18:13:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tokenization is a wildly understudied area of language modeling despite it having effects across all of NLP. Over the past ~8 months, 32 (!) tokenizer researchers put",
-      "is_policy": false
-    },
-    {
       "title": "For those who just submit to workshop [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-09-30T18:08:26+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>More recently, I am seeing a lot of posts on the sub regarding the workshop acceptance, with lack of funds to attend the conference. I unfortunately want to just say ",
-      "is_policy": false
-    },
-    {
-      "title": "Multi scan radar object classification on RadarScenes [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wubuz7/multi_scan_radar_object_classification_on/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-30T17:55:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wubuz7/multi_scan_radar_object_classification_on/\"> <img alt=\"Multi scan radar object classification on RadarScenes [P]\" sr",
       "is_policy": false
     },
     {
@@ -1445,15 +1184,6 @@
       "category": "news",
       "published": "2026-09-30T10:00:00+00:00",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "is_policy": false
-    },
-    {
-      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-09-30T07:28:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/\"> <img alt=\"Concurrent Image Understanding and Generation: Self-Corre",
       "is_policy": false
     },
     {
