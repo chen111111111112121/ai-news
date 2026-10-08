@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:26:15.773030+00:00",
+  "generated_at": "2026-10-08T03:35:42.178043+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-07T22:26:15+00:00",
+      "published": "2026-10-08T03:35:42+00:00",
       "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-07T22:26:15+00:00",
+      "published": "2026-10-08T03:35:42+00:00",
       "summary": "Production-grade engineering skills for AI coding agents.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-07T22:26:15+00:00",
+      "published": "2026-10-08T03:35:42+00:00",
       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/manaflow-ai/cmux",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-07T22:26:15+00:00",
+      "published": "2026-10-08T03:35:42+00:00",
       "summary": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "is_policy": false
     },
@@ -48,98 +48,287 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-07T22:26:15+00:00",
+      "published": "2026-10-08T03:35:42+00:00",
       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "is_policy": false
     },
     {
-      "title": "Anthropic 最快、最便宜模型：Claude Haiku 5.5 登场，运行成本较 4.5 低约 75%",
-      "url": "https://www.ithome.com/1/010/333.htm",
+      "title": "Meta 展示 CRAM 内存压缩方案：只读性能接近原生 DRAM，探索替代 ZRAM",
+      "url": "https://www.ithome.com/1/010/440.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:26:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，Anthropic 昨日（10 月 7 日）发布博文，宣布推出 Claude Haiku 5.5 模型，称其为目前速度最快、最便宜、功能最强的 Haiku 系列小型模型。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploa",
+      "published": "2026-10-08T03:25:50+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，Meta 工程师在 10 月 5 日于捷克布拉格举行的 Linux Plumbers Conference 2026（LPC 2026）上展示了名为 CRAM（Compressed RAM）的实验性内存压缩方案。</p><p>该方案的目标并非简单替代 ZRAM 或 zswap，而是让压缩后的数据继续以“内存”的形式存在，从而避免传统 Swap 路径中的软件开销",
       "is_policy": false
     },
     {
-      "title": "微软 Win10/Win11 新版 Outlook 本月将上线自动拼写检查，发送前自动校对",
-      "url": "https://www.ithome.com/1/010/332.htm",
+      "title": "华为推出面向 CXL 3.0 与统一总线的跨节点内存文件系统 XMFS，可通过 POSIX 接口访问跨节点共享内存",
+      "url": "https://www.ithome.com/1/010/424.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:26:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，科技媒体 NeoWin 昨日（10 月 7 日）发布博文，报道称微软计划 10 月开始，<strong>面向新版 Outlook（Windows 版与网页版）推出自动拼写检查功能，用户可在发送前自动完成拼写校对。</strong></p><p>IT之家援引博文介绍，用户可在设置中开启“发送前自动检查拼写”，启用后系统将在每次发送邮件前自动执行拼写校对。该功能依",
+      "published": "2026-10-08T03:19:02+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，在 10 月 5 日于捷克布拉格举行的 Linux 管道技术大会（LPC 2026）上，华为工程师展示了一项名为 XMFS 的实验性文件系统。</p><p>XMFS 全称“eXpress Memory FS（极速内存文件系统）”，是面向搭载 CXL 3.0 或华为统一总线（Unified Bus）的现代 Linux 服务器设计的专用文件系统。其核心设计目标，是",
       "is_policy": false
     },
     {
-      "title": "Rust 实现渐进渲染：谷歌官宣 Chrome 155 浏览器支持解码 JPEG XL 图片格式",
-      "url": "https://www.ithome.com/1/010/331.htm",
+      "title": "雷蛇推出《宝可梦》联名路卡利欧款旋风黑鲨 V3 X 极速版无线耳麦",
+      "url": "https://www.ithome.com/1/010/423.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:20:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，谷歌开发者博客于 10 月 6 日发布博文，<strong>宣布在谷歌 Chrome 155 浏览器中，解码支持 JPEG XL (.jxl) 图片格式。</strong></p><p>官方介绍称 JPEG XL 是一种新一代图片格式，旨在满足现代 Web 开发者和摄影师的需求。与 JPEG 相比，它可提供 30-50% 的压缩率，支持无损压缩、内置 HDR ",
+      "published": "2026-10-08T03:19:00+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，Razer（雷蛇）当地时间 7 日宣布扩展其《宝可梦》产品联名阵容，推出路卡利欧 (Lucario) 款旋风黑鲨 V3 X 极速版 (BlackShark V3 X HyperSpeed) 无线电竞耳麦。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ith",
       "is_policy": false
     },
     {
-      "title": "GitHub Copilot 不再纯云端 AI 模型：Surface Laptop Ultra 本地推理吞吐量最高每秒 63 词元",
-      "url": "https://www.ithome.com/1/010/330.htm",
+      "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 发布定档：10 月 13 日见",
+      "url": "https://www.ithome.com/1/010/416.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:17:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软宣布 GitHub Copilot 将在本月底前支持本地 AI 模型推理，<strong>开发者可在云端模型与设备端模型之间自动或手动切换。</strong></p><p>GitHub Copilot 是微软推出的 AI 编程助手，可集成于 Vi",
+      "published": "2026-10-08T03:06:33+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，阶跃终端官微今天（8 日）上午宣布，阶跃终端首款大模型原生智能体手机 STEPX Neo 将于 10 月 13 日 19 时正式发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/caa",
       "is_policy": false
     },
     {
-      "title": "10 年内预估仅 5%：诺奖经济学家背书，AI 不会大规模抢走你的饭碗",
-      "url": "https://www.ithome.com/1/010/329.htm",
+      "title": "荣耀 CEO 李健：Magic9 系列国庆 7 天稳居安卓旗舰第一",
+      "url": "https://www.ithome.com/1/010/415.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:16:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软 AI 首席执行官穆斯塔法 · 苏莱曼（Mustafa Suleyman）于 10 月 6 日在 X 平台发布推文，援引诺贝尔经济学奖得主达龙 · 阿西莫格鲁（Daron Acemoglu）的预测称，<strong>未来 10 年内仅有约 5% 的人类工作会被人工智能取代。</strong></p><p style=\"text-align: center;",
+      "published": "2026-10-08T03:04:43+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，荣耀终端股份有限公司 CEO 李健今日发文，宣布 Magic9 系列在国庆 7 天时间，<strong>稳居安卓旗舰第一</strong>。</p><p>荣耀全球首席营销官关海涛则表示：国庆期间每天都是安卓旗舰第一；<strong>另外确实是绝对式领先，大概 2 倍样子</strong>；很多版本确实持续缺货。</p><p style=\"text-align:",
       "is_policy": false
     },
     {
-      "title": "戴尔推出 XPS 16 Creator Edition 笔记本：16 英寸触控屏、18 核 RTX Spark",
-      "url": "https://www.ithome.com/1/010/328.htm",
+      "title": "山灵推出 SM1.3R HD 流媒体播放一体机：升级 5.98 英寸 2K 屏，9698 元",
+      "url": "https://www.ithome.com/1/010/414.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:11:16+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，戴尔今天（10 月 8 日）在 X 平台发布博文，宣布推出 XPS 16 Creator Edition 笔记本，<strong>配备英伟达 RTX Spark 平台芯片，32GB 内存 +512 GB 尺寸版本售价为 3,799.99 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 25,505 元人民币）</s",
+      "published": "2026-10-08T03:02:53+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，山灵官方宣布 SM1.3R HD 今日正式开售，零售价 9698 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/7fccdaae-29b6-44ed-9d55-ff5516f71c1",
       "is_policy": false
     },
     {
-      "title": "周活超 12 亿用户：OpenAI ChatGPT 升级 GPT-6 模型，互动式 AI 教你打麻将",
-      "url": "https://www.ithome.com/1/010/327.htm",
+      "title": "ROG 预热《影之刃零》联名限定装备，包含 NUC、键鼠、耳机、显示器、机箱",
+      "url": "https://www.ithome.com/1/010/412.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:10:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，OpenAI 今天（10 月 8 日）在 X 平台发布推文，宣布面向所有 ChatGPT 用户，<strong>推出 GPT-6 系列模型以及智能（Intelligent UI）。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
+      "published": "2026-10-08T02:53:34+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，华硕 (ASUS) 玩家国度 (ROG) 近日对其《影之刃零》联名限定装备阵容进行了预热，<strong>这些产品将在 10 月 29 日发售当天正式全面揭晓</strong>。</p><p>IT之家注意到，ROG 计划在全球市场推出 5 款《影之刃零》联名产品，包括迷你主机、鼠标、耳机、键盘、显示器；而联名的 Cronox（幻世神，GR801）机箱可能是中国",
       "is_policy": false
     },
     {
-      "title": "堵截恶意安装包攻击，微软 Win10/Win11 新版 Outlook 下月起默认屏蔽 MSIX 附件",
-      "url": "https://www.ithome.com/1/010/326.htm",
+      "title": "2027 年考研网上预报名 10 月 9 日启动：报名确认首次一体化，学信网 App 在线拍照",
+      "url": "https://www.ithome.com/1/010/410.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T22:08:08+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软在 Microsoft 365 消息中心发布公告，宣布将于 2026 年 11 月开始，<strong>Windows 和网页版 Outlook 将默认屏蔽 .msix 与 .msixbundle 附件。</strong></p><p>根据公告内容，Windows 新版 Outlook 客户端以及网页版 Outlook 自 2026 年 11 月初起，.m",
+      "published": "2026-10-08T02:45:51+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，2027 年研考生注意，网上预报名明天将启动。</p><p>根据《2027 年全国硕士研究生招生工作管理规定》，2027 年全国硕士研究生招生考试报名时间为 <strong>2026 年 10 月 15 日至 10 月 24 日</strong>（预报名时间为 <strong>2026 年 10 月 9 日至 10 月 12 日</strong>，相关工作安排",
       "is_policy": false
     },
     {
-      "title": "微软发布 VS Code v1.141：清理“僵尸”Agent 会话等",
-      "url": "https://www.ithome.com/1/010/325.htm",
+      "title": "2010 年经典手机 HTC HD2 成功运行苹果 iOS 7 系统，相关代码已开源",
+      "url": "https://www.ithome.com/1/010/409.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T21:56:07+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软昨日（10 月 7 日）更新推出 Visual Studio Code 1.141，本次更新聚焦 AI 智能体（Agent）工作流管理，<strong>重点改进会话存储清理、跨平台沙盒安全、多会话并排布局，以及多 GitHub Enterprise 实例登录支持。</strong></p><p style=\"text-align: center;\"><im",
+      "published": "2026-10-08T02:43:10+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，开发者 j0sh1x 昨日公布了一项复古硬件移植项目，展示了他在 HTC HD2 上成功运行 iOS 7 的成果，并公开了相关 XNU 内核及硬件支持代码。公开信息显示，该项目目前已经能够让 iOS 用户态组件在 HTC HD2 上运行，触摸屏也已实现工作。</p><p style=\"text-align: center;\"><img class=\"no-al",
       "is_policy": false
     },
     {
-      "title": "微软 10 月 Win11 累积更新前瞻：改善文件管理器、支持最大化打开应用等",
-      "url": "https://www.ithome.com/1/010/324.htm",
+      "title": "2026 年国庆假期七天铁路发送旅客超 1.52 亿人次，多项指标创历史新高",
+      "url": "https://www.ithome.com/1/010/408.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-07T21:54:07+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，科技媒体 Windows Central 昨日（10 月 7 日）发布博文，前瞻了适用于 Windows 11 的 10 月累积更新（将于 10 月 13 日发布），盘点了值得关注的 7 项新功能 / 新特性。</p><p>适用版本方面，在 10 月补丁星期二活动日（10 月 13 日）中，<strong>微软计划面向 Windows 11 推送累积更新，覆盖",
+      "published": "2026-10-08T02:41:48+00:00",
+      "summary": "<p class=\"text_align-justify\">IT之家 10 月 8 日消息，据央视新闻报道，2026 年国庆假期结束，来自国铁集团的数据显示，<span class=\"color-00269a\"><strong>七天假期，全国铁路累计发送旅客超 1.52 亿人次，多项指标创历史新高</strong></span>。今年国庆假期，全国大部分地区天气晴好，旅游、探亲、休闲等出行需求旺盛",
+      "is_policy": false
+    },
+    {
+      "title": "蔚来乐道第 20 万台交付达成，L90 交付给知名主持人耿晨晨（绿泡泡）一家",
+      "url": "https://www.ithome.com/1/010/404.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:36:43+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，今天（8 日）上午，蔚来乐道汽车官微宣布：乐道汽车第 20 万台车辆 —— 一台乐道 L90 交付给「全国五好家庭」、知名主持人耿晨晨一家。自 2024 年首台乐道 L60 交付以来，<strong>乐道用时两年，达成 20 万台交付里程碑</strong>，速度位列新势力品牌 Top 3，领先行业。</p><p>IT之家注：耿晨晨 2003 年起开始主持中央",
+      "is_policy": false
+    },
+    {
+      "title": "XMG 推出近 15 年首款 18\" 级笔记本电脑 PRO 18 / PRO 18 Value Edition",
+      "url": "https://www.ithome.com/1/010/403.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:34:33+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，PC 品牌 XMG 当地时间本月 6 日正式推出了<strong>其近 15 年来的首款 18 英寸级笔记本电脑</strong>：PRO 18（2026 年中期）标准版及其 Value Edition (VE) 低配。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:/",
+      "is_policy": false
+    },
+    {
+      "title": "《战地 6》领衔加入微软 10 月 Xbox Game Pass 游戏库，《光与影：33 号远征队》10 月 15 日离库",
+      "url": "https://www.ithome.com/1/010/400.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:22:37+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，微软公布了 2026 年 10 月第一波 Game Pass 新增游戏阵容，共计 9 款新作将在 10 月 8 日至 16 日期间陆续入库，其中 7 款为首发加入。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
+      "is_policy": false
+    },
+    {
+      "title": "国产动画电影《三国第一部：争洛阳》重新定档 10 月 17 日：豆瓣评分 8.0，曾上映 15 天撤档",
+      "url": "https://www.ithome.com/1/010/396.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:18:02+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，由《长安三万里》原班人马打造，追光动画“三国”系列首作《三国第一部：争洛阳》 宣布定档 <strong>10 月 17 日</strong>上映。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
+      "is_policy": false
+    },
+    {
+      "title": "惠普战 66 Air 商务轻薄本上架：\"Wildcat Lake\" + OLED，到手 5099.15 元起",
+      "url": "https://www.ithome.com/1/010/395.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:16:41+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，HP（惠普）现已在电商平台上架搭载战 66 Air (ZHAN66 14 Air G2i) 商务轻薄笔记本电脑。其基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，配备 OLED 屏幕。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
+      "is_policy": false
+    },
+    {
+      "title": "警告“AI 或灭绝人类”的前 Anthropic 研究员：某种意义上，我曾研究让 AI 取代自己",
+      "url": "https://www.ithome.com/1/010/394.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:15:30+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，据《商业内幕》报道，曾在 Anthropic 和 OpenAI 任职的研究员雅各布 · 考克森警告，AI 很快就能自主开展研究，人类可能完全无法掌控此后的发展。</p><p>27 岁的考克森曾在 Anthropic 从事模型能力研究，上个月公开宣布辞职。当地时间 5 日，他向纽约市议员发出警告，称 AI 可能威胁人类生存。</p><p>考克森在纽约市议会有关 ",
+      "is_policy": false
+    },
+    {
+      "title": "沃尔达鱼缸智能插排遭黑客攻击：大量养鱼设备异常断电，官方通告致歉",
+      "url": "https://www.ithome.com/1/010/393.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:06:55+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，国庆期间有多人在网上发帖，沃尔达科技的鱼缸智能插排出现故障，<strong>自动关停设备</strong>，多个插孔显示关闭状态，也无法通过小程序重新打开。还有人晒出鱼成批死亡的视频。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/ne",
+      "is_policy": false
+    },
+    {
+      "title": "宝马 iX4 正式发布：新世代首款纯电轿跑 SUV，WLTP 续航最高 828 公里",
+      "url": "https://www.ithome.com/1/010/392.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:06:02+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，宝马今日正式发布了基于新世代（Neue Klasse）平台打造的 iX4，这是该平台继 iX3 之后的又一款纯电 SUV，也是 X4 车系首次以纯电形式回归。</p><p>新车采用轿跑式溜背造型，风阻系数降至 0.23，略优于 iX3 的 0.24。据 Electrive 报道，iX4 的起售价为 70,900 欧元<span class=\"exch-mone",
+      "is_policy": false
+    },
+    {
+      "title": "小鹏集团 Robotaxi 定名小鹏悠游 XPENG YOYO，打车小程序同步上线",
+      "url": "https://www.ithome.com/1/010/391.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T02:03:08+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，今天（8 日）上午，小鹏汽车官微宣布：小鹏集团 Robotaxi 正式定名“小鹏悠游 XPENG YOYO”。根据介绍，中文名“小鹏悠游”，是悠然于心、畅游于行的出行体验；英文名“XPENG YOYO”，全世界都轻松好读，是 Ta 走向世界的第一步。</p><p>“小鹏 YOYO 自动驾驶”小程序也同步迎来上线，用户内测名额陆续开放。据悉，用户可提前通过小程序",
+      "is_policy": false
+    },
+    {
+      "title": "利民推出 PA 120H-T 系列处理器散热器：双塔双扇，六热管直触",
+      "url": "https://www.ithome.com/1/010/389.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:57:18+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，Thermalright（利民 / 索摩乐）近日推出了 Peerless Assassin (PA) 120H-T 系列处理器风冷散热器。该家族包含黑色无光 / 黑色 ARGB / 全黑化 / 全白化 / 白化 ARGB 等一系列外观变体。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" sr",
+      "is_policy": false
+    },
+    {
+      "title": "宝马 iX3 M60 xDrive 新世代纯电 SUV 发布：612 马力 3.9 秒破百，WLTP 续航 754 公里",
+      "url": "https://www.ithome.com/1/010/388.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:51:28+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，宝马今日正式发布了基于新世代（Neue Klasse）平台打造的 iX3 旗舰性能版本 M60 xDrive。</p><p>据宝马介绍，这是新世代纯电 SUV 迄今为止动力最强的版本，前后轴各搭载一台电机，系统最大输出功率 450 千瓦（612 马力），峰值扭矩 875 牛 · 米，百公里加速仅需 3.9 秒，最高时速 240 km/h。</p><p>新车将于",
+      "is_policy": false
+    },
+    {
+      "title": "黄仁勋焦虑 AI 需求降温，曝英伟达拟再投 10 亿美元加码人形机器人企业 Figure",
+      "url": "https://www.ithome.com/1/010/387.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:49:20+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，当地时间 7 日，据 The Information 援引一名知情人士消息称，英伟达曾讨论向人形机器人制造商 Figure <strong>再投资 10 亿美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 67.12 亿元人民币）</span>，此前尚无报道披露这笔投资计划。Figure 寻求更多融资",
+      "is_policy": false
+    },
+    {
+      "title": "AMD 向 \"RDNA 3/4\" 独立显卡推送支持 ROCm 10.1 的驱动程序",
+      "url": "https://www.ithome.com/1/010/386.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:42:42+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，AMD 当地时间本月 5 日向 Radeon RX 9000 系列、Radeon RX 7900 / 7800 / 7700 / 7600 系列、Radeon AI PRO R9700 显卡提供了新版 AMD Software: Adrenalin Edition。</p><p style=\"text-align: center;\"><img class=\"n",
+      "is_policy": false
+    },
+    {
+      "title": "HPE 发布 4 款基于 AMD EPYC 9006 处理器的 ProLiant Gen13 服务器",
+      "url": "https://www.ithome.com/1/010/385.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:31:01+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，HPE（慧与）当地时间昨日发布了 4 款基于 AMD EPYC（霄龙）9006 服务器 CPU 处理器的 ProLiant Gen13 服务器。</p><p>IT之家了解到，这些机型支持自动 SED 加密、<span class=\"nowrap\">多人</span>授权许可，还增强了后量子密码学 (PQC) 安全性。</p><p style=\"text-ali",
+      "is_policy": false
+    },
+    {
+      "title": "加州非营利组织新报告：ChatGPT 青少年模式并不适合青少年",
+      "url": "https://www.ithome.com/1/010/383.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:21:05+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 10 月 8 日消息，据彭博社 7 日报道，加州非营利组织 Common Sense Media 发布的新报告认为，OpenAI 的 ChatGPT 青少年模式对未成年人而言风险过高。</p><p style=\"text-align: start;\">IT之家注：13 至 17 岁用户默认使用青少年模式与 ChatGPT 对话。",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 App Store 在中国大陆市场五年交易额增长超一倍，2025 年达 4 万亿元人民币",
+      "url": "https://www.ithome.com/1/010/382.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:19:46+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，苹果官方今日发布了一项由上海财经大学商学院副教授居恒和安诺析思国际咨询公司经济学家 Markus von Wartburg 博士合作撰写的新研究报告。</p><p>该研究发现，2020 年至 2025 年，App Store 生态系统在中国（在本报告中，“中国”指中国大陆市场）的<strong>规模增长超过一倍</strong>，助力本地开发者获取成功。</p",
+      "is_policy": false
+    },
+    {
+      "title": "亚马逊 Ring 发布支持手拧应急发电的智能门锁",
+      "url": "https://www.ithome.com/1/010/381.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:18:19+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，Amazon（亚马逊）旗下智能家居品牌 Ring 当地时间 7 日发布了其智能门锁产品。<strong>这一型号在内置电池的同时还配备应急发电的手拧旋钮</strong>，避免了电池没电导致无法进门的尴尬问题。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪日本累计交付超 1 万台，副总裁刘学亮亲自交车",
+      "url": "https://www.ithome.com/1/010/379.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:15:24+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，比亚迪日本公司于 10 月 4 日在神奈川县平塚市的 BYD 湘南店举行交付仪式，宣布其在日本市场累计交付量突破 1 万台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/6607ee52",
+      "is_policy": false
+    },
+    {
+      "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
+      "url": "https://www.ithome.com/1/010/373.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:09:51+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，据彭博社今天（8 日）早间报道，美国国家情报总监、新科“白宫 AI 沙皇”杰伊 · 克莱顿接下了另一项职务：领导特朗普口中所称的“超级智能工作组”。履新后的第一站是硅谷，他将与 AI 行业多名重量级高管见面。</p><p>据知情人士透露，克莱顿此行将会见<strong>英伟达的黄仁勋、OpenAI 的奥尔特曼、Anthropic 的达里奥 · 阿莫代伊和 Me",
+      "is_policy": false
+    },
+    {
+      "title": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元",
+      "url": "https://www.ithome.com/1/010/378.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-08T01:06:38+00:00",
+      "summary": "<p>IT之家 10 月 8 日消息，美国司法部当地时间本月 6 日发布公告，表示该国北卡罗来纳州男子 Michael Smith 因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 5,370 万元人民币）</span>违法收入。</p><p>Michael Smith 在 2017~20",
+      "is_policy": false
+    },
+    {
+      "title": "stuck on finding a approach for app detection ( making a transformer modal out of unlabeled network data) [R] [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x08xbn/stuck_on_finding_a_approach_for_app_detection/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-07T21:29:05+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As the title suggests I'm currently trying to make a modal to identify which app is being used. The thing is I don't have labelled data and generating it is out of qu",
       "is_policy": false
     },
     {
@@ -170,30 +359,12 @@
       "is_policy": false
     },
     {
-      "title": "微软发布 Win11 Beta / Experimental 多版本预览更新：全新搜索体验、电池状态小组件",
-      "url": "https://www.ithome.com/1/010/317.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T19:33:30+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软昨天（10 月 7 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送包含多个不同分支版本：</p><ul class=\" list-paddingleft-2\"><li><p>Beta 通道：Build 26220.9606（26H2）",
-      "is_policy": false
-    },
-    {
       "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-10-07T19:10:42+00:00",
       "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gi",
-      "is_policy": false
-    },
-    {
-      "title": "微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB-C 接口",
-      "url": "https://www.ithome.com/1/010/323.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T19:00:29+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacBook Pro 竞争。</p><p>IT之家援引博文介绍，为了让 Surface Laptop Ultra 的外观设计能与 MacBook 一较高下，微软",
       "is_policy": false
     },
     {
@@ -206,15 +377,6 @@
       "is_policy": false
     },
     {
-      "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
-      "url": "https://www.ithome.com/1/010/321.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T18:38:21+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软今天召开 Surface 新品发布会，现场展示 Autopilot 未来方向。根据其设想，这款智能体将让 Windows AI 进一步实现自主化执行任务。</p><p>在微软的设想下，Autopilot 不再只是根据用户指令处理信息，而是能够理解目标、规划步骤，调用 Windows 系统及各种应用完成任务。用户可以通过自然语言描述需求，<strong>AI",
-      "is_policy": false
-    },
-    {
       "title": "Neurips camera ready Submission option [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/",
       "source": "r/MachineLearning",
@@ -224,39 +386,12 @@
       "is_policy": false
     },
     {
-      "title": "微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元",
-      "url": "https://www.ithome.com/1/010/320.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T18:33:19+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软中国商城今天（10 月 8 日）上架 Surface Laptop Ultra，<strong>共有亮铂金和夜幕色两种颜色，起售价为 21,988 元，128GB 内存顶配售价为 48,388 元。</strong></p><p>官方介绍如下：</p><blockquote><p>更强大的 Surface 笔记本电脑。Surface Laptop Ultr",
-      "is_policy": false
-    },
-    {
       "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
       "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-07T18:30:57+00:00",
       "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "is_policy": false
-    },
-    {
-      "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
-      "url": "https://www.ithome.com/1/010/319.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T18:28:39+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英伟达 CEO 黄仁勋后半段压轴登场。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
-      "is_policy": false
-    },
-    {
-      "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
-      "url": "https://www.ithome.com/1/010/318.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T18:22:04+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，黄仁勋表示英伟达正推动一种以本地设备为核心的 AI 计算模式。</p><p>黄仁勋称：“<strong>这是全球唯一一台能够在设备端原生运行一切应用的电脑</strong>。”他同时表示，几乎所有笔记本电脑、台式机和工作站厂商都已加入英伟达的合作阵营",
       "is_policy": false
     },
     {
@@ -278,24 +413,6 @@
       "is_policy": false
     },
     {
-      "title": "黄仁勋：英伟达当初正是因 Windows 而诞生",
-      "url": "https://www.ithome.com/1/010/315.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T18:11:32+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示：<strong>“英伟达当初正是因 Windows 而诞生”。</strong></p><p>在本次活动中，微软首席执行官萨蒂亚 · 纳德拉、英伟达首席执行官黄仁勋和白宫前人工智能高级政策顾问斯里拉姆 · 克里希南三人展开",
-      "is_policy": true
-    },
-    {
-      "title": "《使命召唤》系列游戏明年登陆 RTX Spark 平台",
-      "url": "https://www.ithome.com/1/010/314.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T18:10:13+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，推出 Surface Laptop Ultra 笔记本新品。虽然这场活动是以商务应用、AI 为主，但微软并没有忘记提起游戏。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
-      "is_policy": false
-    },
-    {
       "title": "Microsoft is giving Copilot more control over Windows and your files",
       "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
       "source": "The Verge AI",
@@ -314,84 +431,12 @@
       "is_policy": false
     },
     {
-      "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
-      "url": "https://www.ithome.com/1/010/313.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:56:19+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，英伟达发布 DGX Station for Windows，<strong>定位为桌面级 AI 超级计算机，旨在让开发者、研究人员和数据科学团队在本地运行大规模 AI 模型，将于 2026 年第四季度上市。</strong></p><p style=",
-      "is_policy": false
-    },
-    {
-      "title": "2599 美元 / 5999 美元：微软 Surface Laptop Ultra 笔记本、Surface RTX Spark Dev Box 开发机价格公布",
-      "url": "https://www.ithome.com/1/010/312.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:52:04+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软今日在 Surface 新品发布会公布 Surface Laptop Ultra 笔记本的售价，<strong>新品定价 2,599 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 17,444 元人民币）</span></strong>，即日起开订。</p><p style=\"text-align: cente",
-      "is_policy": false
-    },
-    {
-      "title": "微软展示全新 Win11 搜索体验：从查找文件转向理解用户意图",
-      "url": "https://www.ithome.com/1/010/311.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:47:26+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软展示全新的 Windows 搜索体验，计划借助 AI 让用户以更自然的方式查找信息、文件和应用。</p><p>与传统依赖关键词匹配的搜索方式不同，新体验更强调理解用户意图。用户可以用自然语言描述想要查找的内容，Windows 则尝试结合文件内容、",
-      "is_policy": false
-    },
-    {
       "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
       "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-10-07T17:46:44+00:00",
       "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last",
-      "is_policy": false
-    },
-    {
-      "title": "微软：Meta Muse 智能体将登陆 Windows 平台",
-      "url": "https://www.ithome.com/1/010/310.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:45:35+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，微软今天在 Surface 新品发布会展示了多款第三方智能体工具。其中，Perplexity 的“便携电脑”工具能够端侧执行多种复杂 AI 任务，无需消耗 Perplexity 云积分。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/n",
-      "is_policy": false
-    },
-    {
-      "title": "微软提出“混合智能”新路线，协同本地 / 云端 AI 灵活处理 Win11 用户任务",
-      "url": "https://www.ithome.com/1/010/309.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:42:01+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，微软提出“混合智能”（hybrid intelligence）理念，强调通过混合架构，结合云端 AI 与本地计算能力，<strong>在 Windows 11 系统上实际处理用户任务。</strong></p><p>IT之家援引博文介绍，Window",
-      "is_policy": false
-    },
-    {
-      "title": "MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数",
-      "url": "https://www.ithome.com/1/010/308.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:29:16+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的活动中，微软表示正计划将 MAI Code 1.1 Flash 模型（包含 1300 亿个参数）引入 Windows 11 设备。</p><p>作为 6 月发布的 MAI-Code-1-Flash 的升级版，MAI Code 1.1 Flash 现已集成到 G",
-      "is_policy": false
-    },
-    {
-      "title": "微软重点介绍 MXC SDK，为 AI 智能体提供受控执行环境",
-      "url": "https://www.ithome.com/1/010/307.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:24:13+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，据科技媒体 The Verge 报道，微软今天在 Windows 与 Surface 发布会重点介绍 MXC（ Microsoft Execution Containers） SDK，将其称为 Windows AI 战略的重要组成部分。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=",
-      "is_policy": false
-    },
-    {
-      "title": "纳德拉：Agent 365、Microsoft IQ 和 Copilot 将成为微软 AI 布局的关键支点",
-      "url": "https://www.ithome.com/1/010/306.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T17:16:03+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办发布会上，微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示，<strong>微软正尝试将“前沿生态系统”的三大理念带入 Windows。</strong></p><p>这三大支柱分别是信任、智能，以及“融入人类抱负的 AI”（AI in the",
       "is_policy": false
     },
     {
@@ -404,15 +449,6 @@
       "is_policy": false
     },
     {
-      "title": "今日寒露：天҈要҈凉҈了҈",
-      "url": "https://www.ithome.com/1/010/305.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T16:00:10+00:00",
-      "summary": "<p>IT之家 10 月 8 日消息，今天是二十四节气中的寒露，<strong>寒露通常会在每年的 10 月 7 日至 10 月 9 日这几天</strong>，寒露的到来表示秋季的正式结束。寒露之后，气候从凉爽到寒冷，此节气中，南岭及以北的广大地区均已进入秋季，目前，北方大部分地区都已经入秋，东北、西北、西南等地已经进入冬季。</p><p>此时节，荷败蝉噤，桐残叶黄，千里霜铺，鸿雁南归，呈现出一",
-      "is_policy": false
-    },
-    {
       "title": "ChatGPT is getting college planning tools",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
       "source": "The Verge AI",
@@ -422,39 +458,12 @@
       "is_policy": false
     },
     {
-      "title": "余承东称华为自 2019 年以来为生存克服了许多困难，基本摆脱美国技术依赖",
-      "url": "https://www.ithome.com/1/010/304.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T15:37:27+00:00",
-      "summary": "<p>IT之家 10 月 7 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上透露，为了生存，华为自 2019 年以来克服了许多困难 —— 依靠自主技术和能力，与国内供应链合作制造先进芯片、设计自己的操作系统、自主开发基础工具和软件，逐步建立起国内供应链。</p><p style=\"text-align: center;\"><img c",
-      "is_policy": false
-    },
-    {
       "title": "Muse launches on the iPad",
       "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-10-07T15:37:23+00:00",
       "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version o",
-      "is_policy": false
-    },
-    {
-      "title": "传三星电子 12Hi HBM4E 内存已通过英伟达等主要客户质量验证测试",
-      "url": "https://www.ithome.com/1/010/303.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T15:35:14+00:00",
-      "summary": "<p>IT之家 10 月 7 日消息，《韩国经济日报》当地时间今日报道称，三星电子存储器业务的 12 层堆叠 HBM4E 内存已于 9 月末通过 NVIDIA（英伟达）和主要超大规模数据中心企业的质量验证测试，<strong>各客户的供货量、合同规模、出货时间尚未敲定</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-im",
-      "is_policy": false
-    },
-    {
-      "title": "索尼两款新设备获 Wi-Fi 联盟认证，预计为新款 PS Portal 串流掌机",
-      "url": "https://www.ithome.com/1/010/302.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-07T15:27:28+00:00",
-      "summary": "<p>IT之家 10 月 7 日消息，索尼两款新设备近日在 Wi-Fi 联盟完成认证，型号分别为 CFI-Y2000 和 CFI-Y2105，这些机器很可能是 PlayStation Portal 串流掌机（IT之家注：CFI-Y1001）的新款机型。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://im",
       "is_policy": false
     },
     {
@@ -521,21 +530,21 @@
       "is_policy": false
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-07T14:00:00+00:00",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "is_policy": false
-    },
-    {
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
       "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-07T14:00:00+00:00",
       "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist",
+      "is_policy": false
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-07T14:00:00+00:00",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
       "is_policy": false
     },
     {
@@ -1754,6 +1763,141 @@
       "is_policy": false
     },
     {
+      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+      "url": "https://huggingface.co/papers/2610.10539",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o",
+      "is_policy": false
+    },
+    {
+      "title": "SWE-Game: Can Coding Agents Build the Games We Want?",
+      "url": "https://huggingface.co/papers/2609.33678",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "We introduce SWE-Game, a benchmark of 247 tasks grounded in 41 executable reference Godot games spanning 13 gameplay categories in 2D and 3D. Five task types cover development from a brief, implementa",
+      "is_policy": false
+    },
+    {
+      "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
+      "url": "https://huggingface.co/papers/2610.10444",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can search and read",
+      "is_policy": false
+    },
+    {
+      "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+      "url": "https://huggingface.co/papers/2610.10409",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "General-purpose agents increasingly write code, use tools, and complete complex digital tasks, raising the question of how far these capabilities carry into the physical world. To investigate this, we",
+      "is_policy": false
+    },
+    {
+      "title": "RoboQuest: Generalist Physical Agents that Search, Inspect and Test",
+      "url": "https://huggingface.co/papers/2610.10388",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Recent advances in multimodal foundation models have made them capable generalist physical agents for a range of manipulation tasks. However, successful operation in an unfamiliar environment may requ",
+      "is_policy": false
+    },
+    {
+      "title": "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation",
+      "url": "https://huggingface.co/papers/2610.09823",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Dense visual text requires image generators to reproduce long strings across multiple regions with correct placement and legibility. As short-string rendering improves, evaluation must test sustained ",
+      "is_policy": false
+    },
+    {
+      "title": "GRACE: Generation-aware latent compression for efficient video generation",
+      "url": "https://huggingface.co/papers/2610.10524",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challe",
+      "is_policy": false
+    },
+    {
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "url": "https://huggingface.co/papers/2610.10528",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con",
+      "is_policy": false
+    },
+    {
+      "title": "Inverting Multi-Vector Visual Document Indices",
+      "url": "https://huggingface.co/papers/2610.09920",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Prevailing multi-vector visual document retrievers store each page as about a thousand patch vectors, often in vector databases run by a third party. Since no one can read a page from its vectors, thi",
+      "is_policy": false
+    },
+    {
+      "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2610.10429",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Autoregressive video generation requires denoising the current frames while writing their key-value representations as context for future predictions. However, these two roles typically share paramete",
+      "is_policy": false
+    },
+    {
+      "title": "AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation",
+      "url": "https://huggingface.co/papers/2610.10047",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Product-centric advertisement video generation aims to create promotional videos that preserve fine-grained product identity while presenting selling points through coherent multi-shot narratives. How",
+      "is_policy": false
+    },
+    {
+      "title": "Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position",
+      "url": "https://huggingface.co/papers/2610.10114",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "The architectural design of Large Language Models (LLMs) is shifting from traditional full-attention-only models to hybrid models, which combine different attention modules to improve long-context eff",
+      "is_policy": false
+    },
+    {
+      "title": "WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites",
+      "url": "https://huggingface.co/papers/2610.03036",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "We present WebFovea, a vision-based web agent that placed 2nd in the WebRetriever Challenge 2026 with a final score of 57.0 out of 100. The challenge evaluates agents end to end on Protocol III of the",
+      "is_policy": false
+    },
+    {
+      "title": "RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning",
+      "url": "https://huggingface.co/papers/2610.09455",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Recently, approaches that leverage human video datasets for robot policy training have become increasingly prevalent. However, most existing hand trackers regress pose from cropped frames with limited",
+      "is_policy": true
+    },
+    {
+      "title": "We Query, Therefore We Compute: On Oracle Computation beyond the Machine, with an Application to Agents",
+      "url": "https://huggingface.co/papers/2610.09243",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-06T20:00:00+00:00",
+      "summary": "Agentic systems use large language models (LLMs) to carry out concrete tasks. Prior work often borrows abstractions such as scheduling, caching or isolation piecemeal from operating systems, so the me",
+      "is_policy": false
+    },
+    {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "source": "Google DeepMind",
@@ -1832,15 +1976,6 @@
       "category": "news",
       "published": "2026-10-06T16:00:00+00:00",
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "is_policy": false
-    },
-    {
-      "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
-      "url": "https://huggingface.co/papers/2610.08773",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-06T13:56:43+00:00",
-      "summary": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply",
       "is_policy": false
     },
     {
@@ -1979,6 +2114,87 @@
       "is_policy": false
     },
     {
+      "title": "DLoop: Looped Speculative Decoding",
+      "url": "https://huggingface.co/papers/2610.07659",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "Speculative decoding accelerates autoregressive generation in large language models. In each drafting stage, a lightweight draft model proposes tokens that the target model subsequently verifies. With",
+      "is_policy": false
+    },
+    {
+      "title": "Improving Proactive AI Assistance with Hierarchical Procedural Understanding",
+      "url": "https://huggingface.co/papers/2610.06505",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "Proactive AI assistants continuously observe a user's activity and decide whether to provide new guidance or remain silent. They should provide appropriate guidance for the task, determine when to pro",
+      "is_policy": false
+    },
+    {
+      "title": "On-Policy Distillation with Negative-Policy Rollouts",
+      "url": "https://huggingface.co/papers/2610.07874",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "On-policy distillation (OPD) has been widely studied as a post-training method in which a student model obtains token-level supervision from a stronger teacher on its own rollouts. Recent studies have",
+      "is_policy": true
+    },
+    {
+      "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+      "url": "https://huggingface.co/papers/2610.08621",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "Recent game design agents have made substantial progress in generating playable games. However, program correctness does not ensure an enjoyable experience for players. We present Recursive Game Creat",
+      "is_policy": false
+    },
+    {
+      "title": "WorldSonus: Bringing Sound to Worlds",
+      "url": "https://huggingface.co/papers/2610.08760",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core chall",
+      "is_policy": false
+    },
+    {
+      "title": "DecepEval: A Benchmark for Evaluating Deception in LLM Agents",
+      "url": "https://huggingface.co/papers/2610.07967",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "As large language model (LLM) agents become increasingly autonomous, they may pursue task performance through deception, raising concerns about their reliable deployment. Existing evaluations show tha",
+      "is_policy": false
+    },
+    {
+      "title": "Recurrent Looped Transformer",
+      "url": "https://huggingface.co/papers/2610.07591",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "State tracking requires an update at every input, but the depth a Transformer applies to each token is fixed regardless of sequence length. We introduce the Recurrent Looped Transformer (RLT), which s",
+      "is_policy": false
+    },
+    {
+      "title": "On KL-Regularized Policy Optimization",
+      "url": "https://huggingface.co/papers/2610.08963",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "Asynchronous reinforcement learning (RL) for large language model (LLM) agents trains one policy on trajectories generated by another: rollouts come from stale checkpoints, and the inference engine's ",
+      "is_policy": true
+    },
+    {
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "url": "https://huggingface.co/papers/2610.08699",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t",
+      "is_policy": false
+    },
+    {
       "title": "Sensor-Language-Action Models",
       "url": "https://huggingface.co/papers/2610.08244",
       "source": "HF Papers",
@@ -2003,96 +2219,6 @@
       "category": "papers",
       "published": "2026-10-05T20:00:00+00:00",
       "summary": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teac",
-      "is_policy": false
-    },
-    {
-      "title": "A Safe Action Is Not Enough: Feasible-Future Decoding for Vision-Language-Action Policies",
-      "url": "https://huggingface.co/papers/2610.05166",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "A safe action is not necessarily a viable one. A frozen vision-language-action (VLA) policy can favor a locally admissible move that leaves no policy-supported route to safe task completion. We call t",
-      "is_policy": true
-    },
-    {
-      "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
-      "url": "https://huggingface.co/papers/2610.08048",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "LLM agents often lack the operational knowledge to act reliably in new environments, as they must discover specific tool behaviors or environment conventions on their own. Without memory of past attem",
-      "is_policy": false
-    },
-    {
-      "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
-      "url": "https://huggingface.co/papers/2610.08777",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user controls. Many systems use chunk-wise autoregressive generation with few-step denoising",
-      "is_policy": false
-    },
-    {
-      "title": "UNREAL: Unifying Retrieval and Long-Context with a Single Model",
-      "url": "https://huggingface.co/papers/2610.08463",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "Long-context inference and Retrieval-Augmented Generation (RAG) handle evidence selection at vastly different scales, from a single long prompt to an entire corpus. We ask whether a single model-inter",
-      "is_policy": false
-    },
-    {
-      "title": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale",
-      "url": "https://huggingface.co/papers/2610.08430",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "Agentic reinforcement learning (RL) disaggregates training from rollout, so each policy update must reach the rollout clusters before the next batch. Transferring a full 1T checkpoint for such weight ",
-      "is_policy": true
-    },
-    {
-      "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
-      "url": "https://huggingface.co/papers/2610.08630",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "Recently Large Language Models (LLMs) and LLM-based agents increasingly need to incorporate knowledge acquired after pretraining, e.g., domain facts, user preferences, documents, and interaction exper",
-      "is_policy": false
-    },
-    {
-      "title": "From Evidence to Action: How Tool-Using Agents Fail",
-      "url": "https://huggingface.co/papers/2610.07753",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "Tool-using agents make consequential changes to external state, yet correct outcomes do not guarantee that their actions were supported by evidence established beforehand. We study where this evidence",
-      "is_policy": false
-    },
-    {
-      "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
-      "url": "https://huggingface.co/papers/2610.08448",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "On-Policy Distillation (OPD) trains a student on its own generations using teacher feedback. With different tokenizers, comparing teacher and student predictions requires alignment at both sequence an",
-      "is_policy": true
-    },
-    {
-      "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
-      "url": "https://huggingface.co/papers/2610.07767",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "Reinforcement learning (RL) for post-training large language models (LLMs) incurs substantial computation and memory overhead during rollout generation, which motivates low-precision rollout for effic",
-      "is_policy": false
-    },
-    {
-      "title": "Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents",
-      "url": "https://huggingface.co/papers/2610.07785",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T20:00:00+00:00",
-      "summary": "A central capability of embodied agents is to accomplish complex objectives through sequences of interdependent tasks. Yet existing visual goal-conditioned policies underlying these agents are typical",
       "is_policy": false
     },
     {
@@ -2159,15 +2285,6 @@
       "is_policy": false
     },
     {
-      "title": "MEND: RL For Flow Models via Proximal Velocity Matching",
-      "url": "https://huggingface.co/papers/2610.05954",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-05T04:07:18+00:00",
-      "summary": "Reward post-training of flow models either reweights the model's own samples under a KL penalty or a frozen reference, often for thousands of updates, or backpropagates the reward and moves every samp",
-      "is_policy": false
-    },
-    {
       "title": "Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco",
       "url": "https://huggingface.co/papers/2610.05949",
       "source": "HF Papers",
@@ -2177,120 +2294,21 @@
       "is_policy": false
     },
     {
-      "title": "DeCoPrune: Efficient KV-Cache Pruning for Autoregressive Video Diffusion via Denoising Consistency",
-      "url": "https://huggingface.co/papers/2609.39096",
+      "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
+      "url": "https://huggingface.co/papers/2610.06293",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Autoregressive video diffusion supports streaming generation and interactive control, but its KV cache grows continuously with the generated history. Existing compression strategies either discard his",
+      "summary": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often limits their abi",
       "is_policy": false
     },
     {
-      "title": "Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
-      "url": "https://huggingface.co/papers/2610.07348",
+      "title": "Minimal Witness Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.07226",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Training large language models (LLMs) is resource-intensive, and adapting them for diverse deployment scenarios with varying computational constraints remains challenging. While elastic architectures ",
-      "is_policy": false
-    },
-    {
-      "title": "Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding",
-      "url": "https://huggingface.co/papers/2610.07342",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "On-policy reinforcement learning has become a central paradigm for improving the reasoning abilities of large language models. However, its effectiveness is often limited by reward sparsity: when a mo",
-      "is_policy": true
-    },
-    {
-      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
-      "url": "https://huggingface.co/papers/2610.06847",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and",
-      "is_policy": false
-    },
-    {
-      "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
-      "url": "https://huggingface.co/papers/2610.06104",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Multimodal imitation learning requires diverse executable futures under the same observation and consistent behavior across replanning cycles. We present Conditional Trajectory Peaks (CTP), a single-p",
-      "is_policy": false
-    },
-    {
-      "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
-      "url": "https://huggingface.co/papers/2610.06090",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Continuous asynchronous replanning is essential for real-time generative robot policies, but independent stochastic initialization can cause mode switching and inconsistent continuation across action ",
-      "is_policy": false
-    },
-    {
-      "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
-      "url": "https://huggingface.co/papers/2610.07384",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Individual animal re-identification from camera-trap imagery is an instance retrieval problem central to non-invasive wildlife monitoring: a query image must retrieve the correct individual from a ref",
-      "is_policy": false
-    },
-    {
-      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.06844",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi",
-      "is_policy": false
-    },
-    {
-      "title": "HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing",
-      "url": "https://huggingface.co/papers/2610.05842",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Linear attention enables efficient long-context autoregressive decoding by compressing history into recurrent states, but this compression can make selective access to sparse and distant information d",
-      "is_policy": false
-    },
-    {
-      "title": "MiniCorp: The Last Mile of the AI Agent Firm",
-      "url": "https://huggingface.co/papers/2610.05912",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "The last mile toward enterprise AGI is a company that runs itself. Training and adapting such agents require longitudinal enterprise data, which remain scarce, costly to acquire, and often restricted ",
-      "is_policy": false
-    },
-    {
-      "title": "JLD: Perceptual Distance Through A Jacobian Lens",
-      "url": "https://huggingface.co/papers/2610.05967",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Image compression, restoration, and generation all require a way to measure how different two images look to a person. Pixel error ignores how people see, while the most accurate perceptual distances ",
-      "is_policy": false
-    },
-    {
-      "title": "Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training",
-      "url": "https://huggingface.co/papers/2610.07510",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Developers can build LLM agents by adapting third-party models through benign post-training. We study a supply-chain threat in which an attacker supplies a model with a backdoor: hidden behavior that ",
-      "is_policy": false
-    },
-    {
-      "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models",
-      "url": "https://huggingface.co/papers/2610.05966",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-04T20:00:00+00:00",
-      "summary": "Domain adaptation aims to turn a general-purpose large language model (LLM) into an expert for a target domain. While the dominant SFT+RL pipeline offers a convenient cold start, it may reduce explora",
+      "summary": "``What are the irreducible conditions that are sufficient to produce an outcome?'' is one of the most common questions that recur across computation and science. Its answers, the minimal sufficient wi",
       "is_policy": false
     },
     {
@@ -2310,24 +2328,6 @@
       "published": "2026-10-04T10:24:58+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/\"> <img alt=\"Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56",
       "is_policy": false
-    },
-    {
-      "title": "Working with an AI Company That Does Things You Disagree With [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-04T08:41:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies.</p> <p>I shortlisted few and applied by reaching out to people ",
-      "is_policy": false
-    },
-    {
-      "title": "DiffGate: Difficulty-Gated Teacher Guidance for On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.04596",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-02T20:00:00+00:00",
-      "summary": "On-policy distillation (OPD) has emerged as a widely used paradigm for post-training large language models, reducing the train--test mismatch of conventional distillation by supervising the student on",
-      "is_policy": true
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -2372,24 +2372,6 @@
       "category": "news",
       "published": "2026-10-01T16:00:00+00:00",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "is_policy": false
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-01T02:30:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>For Job Postings</strong> please use this template</p> <blockquote> <p>Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time",
-      "is_policy": false
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "is_policy": false
     }
   ]
