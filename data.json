@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:36:09.073422+00:00",
+  "generated_at": "2026-10-10T20:53:12.517405+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-10T16:36:09+00:00",
+      "published": "2026-10-10T20:53:12+00:00",
       "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-10T16:36:09+00:00",
+      "published": "2026-10-10T20:53:12+00:00",
       "summary": "An Open Source Machine Learning Framework for Everyone",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-10T16:36:09+00:00",
+      "published": "2026-10-10T20:53:12+00:00",
       "summary": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/pytorch/pytorch",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-10T16:36:09+00:00",
+      "published": "2026-10-10T20:53:12+00:00",
       "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/huggingface/transformers",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-10T16:36:09+00:00",
+      "published": "2026-10-10T20:53:12+00:00",
       "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "is_policy": false
     },
@@ -57,8 +57,35 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-10T16:36:09+00:00",
+      "published": "2026-10-10T20:53:12+00:00",
       "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "is_policy": false
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-10T19:50:00+00:00",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "is_policy": false
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-10T18:52:07+00:00",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
+      "is_policy": false
+    },
+    {
+      "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-10T18:08:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/\"> <img alt=\"I Built a O(NlogN) attention system that retains 97% ",
       "is_policy": false
     },
     {
@@ -710,15 +737,6 @@
       "is_policy": false
     },
     {
-      "title": "Moonworks Lunara: Modeling Artistic Intelligence [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x13zf7/moonworks_lunara_modeling_artistic_intelligence_r/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-08T21:54:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Lunara introduces a novel <strong>Diffusion Mixture Transformer</strong> architecture with fewer than 10B active parameters for modeling artistic intelligence in imag",
-      "is_policy": false
-    },
-    {
       "title": "Anthropic launches free AI security scans for open-source projects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
       "source": "The Verge AI",
@@ -743,15 +761,6 @@
       "category": "community",
       "published": "2026-10-08T20:28:20+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, <em>consistently outperform most standard Transformer-ba",
-      "is_policy": false
-    },
-    {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-08T20:06:56+00:00",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which too",
       "is_policy": false
     },
     {
@@ -842,15 +851,6 @@
       "category": "community",
       "published": "2026-10-08T17:53:25+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Are they sending to all reviewers or some selected reviewers? Just got an email about complimentary registration.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a",
-      "is_policy": false
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-08T16:00:00+00:00",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
       "is_policy": false
     },
     {
