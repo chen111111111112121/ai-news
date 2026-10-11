@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:48:50.998126+00:00",
+  "generated_at": "2026-10-11T17:01:18.410071+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/pytorch/pytorch",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-11T11:48:50+00:00",
+      "published": "2026-10-11T17:01:18+00:00",
       "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "is_policy": false
     },
@@ -21,8 +21,305 @@
       "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-11T11:48:50+00:00",
+      "published": "2026-10-11T17:01:18+00:00",
       "summary": "AirLLM 70B inference with single 4GB GPU",
+      "is_policy": false
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-11T16:52:33+00:00",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "is_policy": false
+    },
+    {
+      "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
+      "url": "https://www.ithome.com/1/011/715.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T15:28:59+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题，</p><p>据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术<strong>暂时做不到全局 185Hz</strong>。全局高刷要做到常用常开，目前最佳体验就是全局 165Hz，欢迎大家上手一加 16 去对比其他手机。</p",
+      "is_policy": false
+    },
+    {
+      "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
+      "url": "https://www.ithome.com/1/011/714.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T15:20:30+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，苹果将在本周二举行“欢迎回家”活动，主角预计是 HomeView 智能家庭中枢，除此之外还有新款 HomePod mini 和 Apple TV 4K。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2",
+      "is_policy": false
+    },
+    {
+      "title": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元",
+      "url": "https://www.ithome.com/1/011/713.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T15:12:21+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升，<strong>但有意换机的用户得提前做好涨价的准备</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
+      "is_policy": false
+    },
+    {
+      "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
+      "url": "https://www.ithome.com/1/011/712.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T15:01:19+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动，<strong>让每一位潜在顾客都能充分体验这款新品</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://i",
+      "is_policy": false
+    },
+    {
+      "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
+      "url": "https://www.ithome.com/1/011/711.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:55:18+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO Pad Pro 都是本月发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
+      "is_policy": false
+    },
+    {
+      "title": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己",
+      "url": "https://www.ithome.com/1/011/710.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:50:56+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，小岛秀夫近日在 KOJI10 广播节目透露，他已确定客串某部真人电影和某动画。这位游戏制作人曾出演日剧《别班》，还参与过《疯狂动物城 2》日语配音。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
+      "is_policy": false
+    },
+    {
+      "title": "Is a second MSc worth it? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3a37d/is_a_second_msc_worth_it_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-11T14:48:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of c",
+      "is_policy": false
+    },
+    {
+      "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-11T14:39:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Palette Atlas (<a href=\"https://itzik123.github.io/PaletteAtlas/\">https://itzik123.github.io/PaletteAtlas/</a>) searches public-domain paintings by color scheme. Each",
+      "is_policy": false
+    },
+    {
+      "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-11T14:37:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration.</p> <p>As far as I understand, registration opened in batche",
+      "is_policy": false
+    },
+    {
+      "title": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选",
+      "url": "https://www.ithome.com/1/011/709.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:36:10+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今日在新一期《Power On》通讯中透露，苹果首款智能家庭中枢名为“HomeView”，预计将在 10 月 13 日的“欢迎回家”活动正式发布，11 月出货。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
+      "is_policy": false
+    },
+    {
+      "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
+      "url": "https://www.ithome.com/1/011/708.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:27:14+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。<strong>本次发行价格为 12.01 元 / 股</strong>，发行后总股本为 28.78 亿股（超额配售选择权行使前）。</p><p style=\"text-align: center;\"><img class=\"no-alt-im",
+      "is_policy": false
+    },
+    {
+      "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-11T14:25:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/\"> <img alt=\"I trained a 414k-parameter transformer to fly a boids fl",
+      "is_policy": false
+    },
+    {
+      "title": "西渝高铁全线建设进入关键攻坚阶段，建成后西安至重庆从 6 小时缩短至 2.5 小时",
+      "url": "https://www.ithome.com/1/011/707.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:20:09+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据央视新闻今日报道，记者从京昆高速铁路西昆公司获悉，10 月 11 日，随着最后一次爆破作业顺利完成，西安至重庆高速铁路（以下简称“西渝高铁”）高升二号隧道贯通，为全线按期建成通车奠定坚实基础。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
+      "is_policy": false
+    },
+    {
+      "title": "2026 WSBK 葡萄牙站第二回合：张雪机车德比斯第三名，提前锁定本赛季年度亚军",
+      "url": "https://www.ithome.com/1/011/706.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:12:07+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，2026 世界超级摩托车锦标赛（WSBK）第十一站 WorldSSP 组别<strong>第二回合在葡萄牙的埃斯托里尔举行。</strong>中国摩托车制造商“张雪机车”旗下车手瓦伦丁 · 德比斯拿下季军，队友费德里科 · 卡里卡苏洛赢得第十二名。</p><p style=\"text-align: center;\"><img class=\"no-alt-im",
+      "is_policy": false
+    },
+    {
+      "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
+      "url": "https://www.ithome.com/1/011/705.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T14:03:40+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元，<strong>首发价 273 元</strong>，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY7jsE\" ",
+      "is_policy": false
+    },
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-11T14:00:00+00:00",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "is_policy": false
+    },
+    {
+      "title": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保",
+      "url": "https://www.ithome.com/1/011/704.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:58:07+00:00",
+      "summary": "<p>小米首款 NAS 产品“Xiaomi 智能存储”今年 8 月 27 日开售，官方定价如下：</p><p>4T 定价 2699 元，今日国补后 2384 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY9sVc\" target=\"_blank\"><span class=\"card main-site\"><span ",
+      "is_policy": false
+    },
+    {
+      "title": "消息称美团共享充电宝开始投放新国标 3C 认证版本：配 7500mAh 电芯、自带双线支持 22.5W 输出",
+      "url": "https://www.ithome.com/1/011/703.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:53:06+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据充电头网报道，美团旗下共享充电宝新国标版本近期已开始进入线下投放阶段，相应产品延续标志性黄色外观，侧面设有四颗电量指示灯，机身印有“22.5W 超级快充”字样，并标注 CCC 认证标识及 GB 47372-2026《移动电源安全技术规范》执行标准。</p><p style=\"text-align: center;\"><img class=\"no-alt-i",
+      "is_policy": false
+    },
+    {
+      "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-11T13:51:34+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/moschles\"> /u/moschles </a> <br /> <span><a href=\"https://archiesengupta.com/blog/world-action-models-vs-vla-deep-dive\">[link]</a></span> ",
+      "is_policy": false
+    },
+    {
+      "title": "闪极推出 Vision Mag 带屏磁吸充电宝：15W 无线充 + 20W 有线充，5000mAh 电芯售 199 元",
+      "url": "https://www.ithome.com/1/011/702.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:48:45+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，闪极现已在京东上架一款 Vision Mag 磁吸充电宝，该产品支持 15W 无线充电和 20W 有线充电，内置 5000mAh 电芯，<strong>定价为 199 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY9O8A\" target=\"_blank\"><",
+      "is_policy": false
+    },
+    {
+      "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
+      "url": "https://www.ithome.com/1/011/701.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:35:36+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，阿维塔 T09 概念版今晚迎来全球首秀。新车作为阿维塔与华为乾崑联合设计的首款高端旗舰车型，新车设计灵感源于 VISION XPECTRA，配备四激光雷达。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/tv/show/1034",
+      "is_policy": false
+    },
+    {
+      "title": "微软为 Linux 7.4 贡献 Hyper-V 半虚拟化 IOMMU 驱动，已进入-next 分支",
+      "url": "https://www.ithome.com/1/011/700.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:32:33+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据科技媒体 Phoronix 今天报道，微软为即将发布的 Linux 7.4 贡献全新内核驱动。目前该驱动已进入 IOMMU 子系统的 -next 分支，可在 Hyper-V 的 Linux 客户机虚拟机使用。</p><p style=\"text-align: center;\"><img alt=\"Microsoft para-virtualized IOM",
+      "is_policy": false
+    },
+    {
+      "title": "Square Enix《王国之心》系列游戏 Steam 价格永降：国区各作调整至 198 元",
+      "url": "https://www.ithome.com/1/011/699.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:30:04+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，Square Enix 旗下《王国之心》系列游戏现已在 Steam 平台开启永降，IT之家附游戏国区价格如下：</p><h3>《KINGDOM HEARTS -HD 1.5+2.5 ReMIX》</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>原价格 298 元，新价格 198 元</p></li>",
+      "is_policy": false
+    },
+    {
+      "title": "雷蛇巴塞利斯蛇 V4 系列鼠标支持“完美 180° 转身”，有职业选手认为应禁止",
+      "url": "https://www.ithome.com/1/011/698.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:25:04+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，Razer（雷蛇）近期推出了巴塞利斯蛇 V4 专业版 / 极速版 (Basilisk V4 Pro / HyperSpeed) 鼠标。这两款产品均支持一项名为“完美 180° 转身”的新输入功能。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
+      "is_policy": false
+    },
+    {
+      "title": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高虚拟货币价格敛财",
+      "url": "https://www.ithome.com/1/011/697.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:16:26+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据外媒 GameRant 报道，臭名昭著的黑客组织 Cyberleek 发布公告，称如果自家虚拟货币市值达到 3,000 万美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2.01 亿元人民币）</span>，就将公布“能够体验完整故事模式、直至演职人员名单”的《GTA 6》构建副本。</p><p>不过目前关于 C",
+      "is_policy": false
+    },
+    {
+      "title": "美国加州政府起诉 3D 打印耗材制造商 Polymaker，指控其助长幽灵枪制造",
+      "url": "https://www.ithome.com/1/011/696.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:12:09+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据科技媒体 Tom's Hardware 今天报道，美国加利福尼亚州政府近期对 3D 打印耗材制造商 Polymaker LLC 提起诉讼，指控其面向枪支爱好者销售耗材，将原本无害的 PLA 材料转化为枪支零部件。</p><p style=\"text-align: center;\"><img alt=\"People V Polymaker\" class=\"n",
+      "is_policy": false
+    },
+    {
+      "title": "《火影忍者 × 忍空》动漫官宣，全新原创故事制作中",
+      "url": "https://www.ithome.com/1/011/695.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:07:40+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，《火影忍者 × 忍空》动漫官宣，两部传奇作品梦幻联动，该作为岸本齐史、桐山光侍监修的全新原创故事。</p><p style=\"text-align: center;\"></p><p>IT之家注意到，动画讲述第七班的鸣人、佐助和小樱被另有要事的卡卡西托付了一项任务，作为代理队长的鸣人干劲满满，结果三人却在执行任务的途中误入了异世界，此时出现在三人面前的，是一个",
+      "is_policy": false
+    },
+    {
+      "title": "消息称索尼 PS5 Pro 供应紧张局面最早到明年初才能缓解，国内市场已被炒到 7000 元以上",
+      "url": "https://www.ithome.com/1/011/694.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T13:06:06+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，据外媒 ComputerBase 报道，索尼一份内部备忘录显示，因《GTA6》造成的 PS5 Pro 供应紧张局面可能还将持续较长时间，最早要到 2027 年初才有望缓解。</p><p>今年以来，索尼 PS5 Pro 游戏机价格被不断炒高，以国内市场为例，今年初该机到手价约为 4699 元，而如今已被炒到 7000 元以上，反映出供需失衡对市场价格的影响。<",
+      "is_policy": false
+    },
+    {
+      "title": "工信部发布 2026 年前 8 个月通信业经济运行情况：电信业务收入累计完成 1.16 万亿元、5G 用户达 13.11 亿户",
+      "url": "https://www.ithome.com/1/011/693.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T12:58:20+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，工信部昨日发布 2026 年前 8 个月通信业经济运行情况，前 8 个月，电信业务总量稳步增长，5G、千兆光网等网络建设和应用不断推进，连接用户规模稳步扩大，移动互联网接入流量保持较快增势。</p><h2>一、总体运行情况</h2><p>前 8 个月，电信业务收入累计完成 1.16 万亿元，同比下降 -2.2%。按照上年不变价计算的电信业务总量同比增长 7.",
+      "is_policy": false
+    },
+    {
+      "title": "奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市",
+      "url": "https://www.ithome.com/1/011/691.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T12:28:49+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，奇瑞捷途全新旅行者 7 将于 10 月 14 日上市，官方预告智能科技再升级。</p><p>新车搭载 TOUROS 3.3 AI 智能座舱、骁龙 8255 高阶座舱芯片，搭配 24GB 运存 +256GB 超大存储，内置讯飞星火智能 AI 大模型，配备 15.6 英寸 2.5K 中控巨幕。</p><p style=\"text-align: center;\">",
+      "is_policy": false
+    },
+    {
+      "title": "广汽丰田铂智 3X 第 15 万台暨星云限量版交付，限时权益价 11.78 万元起",
+      "url": "https://www.ithome.com/1/011/690.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T12:14:02+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，广汽丰田今日宣布铂智 3X 第 15 万台暨星云限量版交付，限时权益价 11.78 万元起。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/d75b3295-67b2-4972-b169",
+      "is_policy": false
+    },
+    {
+      "title": "海外投资者持续减持，三星电子外资持股比例跌至 17 年最低",
+      "url": "https://www.ithome.com/1/011/687.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-11T11:49:50+00:00",
+      "summary": "<p>IT之家 10 月 11 日消息，海外投资者过去一年来不断减持三星电子股票，当前外资持股比例已降至 17 年来最低水平。</p><p>韩国交易所最新数据显示，外资持有三星电子股票比例已降至 46% 左右，<strong>处于 2009 年 7 月以来的最低水平</strong>。今年年初韩国股市处于上涨行情时，外资持股比例还高达 52.4%。3 月，该比例跌破 50%，到 5 月进一步降至 ",
       "is_policy": false
     },
     {
@@ -62,33 +359,6 @@
       "is_policy": false
     },
     {
-      "title": "华硕 ROG 八爪鱼 8 电竞无线路由器开启预约：双 10G+ 四 2.5G 网口，支持 Wi-Fi 8",
-      "url": "https://www.ithome.com/1/011/682.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T11:18:06+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，华硕 ROG 八爪鱼 8 电竞无线路由器现已在京东开启预约，新品主打旗舰配置，<strong>拥有双 10G+4 个 2.5G 以太网口</strong>，<strong>支持 Wi-Fi 8（802.11bn）</strong>，售价暂未公布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img",
-      "is_policy": false
-    },
-    {
-      "title": "末日搜打撤游戏《HUNGER》10 月 19 日开启测试：在拿破仑时代疫病欧洲杀出血路",
-      "url": "https://www.ithome.com/1/011/680.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T11:08:40+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，开发商 GOOD FUN CORPORATION 宣布，旗下全新搜打撤游戏《HUNGER》即将在 Steam 平台开启 Playtest 测试，<strong>本次测试预计于 10 月 19 日开启，持续至 10 月 26 日</strong>，感兴趣的玩家可前往游戏商店页面申请获取测试资格，IT之家附游戏商品页（<a href=\"https://store",
-      "is_policy": false
-    },
-    {
-      "title": "消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片",
-      "url": "https://www.ithome.com/1/011/679.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T11:02:38+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，此前曾有传闻称，三星可能会为部分市场的 Galaxy S27 Ultra 机型使用 Exynos 2700 芯片，其余市场采用高通最新骁龙芯片。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
-      "is_policy": false
-    },
-    {
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
       "source": "The Verge AI",
@@ -98,219 +368,12 @@
       "is_policy": false
     },
     {
-      "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
-      "url": "https://www.ithome.com/1/011/678.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:54:55+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，《VRChat》开发商 VRChat Inc. 于 10 月 7 日公布了针对 AI 生成内容的应对方针，同步更新创作者指南。官方明确禁止使用 AI 生成误导性地图 / 角色缩略图，避免创作者利用与实际内容完全不符的缩略图吸引玩家点击。</p><p>《VRChat》指出，平台一直将“自由表达”“人类无限的创造力”以及“人与人之间的联系”视为核心价值，尽管 A",
-      "is_policy": false
-    },
-    {
-      "title": "CUDA 生态优势推动 RTX Spark 笔记本热销，微软 128GB 内存版 Surface Laptop Ultra 开始在美国缺货",
-      "url": "https://www.ithome.com/1/011/677.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:38:04+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，微软美国官网显示，Surface Laptop Ultra 笔记本 128GB 统一内存、1TB SSD 配置已经缺货，该产品定价 5,899.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 39,570 元人民币）</span>，其他较低配置机型仍可购买。</p><p style=\"text-align: ",
-      "is_policy": false
-    },
-    {
-      "title": "开发者公布创意应用《Desktop Cleaning》，用一块“虚拟地毯”盖住电脑桌面上杂乱文件",
-      "url": "https://www.ithome.com/1/011/676.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:37:16+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，近期一位开发者 Terkel Gjervig 公布一款名为《Desktop Cleaning》的创意应用，可以在电脑桌面上铺设一块“虚拟地毯”，可盖住杂乱文件，让桌面显得“干净整洁”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/n",
-      "is_policy": false
-    },
-    {
-      "title": "开发者利用双口 USB-C 线打造“比拼手速”对战游戏，输家手机消耗自身电量给赢家充电",
-      "url": "https://www.ithome.com/1/011/675.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:30:02+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，据 4Gamers 报道，近期一名开发者河本健（Ken Kawamoto）脑洞大开，打造了一款基于双口 USB-C 充电线的对战游戏《Power Struggle》，让玩家能够通过“比拼手速”方式决定谁的手机有电，谁的手机没电退场。</p><p>具体来看，相应游戏玩法非常简单，双方在手机上安装应用后，使用双口 USB-C 充电线连接两台手机，随后疯狂点击屏幕",
-      "is_policy": false
-    },
-    {
-      "title": "Valve 悄悄修改日本区 Steam 用户协议：钱包余额 6 个月未使用将失效",
-      "url": "https://www.ithome.com/1/011/673.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:19:11+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，外媒 Automation 挖掘发现，Valve 在今年 4 月 20 日悄悄更新了日本版《Steam 用户协议》，明确规定日本区用户存入 Steam 钱包的资金，如果在充值之日起 6 个月内未使用，就会失效。</p><p>IT之家注意到，根据新版 Steam 用户协议，其中称“按照日本法律，添加至 Steam 钱包的资金如果在入账后 6 个月内未使用，就会",
-      "is_policy": false
-    },
-    {
-      "title": "Krafton 谈《PUBG Ded.Net》游戏玩法：大逃杀、肉鸽、暴力融合",
-      "url": "https://www.ithome.com/1/011/666.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:14:47+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，据游戏媒体 EuroGamer 今天报道，《绝地求生》无疑是近十年最重要的游戏之一。如果说《H1Z1》奠定了大逃杀玩法基础，那么《绝地求生》就是真正将它塑造成形并发扬光大。如果没有它，我们或许就不会看到 2010 年代末席卷游戏行业的大逃杀热潮。</p><p style=\"text-align: center;\"><img class=\"no-alt-img",
-      "is_policy": false
-    },
-    {
-      "title": "盛色推出“G74 护瞳版”显示器：2K 280Hz，支持圆偏光护眼，1110 元",
-      "url": "https://www.ithome.com/1/011/657.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T10:05:36+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，盛色现已在京东上架“G74 护瞳版”27 英寸显示器，该机相对于此前的 G74 主要升级圆偏光护眼功能，面板核心规格仍为 2K 280Hz，<strong>定价为 1110 元</strong>，部分地区国补后低至 948.6 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgYu5",
-      "is_policy": false
-    },
-    {
-      "title": "神舟二十三乘组出差日常更新：空间科学实（试）验与在轨训练稳步推进",
-      "url": "https://www.ithome.com/1/011/650.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:59:36+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，据中国载人航天工程办公室，上周，神二十三乘组在轨喜迎国庆，空间站内各项工作稳步推进。</p><p>神舟二十三乘组航天员朱杨柱、张志远、黎家盈，目前继续在中国空间站值守，空间站内各项工作稳步推进。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://wei",
-      "is_policy": false
-    },
-    {
-      "title": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器...",
-      "url": "https://www.ithome.com/1/011/649.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:57:38+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，Meta 现已开始陆续向 Quest 头显用户推送 Horizon OS 2.9（v209）公共测试频道（PTC）更新。新版系统对 2D 多任务界面进行大幅调整，重新引入部分经典虚拟环境，并为 Quest 3 和 Quest 3S 加入系统级二维码扫描器。</p><p>具体来看，Horizon OS 2.9 最重要的变化是引入了代号为“Display Evo",
-      "is_policy": false
-    },
-    {
-      "title": "丹麦 CPR 数据库泄露波及 880 万人信息，涉事公司管理员密码竟是“123456”",
-      "url": "https://www.ithome.com/1/011/648.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:47:10+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，据《哥本哈根邮报》昨天报道，丹麦中央个人登记系统（CPR）近期出现一起大规模个人数据泄露事件。黑客入侵系统时，<strong>与该事件有关的 Pays ApS 公司至少三个账户使用了“123456”密码</strong>，<strong>其中一个还是管理员账户</strong>。</p><p style=\"text-align: center;\"><img ",
-      "is_policy": false
-    },
-    {
-      "title": "利民推出冰封雅境 Frozen Horizon 240 DIGITAL BLACK ARGB 一体式水冷散热器：冷头配 RGB 数显，339 元",
-      "url": "https://www.ithome.com/1/011/647.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:40:33+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，利民现已在京东上架冰封雅境 Frozen Horizon 240 DIGITAL BLACK ARGB 一体式水冷散热器，其冷头配备 RGB 数显，<strong>定价为 339 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGvoKEL\" target=\"_bl",
-      "is_policy": false
-    },
-    {
       "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-11T09:33:10+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed questio",
-      "is_policy": false
-    },
-    {
-      "title": "云遥宇航天津首颗自研商业卫星赴酒泉发射场，10 月底排期发射",
-      "url": "https://www.ithome.com/1/011/646.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:32:04+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，10 月 9 日，云遥宇航金山世界号卫星（云遥一号 28 星）出征仪式在天津总部顺利举行。卫星完成装车，7 点 17 分，伴随出征口号，正式启程奔赴酒泉卫星发射中心，等待基地 10 月底排期发射。</p><p>据介绍，这是天津首颗由云遥宇航完全自主设计、抓总研制的商业卫星，<strong>实现天津本土商业气象卫星整星研制从 0 到 1 的历史性突破。</st",
-      "is_policy": false
-    },
-    {
-      "title": "京东预约超 200 万人：苹果 iPhone Duo 折叠屏手机 15999 元起倒数 5 天预售",
-      "url": "https://www.ithome.com/1/011/645.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:31:25+00:00",
-      "summary": "<p><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，国行 10 月 16 日晚 8 点接受预购。</p><p>京东目前预约人数已超 200 万人，需要注意的是：</p><ul class=\" list-paddingleft-2\"><li><p>iPhone Duo",
-      "is_policy": false
-    },
-    {
-      "title": "邓承浩：本次行业掀起重视安全、反对速成车 / 伪创新的大讨论和反思，深蓝汽车举双手赞成和拥护",
-      "url": "https://www.ithome.com/1/011/644.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:26:54+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，工业和信息化部会同公安部、生态环境部、市场监管总局 10 日联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。中汽协会今日发文，表态对此举措坚决支持，并面向全行业发出倡议，全面提升我国汽车产品安全水平。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" ",
-      "is_policy": true
-    },
-    {
-      "title": "代码显示 Meta 正为 Quest 头显开发“Theater Home”虚拟影院环境功能，支持动态氛围灯效",
-      "url": "https://www.ithome.com/1/011/642.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:25:45+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，据外媒 UploadVR 报道，Meta 正在为 Quest 系列 VR 头显开发全新的虚拟影院环境“Theater Home”，目前相应代码已现身 Horizon OS 2.9 公开测试版。</p><p>目前，数据挖掘者兼安全研究人员 ToastConcern 已成功利用代码构建了相应虚拟影院环境，在启用功能后，用户可以在窗口控制栏中找到名为“Theate",
-      "is_policy": false
-    },
-    {
-      "title": "宝马 BMW M 新世代概念车中国首秀，迈向纯电高性能时代",
-      "url": "https://www.ithome.com/1/011/641.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:14:04+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，今日，宝马 BMW M 新世代概念车在“2026 BMW M 热血嘉年华”迎来中国首秀。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/b9fde357-0a52-401b-b9da-c",
-      "is_policy": false
-    },
-    {
-      "title": "梁其伟确认《影之刃零》游戏至少包含 50 个 Boss、30 种主武器和 20 种副武器",
-      "url": "https://www.ithome.com/1/011/640.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:13:27+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，灵游坊创始人兼 CEO 梁其伟近日接受外媒 4Gamer 采访时确认，《影之刃零》游戏将至少包含 50 个 Boss、30 种主武器和 20 种副武器，随着玩家不断深入探索，遇到的敌人会越来越丰富。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithom",
-      "is_policy": false
-    },
-    {
-      "title": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎",
-      "url": "https://www.ithome.com/1/011/639.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T09:01:12+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，理想汽车今日官宣欧洲战略发布会暨理想 i6 欧洲首秀将于北京时间明晚 19:30 举行，理想 i6 即将亮相法国巴黎。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/5b29fc1c-a",
-      "is_policy": false
-    },
-    {
-      "title": "美国国家橄榄球联盟“纽约巨人队”将旗下赛事视频 360 度全景 VR 化，观众可体验沉浸式球场",
-      "url": "https://www.ithome.com/1/011/638.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T08:57:27+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，美国国家橄榄球联盟（NFL）纽约巨人队宣布将旗下赛事视频 360 度全景 VR 化，球迷可以通过球队官方移动应用和 YouTube 频道观看沉浸式画面，体验以往难以接触到的现场视角。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/ne",
-      "is_policy": false
-    },
-    {
-      "title": "四部门为汽车安全划定红线：明确汽车设计、可靠性验证试验管理，研发测试要包含两冬一夏",
-      "url": "https://www.ithome.com/1/011/637.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T08:49:06+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，工业和信息化部会同公安部、生态环境部、市场监管总局 10 日联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/20",
-      "is_policy": true
-    },
-    {
-      "title": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10",
-      "url": "https://www.ithome.com/1/011/636.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T08:47:35+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10，<strong>这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风</strong>，可在拍摄视频时同步录制空间音频。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsu",
-      "is_policy": false
-    },
-    {
-      "title": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等",
-      "url": "https://www.ithome.com/1/011/635.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T08:43:13+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
-      "is_policy": false
-    },
-    {
-      "title": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元",
-      "url": "https://www.ithome.com/1/011/633.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-11T08:39:38+00:00",
-      "summary": "<p>IT之家 10 月 11 日消息，小米 REDMI 显示器 A27U 2027 款现已在京东上架，该机主打 4K 75Hz，<strong>定价为 1199 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDv44mb\" target=\"_blank\"><span class=\"card main-",
       "is_policy": false
     },
     {
@@ -611,24 +674,6 @@
       "is_policy": false
     },
     {
-      "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-09T13:29:43+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ALHR - Adaptive Learnable Hierarchical Routing, uses static binary trees and learnable functions to minimize the amount of keys to be read.</p> <p>It does use a dense",
-      "is_policy": false
-    },
-    {
-      "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-09T13:26:15+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/\"> <img alt=\"[2610.08927] Can AI Agents Make Open-Ended Scientific",
-      "is_policy": false
-    },
-    {
       "title": "ARR Oct Discussion [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
       "source": "r/MachineLearning",
@@ -728,39 +773,12 @@
       "is_policy": false
     },
     {
-      "title": "Should I optimize for ML conference publications? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x14lwj/should_i_optimize_for_ml_conference_publications_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-08T22:21:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi!I am a fourth year PhD student in USA and have not had much luck with top ML conference publications. In the last two years of my PhD, I am wondering if I should o",
-      "is_policy": false
-    },
-    {
-      "title": "The Alchemy of Semi-Supervision [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x14a61/the_alchemy_of_semisupervision_r/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-08T22:06:40+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x14a61/the_alchemy_of_semisupervision_r/\"> <img alt=\"The Alchemy of Semi-Supervision [R]\" src=\"https://preview.redd.it/2fh9",
-      "is_policy": false
-    },
-    {
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
       "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-08T21:00:00+00:00",
       "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl",
-      "is_policy": false
-    },
-    {
-      "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-08T20:28:20+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, <em>consistently outperform most standard Transformer-ba",
       "is_policy": false
     },
     {
@@ -807,24 +825,6 @@
       "published": "2026-10-08T18:19:42+00:00",
       "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
       "is_policy": false
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-08T18:18:00+00:00",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o",
-      "is_policy": false
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-08T18:16:24+00:00",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele",
-      "is_policy": true
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
