@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:05:26.316002+00:00",
+  "generated_at": "2026-10-14T02:43:59.301626+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-13T22:05:26+00:00",
+      "published": "2026-10-14T02:43:59+00:00",
       "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/vercel-labs/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-13T22:05:26+00:00",
+      "published": "2026-10-14T02:43:59+00:00",
       "summary": "The open agent skills tool - npx skills",
       "is_policy": false
     },
@@ -30,17 +30,341 @@
       "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-13T22:05:26+00:00",
+      "published": "2026-10-14T02:43:59+00:00",
       "summary": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "is_policy": false
     },
     {
-      "title": "Introducing pytest-torch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x58zje/introducing_pytesttorch_p/",
+      "title": "达摩鲨 M6 中小手鼠标发布：锻碳 + 打孔，39g，到手价 499 元起",
+      "url": "https://www.ithome.com/1/012/742.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:43:45+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，达摩鲨 (Darmoshark) 昨日发布了 M6 / M6 Ultra 两款中小手鼠标。其采用锻造碳纤维材料和打孔镂空工艺，<strong>质量仅 39g</strong>，到手价分别为 499 / 599 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://i",
+      "is_policy": false
+    },
+    {
+      "title": "企业微信升级 5.0.12 版本内置 WorkBuddy 对话助手，资料、客户信息直接调用",
+      "url": "https://www.ithome.com/1/012/736.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:41:43+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，企业微信今日官宣与 WorkBuddy 联合发布新版本，<strong>将企业微信升级到 5.0.12 最新版本</strong>，用户就能在企微里直接把活儿交给 WorkBuddy。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadf",
+      "is_policy": false
+    },
+    {
+      "title": "微软 Win11 26H2 首个累积更新：Copilot 键可改回右 Ctrl，上线 Emoji 17.0",
+      "url": "https://www.ithome.com/1/012/719.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:34:59+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，在 10 月补丁星期二活动日（10 月 13 日），微软面向 Windows 11 24H2、25H2 以及 26H2 系统推送累积更新 KB5127648，对应系统版本号为 26100.9711、26200.9711、26300.9711，这也是 26H2 推送的首个累积更新。</p><p>在推送本次安全更新之后，Windows11 24H2 家庭版、专业",
+      "is_policy": false
+    },
+    {
+      "title": "PhD students, how ya feeling? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
       "source": "r/MachineLearning",
       "category": "community",
-      "published": "2026-10-13T21:15:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built pytest-torch to make testing PyTorch models easier</p> <p>Writing the same device setup, reproducibility checks, and output comparisons across projects gets r",
+      "published": "2026-10-14T02:33:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two ",
+      "is_policy": false
+    },
+    {
+      "title": "宝马：2030 年在华销售的车辆中，超 95% 将实现本土生产",
+      "url": "https://www.ithome.com/1/012/715.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:33:11+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据《北京商报》今天（14 日）上午报道，10 月 13 日，宝马集团董事长聂科维就任后首次访华。</p><p>聂科维指出，中国已经成为全球最具挑战性的标杆市场之一。公司欢迎以<strong>追求技术创新、改善产品质量和提升客户价值</strong>为导向的竞争，而这也是宝马过去数十年赖以成功的根基，激励公司不断追求创新与技术进步。</p><p>据介绍，宝马在",
+      "is_policy": false
+    },
+    {
+      "title": "八位堂推出 Ultimate 3C+ 无线手柄，配备力度可调 TMR 摇杆",
+      "url": "https://www.ithome.com/1/012/712.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:31:52+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，八位堂 (8BitDo) 近日推出了 Ultimate 3C+ 无线手柄控制器。这一“青春版”型号<strong>配备力度可调的“原力环”TMR 摇杆</strong>，握把与扳机均内嵌震动马达。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
+      "is_policy": false
+    },
+    {
+      "title": "豆包手机助手宣布陆续放开第三方应用屏幕自动化操作权限，阿里、腾讯系等 App 明确拒绝",
+      "url": "https://www.ithome.com/1/012/704.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:22:35+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，豆包手机助手今日发文宣布，豆包手机助手推出的《屏幕自动化操作声明协议》（SAEP，Screen Automation Execution Protocol）30 天公示期已结束，<strong>现将逐步放开第三方应用的屏幕自动化操作权限</strong>。</p><p style=\"text-align: center;\"><img class=\"no-al",
+      "is_policy": false
+    },
+    {
+      "title": "众筹到手价 1699 元，小米米家金属旅行箱上架",
+      "url": "https://www.ithome.com/1/012/703.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:21:42+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，小米米家金属旅行箱已经上架有品，将于 10 月 21 日开启众筹，众筹到手价为 1699 元，提供银色与钛金色两种配色。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/2a6b831e-",
+      "is_policy": false
+    },
+    {
+      "title": "9 月“AI 魔改”视频治理成果：清理违规视频近 1.3 万条、处置违规账号 30 余个",
+      "url": "https://www.ithome.com/1/012/701.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:12:34+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据央视新闻报道，国家广播电视总局消息称，2026 年 1 月开展的“AI 魔改”视频专项治理工作已取得实效。部分重点网络视听平台近期公布了 9 月的处置情况，<strong>共清理违规视频近 13000 条、处置违规账号 30 余个</strong>。</p><p>截至IT之家发稿，具体平台清理信息暂未公布。</p><p>据了解，为进一步巩固治理成果，自 2",
+      "is_policy": true
+    },
+    {
+      "title": "尽管部分官员抗议，R 星《GTA 6》迈阿密营销活动持续加码",
+      "url": "https://www.ithome.com/1/012/699.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:10:55+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，R 星（Rockstar Games）正持续加码《GTA 6》的大规模营销活动，推出罪恶都市主题飞艇、美国国家橄榄球联盟（NFL）联动宣传等多个推广项目，尽管部分迈阿密官员对此提出抗议。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
+      "is_policy": false
+    },
+    {
+      "title": "支持 Wi-Fi 6E/7 的苹果 Mac 可设置 HomePod mini 2 为默认扬声器",
+      "url": "https://www.ithome.com/1/012/698.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:09:33+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，苹果公司昨日（10 月 13 日）发布博文，<strong>宣布在所有配备 Wi-Fi 6E 或更高版本系统的 Mac 机型上，HomePod mini 2 可以作为其默认扬声器。</strong></p><p>IT之家附上苹果官方博文内容如下：</p><blockquote><p>新款 HomePod mini 可用作 Mac 的扬声器，为电影、游戏、Fa",
+      "is_policy": false
+    },
+    {
+      "title": "Counterpoint：到 2030 年全球处方助听器销量将超 3100 万台，近半支持端侧 AI",
+      "url": "https://www.ithome.com/1/012/696.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:07:47+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，Counterpoint 《全球端侧 AI 可穿戴设备预测》报告指出，<strong>到 2030 年，全球处方助听器销量预计将突破 3100 万台，2025 至 2030 年的年复合增长率为 4%</strong>。随着 AI 在助听器领域的应用普及，<strong>预计到 2030 年，近 50% 的助听器产品将搭载端侧 AI 能力</strong>。<",
+      "is_policy": false
+    },
+    {
+      "title": "新作者必须完本才能签约，番茄小说被曝大幅抬高签约门槛",
+      "url": "https://www.ithome.com/1/012/681.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:06:24+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据界面新闻报道，10 月 12 日，番茄小说发布签约模式调整通知，<strong>因大幅抬高签约门槛，引发争议</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/d978",
+      "is_policy": false
+    },
+    {
+      "title": "SEMI 预测：半导体市场规模 2035 年有望达 2~3 万亿美元",
+      "url": "https://www.ithome.com/1/012/678.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T02:00:32+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据韩媒 THE ELEC 报道，SEMI（国际半导体产业协会）总裁兼首席执行官 Ajit Manocha 在当地时间昨日于美国旧金山开幕的 SEMICON West 2026 展览会上发表了演讲。</p><p>Ajit Manocha 在 2017 年上任伊始曾预测半导体市场规模有望在 2030 年达到 1 万亿美元，当时这一观点鲜有人认同。而实际情况是，<",
+      "is_policy": false
+    },
+    {
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-10-14T02:00:14+00:00",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "is_policy": false
+    },
+    {
+      "title": "国家统计局：9 月数据存储设备、平板电脑、计算机和移动电话机价格分别同比上涨 46.7%、23.6%、21.8% 和 14.9%",
+      "url": "https://www.ithome.com/1/012/677.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:59:57+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据央视新闻报道，国家统计局公布的数据显示，9 月份，居民消费价格指数（CPI）环比上涨 0.2%，涨幅比上月回落 0.2 个百分点；同比上涨 0.9%，涨幅比上月扩大 0.1 个百分点；扣除食品和能源价格的核心 CPI 同比上涨 1.0%，涨幅与上月相同。</p><p>IT之家从数据中获悉，工业生产者出厂价格指数（PPI）环比上涨 1.2%，涨幅比上月扩大 ",
+      "is_policy": false
+    },
+    {
+      "title": "苹果智能家居中枢 HomeView 扬声器细节：桌面版低音表现优于壁挂版",
+      "url": "https://www.ithome.com/1/012/676.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:55:01+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，科技媒体 9to5Mac 昨日（10 月 13 日）发布博文，报道称苹果首款智能家居中枢 HomeView 的桌面版和壁挂版存在扬声器差异，<strong>桌面版还额外配备向下发声低音单元和双力抵消被动辐射器，音效配置显著强于壁挂版。</strong></p><p>根据苹果官网规格信息，桌面版和壁挂版 HomeView 均配备 2 个定制全频驱动单元，均支持",
+      "is_policy": false
+    },
+    {
+      "title": "何小鹏预热小鹏 MONA L05：一台有“少年感”的大五座 SUV",
+      "url": "https://www.ithome.com/1/012/675.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:52:47+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，今天上午，小鹏汽车官微宣布，将于 15 日（明天）预售的新车 MONA L05 展车已到店。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/92502287-3676-49f1-a3e5",
+      "is_policy": false
+    },
+    {
+      "title": "消息称具身智能独角兽公司智元启动新一轮融资，估值约 500 亿元",
+      "url": "https://www.ithome.com/1/012/674.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:51:00+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据财经杂志 10 月 13 日报道，具身智能独角兽公司智元创新近期启动了新一轮融资，<strong>融资额约 10 亿元 —15 亿元</strong>，本轮融资已接近收尾，最新估值约 500 亿元。</p><p>报道提到，根据港交所的相关要求，上市申请公司如果在递表后、上市前完成新融资，除非获得特殊豁免，上市申请公司需要等到融资完成后满 120 日，才可挂",
+      "is_policy": false
+    },
+    {
+      "title": "苹果智能家居中枢 HomeView 支持第三方音频 / 视频应用，不依赖 Face ID 最多识别 6 人",
+      "url": "https://www.ithome.com/1/012/672.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:43:10+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，科技媒体 MacRumors 今天（10 月 14 日）发布博文，报道称在苹果首款智能家居中枢 HomeView 上，可以通过连接的 iPhone 或 iPad 显示第三方音频与视频应用，并在家庭环境下最多可供 6 人使用 HomeView。</p><p>应用方面，苹果智能家居中枢 HomeView 预装 Apple Music、Apple Podcasts",
+      "is_policy": false
+    },
+    {
+      "title": "埃隆 · 马斯克：内存制造商漫天要价，惟美光保持合理定价",
+      "url": "https://www.ithome.com/1/012/671.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:43:07+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，Elon Musk（埃隆 · 马斯克）北京时间今日在其拥有的 X 社交平台上发言表示<strong>内存制造商当前普遍漫天要价</strong>，<strong>惟美光保持合理定价</strong>，并评论称<span class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3\">美光的做法是<span c",
+      "is_policy": false
+    },
+    {
+      "title": "微信上线“绿泡泡短剧”，网友调侃“长大了竟然还是看红果果绿泡泡”",
+      "url": "https://www.ithome.com/1/012/670.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:36:52+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，据北京日报报道，腾讯近日低调上线“<strong>绿泡泡短剧</strong>”微信小程序，主打“免费好剧，一点就看”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/cd288188-",
+      "is_policy": false
+    },
+    {
+      "title": "坐无后视镜的特斯拉 Cybercab 心里发慌？未来乘客行程中可随时查看侧、后摄像头画面",
+      "url": "https://www.ithome.com/1/012/669.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:36:05+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，乘坐特斯拉无人驾驶出租车 Cybercab 的乘客很快将能在行程中的任意时刻查看车辆侧方与后方画面。特斯拉爱好者丹 · 伯克兰（Dan Burkland）在乘坐这款专为自动驾驶打造的机器人出租车之后，于 X 平台称赞了 Cybercab 的软件体验，并提议特斯拉允许乘客“按需调取车尾与后视镜摄像头画面”，他补充说，“这个功能尤其能提升乘坐安全感。”</p><",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪欧洲首款纯电七座旗舰 SUV 车型 ATTO 8 亮相，二代刀片电池、闪充加持",
+      "url": "https://www.ithome.com/1/012/668.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:31:33+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，当地时间 12 日，比亚迪在 2026 巴黎车展上正式发布新款纯电动 SUV 车型 ATTO 8。新车仅需 9 分钟，就能通过闪充桩将电池从接近耗尽充至接近满电。</p><p style=\"text-align: center;\"><img alt=\"BYD Atto 8 With Flash Charging\" class=\"no-alt-img\" src",
+      "is_policy": false
+    },
+    {
+      "title": "富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能",
+      "url": "https://www.ithome.com/1/012/667.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:28:54+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，富士胶片 (FUJIFILM) 日本当地时间今日宣布将在美国投资 1,800 万美元<span class=\"exch-money-value \">（现汇率约合 1.21 亿元人民币）</span>，用于<strong>扩大现有铜互连 CMP</strong>（IT之家注：化学机械抛光）<strong>浆料产能、新建多类型 CMP 浆料产线</strong>",
+      "is_policy": false
+    },
+    {
+      "title": "小米 REDMI K100 标准版手机入网，支持 100W 快充",
+      "url": "https://www.ithome.com/1/012/666.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:25:57+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，小米旗下一款型号为 M786BC 的 5G 新机于 10 月 12 日通过 3C 认证，<strong>支持 100W 快充</strong>。博主 @数码闲聊站 表示这是 REDMI K100 标准版手机。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.",
+      "is_policy": false
+    },
+    {
+      "title": "不兼容 VESA：苹果壁挂版智能家居中枢 HomeView 需配专属支架",
+      "url": "https://www.ithome.com/1/012/665.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:19:49+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，科技媒体 AppleInsider 昨日（10 月 13 日）发布博文，报道称由于没有配套的螺丝孔，<strong>苹果壁挂版智能家居中枢 HomeView 并不支持 VESA 标准。</strong></p><p>IT之家注：VESA 是视频电子标准协会制定的显示设备安装接口标准，常见于显示器、电视及部分平板设备。符合该标准的设备背部设有标准化螺丝孔，可搭",
+      "is_policy": false
+    },
+    {
+      "title": "吉利控股集团声明：支持中欧汽车贸易磋商共识",
+      "url": "https://www.ithome.com/1/012/663.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:09:40+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，今天上午，吉利控股集团通过官微发布《吉利控股集团关于支持中欧汽车贸易磋商共识的声明》。</p><blockquote><p style=\"text-align: left;\">浙江吉利控股集团对中欧贸易投资磋商机制第二次例会取得的积极成果表示欢迎和支持，对双方本着相互尊重、平等协商的原则，通过密集磋商妥善处理汽车贸易分歧所作的努力表示赞赏。</p><p st",
+      "is_policy": false
+    },
+    {
+      "title": "打破补丁星期二数量纪录：微软 10 月 Win11/Win10 等更新共修复 1411 个漏洞",
+      "url": "https://www.ithome.com/1/012/661.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:08:23+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，科技媒体 bleepingcomputer 发布博文，报道称在本月补丁星期二活动日（10 月 13 日）中，在面向 Windows 10、Windows 11 等系统产品的更新中，微软共计修复了 1,411 个漏洞，<strong>打破微软“补丁星期二”单次修复纪录</strong>，且不含本月早些时候已修复的 348 个漏洞。</p><p>IT之家基于此前",
+      "is_policy": false
+    },
+    {
+      "title": "苹果请求法院撤销 57 亿美元专利侵权赔偿判决，称该天价赔偿金基于猜测",
+      "url": "https://www.ithome.com/1/012/660.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:06:42+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，苹果正请求美国联邦法官撤销 Taction 科技提起的专利侵权诉讼中高达 57 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 382.19 亿元人民币）</span>的判决，该案涉及 iPhone 与 Apple Watch 所搭载的 Taptic Engine 触觉引擎。</p><p style=\"text",
+      "is_policy": false
+    },
+    {
+      "title": "苹果库克现身清华大学：参加经管学院顾问委员会年会，目前担任主席",
+      "url": "https://www.ithome.com/1/012/659.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:06:22+00:00",
+      "summary": "<p>IT之家 10 月 14 日消息，多位网友 10 月 13 日晒出图片和视频，在清华大学经济管理学院看到了<strong>苹果执行董事长蒂姆 · 库克</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/f",
+      "is_policy": false
+    },
+    {
+      "title": "CDPR 向玩家保证，《巫师 3：重制版》Switch 2 版补丁即将到来",
+      "url": "https://www.ithome.com/1/012/658.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-14T01:01:10+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 10 月 14 日消息，CDPR 为 PS5 和 PS5 Pro 版《巫师 3：重制版》推出了 5.01b 热修复补丁。更新说明只有一项内容：改善游戏稳定性，让玩家获得更加可靠的游戏体验。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:/",
+      "is_policy": false
+    },
+    {
+      "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-14T00:28:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so aw",
+      "is_policy": false
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-13T23:13:31+00:00",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)",
+      "is_policy": false
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-13T23:05:34+00:00",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "is_policy": false
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-13T23:00:00+00:00",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "is_policy": false
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-13T22:36:59+00:00",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p",
       "is_policy": false
     },
     {
@@ -161,15 +485,6 @@
       "is_policy": false
     },
     {
-      "title": "苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸",
-      "url": "https://www.ithome.com/1/012/602.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T17:01:14+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，10 月 14 日凌晨 1 点，苹果通过 OTA 向用户推送新系统。升级 iOS 与 watchOS 之后，Apple Watch 用户即可开通睡眠呼吸暂停功能。这项功能此前已通过国家药品监督管理局批准，以“睡眠呼吸暂停迹象提示”应用的二类医疗器械身份进入国内，成为 Apple Watch 上又一个受医疗监管的健康功能。</p><p>睡眠呼吸暂停功能目前支持",
-      "is_policy": true
-    },
-    {
       "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
       "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
       "source": "TechCrunch AI",
@@ -242,24 +557,6 @@
       "is_policy": false
     },
     {
-      "title": "不能打电话、发短信：华为官网显示手机与手机间通信共享只支持共享网络能力（含 eSIM）",
-      "url": "https://www.ithome.com/1/012/600.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:58:59+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，<a href=\"https://www.ithome.com/1/009/957.htm\" target=\"_blank\">华为在 Mate 90 系列手机上首发了多设备互助通信共享功能</a>。只需要碰一碰，就能把几台华为设备的网络资源整合起来，按需分配。</p><p style=\"text-align: center;\"><a class=\"ithom",
-      "is_policy": false
-    },
-    {
-      "title": "苹果今日举办欢迎回家发布会，盘中股价再创历史新高",
-      "url": "https://www.ithome.com/1/012/599.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:55:55+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果于北京时间 10 月 13 日晚 9 点召开了一次主题为“欢迎回家”的新品发布会，正式推出旗下首款智能家庭中枢 HomeView，以及 HomePod mini 2 等新品。</p><p>当晚美股盘初，<strong>苹果股价再度创下历史新高</strong>，总市值达 5.06 万亿美元<span class=\"exch-money-value\">（I",
-      "is_policy": false
-    },
-    {
       "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
       "source": "r/MachineLearning",
@@ -278,51 +575,6 @@
       "is_policy": false
     },
     {
-      "title": "红魔 12 Pro+ 手机官宣搭载行业首款 185Hz 全面屏，行业首发 185Hz 高刷显示控制芯片",
-      "url": "https://www.ithome.com/1/012/598.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:27:21+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，红魔游戏手机官方今日继续预热 12 系列新机。据介绍，<strong>红魔 12 Pro+ 将采用红魔第九代屏下技术</strong>，打造无孔全面屏，宣称“通透度更高、刷新率更高、边框更窄”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.",
-      "is_policy": false
-    },
-    {
-      "title": "长安凯程 V919 荣耀版 8 方上市：限时 8.89 万元起，标配宁德时代电芯 CLTC 续航 355km",
-      "url": "https://www.ithome.com/1/012/597.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:18:36+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，长安凯程 V919 荣耀版 8 方今日正式上市，共推出货运智慧型和客车智慧型两款配置，官方指导价分别为 9.59 万元和 9.79 万元，限时权益价分别为 8.89 万元和 9.09 万元。</p><p>新车定位“多装多赚宽 8 方”，面向城配物流市场，主打装载效率、运营安全和长期可靠性。</p><p style=\"text-align: center;\">",
-      "is_policy": false
-    },
-    {
-      "title": "华为：麒麟 9050 系列安全、音视频全面升级，是首批获权威检测的抗量子攻击移动 SoC",
-      "url": "https://www.ithome.com/1/012/596.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:18:10+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/d03b",
-      "is_policy": false
-    },
-    {
-      "title": "首发入库 XGP 仍热销，《战争机器：事变日》游戏登顶美国、英国 XBOX 商店销量榜",
-      "url": "https://www.ithome.com/1/012/595.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:17:45+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，据科技媒体 Windows Central 今天报道，《战争机器：事变日》游戏数字版销量十分出色，<strong>目前已经在登顶美国 XBOX 商店销量榜</strong>，超越《我的世界：地下城 2》和《星球大战：银河赛车手》等作品。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src",
-      "is_policy": false
-    },
-    {
-      "title": "Is human evaluation through surveys common in ML research?[R][D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-13T15:16:50+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I am a master's student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs fro",
-      "is_policy": false
-    },
-    {
       "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
       "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
       "source": "The Verge AI",
@@ -332,138 +584,12 @@
       "is_policy": false
     },
     {
-      "title": "美国 NASA“毅力号”火星车累计行驶里程达 45.2 公里，成地外天体表面行驶距离最远的车辆",
-      "url": "https://www.ithome.com/1/012/591.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:08:49+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，美国国家航空航天局（NASA）今天宣布，<strong>其“毅力号”火星车已累计行驶 28.1 英里<span class=\"exch-unit-value\">（IT之家注：约 45.2 公里）</span></strong>，<strong>成为地球以外天体行驶距离最远的车辆</strong>。</p><p style=\"text-align: cente",
-      "is_policy": false
-    },
-    {
-      "title": "特斯拉称中国造电动汽车进口配额耗尽：暂停加拿大 Model 3 Premium 新订单，预计 2027 年 3 月恢复",
-      "url": "https://www.ithome.com/1/012/590.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:04:11+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，特斯拉表示中国制造电动汽车的进口配额已用尽，因此已暂停在加拿大市场接受 Model 3 Premium 车型的新订单，预计要到 2027 年 3 月才可能恢复订购。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadf",
-      "is_policy": false
-    },
-    {
-      "title": "零散小船赢不了航母巡洋舰！“中国刻蚀机之父”尹志尧提醒国内半导体设备企业不能散兵游勇式发展",
-      "url": "https://www.ithome.com/1/012/589.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T15:02:30+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，第 26 届中国国际工业博览会昨日于上海开幕。在集成电路高峰论坛上，中微公司董事长兼总经理尹志尧在分析行业趋势时表示，全球半导体设备市场从 2010 年至今整体持续增长。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/20",
-      "is_policy": false
-    },
-    {
-      "title": "网易《逆水寒：新世界》4.2 版本大资料片【苗疆蛊事】官宣月底登场",
-      "url": "https://www.ithome.com/1/012/588.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:56:38+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，网易《逆水寒：新世界》今日官宣，4.2 大资料片【<strong>苗疆蛊事</strong>】将于 10 月 30 日正式开启。</p><p>此外，《逆水寒：新世界》<a href=\"https://www.ithome.com/1/011/124.htm\" target=\"_blank\">4.2 全新大赛季【月岭瑶歌】</a>将在 10 月开启。</p><",
-      "is_policy": false
-    },
-    {
-      "title": "罗技 MX Master 4 鼠标“特别版”曝光：核心功能不变，创新外观设计",
-      "url": "https://www.ithome.com/1/012/587.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:56:21+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，德媒 WinFuture 编辑 Roland Quandt 在其当地时间今日的文章中曝光了 Logitech（罗技）MX Master 4 Special Edition 鼠标的外观。</p><p>根据文章描述，这款“特别版”产品并无核心功能上的调整，但<strong>外观设计有所调整</strong>，为一贯相对朴素的 MX Master 系列引入了更多活",
-      "is_policy": false
-    },
-    {
-      "title": "苹果智能家庭中枢 HomeView 细节：壁挂版不含支架得另买，可选 USB-C / 交流电 / PoE 版",
-      "url": "https://www.ithome.com/1/012/586.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:52:06+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果首款智能家庭中枢 HomeView 现已正式发布，除了配备扬声器底座的版本外，苹果还推出了一款壁挂版本，定价均为 299 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2,005 元人民币）</span>。</p><p>不过需要注意的是，<strong>壁挂版并不附带支架</strong>，用户需要另行购买。",
-      "is_policy": false
-    },
-    {
-      "title": "派拉蒙收购华纳兄弟探索后 Discovery+ 宣布涨价，无广告套餐 11.99 美元起",
-      "url": "https://www.ithome.com/1/012/585.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:40:12+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，派拉蒙已完成对华纳兄弟探索公司（Warner Bros. Discovery）收购，合并后的公司命名为 Skydance，旗下包括 Discovery+、HBO Max 和 Paramount+ 等流媒体服务。</p><p>今日，Discovery+ 宣布上调订阅价格，带广告的套餐将从 5.99 美元每月涨至 6.99 美元，无广告套餐月费则从 9.99 美",
-      "is_policy": false
-    },
-    {
       "title": "AI peer review tool for CVPR, ICLR, ICML, and NeurIPS papers [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x4ye07/ai_peer_review_tool_for_cvpr_iclr_icml_and/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-13T14:37:44+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Came across this GitHub project called Paper Review Harness. Thought it might be useful for people preparing ML research papers.</p> <p>It uses 30 different AI review",
-      "is_policy": false
-    },
-    {
-      "title": "自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元",
-      "url": "https://www.ithome.com/1/012/584.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:35:07+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，据 The Information 今天报道，自动驾驶初创公司 Applied Intuition 已收到多份投资邀约，<strong>估值最少 300 亿美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 2,011.75 亿元人民币）</span>，相比 6 月估值翻了一番。</p><p styl",
-      "is_policy": false
-    },
-    {
-      "title": "“中国刻蚀机之父”尹志尧：AI 有可能会出现泡沫，这点大家需要多加留意",
-      "url": "https://www.ithome.com/1/012/583.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:32:18+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，第 26 届中国国际工业博览会昨日于上海开幕。在当日下午举行的集成电路高峰论坛上，中微公司董事长兼总经理尹志尧在分析行业趋势时，谈及了 AI 话题。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/f627f",
-      "is_policy": false
-    },
-    {
-      "title": "联想小新 27 元气版一体机上架：酷睿 5 处理器 320 + 16GB + 512GB，10 月 16 日开售",
-      "url": "https://www.ithome.com/1/012/582.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:31:39+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，联想 (Lenovo) 现已在电商平台上架小新 27 元气版一体机，当前提供霁蓝 / 绛紫 / 霞绯 3 种配色。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/2a8a791e-6df",
-      "is_policy": false
-    },
-    {
-      "title": "Steam 新一周游戏销量榜公布：《AION 2》继续领跑全球榜首",
-      "url": "https://www.ithome.com/1/012/580.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:26:02+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 6 日 - 2026 年 10 月 13 日，无免费游戏），《AION 2（〈永恒之塔 2〉国际服）》继续占据全球榜首，多款降价及新游戏上榜，《影之刃零》预购登顶国区榜单。</p><p>全球榜单：</p><ul class=\"medium-size list-paddingleft-2",
-      "is_policy": false
-    },
-    {
-      "title": "苹果：HomePod 家庭影院环绕声功能仅支持新款 Apple TV 4K",
-      "url": "https://www.ithome.com/1/012/579.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:21:29+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果今天推出一系列智能家居产品。其中第四代 Apple TV 4K 搭配 HomePod mini 2 使用时，将可以组成四扬声器环绕声。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/",
-      "is_policy": false
-    },
-    {
-      "title": "《GTA 6》PC 版被曝 2027 年第一季度发售，Rockstar 旗下双平台游戏最短间隔",
-      "url": "https://www.ithome.com/1/012/578.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:05:42+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，据 GamesBeat 刚刚报道，四名熟悉 Rockstar Games 计划的消息人士透露，Rockstar 计划在 2027 年第一季度三个月时间内推出《侠盗猎车手 VI》（GTA 6）的 PC 版。GamesBeat 称已确认这一时间窗口，Rockstar Games 方面暂未置评。</p><p style=\"text-align: center;\">",
-      "is_policy": false
-    },
-    {
-      "title": "小米员工透露智能家庭屏曾拟命名 HomeView，但最终仅路由器被冠以 Home 之名",
-      "url": "https://www.ithome.com/1/012/577.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T14:00:49+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，小米中国区智能硬件市场负责人 @Selen7 今日发文，称当年给智能硬件做命名，<strong>想了一套 Home 系列的名字</strong>，最终路由器用了 HomeWiFi。</p><p>他表示，<strong>智能音箱的 HomeView 只躺在了 21 年的历史文档里</strong>，上市时用的智能家庭屏。</p><p style=\"text-a",
       "is_policy": false
     },
     {
@@ -485,15 +611,6 @@
       "is_policy": false
     },
     {
-      "title": "前 PlayStation 负责人平井一夫自曝：当年经常无视索尼高管指示",
-      "url": "https://www.ithome.com/1/012/576.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:54:32+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，据游戏媒体 EuroGamer 今天报道，曾担任 PlayStation 负责人的平井一夫最近透露，自己当年其实并不怎么在意索尼高管的指令。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10",
-      "is_policy": false
-    },
-    {
       "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
       "source": "r/MachineLearning",
@@ -512,15 +629,6 @@
       "is_policy": false
     },
     {
-      "title": "宝可梦联名版 Beats Pill 蓝牙音箱公布，10 月 15 日苹果官网发售",
-      "url": "https://www.ithome.com/1/012/574.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:35:09+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，宝可梦公司今天宣布，全新 Pokémon × Beats Pill 无线蓝牙音箱即将登场。这款联名产品将于太平洋夏令时 10 月 15 日 8:00（北京时间 23:00），<strong>在苹果官网等渠道开售</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
-      "is_policy": false
-    },
-    {
       "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
@@ -530,75 +638,12 @@
       "is_policy": false
     },
     {
-      "title": "苹果：Siri AI 将支持 Apple TV 4K 第二代、第三代",
-      "url": "https://www.ithome.com/1/012/573.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:26:40+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果今天宣布推出第四代 Apple TV 4K，采用 A19 芯片，支持 Siri AI。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/dec8be67-16c4-46cc-8ac6-",
-      "is_policy": false
-    },
-    {
-      "title": "苹果全新家居配件系列发布：含智能摄像头、恒温器和门锁等，与 LG 电子和施耐德电气合作设计",
-      "url": "https://www.ithome.com/1/012/571.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:17:30+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果今日宣布推出 Apple Home Collection，这是系列全新智能家居配件，含室内外摄像头、恒温器、温度传感器以及视频门铃和门锁 —— 由 LG 电子和施耐德电气合作设计。</p><p style=\"text-align: center;\"><img alt=\"Apple Home Collection 配件展示包括 LG 电子智能死锁的门铃按键",
-      "is_policy": false
-    },
-    {
-      "title": "苹果新款 Apple TV 4K 发布：2399 港元，A19 芯片、Siri AI、内置麦克风",
-      "url": "https://www.ithome.com/1/012/569.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:06:34+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果新款 Apple TV 4K 今日正式发布。该产品将于 11 月 13 日起正式发售，<strong>售价 2,399 港元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 2,050 元人民币）</span>。</p><p style=\"text-align: center;\"><img clas",
-      "is_policy": false
-    },
-    {
-      "title": "苹果 HomePod mini 2 智能音箱发布：五种配色可选，海外支持 Siri AI，1099 元",
-      "url": "https://www.ithome.com/1/012/568.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:02:30+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果在今天的活动中正式推出了 HomePod mini 2 音箱，<strong>该产品将于 10 月 30 日发售，定价 1099 元</strong>，这也是苹果本次活动中唯一拥有国行版本的产品，IT之家附苹果官网商品页（<a href=\"https://apple.pvxt.net/c/1255290/435400/7639?u=https%3a%2f",
-      "is_policy": false
-    },
-    {
-      "title": "苹果首款智能家庭中枢 HomeView 发布：售价 299 美元，11 月 13 日开售",
-      "url": "https://www.ithome.com/1/012/566.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T13:00:02+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果刚刚推出了全新的 Apple HomeView 智能家居管理设备，标准版与壁挂版定价均为 299 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 2,005 元人民币）</span>，首批上市国家（澳大利亚、加拿大、印度、新西兰、英国和美国）今日开启预购，后续新加坡于 10 月 15 日开启预购，均于 11 ",
-      "is_policy": false
-    },
-    {
       "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-13T13:00:00+00:00",
       "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping",
-      "is_policy": false
-    },
-    {
-      "title": "英伟达 DLSS 5 最新模型 10 月 16 日推送：性能相比 9 月翻倍，4K 显存占用降低 20%",
-      "url": "https://www.ithome.com/1/012/564.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T12:57:11+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，英伟达官方刚刚宣布，DLSS 5 的 3D 引导神经渲染模型将在本周迎来重大性能更新，新的模型将于 10 月 16 日正式推送。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/8e88e",
-      "is_policy": false
-    },
-    {
-      "title": "苹果“欢迎回家”新品发布会前夕，各大博主来到纽约参加体验活动",
-      "url": "https://www.ithome.com/1/012/563.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-13T12:51:29+00:00",
-      "summary": "<p>IT之家 10 月 13 日消息，苹果“欢迎回家”新品发布活动即将召开。预计将推出品牌首款智能家庭中枢 HomeView、HomePod mini 2 和新款 Apple TV 4K。</p><p>如今，苹果邀请的一批博主，如 MKBHD、安德鲁爱德华等已经来到美国纽约，参加一场体验活动，IT之家附相关截图如下：</p><p style=\"text-align: center;\"><img ",
       "is_policy": false
     },
     {
@@ -1304,39 +1349,12 @@
       "is_policy": true
     },
     {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-12T15:27:59+00:00",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "is_policy": false
-    },
-    {
       "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-12T15:10:34+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>If you build on open-weight reasoning models, you have probably wanted a &quot;how sure is the model about this answer?&quot; signal that does not cost 5x sampling, a",
-      "is_policy": false
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-12T14:00:00+00:00",
-      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an",
-      "is_policy": false
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-12T12:47:59+00:00",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan",
       "is_policy": false
     },
     {
@@ -1385,15 +1403,6 @@
       "is_policy": false
     },
     {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-11T21:14:40+00:00",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "is_policy": false
-    },
-    {
       "title": "What's up with google scholar citations ? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
       "source": "r/MachineLearning",
@@ -1409,6 +1418,33 @@
       "category": "community",
       "published": "2026-10-11T13:51:34+00:00",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/moschles\"> /u/moschles </a> <br /> <span><a href=\"https://archiesengupta.com/blog/world-action-models-vs-vla-deep-dive\">[link]</a></span> ",
+      "is_policy": false
+    },
+    {
+      "title": "Vela: User Behavior as Supervision Sparks LLM Intelligence",
+      "url": "https://huggingface.co/papers/2610.14709",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-09T20:00:00+00:00",
+      "summary": "Large language models are increasingly deployed in applications that act on users' long-term behavior histories, from personal assistants to recommendation and advertising systems. These applications ",
+      "is_policy": false
+    },
+    {
+      "title": "ShellElastic: Scalable Elastic Pretraining with Simultaneous Maximal Updates and Hyperparameter Transfer",
+      "url": "https://huggingface.co/papers/2610.15124",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-09T20:00:00+00:00",
+      "summary": "Foundation models need to support diverse inference budgets, yet training a separate model for each budget duplicates pretraining effort. Elastic models train several nested sub-networks inside one we",
+      "is_policy": false
+    },
+    {
+      "title": "PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces",
+      "url": "https://huggingface.co/papers/2610.15208",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-09T20:00:00+00:00",
+      "summary": "Deep research requires connecting multiple steps of search, reasoning, and computation, with intermediate findings guiding what to investigate next. As investigations grow, agents must maintain resear",
       "is_policy": false
     },
     {
@@ -1448,15 +1484,6 @@
       "is_policy": false
     },
     {
-      "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
-      "url": "https://huggingface.co/papers/2610.13527",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-09T08:48:41+00:00",
-      "summary": "Multimodal language models (MLLMs) exhibit promising spatial reasoning capabilities, yet the internal mechanisms supporting them remain poorly understood. We uncover S-Space, a linear representation s",
-      "is_policy": false
-    },
-    {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
       "source": "OpenAI Blog",
@@ -1472,6 +1499,15 @@
       "category": "news",
       "published": "2026-10-09T07:00:00+00:00",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "is_policy": false
+    },
+    {
+      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+      "url": "https://huggingface.co/papers/2610.14224",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-08T20:00:00+00:00",
+      "summary": "LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha",
       "is_policy": false
     },
     {
@@ -1538,30 +1574,12 @@
       "is_policy": false
     },
     {
-      "title": "ThinkDrag: Semantic Drag-Based Image Editing with Visual Reasoning",
-      "url": "https://huggingface.co/papers/2610.13316",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-08T20:00:00+00:00",
-      "summary": "Drag-based image editing provides an intuitive interface for spatially controlled image manipulation by allowing users to specify handle and target points. Existing methods have made substantial progr",
-      "is_policy": false
-    },
-    {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-10-08T16:00:00+00:00",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "is_policy": false
-    },
-    {
-      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-      "url": "https://huggingface.co/papers/2610.12470",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-08T13:59:58+00:00",
-      "summary": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri",
       "is_policy": false
     },
     {
@@ -1583,15 +1601,6 @@
       "is_policy": false
     },
     {
-      "title": "When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better",
-      "url": "https://huggingface.co/papers/2610.11291",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-08T01:54:03+00:00",
-      "summary": "On-policy distillation (OPD) has become increasingly popular for transferring teacher capabilities to student models. In this work, we ask a critical research question: Is on-policy sampling always be",
-      "is_policy": true
-    },
-    {
       "title": "GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images",
       "url": "https://huggingface.co/papers/2610.11215",
       "source": "HF Papers",
@@ -1607,6 +1616,24 @@
       "category": "news",
       "published": "2026-10-08T00:00:00+00:00",
       "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "is_policy": false
+    },
+    {
+      "title": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+      "url": "https://huggingface.co/papers/2610.12818",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-07T20:00:00+00:00",
+      "summary": "Joint-embedding predictive architectures (JEPAs) learn compact latent world models without pixel reconstruction. Existing JEPA pipelines typically train visual representations and action-conditioned d",
+      "is_policy": false
+    },
+    {
+      "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2610.12417",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-07T20:00:00+00:00",
+      "summary": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, ",
       "is_policy": false
     },
     {
@@ -1700,33 +1727,6 @@
       "is_policy": false
     },
     {
-      "title": "Universal Textual Teaching for LLMs",
-      "url": "https://huggingface.co/papers/2610.12114",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-07T20:00:00+00:00",
-      "summary": "Knowledge distillation (KD) transfers knowledge from stronger Teacher models to weaker Student models, but most methods require training the Student parameters, thereby binding the distilled knowledge",
-      "is_policy": false
-    },
-    {
-      "title": "Contextual Correction of Parallel Drafts for Speculative Decoding",
-      "url": "https://huggingface.co/papers/2610.12570",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-07T20:00:00+00:00",
-      "summary": "Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusi",
-      "is_policy": false
-    },
-    {
-      "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
-      "url": "https://huggingface.co/papers/2610.11993",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-07T20:00:00+00:00",
-      "summary": "Data video is a media form that integrates data visualization with video narrative, widely adopted in news reporting and business analysis. Compared with general video understanding, data video unders",
-      "is_policy": false
-    },
-    {
       "title": "Helping teens learn, plan, and shape the future of AI",
       "url": "https://openai.com/index/teens-learn-and-plan",
       "source": "OpenAI Blog",
@@ -1742,15 +1742,6 @@
       "category": "news",
       "published": "2026-10-07T07:00:00+00:00",
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "is_policy": false
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-10-07T00:00:00+00:00",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "is_policy": false
     }
   ]
