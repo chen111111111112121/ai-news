@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:46:35.392995+00:00",
+  "generated_at": "2026-10-16T20:15:37.534135+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "is_policy": false
     },
@@ -75,8 +75,71 @@
       "url": "https://github.com/xerj-org/xerj",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T15:46:35+00:00",
+      "published": "2026-10-16T20:15:37+00:00",
       "summary": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search",
+      "is_policy": false
+    },
+    {
+      "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-16T18:49:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hey, CS student here. for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API.</p> <p>the thing I'm",
+      "is_policy": false
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ",
+      "is_policy": false
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-16T17:52:24+00:00",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "is_policy": false
+    },
+    {
+      "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-16T17:50:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Half of one sentence in my paper trails onto page 10...</p> <p>This must have happened after a small edit and recompile of the pdf on resubmission?</p> <p>but this go",
+      "is_policy": false
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-16T16:30:00+00:00",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
+      "is_policy": false
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-16T16:30:00+00:00",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
+      "is_policy": false
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-16T16:01:37+00:00",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
       "is_policy": false
     },
     {
@@ -94,7 +157,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-16T15:33:49+00:00",
-      "summary": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
       "is_policy": false
     },
     {
@@ -113,6 +176,15 @@
       "category": "news",
       "published": "2026-10-16T15:05:02+00:00",
       "summary": "<p>IT之家 10 月 16 日消息，硬件诊断监控软件 HWiNFO 近日在其版本历史记录页面更新了即将到来的变化，包括“新增 Panter Lake-H 080”“增强对 Nova Lake-E 和 Razor Lake-S 的支持”。</p><blockquote><p><strong>IT之家注：</strong>\"Panter Lake\" 很明显是一个误输入，指的应该是 \"Panther",
+      "is_policy": false
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-16T15:00:00+00:00",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-perf",
       "is_policy": false
     },
     {
@@ -222,6 +294,15 @@
       "published": "2026-10-16T14:03:11+00:00",
       "summary": "<p>IT之家 10 月 16 日消息，今日，第十六届中国航展（2026 珠海航展）门票销售发布会在珠海举行，本届航展票务政策正式对外公布。<strong>门票将于 10 月 19 日中午 12 时启动售卖</strong>。</p><p>本届航展全部门票实行<strong><span class=\"wx_text_underline\">实名制线上购票，一人一票、单次当日入场有效，</span><",
       "is_policy": true
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-16T14:02:40+00:00",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+      "is_policy": false
     },
     {
       "title": "微软秘密测试“Project Odeon”新应用，界面与 Win11 设置几乎一致",
@@ -409,7 +490,7 @@
       "source": "MIT Tech Review",
       "category": "news",
       "published": "2026-10-16T09:00:00+00:00",
-      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in Ju",
+      "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, w",
       "is_policy": false
     },
     {
@@ -1529,6 +1610,15 @@
       "is_policy": false
     },
     {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "is_policy": false
+    },
+    {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "source": "TechCrunch AI",
@@ -1709,30 +1799,12 @@
       "is_policy": false
     },
     {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-15T14:03:42+00:00",
-      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in",
-      "is_policy": false
-    },
-    {
       "title": "TechCrunch Disrupt 2026: Last day",
       "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-15T14:00:00+00:00",
       "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "is_policy": false
-    },
-    {
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-15T14:00:00+00:00",
-      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental mus",
       "is_policy": false
     },
     {
@@ -1844,15 +1916,6 @@
       "is_policy": false
     },
     {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it",
-      "is_policy": false
-    },
-    {
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI Blog",
@@ -1871,12 +1934,21 @@
       "is_policy": false
     },
     {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T21:30:33+00:00",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2610.22280",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers ",
+      "is_policy": false
+    },
+    {
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "https://huggingface.co/papers/2610.22358",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra",
       "is_policy": false
     },
     {
@@ -2069,33 +2141,6 @@
       "is_policy": false
     },
     {
-      "title": "Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models",
-      "url": "https://huggingface.co/papers/2610.22217",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "Reinforcement learning (RL) can elicit specialized visual capabilities in vision-language models (VLMs), yet jointly optimizing heterogeneous objectives often introduces cross-capability gradient conf",
-      "is_policy": true
-    },
-    {
-      "title": "Routing Policy Optimization for Online Diffusion Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.22282",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "Reinforcement learning can align visual generators with reward signals beyond their pretraining objectives, but existing score-function methods typically introduce stochasticity by perturbing the reve",
-      "is_policy": true
-    },
-    {
-      "title": "Velox: Spatial Memory Makes World Models Efficient",
-      "url": "https://huggingface.co/papers/2610.22311",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "Video world models turn actions and camera motion into long visual rollouts, making video a natural interface for interactive simulation. Such interaction requires responsive generation, yet coherent ",
-      "is_policy": false
-    },
-    {
       "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
       "source": "r/MachineLearning",
@@ -2105,30 +2150,12 @@
       "is_policy": false
     },
     {
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T18:23:46+00:00",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "is_policy": false
-    },
-    {
       "title": "What behaviors does a model actually learn in RL? [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ywx3/what_behaviors_does_a_model_actually_learn_in_rl_p/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-14T18:23:30+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been working on unsupervised tooling to discover what behaviors a model learns in post-training. The core idea is to use features from sparse autoencoders to ide",
-      "is_policy": false
-    },
-    {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T18:00:00+00:00",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "is_policy": false
     },
     {
@@ -2147,15 +2174,6 @@
       "category": "community",
       "published": "2026-10-14T15:22:01+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Went down the rabbit hole to map the different Post-Transformer architectures. Various directions include Dragon Hatchling (BDH), Mamba, RWKV, xLSTM, Titans, and a bu",
-      "is_policy": false
-    },
-    {
-      "title": "The Download: faking blood and the future of batteries",
-      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-14T12:10:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In Febru",
       "is_policy": false
     },
     {
@@ -2258,6 +2276,33 @@
       "is_policy": false
     },
     {
+      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+      "url": "https://huggingface.co/papers/2610.20680",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-13T20:00:00+00:00",
+      "summary": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data",
+      "is_policy": false
+    },
+    {
+      "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+      "url": "https://huggingface.co/papers/2610.20461",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-13T20:00:00+00:00",
+      "summary": "Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and ",
+      "is_policy": false
+    },
+    {
+      "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
+      "url": "https://huggingface.co/papers/2610.21025",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-13T20:00:00+00:00",
+      "summary": "When does a language model acquire a capability? Developmental studies usually answer this by tracking when models start producing the correct token. But that prediction passes through the unembedding",
+      "is_policy": false
+    },
+    {
       "title": "One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation",
       "url": "https://huggingface.co/papers/2610.20993",
       "source": "HF Papers",
@@ -2283,24 +2328,6 @@
       "published": "2026-10-13T20:00:00+00:00",
       "summary": "Long-horizon agentic RL is constrained by the futures visited by the current policy. When rollouts fail to reach useful behaviors, improved credit assignment cannot provide supervision for states and ",
       "is_policy": true
-    },
-    {
-      "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
-      "url": "https://huggingface.co/papers/2610.20731",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-13T20:00:00+00:00",
-      "summary": "Humans interpret multimodal observations of the world and forecast how it will evolve. Recent multimodal generative systems have demonstrated similar capabilities: they can integrate multimodal contex",
-      "is_policy": false
-    },
-    {
-      "title": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
-      "url": "https://huggingface.co/papers/2610.20509",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-13T20:00:00+00:00",
-      "summary": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined b",
-      "is_policy": false
     },
     {
       "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -2357,15 +2384,6 @@
       "is_policy": false
     },
     {
-      "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-13T15:35:48+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/\"> <img alt=\"Flama: 8 years building a Python framework where ML mod",
-      "is_policy": false
-    },
-    {
       "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
       "source": "r/MachineLearning",
@@ -2381,15 +2399,6 @@
       "category": "news",
       "published": "2026-10-13T12:00:00+00:00",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "is_policy": false
-    },
-    {
-      "title": "Machine Learning Tutorial/Workshop [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-13T07:34:40+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/\"> <img alt=\"Machine Learning Tutorial/Workshop [D]\" src=\"https://preview.redd.i",
       "is_policy": false
     }
   ]
