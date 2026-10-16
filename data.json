@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:20:45.403442+00:00",
+  "generated_at": "2026-10-16T15:46:35.392995+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
+      "published": "2026-10-16T15:46:35+00:00",
       "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "is_policy": false
     },
@@ -21,26 +21,8 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
+      "published": "2026-10-16T15:46:35+00:00",
       "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
-      "is_policy": false
-    },
-    {
-      "title": "ruvnet / ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
-      "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
-      "is_policy": false
-    },
-    {
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
-      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "is_policy": false
     },
     {
@@ -48,17 +30,44 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
+      "published": "2026-10-16T15:46:35+00:00",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "is_policy": false
     },
     {
-      "title": "lightseekorg / tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
-      "summary": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "published": "2026-10-16T15:46:35+00:00",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "is_policy": false
+    },
+    {
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-16T15:46:35+00:00",
+      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "is_policy": false
+    },
+    {
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-16T15:46:35+00:00",
+      "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
+      "is_policy": false
+    },
+    {
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-16T15:46:35+00:00",
+      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "is_policy": false
     },
     {
@@ -66,278 +75,332 @@
       "url": "https://github.com/xerj-org/xerj",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-16T10:20:45+00:00",
+      "published": "2026-10-16T15:46:35+00:00",
       "summary": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search",
       "is_policy": false
     },
     {
-      "title": "腾讯混元记忆框架 Hy Memory 2.0 发布开源，专用模型性能超 Opus5",
-      "url": "https://www.ithome.com/1/014/108.htm",
+      "title": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售",
+      "url": "https://www.ithome.com/1/014/188.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T10:18:46+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，腾讯混元官方今日宣布推出智能体记忆框架 Hy Memory 2.0 版本，并开源专用模型、记忆框架和 MemHub 应用三层能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/aed8",
+      "published": "2026-10-16T15:44:36+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，暴雪《暗黑破坏神》系列新作《暗黑破坏神 V》的过场动画拍摄工作已经启动。</p><p>游戏系列电影导演尼尔 · 大卫 · 卡特（Neil David Carter）昨日在 X 上发布了一张摄影棚照片，并配文“First shoot #Diablo5”，透露该项目已开始进行首轮拍摄。此次拍摄进展指向游戏中的动画向内容的制作，并不代表游戏整体开发已经进入后期阶段",
       "is_policy": false
     },
     {
-      "title": "“疯狂小杨哥”张庆杨宣布复播：注销原抖音账号，启用新号“庆杨”",
-      "url": "https://www.ithome.com/1/014/101.htm",
-      "source": "IT之家",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-16T10:12:30+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，“疯狂小杨哥”张庆杨今日发布声明，<strong>宣布正式复播</strong>。</p><p>声明称，“疯狂小杨哥”账号停播以来，其就直播中存在的违规行为进行了深刻反省，并经过两年认真整改。按照法律法规和平台规则，<strong>现注销原账号，注册新账号“庆杨”复播</strong>，将更加专注于内容创作和自营品牌运营。</p><p style=\"text",
+      "published": "2026-10-16T15:33:49+00:00",
+      "summary": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
       "is_policy": false
     },
     {
-      "title": "凯迪拉克 XT5 PHEV 智混四驱 Air 版上市，限时 23.99 万元",
-      "url": "https://www.ithome.com/1/014/065.htm",
+      "title": "索尼拒将《GT 赛车》上架 Steam：第三方开发者将《GT Sport》移植到 PC，支持 FSR 3.1 与着色器预编译",
+      "url": "https://www.ithome.com/1/014/185.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T10:07:04+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，凯迪拉克 XT5 PHEV 智混四驱 Air 版今日发布上市，限时权益价 23.99 万起，售价进一步降低。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/e637344c-2a61-4",
+      "published": "2026-10-16T15:06:40+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，在索尼 SIE 宣布于 2028 年 1 月起取消新游戏的实体光盘后，近期有越来越多的开发者将 PlayStation 独占游戏以“数字游戏”的形式搬上 PC 平台。</p><p>据 Wccftech 今日报道，虽然索尼至今未将《GT 赛车》系列移植到 PC 平台，但这一局面已被第三方开发者打破。</p><p>名为“mlgprorektm8”的开发者在 Gi",
       "is_policy": false
     },
     {
-      "title": "阿里云回应虚拟数字人产品退市：属于战略调整、产品迭代的正常下架",
-      "url": "https://www.ithome.com/1/014/058.htm",
+      "title": "曝英特尔将推 8E + 4Xe 版 \"Panther Lake\" 锐炫 G 掌机处理器",
+      "url": "https://www.ithome.com/1/014/184.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T10:02:25+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，据证券时报今日报道，针对阿里云虚拟数字人产品退市的情况，接近阿里云方面人士表示，<strong>虚拟数字人产品退市属于战略调整、产品迭代的正常下架</strong>，“目前数字人市场非常成熟，建议已有用户迁移到蚂蚁灵境数字人、相芯数字人、一知智能 AI 直播数字人等相关产品。”</p><p style=\"text-align: center;\"><img c",
+      "published": "2026-10-16T15:05:02+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，硬件诊断监控软件 HWiNFO 近日在其版本历史记录页面更新了即将到来的变化，包括“新增 Panter Lake-H 080”“增强对 Nova Lake-E 和 Razor Lake-S 的支持”。</p><blockquote><p><strong>IT之家注：</strong>\"Panter Lake\" 很明显是一个误输入，指的应该是 \"Panther",
       "is_policy": false
     },
     {
-      "title": "奇瑞艾瑞泽 7 新车申报：提供燃油、插混两种动力版本",
-      "url": "https://www.ithome.com/1/014/047.htm",
+      "title": "库克卸任苹果 CEO 后首次中国之行结束：期待下次再见",
+      "url": "https://www.ithome.com/1/014/183.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:56:30+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 7 C-DM 插混版、艾瑞泽 7 燃油版完成申报。</p><p>本次申报的<strong>艾瑞泽 7 C-DM</strong> 为插电式混合动力轿车，车身尺寸为长 4739 mm，宽 1850 mm，高 1498 mm，轴距 2770 mm，前轮距 1590 mm，后轮距 1",
+      "published": "2026-10-16T14:56:57+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，苹果董事会执行主席、前 CEO 蒂姆 · 库克今日发文告别本次中国之行，并分享记录视频。值得一提的是，这也是库克卸任苹果 CEO 后首次中国之行。</p><p>IT之家附库克原文如下：</p><blockquote><p>感谢中国的每一位朋友，让这次旅程再次充满难忘的回忆。期待下次再见！Many thanks to everyone in China for",
       "is_policy": false
     },
     {
-      "title": "AlphaTheta 推出 HDJ-F9 无线 DJ 耳机：贴耳设计，9ms 低延迟",
-      "url": "https://www.ithome.com/1/014/044.htm",
+      "title": "FADU 发布全球首款文件语义固态硬盘，支持加速器直接访问",
+      "url": "https://www.ithome.com/1/014/182.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:52:09+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，脱胎于 Pioneer RJ 的专业 DJ 音频软硬件企业 AlphaTheta 昨日宣布推出贴耳式无线耳机 HDJ-F9。这一型号支持 SonicLink 2.4GHz 无线技术，<strong>延迟低至 9ms</strong>；可与兼容设备 NFC 配对。</p><p style=\"text-align: center;\"><img class=\"no",
+      "published": "2026-10-16T14:47:04+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，韩国固态硬盘主控与方案企业 FADU 在 2026 OCP 全球峰会上发布了世界首款 FS-SSD（文件语义固态硬盘）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/a9eb7889-",
       "is_policy": false
     },
     {
-      "title": "特斯拉 Roadster 跑车会飞，何小鹏评价“非常酷”、蔚来李斌直言“这个我们真没有”",
-      "url": "https://www.ithome.com/1/014/043.htm",
+      "title": "中国秦朝背景《刺客信条：命运》早期实机视频曝光：腾讯天美工作室群主导，起步阶段即被取消",
+      "url": "https://www.ithome.com/1/014/181.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:51:27+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，在今天（16 日）上午的特斯拉第二代 Roadster 跑车发布会上，<a href=\"https://www.ithome.com/1/013/734.htm\" target=\"_blank\">特斯拉演示了新车短时间“飞行”能力</a>，引发全网热议。马斯克宣布，第二代 Roadster 将于 2028 年开始生产。</p><p style=\"text-a",
+      "published": "2026-10-16T14:44:35+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，多年前曾有爆料称，育碧与腾讯旗下天美工作室群曾合作开发一款以中国古代为背景的《刺客信条》系列新作《刺客信条：命运》，但该项目目前已被取消。</p><p>昨日，游戏媒体 MP1st 根据参与开发人员的作品集披露了早期玩法视频和截图，展示了潜行刺杀、信仰之跃，以及一款类似天机伞的旋转武器。</p><p style=\"text-align: center;\"></",
       "is_policy": false
     },
     {
-      "title": "小米 YU7 GT 新增赛道专业套装申报参数：高性能制动片 + 倍耐力高性能轮胎，专为极限驾驶打造",
-      "url": "https://www.ithome.com/1/014/041.htm",
+      "title": "AOC 上架“AGP277QKM”27 英寸显示器：2K 425Hz QD-Mini LED、内置电源，3254 元",
+      "url": "https://www.ithome.com/1/014/180.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:49:37+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部公布了小米 YU7 GT 相关申报参数变更，新增了赛道套装的相关配置，轮胎规格变为了前 265 后 325，前后轮眉均得到加宽。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/93",
+      "published": "2026-10-16T14:41:06+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，AOC 现已在京东上架“AGP277QKM”27 英寸显示器，该机主打 2K 425Hz，<strong>定价为 3254 元</strong>，部分地区国补后低至 2928.6 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDmQpAr\" target=\"_blank\"><spa",
       "is_policy": false
     },
     {
-      "title": "比亚迪第三代秦 PLUS 申报图公布，预计 10 月下旬上市",
-      "url": "https://www.ithome.com/1/014/040.htm",
+      "title": "优派推出 VX27G58-2K-9 显示器：27\" QHD Fast IPS，超频 240Hz",
+      "url": "https://www.ithome.com/1/014/179.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:48:34+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 &nbsp;批《道路机动车辆生产企业及产品公告》新产品公示，<strong>比亚迪秦 PLUS EV</strong> 完成申报，预计 10 月下旬上市。</p><p style=\"text-align: center;\"><img alt=\"比亚迪秦PLUS EV 左前视图\" src=\"https://img.ithome.com/n",
+      "published": "2026-10-16T14:32:30+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，优派 (ViewSonic) 今日宣布推出电竞显示器新品 VX27G58-2K-9。这一型号基于 27\" QHD Fast IPS 面板，<strong>原生刷新率 200Hz、超频刷新率 240Hz</strong>，表面为防眩光 3H 涂层，售价 929 元</p><p style=\"text-align: center;\"><img class=\"no",
       "is_policy": false
     },
     {
-      "title": "国内“皮卡车”进城限制继续放开，四川成都发布征求意见稿",
-      "url": "https://www.ithome.com/1/014/039.htm",
+      "title": "京东集团：坚决维护员工合法权益并向有关部门举报，坚决反对某些平台操纵舆论",
+      "url": "https://www.ithome.com/1/014/177.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:38:51+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，四川省成都市公安局交通管理局今日发布关于征求《关于调整成都市轻型多用途货车（皮卡车）交通管理措施的通告（征求意见稿）》意见的通知，为进一步优化成都市营商环境，<strong>便利轻型多用途货车（皮卡车）通行</strong>，满足群众与企业生活生产需要，根据《中华人民共和国道路交通安全法》相关规定，决定对轻型多用途货车交通管理措施进行调整。</p><p st",
+      "published": "2026-10-16T14:28:55+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，“京东发言人”今晚发布声明，就近期一起员工被起诉事件表明立场。IT之家附原文如下：</p><blockquote><p>京东集团已关注到，近日我司员工在个人社交平台就大促节点在某竞对平台出现的异常舆论事件表达了相关看法，该竞对平台宣布对该员工提起多轮诉讼。</p><p>京东集团坚决维护员工的合法权益，法务部将支持员工提起反诉，并向有关部门发起举报。</p><",
       "is_policy": false
     },
     {
-      "title": "燃油管密封不严，梅赛德斯-奔驰中国召回 2 辆进口 AMG GT 汽车",
-      "url": "https://www.ithome.com/1/014/038.htm",
-      "source": "IT之家",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-16T09:35:23+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，IT之家从国家市场监督管理总局获悉，日前，梅赛德斯-奔驰（中国）汽车销售有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。</p><p>召回编号 E2026M0086V：自即日起，召回 2024 年 10 月 19 日至 2024 年 11 月 25 日期间生产",
+      "published": "2026-10-16T14:26:51+00:00",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
       "is_policy": false
     },
     {
-      "title": "存在不合理排放风险，广汽本田召回讴歌 TLX / TLX-L 车型 4395 辆",
-      "url": "https://www.ithome.com/1/014/037.htm",
+      "title": "乔思伯推出 DS360 系列机箱副屏：占据 360 风扇位，10.36\" / 14.5\" 双规格",
+      "url": "https://www.ithome.com/1/014/176.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:35:21+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，IT之家从国家市场监督管理总局获悉，日前，广汽本田汽车有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。</p><p>一、召回编号 E2026M0088V：自 2026 年 11 月 30 日起，召回 2014 年 3 月 3 日至 2015 年 11 月 2 ",
+      "published": "2026-10-16T14:18:20+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，乔思伯 (JONSBO) 本周在官网上线了 DS360 / DS360 MAX 两款机箱副屏产品。其占据 360 风扇位，采用小圆角设计，覆盖高透玻璃盖板，拥有 PVC 镜面饰片。</p><table align=\"center\"><tbody><tr class=\"firstRow\"><td align=\"center\" valign=\"middle\"><",
       "is_policy": false
     },
     {
-      "title": "北京现代伊兰特新车引进：全新设计外观，1.5L 汽油动力",
-      "url": "https://www.ithome.com/1/014/036.htm",
+      "title": "Linux 调频策略引发讨论：华为建议默认开启 CPU Boost，Arm 工程师提出异议",
+      "url": "https://www.ithome.com/1/014/175.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:34:47+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，全新北京现代伊兰特完成申报。</p><p>本次申报共有两款版本，均为<strong>汽油动力</strong>车型，外观采用了全新的棱角化设计，整体风格更具未来感，贯穿式日行灯搭配硬朗的线条，辨识度大幅提升。</p><p style=\"text-align: center;\"><img a",
+      "published": "2026-10-16T14:18:16+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，Phoronix 发现，华为工程师张鹏杰（Pengjie Zhang）昨日向 Linux 内核提交补丁，提议在支持相关功能的前提下默认启用 ACPI CPPC CPUFreq 驱动中的 CPU Boost 模式。为此，该补丁修改了 <span class=\"link-text-start-with-http\">cppc_cpufreq.c</span> 文件",
       "is_policy": false
     },
     {
-      "title": "AX 电竞叛客推出 GeForce RTX 5060 Ti X3W PRO 16GB 显卡，厚度 43mm",
-      "url": "https://www.ithome.com/1/014/035.htm",
+      "title": "红龙上架 Light 75 Pro 客制化机械键盘：8KHz 回报率、支持三模连接，369 元起",
+      "url": "https://www.ithome.com/1/014/174.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:34:19+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，AX 电竞叛客 AX 电竞叛客 (AX GAMING) 今日宣布推出 GeForce RTX 5060 Ti X3W PRO 16GB 显卡。这一型号三维 319×117×43 (mm)，拥有白色机身。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ith",
+      "published": "2026-10-16T14:11:55+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，红龙现已在京东上架 Light 75 Pro 客制化机械键盘，该产品提供 8KHz 回报率，支持三模连接，<strong>樱焰版本定价为 369 元，墨焰版本</strong><strong>定价为 399 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
       "is_policy": false
     },
     {
-      "title": "抖音宣布同意三只羊公司恢复经营",
-      "url": "https://www.ithome.com/1/014/033.htm",
+      "title": "前行者 Z7 MAX 复合碳纤维鼠标发售：中大手对称模具，低至 359.5 元",
+      "url": "https://www.ithome.com/1/014/173.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:30:08+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，抖音今日发布公告称，2024 年 9 月，抖音依据相关法律法规及平台规则，对合肥三只羊网络科技有限公司旗下账号作出停播处置，并敦促其整改及妥善处理消费者售后赔付事宜。</p><p>依据合肥市市场监督管理局发布的《关于合肥三只羊网络科技有限公司整改情况的通报》，<strong>三只羊公司整改符合要求，具备恢复经营条件</strong>。</p><p>抖音宣布，",
+      "published": "2026-10-16T14:05:17+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，前行者 (EWEADN) 今日启动了 Z7 MAX 鼠标的销售。这一型号采用中大手对称模具，三维 125.7 × 63.4 × 39.2 (mm)，外壳为复合碳纤维材料，质量 55±2g，<strong>低至 359.5 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\"",
       "is_policy": false
     },
     {
-      "title": "Wi-Fi 7 路由器 249 → 116 元：腾达云霄 BE5100 京东 11.11 直降",
-      "url": "https://www.ithome.com/1/014/032.htm",
+      "title": "2026 珠海航展门票 10 月 19 日 12 时开售：公众日 12 月 11 日起，个人票 600 元",
+      "url": "https://www.ithome.com/1/014/172.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:25:42+00:00",
-      "summary": "<h3>需京东 PLUS 会员</h3><p>腾达云霄 BE5100 Wi-Fi 7 路由器开售于 2024 &nbsp;年 10 月 21 日，这款路由器主打“5 颗 FEM、NFC 一键联网”，今年日常售价 249 元。</p><p>京东自营今日 PLUS 会员直降至 163.8 元，下单返 20% 可提现（仅限今日 10 月 16 日），实付 163.8 元返 32.76 元折合 <stro",
+      "published": "2026-10-16T14:03:11+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，今日，第十六届中国航展（2026 珠海航展）门票销售发布会在珠海举行，本届航展票务政策正式对外公布。<strong>门票将于 10 月 19 日中午 12 时启动售卖</strong>。</p><p>本届航展全部门票实行<strong><span class=\"wx_text_underline\">实名制线上购票，一人一票、单次当日入场有效，</span><",
+      "is_policy": true
+    },
+    {
+      "title": "微软秘密测试“Project Odeon”新应用，界面与 Win11 设置几乎一致",
+      "url": "https://www.ithome.com/1/014/171.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-16T14:02:40+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，Windows Latest 今日报道称，微软正在测试一款代号为“Project Odeon”的应用。该应用通过微软商店分发，采用与 Windows 11 系统“设置”几乎相同的界面和图标。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
       "is_policy": false
     },
     {
-      "title": "全新比亚迪汉申报：纯电插混多版本，车长 5156mm 轴距 3030mm",
-      "url": "https://www.ithome.com/1/014/031.htm",
-      "source": "IT之家",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-16T09:22:34+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，全新比亚迪汉（也有人称其为第二代汉或大汉）完成申报。</p><p>本次申报一共包含四款车型，分别是三款纯电动版本和一款插电式混合动力版本，车身尺寸保持统一，长宽高为 5156 * 1969 * 1492 / 1507 mm，轴距为 3030 mm，前轮距 1695 mm，后轮距 1700 ",
+      "published": "2026-10-16T14:00:00+00:00",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th",
       "is_policy": false
     },
     {
-      "title": "一汽-大众 ID.AURA L5 纯电轿车申报，可选激光雷达",
-      "url": "https://www.ithome.com/1/014/030.htm",
+      "title": "微星发布《使命召唤：现代战争 4》联名 GeForce RTX 5080 16GB 显卡，拥有独家黄色散热",
+      "url": "https://www.ithome.com/1/014/170.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:22:33+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，<strong>一汽-大众 <span class=\"link-text-start-with-http\">ID.AURA</span> L5</strong> 纯电动轿车完成申报。</p><p><strong>一汽-大众 <span class=\"link-text-start-with",
+      "published": "2026-10-16T13:57:07+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，微星 (MSI) 今日发布了限量的 GeForce RTX 5080 16G COD MW4 EDITION OC 显卡。这一产品由微星与动视合作开发，设计灵感源于游戏《使命召唤：现代战争 4》。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome",
       "is_policy": false
     },
     {
-      "title": "海康威视 2026 年三季度归母净利润 50.16 亿元，同比增长 36.97%",
-      "url": "https://www.ithome.com/1/013/974.htm",
+      "title": "阿维塔 07L 新车申报：新增 1.5T 增程动力，定位中大型 SUV",
+      "url": "https://www.ithome.com/1/014/169.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:18:27+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，海康威视今日发布 2026 年三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：272.22 亿元，同比增长 13.71%</p></li><li><p><strong>归母净利润</strong>：50.16 亿元，同",
+      "published": "2026-10-16T13:44:25+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，工信部今日发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，阿维塔 07L 增程版完成申报。</p><p>阿维塔 07L 定位插电式增程混合动力多用途乘用车，由重庆长安汽车股份有限公司生产，提供不同高度可选，车身长宽高分别为 4910 mm / 1980 mm / 1650 mm、1670 mm，<strong>轴距为 2990 mm</str",
       "is_policy": false
     },
     {
-      "title": "玩家将初代《光环》多人模式移植至经典任天堂 N64 游戏机：支持 4 人分屏及人机对战",
-      "url": "https://www.ithome.com/1/014/029.htm",
+      "title": "长鑫科技 2026 年前三季度预计归母净利润 1310~1325 亿元，同比扭亏为盈",
+      "url": "https://www.ithome.com/1/014/168.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:17:37+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，据外媒 XDA 报道，开发者 Jack Tulli 将《光环》系列 IP 初代作《光环：战斗进化（Halo：Combat Evolved）》的多人模式移植到了任天堂 N64 主机上。相应项目名为“Halo 64”，采用了低多边形画面风格，支持最多 4 名玩家在本地通过分屏方式对战。</p><p style=\"text-align: center;\"><img",
+      "published": "2026-10-16T13:43:35+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，长鑫科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）业绩预告报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：2650 亿元 ~2700 亿元，同比预增 725.96%~741.54%</p></li><li><p><strong>归母净利",
       "is_policy": false
     },
     {
-      "title": "IBM 计划 2027Q1 推出 7A nanostack 尖端制程的早期研发 PDK",
-      "url": "https://www.ithome.com/1/014/028.htm",
+      "title": "泰坦军团 XDR 2000nits 显示器 P276MX ULTRA 发售：5K 双模 QD Mini LED，5555 元",
+      "url": "https://www.ithome.com/1/014/161.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:15:48+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，IBM 当地时间本月 14 日宣布，其<strong>计划在 2027 年第 1 季度发布适用于其 7A nanostack 尖端制程的早期研发 PDK</strong>（IT之家注：工艺设计套件）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.itho",
+      "published": "2026-10-16T13:33:02+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，泰坦军团现已在京东上架“P276MX Ultra”27 英寸显示器，该机主打 5K 180Hz/2K 360Hz 双模，在 XDR 模式下亮度可达 2000nits，同时配备 AR 抗反射膜和 ATW 视角补偿膜，<strong>定价 5555 元</strong>。</p><dir><a contenteditable=\"false\" href=\"http",
       "is_policy": false
     },
     {
-      "title": "奕境 X9 纯电版新车申报：四驱版搭载 300kW+150kW 双电机",
-      "url": "https://www.ithome.com/1/014/027.htm",
+      "title": "为期 4 年，京津冀等 5 个城市群将开展氢能综合应用试点工作",
+      "url": "https://www.ithome.com/1/014/160.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:15:40+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，奕境 X9 纯电动多用途乘用车完成申报。</p><p>奕境 X9 定位纯电动大六座 SUV，本次申报推出两个版本，均提供了 6 座布局，车身尺寸方面，双电机版本长宽高分别为 5301 mm / 2015 mm / 1805 mm，单电机版本长宽高为 5301 mm / 2015 mm / ",
+      "published": "2026-10-16T13:26:14+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，工业和信息化部、财政部、国家发展改革委今日发布关于同意京津冀等 5 个城市群开展氢能综合应用试点工作的通知，原则同意<strong>京津冀、大湾区、东北（含蒙东）— 长三角、新疆 — 成渝地区双城经济圈、黄河几字弯 — 中原</strong>等 5 个城市群试点工作方案，开展氢能综合应用试点工作，试点为期 4 年。三部门将对试点工作进行跟踪指导，并予以考核评",
       "is_policy": false
     },
     {
-      "title": "20:00 开抢淘宝 1.1 元大红包人人有份，华为 Pura 80 京东月黑风高限量秒杀",
-      "url": "https://www.ithome.com/1/014/025.htm",
+      "title": "荣耀 HONOR Life 自带线移动电源发售：22.5W 双向快充，20000mAh 版 198 元",
+      "url": "https://www.ithome.com/1/014/159.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:13:45+00:00",
-      "summary": "<p><strong><span class=\"font-color-orangered\">淘宝 </span>无门槛红包至高 26888 元</strong>，每天抽 1 次：<a href=\"https://s.click.taobao.com/t?union_lens=lensId%3APUB%401792050488%402127ad07_0cd0_1a13e886619_b4ba%400",
+      "published": "2026-10-16T13:21:17+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，荣耀京东自营店新上架了两款 HONOR Life 移动电源，10000mAh 版本 148 元，20000mAh 版本 198 元，现已开售。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1",
       "is_policy": false
     },
     {
-      "title": "领克 900L 新车申报：全新前脸设计 + 红色涂装",
-      "url": "https://www.ithome.com/1/014/023.htm",
+      "title": "苹果首款折叠屏手机 iPhone Duo 预约火爆，官网排到明年发货",
+      "url": "https://www.ithome.com/1/014/157.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:12:22+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，领克 900L 插电式混合动力多用途乘用车完成申报，采用全新前脸设计 + 红色涂装。</p><p>本次申报的领克 900L 为<strong> 7 座</strong>布局，属于插电式混合动力多用途乘用车，燃料种类为汽油 / 电混合动力，允许外接充电，具备纯电动模式。车身尺寸方面，新车长宽",
+      "published": "2026-10-16T12:57:49+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 于今晚 8 点开启预购，国行定价 15999 元起，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等渠道，购买页面一度无法正常打开。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgolJh2\" target=\"_blan",
       "is_policy": false
     },
     {
-      "title": "鸿蒙智行新款问界 M7 系列车型申报：纯电 + 增程可选，支持五 / 六座布局",
-      "url": "https://www.ithome.com/1/014/022.htm",
-      "source": "IT之家",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-16T09:11:09+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，问界 M7 完成申报。</p><p>该车定位<strong>纯电动多用途乘用车</strong>，提供<strong>双电机四驱</strong>和<strong>单电机后驱</strong>版本可选，外观尺寸长宽高均为 5080 / 1999 / 1780 mm，轴距为 3030 mm，",
+      "published": "2026-10-16T12:55:09+00:00",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
       "is_policy": false
     },
     {
-      "title": "极氪 7X 雨雾天坠下约 60 米高架桥，车主发帖报平安称下一辆还是极氪",
-      "url": "https://www.ithome.com/1/014/021.htm",
+      "title": "七彩虹橘宝 R16 游戏本新增 AMD R7 H 255 + 16G + 512G + RTX 5060 配置，9999 元（国补 8499.15 元）",
+      "url": "https://www.ithome.com/1/014/156.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:09:29+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，继 10 月 9 日四川泸州一辆领克 10 EM-P 翻滚坠落至近百米崖底、车主仅受轻微伤的<a href=\"https://www.ithome.com/1/012/279.htm\" target=\"_blank\">事件</a>后，10 月 12 日早 8 时许，湖北省十堰境内，一辆极氪 7X 在雨雾天气情况下突发事故，坠下高架桥，车主仅受轻伤。</p><",
+      "published": "2026-10-16T12:48:30+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，七彩虹 MEOW 橘宝 R16 游戏本新增了一款搭载 AMD 锐龙 7 H 255 处理器 + RTX 5060 显卡 +16GB 内存 + 512GB 固态硬盘的版本，京东原价 10299 元，首发立减 300 元，叠加国补后到手价为 8499.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u",
       "is_policy": false
     },
     {
-      "title": "鸿蒙智行尚界 Z9 纯电动 SUV 申报：可选单 / 双电机、5 座 / 6 座",
-      "url": "https://www.ithome.com/1/014/019.htm",
+      "title": "V 社《Deadlock》Steam 同时在线人数创新高：突破 25 万人、跻身 Valve 游戏历史前三",
+      "url": "https://www.ithome.com/1/014/154.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:08:18+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，工信部今日发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，<strong>尚界 Z9 纯电动 SUV 完成申报</strong>。</p><p style=\"text-align: center;\"><img alt=\"尚界Z9单电机版左前视图\" src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "published": "2026-10-16T12:47:58+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，据外媒 NoteBook Check 报道，Valve 尚未正式公布的英雄射击与 MOBA 融合游戏《Deadlock》在 Steam 平台创下同时在线人数新纪录。</p><p>根据 SteamDB 数据，该作在 10 月 9 日当天同时在线量达 262,145 人，超过《军团要塞 2》（Team Fortress 2）在 2023 年 7 月创下的 253",
       "is_policy": false
     },
     {
-      "title": "券商发布《剑星》开发商 Shift Up 业绩预警：公司今明两年营收利润双降，新作空窗期压力显现",
-      "url": "https://www.ithome.com/1/014/018.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-16T09:05:48+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，据韩媒 The Elec 报道，Meritz Securities（韩国美利茨证券）发布预测，认为游戏开发商 Shift Up 预计将于今年迎来业绩下滑，公司营业利润同比降幅将超过 40%，且下滑趋势可能延续至明年。</p><p>Meritz Securities 表示，Shift Up 今年营收预计为 2,050 亿韩元<span class=\"exch-",
+      "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-16T12:41:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here.</p> <p>Nowadays I do the review,",
       "is_policy": false
     },
     {
-      "title": "华硕 XG27ACMSR 显示器上线：QHD 360Hz / FHD 420Hz / HD 640Hz",
-      "url": "https://www.ithome.com/1/014/017.htm",
+      "title": "德明利 2026 年前三季度预计归母净利润 86.5~89.5 亿元，预计同比增长 32046.52%~33154.49%",
+      "url": "https://www.ithome.com/1/014/153.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:05:22+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，华硕 (ASUS) 近日上线了 ROG Strix XG27ACMSR。该型号是华硕日益庞大的三模显示器阵容的一部分，<strong>支持 QHD 360Hz / FHD 420Hz / HD 640Hz</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"http",
+      "published": "2026-10-16T12:41:36+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，德明利今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）业绩预告报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：275 亿元 ~295 亿元，预计同比增长 312.97%~343%</p></li><li><p><strong>归母净利润</s",
       "is_policy": false
     },
     {
-      "title": "消息称某厂超大杯评估测试天玑 9600 Pro 处理器，预计为 OPPO Find X10 Ultra",
-      "url": "https://www.ithome.com/1/014/016.htm",
+      "title": "2026 款理想 i6 智能座舱升级：支持苹果 CarPlay、华为 HiCar，更新 29 英寸 6K 全景屏",
+      "url": "https://www.ithome.com/1/014/152.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-16T09:02:56+00:00",
-      "summary": "<p>IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料称，某厂超大杯确实在同步评估测试 D9600 Pro（天玑 9600 Pro）处理器。结合该博主此前的爆料习惯，该机预计为 OPPO Find X10 Ultra。</p><p>不过，该博主强调该方案但还没完全定下来，过两个月再看。目前，<strong>处于 AB Test 测试阶段</strong>，还需要等内部博弈。</p><",
+      "published": "2026-10-16T12:30:17+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，理想汽车今日发布新一期答网友问，公布了关于 2026 款理想 i6 智能座舱的几大升级。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/9238bef7-7457-4513-b861-8",
+      "is_policy": false
+    },
+    {
+      "title": "懂车帝否认“7 月后视频都删了”：系恶意拼图，呼吁网友注意甄别",
+      "url": "https://www.ithome.com/1/014/150.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-16T12:25:22+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，懂车帝刚刚发布声明，针对近期网络上流传的“懂车帝删视频”相关谣言进行澄清。</p><p>声明指出，部分网络内容通过拼接不同账号、不同时间的数据截图，制造“懂车帝大规模删除测试视频”的假象，相关说法均属谣言。IT之家附官方截图如下：</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"h",
+      "is_policy": false
+    },
+    {
+      "title": "CDPR 确认《赛博朋克 2077》真人电影不会照搬游戏剧情，与动画一样讲述原创故事",
+      "url": "https://www.ithome.com/1/014/149.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-16T12:17:21+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，CDPR 联合首席执行官 Michał Nowakowski 于 10 月 15 日在接受波兰媒体 PAP Biznes 的采访表示，《赛博朋克 2077》真人电影不会照搬游戏剧情，而是计划在同一世界观下讲述全新的故事。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https:",
+      "is_policy": false
+    },
+    {
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-16T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not",
+      "is_policy": false
+    },
+    {
+      "title": "中国联通回馈 2009 年首批 iPhone 用户，开放 iPhone Duo 最高优先级购机资格",
+      "url": "https://www.ithome.com/1/014/146.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-16T12:00:10+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，中国联通今日宣布，面向 2009 年通过联通渠道购得正版 iPhone 的老用户，开放 iPhone Duo 最高优先级购机资格。</p><p>相关用户可通过联通官网（IT之家附地址：<a href=\"https://go.10010.com:32001/apple-booking/\" target=\"_blank\"><span class=\"link-te",
+      "is_policy": false
+    },
+    {
+      "title": "一汽-大众探歌 L 新车申报：提供 1.4T/1.5T 动力，轴距 2730mm",
+      "url": "https://www.ithome.com/1/014/145.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-16T12:00:04+00:00",
+      "summary": "<p>IT之家 10 月 16 日消息，工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，一汽-大众探歌 L 完成申报。</p><p style=\"text-align: center;\"><img alt=\"大众 T-ROC L 左前视图\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/d129068f-b112-47",
       "is_policy": false
     },
     {
@@ -1817,6 +1880,33 @@
       "is_policy": false
     },
     {
+      "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
+      "url": "https://huggingface.co/papers/2610.22127",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "Personalization of Large Language Models (LLMs) is increasingly important for user-centric applications, yet prior methods mainly adapt dense LLMs, whose polysemantic neurons, each encoding multiple u",
+      "is_policy": false
+    },
+    {
+      "title": "Gen4P: Video Generators are 4D Perceivers",
+      "url": "https://huggingface.co/papers/2610.22371",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without",
+      "is_policy": false
+    },
+    {
+      "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill",
+      "url": "https://huggingface.co/papers/2610.21500",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "Reusing the attention KV cache across requests is a standard way to cut prefill cost in long-context LLM serving, and production systems increasingly back the per-engine cache with a remote tier share",
+      "is_policy": false
+    },
+    {
       "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
       "url": "https://huggingface.co/papers/2610.22352",
       "source": "HF Papers",
@@ -2006,33 +2096,6 @@
       "is_policy": false
     },
     {
-      "title": "Memory as Weights: Internalizing Long-Term History for Streaming Videos",
-      "url": "https://huggingface.co/papers/2610.22070",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "Streaming vision-language models (VLMs) must continuously integrate information from the past while remaining responsive to current observations and user queries. Existing memory mechanisms typically ",
-      "is_policy": false
-    },
-    {
-      "title": "A team of Gemini 4 Argon agents beats Minecraft",
-      "url": "https://huggingface.co/papers/2610.22319",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "We placed four Gemini 4 Argon agents in a sandboxed Minecraft survival world and gave them one goal: defeat the Ender Dragon. Each agent controlled a player via an open-source library called Mineflaye",
-      "is_policy": false
-    },
-    {
-      "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
-      "url": "https://huggingface.co/papers/2610.21055",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-14T20:00:00+00:00",
-      "summary": "Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training",
-      "is_policy": false
-    },
-    {
       "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
       "source": "r/MachineLearning",
@@ -2087,42 +2150,6 @@
       "is_policy": false
     },
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T15:16:04+00:00",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "is_policy": false
-    },
-    {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T15:13:24+00:00",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar",
-      "is_policy": false
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T15:08:00+00:00",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "is_policy": false
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-14T15:00:00+00:00",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "is_policy": false
-    },
-    {
       "title": "The Download: faking blood and the future of batteries",
       "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
       "source": "MIT Tech Review",
@@ -2156,15 +2183,6 @@
       "category": "community",
       "published": "2026-10-14T10:16:24+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/\"> <img alt=\"Event2Vec: additive event embeddings where a linear score o",
-      "is_policy": false
-    },
-    {
-      "title": "The US military’s race to make fake blood",
-      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-14T09:00:00+00:00",
-      "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, wh",
       "is_policy": false
     },
     {
@@ -2240,6 +2258,15 @@
       "is_policy": false
     },
     {
+      "title": "One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation",
+      "url": "https://huggingface.co/papers/2610.20993",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-13T20:00:00+00:00",
+      "summary": "Reordering multiple-choice options can change a model's answer, an effect studied as selection bias (a preference for certain option letters) and as order sensitivity (changes in answers across option",
+      "is_policy": false
+    },
+    {
       "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
       "url": "https://huggingface.co/papers/2610.20939",
       "source": "HF Papers",
@@ -2273,15 +2300,6 @@
       "category": "papers",
       "published": "2026-10-13T20:00:00+00:00",
       "summary": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined b",
-      "is_policy": false
-    },
-    {
-      "title": "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment",
-      "url": "https://huggingface.co/papers/2610.17665",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-13T20:00:00+00:00",
-      "summary": "Can vision-language models turn 2D observations into 3D understanding that supports precise action? This requires inferring object geometry, anticipating the effects of rotation, and refining actions ",
       "is_policy": false
     },
     {
@@ -2372,15 +2390,6 @@
       "category": "community",
       "published": "2026-10-13T07:34:40+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/\"> <img alt=\"Machine Learning Tutorial/Workshop [D]\" src=\"https://preview.redd.i",
-      "is_policy": false
-    },
-    {
-      "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-12T19:09:27+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we're on the way right now, and that things will be incredib",
       "is_policy": false
     }
   ]
