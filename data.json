@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:57:53.246967+00:00",
+  "generated_at": "2026-10-19T21:59:16.745916+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "The open source coding agent.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/stablyai/orca",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "is_policy": false
     },
@@ -75,7 +75,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "is_policy": false
     },
@@ -84,8 +84,134 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-19T17:57:53+00:00",
+      "published": "2026-10-19T21:59:16+00:00",
       "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "is_policy": false
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-19T21:48:01+00:00",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more ",
+      "is_policy": false
+    },
+    {
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-19T21:28:20+00:00",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L",
+      "is_policy": false
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-19T20:09:24+00:00",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "is_policy": false
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-19T19:28:34+00:00",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to",
+      "is_policy": false
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-19T19:00:12+00:00",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "is_policy": false
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-19T18:49:04+00:00",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "is_policy": false
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-19T18:37:27+00:00",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 watchOS 27.2 RC 发布",
+      "url": "https://www.ithome.com/1/015/065.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-19T18:35:06+00:00",
+      "summary": "<p style=\"text-align: center;\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p> IT之家 10 月 20 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 RC 更新（内部版本号：24S116），本次更新距离上次发布 Beta/RC 间隔 6 天。</p> <p style=\"te",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 visionOS 27.2 RC 发布",
+      "url": "https://www.ithome.com/1/015/064.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-19T18:35:05+00:00",
+      "summary": "<p> IT之家 10 月 20 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 RC 更新（内部版本号：24N118），本次更新距离上次发布 Beta/RC 间隔 6 天。</p> <p style=\"text-align: center;\"> <img alt=\"苹果 visionOS 操作系统\" src=\"https://img.ithome.com/new",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 macOS 27.2 RC 发布",
+      "url": "https://www.ithome.com/1/015/063.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-19T18:35:05+00:00",
+      "summary": "<p> IT之家 10 月 20 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 RC 更新（内部版本号：26B118），本次更新距离上次发布 Beta/RC 间隔 6 天。</p> <p style=\"text-align: center;\"> <img alt=\"苹果 macOS 操作系统\" src=\"https://img.ithome.com/newsuploadfile",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 iOS/iPadOS 27.2 RC 发布",
+      "url": "https://www.ithome.com/1/015/062.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-19T18:35:04+00:00",
+      "summary": "<p style=\"text-align: center;\"> 【<a href=\"#profile-download\">点此直达升级教程</a>】 </p><p> IT之家 10 月 20 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 RC 更新（内部版本号：24B115），本次更新距离上次发布 Beta/RC 间隔 6 天。</p> <p styl",
+      "is_policy": false
+    },
+    {
+      "title": "ML on a shoestring? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-19T18:23:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, ML people of Reddit! I have come to ask for some human advice. I am an amateur (as in unpaid) ML researcher working on a personal project to find drug repurposing",
+      "is_policy": false
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-19T18:22:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just",
+      "is_policy": false
+    },
+    {
+      "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-19T18:15:18+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the res",
       "is_policy": false
     },
     {
@@ -95,6 +221,15 @@
       "category": "community",
       "published": "2026-10-19T17:50:49+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become i",
+      "is_policy": false
+    },
+    {
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-19T17:45:55+00:00",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha",
       "is_policy": false
     },
     {
@@ -121,16 +256,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-19T16:13:22+00:00",
-      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "is_policy": false
-    },
-    {
-      "title": "ICLR Desk Rejected with no apparent reason [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xa0ris/iclr_desk_rejected_with_no_apparent_reason_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-19T15:59:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just received an email. No reason or justification given. Can't appeal. And I'm a solo author.</p> <p>Absolutely no issues with paper formatting, everything verified.",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
       "is_policy": false
     },
     {
@@ -395,15 +521,6 @@
       "is_policy": false
     },
     {
-      "title": "经典模拟经营 IP 新作《海岛大亨 7》试玩 Demo 免费登陆 Steam，支持简体中文",
-      "url": "https://www.ithome.com/1/015/011.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-19T12:13:12+00:00",
-      "summary": "<p>IT之家 10 月 19 日消息，Kalypso Media 招牌模拟经营系列新作《海岛大亨 7》（ Tropico 7 ）的试玩 Demo 现已免费上架 Steam 平台，玩家可以提前体验部分游戏内容。游戏本体计划将于 2027 年 1 月 28 日正式发售，由 Gaming Minds Studios 开发，Kalypso Media 发行。IT之家附游戏商品页（<a href=\"htt",
-      "is_policy": false
-    },
-    {
       "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
       "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
       "source": "MIT Tech Review",
@@ -419,33 +536,6 @@
       "category": "news",
       "published": "2026-10-19T12:00:00+00:00",
       "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra",
-      "is_policy": false
-    },
-    {
-      "title": "1999 元起 → 2499 元起，荣耀 X80 Pro Max 手机官网涨价",
-      "url": "https://www.ithome.com/1/015/009.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-19T11:47:23+00:00",
-      "summary": "<p>IT之家 10 月 19 日消息，荣耀 X80 Pro Max 手机现已在官网渠道调价，涨价 500 元，<strong>起售价从 1999 元变为 2499 元</strong>。不过官网目前提供了 180 元优惠券，<strong>实际到手价约为 2319 元起</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-",
-      "is_policy": false
-    },
-    {
-      "title": "消息称三星 Galaxy S27 系列手机可能回归“1 月至 2 月”发布节奏，Pro / Ultra 机型有望升级 LPDDR6 及 UFS 5",
-      "url": "https://www.ithome.com/1/015/008.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-19T11:39:52+00:00",
-      "summary": "<p>IT之家 10 月 19 日消息，消息源 Lanzuk 在 Naver 平台发文，透露三星下一代 Galaxy S27 系列手机可能重新回归以往的“1 月至 2 月”发布节奏，不过目前具体发布日期尚未确定。</p><p>IT之家注意到，Lanzuk 声称三星原先计划为标准版 Galaxy S27 和 Galaxy S27+ 配备 LPDDR5X 内存与 UFS <span class=\"li",
-      "is_policy": false
-    },
-    {
-      "title": "顺丰控股：9 月快递物流业务合计营收 287.19 亿元，同比增 6.34%",
-      "url": "https://www.ithome.com/1/015/007.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-19T11:39:37+00:00",
-      "summary": "<p>IT之家 10 月 19 日消息，顺丰控股今日公告称，2026 年 9 月公司速运物流业务、供应链及国际业务合计营收 287.19 亿元，同比增长 6.34%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/10865e",
       "is_policy": false
     },
     {
@@ -1759,7 +1849,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-17T18:48:08+00:00",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partn",
       "is_policy": false
     },
     {
@@ -1787,15 +1877,6 @@
       "category": "community",
       "published": "2026-10-17T09:56:53+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I just finished my masters and got a neurIPS workshop acception. Unfortunately the lab I did it with do not want to fund neither the registration nor fligh",
-      "is_policy": false
-    },
-    {
-      "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-17T08:17:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my ",
       "is_policy": false
     },
     {
@@ -1907,15 +1988,6 @@
       "is_policy": false
     },
     {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-16T12:55:09+00:00",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "is_policy": false
-    },
-    {
       "title": "The Download: failed social media bans, and extending pets’ lives",
       "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
       "source": "MIT Tech Review",
@@ -1943,24 +2015,6 @@
       "is_policy": false
     },
     {
-      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuc",
-      "is_policy": false
-    },
-    {
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-16T07:56:32+00:00",
-      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the ",
-      "is_policy": false
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI Blog",
@@ -1976,42 +2030,6 @@
       "category": "news",
       "published": "2026-10-16T00:00:00+00:00",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "is_policy": false
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-15T23:44:56+00:00",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "is_policy": false
-    },
-    {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-15T22:43:23+00:00",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, Op",
-      "is_policy": false
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-15T22:35:55+00:00",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-      "is_policy": false
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-15T20:04:53+00:00",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
       "is_policy": false
     },
     {
@@ -2084,33 +2102,6 @@
       "category": "papers",
       "published": "2026-10-15T20:00:00+00:00",
       "summary": "A memory test for a video world model should say whether the scene was set, whether the asked change was carried out, and whether the last frame shows the result. Current tests fold these into one num",
-      "is_policy": false
-    },
-    {
-      "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
-      "url": "https://huggingface.co/papers/2610.23479",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-15T20:00:00+00:00",
-      "summary": "Agents built on vision language models (VLMs) now compete with learned policies on robot manipulation leaderboards. We ask how far a coding agent can go when it controls a robot instead of a computer,",
-      "is_policy": false
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-15T19:55:25+00:00",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "is_policy": false
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-15T19:14:26+00:00",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
       "is_policy": false
     },
     {
@@ -2390,6 +2381,15 @@
       "category": "news",
       "published": "2026-10-14T00:00:00+00:00",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "is_policy": false
+    },
+    {
+      "title": "Recognition Is Not Grounding: Benchmarking Multilingual Financial Evidence Extraction",
+      "url": "https://huggingface.co/papers/2610.19432",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-13T20:00:00+00:00",
+      "summary": "Comparing financial disclosures across languages requires identifying shared accounting concepts and recovering all numerical facts that express them. Existing benchmarks evaluate aspects of these cap",
       "is_policy": false
     },
     {
