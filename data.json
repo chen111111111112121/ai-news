@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:17:37.146168+00:00",
+  "generated_at": "2026-10-22T20:58:36.574354+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-22T16:17:37+00:00",
+      "published": "2026-10-22T20:58:36+00:00",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-22T16:17:37+00:00",
+      "published": "2026-10-22T20:58:36+00:00",
       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "is_policy": false
     },
@@ -30,8 +30,161 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-22T16:17:37+00:00",
+      "published": "2026-10-22T20:58:36+00:00",
       "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "is_policy": false
+    },
+    {
+      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-22T20:57:42+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A while back I posted SteerTTS v1, a small English TTS you steer with numbers (<a href=\"https://huggingface.co/WhissleAI/steer-tts\">https://huggingface.co/WhissleAI/s",
+      "is_policy": false
+    },
+    {
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T20:32:05+00:00",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address ",
+      "is_policy": false
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T20:24:04+00:00",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi",
+      "is_policy": false
+    },
+    {
+      "title": "西部数据 2027 财年第一财季归母净利润 17.79 亿美元，同比增长 54%",
+      "url": "https://www.ithome.com/1/016/759.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-22T20:19:37+00:00",
+      "summary": "<p class=\"v-focus\"> IT之家 10 月 23 日消息，西部数据今日发布 2027 财年（2026年7月4日～2027年7月2日）第一财季（2026年7月4日～2026年10月2日）报告：</p><ul class=\"list-paddingleft-2 v-focus\"> <li> <p> <strong>营业总收入</strong>：43.81 亿美元<span class=",
+      "is_policy": false
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T19:45:00+00:00",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
+      "is_policy": false
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-22T19:07:09+00:00",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "is_policy": false
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "is_policy": false
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "is_policy": false
+    },
+    {
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T18:58:19+00:00",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents ",
+      "is_policy": false
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-22T18:48:04+00:00",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech F",
+      "is_policy": true
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-22T18:43:53+00:00",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft",
+      "is_policy": false
+    },
+    {
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T18:15:00+00:00",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans r",
+      "is_policy": false
+    },
+    {
+      "title": "ICLR Text Editor [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-22T18:07:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Have you looked at this iclr text detector?</p> <p>[<a href=\"https://opentextdetector.com/%5D(https://opentextdetector.com/\">https://opentextdetector.com/](https://op",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T18:00:00+00:00",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. ",
+      "is_policy": false
+    },
+    {
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-22T17:21:31+00:00",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the re",
+      "is_policy": false
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-22T16:47:17+00:00",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
       "is_policy": false
     },
     {
@@ -58,7 +211,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-22T16:00:00+00:00",
-      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
       "is_policy": false
     },
     {
@@ -112,7 +265,7 @@
       "source": "IT之家",
       "category": "news",
       "published": "2026-10-22T15:36:19+00:00",
-      "summary": "<p>IT之家 10 月 22 日消息，近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/1653076903/RnGIcAfJN\" target=\"_blank\"><img src=\"https://img.it",
+      "summary": "<p class=\"v-focus\">IT之家 10 月 22 日消息，近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/1653076903/RnGIcAfJN\" target=\"_blank\"><img src",
       "is_policy": false
     },
     {
@@ -350,24 +503,6 @@
       "is_policy": false
     },
     {
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-22T14:00:00+00:00",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for t",
-      "is_policy": false
-    },
-    {
-      "title": "尽管评价褒贬不一，《漫威金刚狼》仍成美国 9 月最畅销新游戏",
-      "url": "https://www.ithome.com/1/016/703.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-22T13:54:32+00:00",
-      "summary": "<p>IT之家 10 月 22 日消息，据游戏媒体 Eurogamer 今天报道，尽管《漫威金刚狼》的媒体评分并不理想，但这款由失眠组打造的游戏，依然登顶美国 9 月新游销量榜。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/",
-      "is_policy": false
-    },
-    {
       "title": "Claude Duet app is Anthropic’s bet on agents",
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "source": "TechCrunch AI",
@@ -391,16 +526,7 @@
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-22T13:11:13+00:00",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "is_policy": false
-    },
-    {
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-22T13:00:00+00:00",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free ",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
       "is_policy": false
     },
     {
@@ -413,39 +539,12 @@
       "is_policy": false
     },
     {
-      "title": "AI agents are ready to shop. Some retailers are wary",
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-22T12:30:00+00:00",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and",
-      "is_policy": false
-    },
-    {
-      "title": "Claude did not invent scorpion antivenom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-22T12:21:07+00:00",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It c",
-      "is_policy": false
-    },
-    {
       "title": "The Download: computing’s next leap and permafrost’s climate threat",
       "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
       "source": "MIT Tech Review",
       "category": "news",
       "published": "2026-10-22T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December eveni",
-      "is_policy": false
-    },
-    {
-      "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-22T11:00:00+00:00",
-      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily",
       "is_policy": false
     },
     {
@@ -1574,6 +1673,15 @@
       "is_policy": false
     },
     {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "is_policy": false
+    },
+    {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "source": "TechCrunch AI",
@@ -1589,24 +1697,6 @@
       "category": "news",
       "published": "2026-10-21T22:45:34+00:00",
       "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "is_policy": false
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-21T22:33:44+00:00",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New an",
-      "is_policy": false
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-21T21:30:02+00:00",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward p",
       "is_policy": false
     },
     {
@@ -1772,15 +1862,6 @@
       "is_policy": false
     },
     {
-      "title": "Cleaning up PFAS",
-      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firef",
-      "is_policy": false
-    },
-    {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "source": "OpenAI Blog",
@@ -1844,39 +1925,21 @@
       "is_policy": true
     },
     {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-20T22:24:02+00:00",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "title": "FrontierCS 2: A Benchmark for Computer Science R&D",
+      "url": "https://huggingface.co/papers/2610.29932",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-20T20:00:00+00:00",
+      "summary": "Can LLM agents make contributions to frontier computer science R&D? We introduce FrontierCS 2, a benchmark of 48 open-ended tasks. We take a paper and the code its authors released and delete the pape",
       "is_policy": false
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-20T21:25:22+00:00",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
-      "is_policy": false
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-20T20:40:41+00:00",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "is_policy": false
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-20T20:35:10+00:00",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
+      "title": "Looped Uniform Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.30066",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-20T20:00:00+00:00",
+      "summary": "Uniform diffusion language models (UDLMs) generate text by iteratively denoising sequences of ordinary vocabulary tokens, any of which may be corrupted and subsequently revised. During training, UDLMs",
       "is_policy": false
     },
     {
@@ -2051,33 +2114,6 @@
       "is_policy": false
     },
     {
-      "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
-      "url": "https://huggingface.co/papers/2610.30090",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-20T20:00:00+00:00",
-      "summary": "Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable outp",
-      "is_policy": false
-    },
-    {
-      "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.29458",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-20T20:00:00+00:00",
-      "summary": "Agent harnesses have become a central component of modern agentic systems, shaping how models use tools, manage context, and coordinate long-horizon interaction. Realizing the benefits of these harnes",
-      "is_policy": false
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-20T18:38:24+00:00",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "is_policy": false
-    },
-    {
       "title": "When eight systems share a benchmark top score, what should the table show?[D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
       "source": "r/MachineLearning",
@@ -2129,6 +2165,15 @@
       "category": "news",
       "published": "2026-10-20T00:00:00+00:00",
       "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "is_policy": false
+    },
+    {
+      "title": "StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion",
+      "url": "https://huggingface.co/papers/2610.28940",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-19T20:00:00+00:00",
+      "summary": "Voice style conversion (VSC) aims to transform a source utterance to match the timbre, accent, and emotion of a target voice while preserving linguistic content. StyleStream 1.0 introduced the first s",
       "is_policy": false
     },
     {
@@ -2201,15 +2246,6 @@
       "category": "papers",
       "published": "2026-10-19T20:00:00+00:00",
       "summary": "Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to vir",
-      "is_policy": false
-    },
-    {
-      "title": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
-      "url": "https://huggingface.co/papers/2610.28887",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-19T20:00:00+00:00",
-      "summary": "Autonomous agents can increasingly propose ideas, modify code, and run experiments, creating an opportunity to accelerate scientific discovery using teams of collaborative AI researchers. To escape lo",
       "is_policy": false
     },
     {
@@ -2294,15 +2330,6 @@
       "is_policy": false
     },
     {
-      "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-19T00:54:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built and trained a 218-million-parameter model on fMRI data from 2,000 peoples brains as they watched films, TV, and images. </p> <p>Cajal-1. </p> <p>On the films ",
-      "is_policy": false
-    },
-    {
       "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
       "source": "r/MachineLearning",
@@ -2348,15 +2375,6 @@
       "is_policy": false
     },
     {
-      "title": "What is wrong with AI writing - ICLR edition [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-17T23:40:03+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing.</p> <p>I'll try to create an anonymized version from a paper I'm reviewi",
-      "is_policy": false
-    },
-    {
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI Blog",
@@ -2364,15 +2382,6 @@
       "published": "2026-10-16T19:00:00+00:00",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "is_policy": true
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "is_policy": false
     },
     {
       "title": "Benefit Street Partners answers questions faster with Codex",
@@ -2384,12 +2393,12 @@
       "is_policy": false
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI Blog",
       "category": "news",
-      "published": "2026-10-15T19:00:00+00:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "is_policy": false
     }
   ]
