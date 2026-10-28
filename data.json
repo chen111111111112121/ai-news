@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:38:52.716294+00:00",
+  "generated_at": "2026-10-28T22:00:35.802719+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/macro-inc/macro",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/Nutlope/hallmark",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "is_policy": false
     },
@@ -66,8 +66,323 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-28T17:38:52+00:00",
+      "published": "2026-10-28T22:00:35+00:00",
       "summary": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T21:58:32+00:00",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "is_policy": false
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T21:48:37+00:00",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T21:34:30+00:00",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
+      "is_policy": false
+    },
+    {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-28T21:34:04+00:00",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T21:25:30+00:00",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+      "is_policy": false
+    },
+    {
+      "title": "全球 AI 基建风向标：英伟达于太平洋时间 11 月 17 日公布 2027 财年第 3 财季财报",
+      "url": "https://www.ithome.com/1/019/263.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T21:18:59+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，英伟达今天（10 月 29 日）发布公告，宣布将于太平洋时间 11 月 17 日下午 2 时（北京时间 11 月 18 日上午 6 时）召开电话会议，<strong>公布并解读 2027 财年第三财季（截至 2026 年 10 月 25 日）财务业绩。</strong></p><p>根据公告，本次电话会议将在英伟达投资者关系网站进行仅收听模式的网络直播。公司",
+      "is_policy": false
+    },
+    {
+      "title": "打破乔布斯时代的硬件禁忌：特努斯谈苹果首款触控 MacBook Pro，键盘 / 触控板仍是核心",
+      "url": "https://www.ithome.com/1/019/262.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T21:04:22+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，《连线》（Wired）昨日（10 月 28 日）发布博文，报道称针对苹果打破“Mac 不做触屏”立场，现任首席执行官约翰 · 特努斯（John Ternus）表示，<strong>键盘和触控板仍是 Mac 的核心交互方式，触控只是“在合适场景下更舒适、更方便”的补充。</strong></p><p style=\"text-align: center;\"><i",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌最强 AI 模型：Gemini 4 Carbon 登顶全球智能指数榜首，“专职”做网络安全",
+      "url": "https://www.ithome.com/1/019/240.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T20:51:40+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，谷歌正式发布新一代前沿大模型<strong> Gemini 4 Carbon</strong>，主打业界顶尖的网络安全能力与长程任务处理能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%",
+      "url": "https://www.ithome.com/1/019/261.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T20:38:55+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，谷歌母公司 Alphabet 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告后，<strong>股价盘后大跌逾 7%。</strong></p><p style=\"text-align: center;\"><img c",
+      "is_policy": false
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-28T20:32:02+00:00",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
+      "is_policy": false
+    },
+    {
+      "title": "福特汽车 2026 财年前三季度报归母净利润 32.7 亿美元，同比增长 13.5%",
+      "url": "https://www.ithome.com/1/019/260.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T20:12:08+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，福特汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 财年前三季度报</h3><li><p><strong>营业总收入</st",
+      "is_policy": false
+    },
+    {
+      "title": "初探苹果 macOS 27 触控体验：窗口“红绿灯”按钮会变大",
+      "url": "https://www.ithome.com/1/019/259.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T20:10:58+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，科技媒体 AppleInsider 今天（10 月 29 日）发布博文，在现场体验配备 PROLED XDR 显示屏的首款触控 MacBook Pro 后，<strong>认为苹果并未把 macOS 改成 iPad 式界面，而是为触控操作做了局部适配。</strong></p><p style=\"text-align: center;\"><img class",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌 2026 财年前三季度报归母净利润 2008.55 亿美元，同比增长 105.55%",
+      "url": "https://www.ithome.com/1/019/258.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T20:09:28+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，谷歌今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 财年前三季度报</h3><li><p><strong>营业总收入</stro",
+      "is_policy": false
+    },
+    {
+      "title": "微软 2027 财年第一财季营收 922.79 亿美元、同比增 19%，归母净利润 366.29 亿美元、同比增长 32%",
+      "url": "https://www.ithome.com/1/019/257.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T20:08:41+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，微软今日发布 2027 财年（2026 年 7 月 1 日～2027 年 6 月 30 日）第一财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告：</p><ul class=\" list-paddingleft-2\"><li><p><strong>营业总收入</strong>：922.79 亿美元<span class=\"exch-m",
+      "is_policy": false
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-28T20:03:00+00:00",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to",
+      "is_policy": false
+    },
+    {
+      "title": "Mac 进入触屏时代：苹果铺路软件生态，11 月开启在线研讨",
+      "url": "https://www.ithome.com/1/019/256.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T19:52:57+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，科技媒体 9to5Mac 今天（10 月 29 日）发布博文，苹果官方开发者网站已上线“为 Mac 触控做好准备”（Get ready for Touch on Mac）专题页面，<strong>为首批触屏 Mac 的软件生态做准备。</strong></p><p>IT之家附上相关视频如下：</p><p style=\"text-align: center;\"",
+      "is_policy": false
+    },
+    {
+      "title": "续航未打折扣：苹果首款触控 MacBook Pro 最长连续播放 24 小时视频",
+      "url": "https://www.ithome.com/1/019/255.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T19:38:17+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>苹果公司发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，不过满电续航并未因此打折扣。</strong></p><p style=\"text-align: center;\"><i",
+      "is_policy": false
+    },
+    {
+      "title": "苹果公布其首款触控 MacBook Pro 官方设计素材",
+      "url": "https://www.ithome.com/1/019/254.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T19:23:29+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）更新其“Apple 设计资源”门户网站，<strong>为首款配备 PROLED XDR 显示屏、支持触控的全新 MacBook Pro 提供官方设计素材。</strong></p><p>UI / UX 设计师、开发者及内容创作者无需等待第三方模板，即可在官方素材基础上制作适配新机的界面演示、宣传图和应用展示内容。</p><",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T19:19:58+00:00",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "is_policy": false
+    },
+    {
+      "title": "苹果首款触控 MacBook Pro 低音下潜增强 50%，首次调教合盖场景音频",
+      "url": "https://www.ithome.com/1/019/253.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T19:15:27+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布新闻稿，宣布在其搭载 PROLED XDR 显示屏的首款触控 MacBook Pro 上，<strong>并重点升级其音频系统。</strong></p><p>官方表示这款 MacBook Pro 采用 6 扬声器音频系统，采用全新低音单元设计，低音下潜增强 50%，声音更深沉、更丰富。而全新高音单元可塑造声音扩散方式，",
+      "is_policy": false
+    },
+    {
+      "title": "苹果上架 70W/140W 新款 Mac 电源适配器，采用交流电源接口 2 方案",
+      "url": "https://www.ithome.com/1/019/252.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T19:06:18+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro 外，<strong>还更新推出了 70W 充电器、全球旅行转换器套件等多款配件产品。</strong></p><h3>一、70W 电源适配器（<a href=\"https://apple.pvxt.net/c/1255290/435400/7639?u",
+      "is_policy": false
+    },
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T19:05:46+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
+      "is_policy": false
+    },
+    {
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-28T18:50:39+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
+      "is_policy": false
+    },
+    {
+      "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
+      "url": "https://www.ithome.com/1/019/251.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T18:42:43+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果公司今天（10 月 29 日）发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，其核心卖点之一是配备最高 128GB 统一内存，<strong>M5 Max 芯片版可本地运行数千亿参数的大语言模型。</strong></p><p>IT之家附上官方公告内容如下：</p><blockquote><p>依托 M5 Max，专业人士可在设",
+      "is_policy": false
+    },
+    {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-28T18:36:26+00:00",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality ",
+      "is_policy": false
+    },
+    {
+      "title": "外媒现场上手苹果首款触控 MacBook Pro (PROLED XDR 显示屏) 笔记本",
+      "url": "https://www.ithome.com/1/019/250.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T18:27:25+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>包括 9to5Mac 在内的多家媒体现场体验了苹果首款触控 MacBook Pro (PROLED XDR 显示屏) 笔记本。</strong></p><p>IT之家附上部分海外媒体的现场上手视频如下：",
+      "is_policy": false
+    },
+    {
+      "title": "苹果触屏 MacBook Pro 应用适配情况：Lightroom、达芬奇、C4D、Office 等今年晚些时候支持",
+      "url": "https://www.ithome.com/1/019/249.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T18:24:35+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果今日推出首款触控屏 MacBook Pro，定价 22,999 元起。该产品采用双层串联 OLED 面板，HDR 峰值亮度可达 2,000 nits。</p><p>如今苹果已经公布了这款 MacBook Pro 的第三方应用触控适配情况，IT之家附未来支持名单如下：</p><ul class=\" list-paddingleft-2\"><li><p>办公",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 CEO 特努斯：MacBook Pro PROLED XDR 显示屏有多出色，亲手一触就知道",
+      "url": "https://www.ithome.com/1/019/248.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T18:21:53+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>苹果公司正式推出首款支持触控操作的 MacBook Pro（PROLED XDR 显示屏），国行起售价 22999 元。</strong></p><p>苹果公司前首席执行官、现任执行董事长蒂姆 · 库克",
+      "is_policy": false
+    },
+    {
+      "title": "苹果新 MacBook Pro 最高可选 16TB 存储空间：相比此前 8TB 翻倍，得加 5.25 万元",
+      "url": "https://www.ithome.com/1/019/247.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T18:09:16+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果首款触控屏 MacBook Pro 最高可选 16TB 存储空间，相比此前 MacBook Pro 最高 8TB 翻倍。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/c5ae150",
+      "is_policy": false
+    },
+    {
+      "title": "苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元",
+      "url": "https://www.ithome.com/1/019/246.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T17:54:05+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果今天（10 月 29 日）正式公布配备 512GB 统一内存的 Mac Studio 售价。该配置仅面向搭载 M5 Ultra 芯片（ 36 核 CPU 与 80 核 GPU）的顶配机型，<strong>相比较 96GB 版本价格上涨 116,250 元。</strong></p><p>IT之家注：512GB 内存版目前仅适用于 M5 Ultra 芯片（",
+      "is_policy": false
+    },
+    {
+      "title": "苹果首度为 Mac 引入灵动岛：支持显示音乐播放、实时活动等，Siri AI 多了个入口",
+      "url": "https://www.ithome.com/1/019/245.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T17:53:16+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果公司今日推出首款触控屏 MacBook Pro，提供 14 英寸和 16 英寸两种型号。值得注意的是，这款笔记本支持灵动岛，可将实时活动、聚焦搜索和 Siri AI 整合到屏幕上方交互，这也是苹果首次为 Mac 电脑引入灵动岛。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"",
+      "is_policy": false
+    },
+    {
+      "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-28T17:52:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen cop",
+      "is_policy": false
+    },
+    {
+      "title": "时隔 10 年发光 Logo 回归：苹果首款触控屏 MacBook Pro“苹果标”又会亮了",
+      "url": "https://www.ithome.com/1/019/244.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T17:48:23+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果在今天的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro），值得一提的是，该机重新为 A 面带回了发光苹果 Logo。</p><p>回顾历史，苹果从 1999 年 PowerBook G3 系列开始为笔记本 A 面引入发光苹果 Logo，相应 Logo 并没有配备任何独立的 LED 光源",
+      "is_policy": false
+    },
+    {
+      "title": "15999 元起，苹果 M6 芯片版 14 英寸 MacBook Pro 开启预购",
+      "url": "https://www.ithome.com/1/019/243.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T17:41:18+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果公司 2026 款 MacBook Pro 已于今天（10 月 29 日）凌晨 1 点 10 分开启预购，起售价 15,999 元，最快 11 月 6 日送达。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eOMMB5l\" target=\"_blank\"><span class=\"c",
+      "is_policy": false
+    },
+    {
+      "title": "苹果 M6 版 24 英寸 iMac 开启预购，国补后 10999 元起",
+      "url": "https://www.ithome.com/1/019/242.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-28T17:40:39+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果 24 英寸新款 iMac 现已在京东开启预购，新品升级 M6 芯片，设计与旧款没有差别，定价 12499 元起，<strong>国补后到手价 10999 元起</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/n",
       "is_policy": false
     },
     {
@@ -89,7 +404,7 @@
       "is_policy": false
     },
     {
-      "title": "22999 元起：MacBook Pro (PROLED XDR 显示屏) 价格公布",
+      "title": "22999 元起：苹果首款触屏 MacBook Pro 价格公布",
       "url": "https://www.ithome.com/1/019/239.htm",
       "source": "IT之家",
       "category": "news",
@@ -215,111 +530,12 @@
       "is_policy": false
     },
     {
-      "title": "亚马逊 AWS 与国际汽联达成新合作，让 AI 和云计算参与下一代 F1 赛车技术规则制定",
-      "url": "https://www.ithome.com/1/019/232.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:45:06+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，亚马逊云科技（AWS）今天宣布与国际汽车联合会（FIA）达成新合作，双方将利用云计算和 AI 技术，推动各级别赛车运动创新，包含基层赛车赛事至一级方程式赛车（F1）。</p><p style=\"text-align: center;\"><img alt=\"2026年世界一级方程式锦标赛- 维基百科，自由的百科全书\" src=\"https://img.itho",
-      "is_policy": false
-    },
-    {
       "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
       "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-28T15:41:18+00:00",
       "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "is_policy": false
-    },
-    {
-      "title": "内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上",
-      "url": "https://www.ithome.com/1/019/231.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:40:36+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。</p><p>一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000 多元，目前回涨至 430",
-      "is_policy": false
-    },
-    {
-      "title": "阿维塔 07L Max 纯电版线上发布会宣布取消，10 月 29 日直接公布正式售价、产品配置及上市权益",
-      "url": "https://www.ithome.com/1/019/230.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:37:19+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，阿维塔官方刚刚宣布，原定于 10 月 29 日举行的阿维塔 07L Max 纯电版线上发布会，<strong>决定取消</strong>。</p><p>虽然发布会取消，但阿维塔官方表示，新品发布计划不变，产品信息不藏：<strong>10 月 29 日 18:30，阿维塔 07L Max 纯电版将如期公布正式售价、产品配置及上市权益</strong>。</p",
-      "is_policy": false
-    },
-    {
-      "title": "FCC 再度驳回 TP-LINK 在美国销售 Wi-Fi 8 路由器申请，指其提交虚假文件、部分产品功率超标",
-      "url": "https://www.ithome.com/1/019/229.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:35:53+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据彭博社报道，美国联邦通信委员会（FCC）再度驳回 TP-LINK 在美国销售 Wi-Fi 8 路由器的申请。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/26faf82e-6a8b-",
-      "is_policy": false
-    },
-    {
-      "title": "从 AI 服务器 PCB 到五轴机床，国产工业母机订单已排到明年二季度",
-      "url": "https://www.ithome.com/1/019/228.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:34:51+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据央视财经今日报道，国产工业母机订单外溢，部分厂商的订单已经排到明年。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/tv/show/1034:5359132170190921?mid=5359133979053489\" tar",
-      "is_policy": false
-    },
-    {
-      "title": "V社详解 Steam 新品节游戏推荐机制：活动刚开始时随机展示，算法会在两天后启用",
-      "url": "https://www.ithome.com/1/019/227.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:24:06+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据游戏媒体 VGC 今天报道，Valve 最近在韩国举办 Steam Indie Connect 活动，与游戏开发者交流。有参会者现场抱怨，Steam 新品节的曝光度不佳，并且部分玩家也认为，该活动充斥着大量“AI 垃圾”游戏。</p><p>Valve 商务团队成员 Marc Wilkinson 对此表示，Steam 活动开始后的前两天，<strong>玩家",
-      "is_policy": false
-    },
-    {
-      "title": "186 家科创板公司三季报披露：合计营收超 4266 亿元，同比增长 31.54%",
-      "url": "https://www.ithome.com/1/019/225.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:14:03+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据央视新闻今日报道，上交所最新数据显示，截至 10 月 27 日，共 186 家科创板公司完成三季报披露，合计营收 4266.76 亿元，同比增长 31.54%，<strong>合计净利润 389.53 亿元，同比增长 57.39%</strong>。其中，14 家科创 50 公司收入、净利润贡献度分别占 29%、47%。</p><p>IT之家从报道中获悉，",
-      "is_policy": false
-    },
-    {
-      "title": "手机最后一块玻璃也“昆仑”：华为 Mate 90 Pro 系列首发光学昆仑玻璃，耐摔能力提升 20%",
-      "url": "https://www.ithome.com/1/019/224.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:13:18+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚宣布，手机最后一块玻璃也“昆仑”了：Mate 90 Pro 系列首发光学昆仑玻璃 —— 对比 Mate 80 Pro Max，<strong>摄像头盖板玻璃耐摔能力提升 20 倍</strong>。</p><p style=\"text-align: center;\"><i",
-      "is_policy": false
-    },
-    {
-      "title": "马斯克动用钞能力：美国居民起诉数据中心噪声后，xAI 准备直接收购其房产",
-      "url": "https://www.ithome.com/1/019/222.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:12:05+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据《卫报》今日报道，埃隆 · 马斯克旗下 xAI 正通过子公司 MZX Tech 向美国密西西比州南海文市（Southaven）部分居民提出房屋收购邀约。</p><p>根据居民收到的信件，房主接受收购后，需要签署协议，放弃与当地发电厂噪声相关的索赔权利，包括参与针对该公司的集体诉讼的权利。</p><p>一名房地产经纪人在当地挨家挨户接洽居民时提到，xAI 的",
-      "is_policy": false
-    },
-    {
-      "title": "《雷曼：传奇再叙》游戏将与《宇宙机器人》联动，PS5 版玩家可获独占服装道具",
-      "url": "https://www.ithome.com/1/019/221.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:11:48+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，索尼今天在 PlayStation Blog 宣布，育碧新作《雷曼：传奇再叙》将与 Team ASOBI 开发的《宇宙机器人》联动。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/b31",
-      "is_policy": false
-    },
-    {
-      "title": "特斯拉宣布进军越南市场，将与本土巨头 VinFast 展开竞争",
-      "url": "https://www.ithome.com/1/019/220.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T15:03:00+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，特斯拉招聘人员 Ricky Ip 今天在 X 平台宣布，特斯拉正式进军越南市场，现正招聘销售经理、开发人员、采购经理等职位。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/03d6ef1",
       "is_policy": false
     },
     {
@@ -332,66 +548,12 @@
       "is_policy": false
     },
     {
-      "title": "华为 Mate 90 Pro 系列手机第二代灵珑屏技术揭秘：双层 OLED 架构、支持麒麟朱雀双芯协同",
-      "url": "https://www.ithome.com/1/019/219.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:58:17+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚揭秘了 Mate 90 Pro 系列手机第二代灵珑屏的技术亮点。核心有三，分别是：<strong>双层 OLED 架构、AI Pixel 逐屏逐像素校准，以及麒麟朱雀双芯协同</strong>。</p><p style=\"text-align: center;\"><img",
-      "is_policy": false
-    },
-    {
-      "title": "曝《艾尔登法环》电影预算近 2 亿美元：剧本至少 180 页，片长或接近 3 小时",
-      "url": "https://www.ithome.com/1/019/214.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:52:34+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据 Deadline 今日报道，由亚历克斯 · 嘉兰（Alex Garland）编剧并执导的《艾尔登法环》真人电影，剧本篇幅至少达到 180 页，且包含大量视觉内容，意味着影片时长可能接近 3 小时（片方尚未公布正式片长）。</p><p>Deadline 报道称，影片剧情目前仍处于严格保密状态，以避免剧情细节提前泄露。基特 · 康纳（Kit Connor）将",
-      "is_policy": false
-    },
-    {
-      "title": "极米记得 AI 记忆眼镜 G1 / 手环 L1 开售，首发价 1299 元 / 599 元起",
-      "url": "https://www.ithome.com/1/019/210.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:50:49+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，极米记得 AI 记忆眼镜 G 1 和 AI 记忆手环 L 1 今日开售，首发价 1299 元 / 599 元起，均提供标准版和终身会员版。</p><p>IT之家附价格如下：</p><p><strong>AI 记忆手环</strong></p><ul class=\" list-paddingleft-2\"><li><p>标准版｜首发价 599 元，补贴到手价 ",
-      "is_policy": false
-    },
-    {
-      "title": "苹果 iOS 27.2 更新照片应用：共享相簿新增四项功能",
-      "url": "https://www.ithome.com/1/019/208.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:48:26+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，苹果于当地时间 10 月 26 日发布了最新的 iOS 27.2，为 iPhone 照片应用带来两项新改进，涉及共享相簿功能和 AI 生成或编辑图像的识别能力。</p><p>据 9to5mac 今日报道，用户现在可以编辑共享相簿中的照片说明和评论、避免重复添加照片，并在相簿即将到期前收到提醒；系统还新增了对 SynthID 数字水印的支持，以帮助识别使用生成",
-      "is_policy": false
-    },
-    {
-      "title": "Gartner 调研：仅 3% 企业通过 AI 实现节约成本、提高生产力目标",
-      "url": "https://www.ithome.com/1/019/207.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:46:20+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，据科技媒体 TechRadar 今天报道，尽管许多企业预计 AI 将带来深远影响，不惜为此砸下重金。但 Gartner 调研报告显示，<strong>仅 3% 企业通过 AI 实现了提高生产力效率</strong>、<strong>降低运营成本等目标</strong>。</p><p>IT之家从原报道了解到，有四分之三企业领导者预计，AI 将对技术领域产生重大",
-      "is_policy": false
-    },
-    {
       "title": "xAI is buying out homeowners who promise not to sue over data center noise",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-10-28T14:44:00+00:00",
       "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, accordi",
-      "is_policy": false
-    },
-    {
-      "title": "599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价",
-      "url": "https://www.ithome.com/1/019/203.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:30:59+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，苹果已在美国官网的教育商店调整 MacBook Neo 笔记本售价，<strong>从 599 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 4,002 元人民币）</span>涨到 649 美元<span class=\"exch-money-value\">（现汇率约合 4,336 元人民币）</span></s",
       "is_policy": false
     },
     {
@@ -404,66 +566,21 @@
       "is_policy": true
     },
     {
-      "title": "盖世小鸡推出新款 G7 Pro 手柄，《GTA6》色调",
-      "url": "https://www.ithome.com/1/019/202.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:20:53+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，盖世小鸡现已在海外市场推出新款 G7 Pro 手柄，售价 89.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 601.2 元人民币）</span>。从外观来看，虽然官方没有明说，但这款产品的色调显然是致敬了即将开售的《GTA6》。</p><p style=\"text-align: center;\"><img",
-      "is_policy": false
-    },
-    {
-      "title": "12 月上线：2025 款理想 i6 官宣支持付费升级电动前备箱，产品负责人透露“价格公道”",
-      "url": "https://www.ithome.com/1/019/201.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:16:10+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，在今晚的 2026 款理想 i6 上市发布会上，2026 款理想 i6 正式发布，官方指导价 24.98 万元，叠加首销限时（IT之家注：2026 年 11 月 30 日 24:00 之前）权益后 23.98 万元。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.c",
-      "is_policy": false
-    },
-    {
-      "title": "小米 REDMI 产品经理胡馨心：内存成本持续走高，过去 12 个月涨了约 5.5 倍",
-      "url": "https://www.ithome.com/1/019/200.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:12:57+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，今日，小米 REDMI 产品经理胡馨心透露，过去 12 个月，内存成本持续走高，<strong>涨价约 5.5 倍</strong>，仅 12+256 规格的价格就逼近 2000 元（第三方机构公开数据），所以今天在手机产品上做对取舍，要求更高、难度更大。</p><p style=\"text-align: center;\"><img class=\"no-al",
-      "is_policy": false
-    },
-    {
-      "title": "英伟达 RTX 5080 显卡在美国涨到 2000 美元以上，涨幅超过 1 倍",
-      "url": "https://www.ithome.com/1/019/197.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:06:36+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，英伟达 RTX 5080 显卡上市于去年 1 月，官方建议零售价 999 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,674 元人民币）</span>。据科技媒体 Wccftech 今天报道，<strong>这款显卡如今在美国已经几乎不可能用原价买到</strong>。</p><p style=\"text-",
-      "is_policy": false
-    },
-    {
-      "title": "奕境曾清林回应浙江台州奕境 X9 起火事故：车辆刹停时被重载渣土车追尾，三位乘客无人受伤",
-      "url": "https://www.ithome.com/1/019/196.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T14:02:27+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，今天下午，浙江台州一辆奕境 X9 的现场视频引发关注。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/2667835001/RoMrysMWE?refer_flag=1001030103_\" target=\"_blank\"><i",
-      "is_policy": false
-    },
-    {
-      "title": "一加 Ace 7 系列手机核心亮点公布：第五代骁龙 8 至尊版、电竞三芯、185Hz 东方屏，明晚公布价格",
-      "url": "https://www.ithome.com/1/019/195.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-28T13:55:52+00:00",
-      "summary": "<p>IT之家 10 月 28 日消息，一加中国区总裁李杰今日发文介绍了一加 Ace 7 系列手机。他表示，知道大家很关心价格，但自己更想说的是，一加 Ace 7 Pro 真正的竞争力是其产品力和体验，<strong>一定会让大家觉得配得上它的价格</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"ht",
-      "is_policy": false
-    },
-    {
       "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-28T13:34:01+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Model &amp; weights: <a href=\"https://huggingface.co/BrunoHays/embeddinggemma-2-nullspace-audio\">BrunoHays/embeddinggemma-2-nullspace-audio</a></p> <p>I wanted to sha",
+      "is_policy": false
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "is_policy": false
     },
     {
@@ -530,12 +647,12 @@
       "is_policy": false
     },
     {
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
       "source": "OpenAI Blog",
       "category": "news",
-      "published": "2026-10-28T09:30:00+00:00",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
       "is_policy": false
     },
     {
@@ -1763,33 +1880,6 @@
       "is_policy": false
     },
     {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-27T16:51:22+00:00",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely a",
-      "is_policy": false
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T16:30:57+00:00",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "is_policy": false
-    },
-    {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-27T16:14:18+00:00",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind",
-      "is_policy": false
-    },
-    {
       "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
       "source": "r/MachineLearning",
@@ -1805,15 +1895,6 @@
       "category": "news",
       "published": "2026-10-27T16:01:38+00:00",
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "is_policy": false
-    },
-    {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-27T16:00:00+00:00",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update",
       "is_policy": false
     },
     {
@@ -1853,42 +1934,6 @@
       "is_policy": false
     },
     {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T14:59:09+00:00",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "is_policy": false
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T13:32:57+00:00",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "is_policy": false
-    },
-    {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T13:00:00+00:00",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "is_policy": false
-    },
-    {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T13:00:00+00:00",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "is_policy": false
-    },
-    {
       "title": "I built a PyTorch optimizer for large GPU workloads — looking for feedback[P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xgqtxp/i_built_a_pytorch_optimizer_for_large_gpu/",
       "source": "r/MachineLearning",
@@ -1913,15 +1958,6 @@
       "category": "news",
       "published": "2026-10-27T11:19:18+00:00",
       "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
-      "is_policy": false
-    },
-    {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T11:00:00+00:00",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "is_policy": false
     },
     {
@@ -1970,15 +2006,6 @@
       "is_policy": false
     },
     {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T02:00:00+00:00",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "is_policy": false
-    },
-    {
       "title": "How to do method research when I feel I have no guidance on doing it? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
       "source": "r/MachineLearning",
@@ -2003,6 +2030,15 @@
       "category": "news",
       "published": "2026-10-26T22:00:00+00:00",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "is_policy": false
+    },
+    {
+      "title": "Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection",
+      "url": "https://huggingface.co/papers/2509.05512",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-26T20:00:00+00:00",
+      "summary": "This paper introduces Quaternion Approximate Networks (QUAN), a novel deep learning framework that leverages quaternion algebra for rotation equivariant image classification and object detection. Unli",
       "is_policy": false
     },
     {
@@ -2168,15 +2204,6 @@
       "is_policy": false
     },
     {
-      "title": "SO-101 Bench: Accessible Spatial Manipulation",
-      "url": "https://huggingface.co/papers/2610.36420",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-26T20:00:00+00:00",
-      "summary": "Low-cost arms such as the SO-101 have become the most common entry point to robot learning, yet no released policy performs spatially constrained, language-conditioned tasks on them out of the box, an",
-      "is_policy": true
-    },
-    {
       "title": "Will the real Anthropic please stand up",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "source": "MIT Tech Review",
@@ -2192,15 +2219,6 @@
       "category": "community",
       "published": "2026-10-26T17:22:39+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/\"> <img alt=\"Fitting a 4D Mandelbulb with KS3 vs MLP [R]\" src=\"https://ext",
-      "is_policy": false
-    },
-    {
-      "title": "Scoring IDP [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-26T16:10:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is a &quot;survey of current practices&quot; type of research for a niche area, nothing earth-shattering. I’ve written a 2-part Medium series (free, no paywall) ",
       "is_policy": false
     },
     {
@@ -2273,6 +2291,15 @@
       "category": "news",
       "published": "2026-10-26T00:00:00+00:00",
       "summary": "Bringing fast and capable computer use to everyone",
+      "is_policy": false
+    },
+    {
+      "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
+      "url": "https://huggingface.co/papers/2610.36184",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-25T20:00:00+00:00",
+      "summary": "Bengali, spoken by over 230 million people, remains severely under-resourced in spoken language research. Existing open Bengali ASR corpora are confined to short, read or crowd-sourced speech and lack",
       "is_policy": false
     },
     {
@@ -2366,15 +2393,6 @@
       "is_policy": false
     },
     {
-      "title": "MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting",
-      "url": "https://huggingface.co/papers/2610.35724",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-25T20:00:00+00:00",
-      "summary": "High-resolution video matting requires preserving fine details, such as hair strands and soft transparency, while maintaining consistency across frames. Memory-based methods achieve strong matting qua",
-      "is_policy": false
-    },
-    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI Blog",
@@ -2399,15 +2417,6 @@
       "category": "news",
       "published": "2026-10-23T10:00:00+00:00",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "is_policy": false
-    },
-    {
-      "title": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-23T09:00:00+00:00",
-      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expec",
       "is_policy": false
     },
     {
@@ -2462,15 +2471,6 @@
       "category": "news",
       "published": "2026-10-22T00:00:00+00:00",
       "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "is_policy": false
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-10-21T21:00:00+00:00",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "is_policy": false
     }
   ]
