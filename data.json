@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:58:05.844152+00:00",
+  "generated_at": "2026-10-29T18:01:45.895682+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-29T11:58:05+00:00",
+      "published": "2026-10-29T18:01:45+00:00",
       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-29T11:58:05+00:00",
+      "published": "2026-10-29T18:01:45+00:00",
       "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-29T11:58:05+00:00",
+      "published": "2026-10-29T18:01:45+00:00",
       "summary": "",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-29T11:58:05+00:00",
+      "published": "2026-10-29T18:01:45+00:00",
       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-29T11:58:05+00:00",
+      "published": "2026-10-29T18:01:45+00:00",
       "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "is_policy": false
     },
@@ -57,215 +57,413 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-29T11:58:05+00:00",
+      "published": "2026-10-29T18:01:45+00:00",
       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "is_policy": false
     },
     {
-      "title": "韵达股份 2026 年前三季度归母净利润 12.57 亿元，同比增长 72.13%",
-      "url": "https://www.ithome.com/1/019/739.htm",
-      "source": "IT之家",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-29T11:54:32+00:00",
-      "summary": "<p class=\"v-focus\"> IT之家 10 月 29 日消息，韵达股份今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\"list-paddingleft-2 v-focus\"> <h3 class=\"v-focus\"> 2026 年前三季度 </h3> <li> <p> ",
+      "published": "2026-10-29T17:54:38+00:00",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
       "is_policy": false
     },
     {
-      "title": "512G 5099 → 3499 元：小米 REDMI K100 Pro Max 官方 11.11 限地区再降价",
-      "url": "https://www.ithome.com/1/019/738.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T11:51:17+00:00",
-      "summary": "<p style=\"text-align: left;\">小米 8 月发布新一代 <span class=\"hot-topic\">REDMI K100 Pro</span> 系列手机，今日天猫旗舰店 11.11 狂促再加码。</p><ul class=\" list-paddingleft-2\"><li><p>先领天猫数码家电消费券：<a href=\"https://s.click.taobao.c",
+      "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-29T17:53:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation.</p> <p>The result that stood out to me: the NVIDIA L4 has n",
       "is_policy": false
     },
     {
-      "title": "王腾：今日宜休聚焦精准监测、科学干预与精力恢复，计划一年内采集超 1000 例金标准临床 PSG 数据",
-      "url": "https://www.ithome.com/1/019/737.htm",
-      "source": "IT之家",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI Blog",
       "category": "news",
-      "published": "2026-10-29T11:50:12+00:00",
-      "summary": "<p>IT之家 10 月 29 日现场消息，在今晚的 ISHO 今日宜休 AI 睡眠科技生态产品发布会上，公司创始人王腾首次发布会公布公司战略：以专业睡眠科学、AI 算法与软硬件产品研发协同，<strong>构建面向个人的睡眠健康 AI 技术体系 ISHO Intelligence</strong>。</p><p style=\"text-align: center;\"><img class=\"no",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
       "is_policy": false
     },
     {
-      "title": "2499 → 682 元：添可 20000Pa 平躺 Stretch Max 洗地机 11.11 新低",
-      "url": "https://www.ithome.com/1/019/736.htm",
-      "source": "IT之家",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-29T11:49:03+00:00",
-      "summary": "<p>添可平躺 0 缠<span class=\"font-color-red\"></span>毛 Stretch Max 洗地机上市售价 2499 元，支持防缠抓毛齿，180° 躺平洗地，40 分钟长续航。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.alicdn.com/i3/2200676",
+      "published": "2026-10-29T16:42:32+00:00",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
       "is_policy": false
     },
     {
-      "title": "江波龙 2026 年前三季度归母净利润 143.22 亿元，同比增长 1909.68%",
-      "url": "https://www.ithome.com/1/019/735.htm",
-      "source": "IT之家",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-29T11:46:27+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，江波龙今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：387.18 亿元，同比增长 131.37%</",
+      "published": "2026-10-29T16:21:00+00:00",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit ar",
       "is_policy": false
     },
     {
-      "title": "今日宜休王腾：睡眠健康问题是困扰国民的关键问题，中国约 2.76 亿人睡眠质量不佳",
-      "url": "https://www.ithome.com/1/019/734.htm",
+      "title": "59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归",
+      "url": "https://www.ithome.com/1/019/798.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:42:44+00:00",
-      "summary": "<p>IT之家 10 月 29 日现场消息，在今晚的 ISHO 今日宜休 AI 睡眠科技生态产品发布会上，今日宜休科技公司创始人王腾登台主讲。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/109686b0-0129-40ab",
+      "published": "2026-10-29T16:10:45+00:00",
+      "summary": "<p>IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59.90 万元，仅此一款配置。</p><p>其核心变化是用 3.0T 直列六缸 +48V 轻混系统接替了 GLC 43 上的 2.0T 四缸动力，六缸重回 GLC 性能序列。</p><p style=\"text-align: center;\"><img",
       "is_policy": false
     },
     {
-      "title": "豆包工作向企业客户推出第三方模型服务：含 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等",
-      "url": "https://www.ithome.com/1/019/733.htm",
-      "source": "IT之家",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "source": "The Verge AI",
       "category": "news",
-      "published": "2026-10-29T11:34:23+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，豆包工作今日宣布向企业客户开放第三方模型服务，<strong>首批将接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等系列模型</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
+      "published": "2026-10-29T16:00:00+00:00",
+      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the si",
       "is_policy": false
     },
     {
-      "title": "晶盛机电 2026 年前三季度归母净利润 2.83 亿元，同比下降 68.65%",
-      "url": "https://www.ithome.com/1/019/732.htm",
+      "title": "为 XR 设备无线音频铺路：星闪 SLE 3.0 计划链路峰值速率提至 16Mbps+，真正做到 Hi-Res 无损音质",
+      "url": "https://www.ithome.com/1/019/797.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:32:22+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，晶盛机电今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：54.14 亿元，同比下降 34.56%</p",
+      "published": "2026-10-29T15:59:53+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。蓝皮书中详细介绍了星闪 SLE 3.0 的核心技术演进背景与目标。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/",
       "is_policy": false
     },
     {
-      "title": "苹果承认少量 iPhone Duo 存在内屏问题，故障原因及受影响设备数量暂未公布",
-      "url": "https://www.ithome.com/1/019/730.htm",
+      "title": "星闪 SLE 2.0 核心升级高清音频、高精测距功能，恒玄、华为海思等厂商发布 20+ 款芯片",
+      "url": "https://www.ithome.com/1/019/796.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:29:14+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，苹果首款折叠屏手机 iPhone Duo 本月 23 日正式上市后，<strong>有消费者反映手机内屏存在沿折叠区域开裂、出现亮线等问题</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfile",
+      "published": "2026-10-29T15:45:29+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。蓝皮书中详细介绍了星闪 SLE 标准演进三阶段。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/ee8c6edb-",
       "is_policy": false
     },
     {
-      "title": "胜宏科技 2026 年前三季度归母净利润 33.84 亿元，同比增长 4.28%",
-      "url": "https://www.ithome.com/1/019/729.htm",
+      "title": "NearLink E2.0：华为 Pura 90 Plus 手机上市即支持星闪音频功能",
+      "url": "https://www.ithome.com/1/019/795.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:28:34+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，胜宏科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：184.61 亿元，同比增长 30.77%</",
+      "published": "2026-10-29T15:28:31+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，在昨日的华为双十一焕新季全场景新品发布会上，华为 Pura 90 Plus 手机正式发布，首发搭载麒麟 9025 芯片，焕新优惠价 5199 元起。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
       "is_policy": false
     },
     {
-      "title": "网友催理想汽车 App 何时适配苹果 iPhone Duo，理想高管回应“等我们买到手机”",
-      "url": "https://www.ithome.com/1/019/728.htm",
+      "title": "盖洛普研究：美国员工的工作投入度降至历史新低，远程办公者降幅最大",
+      "url": "https://www.ithome.com/1/019/794.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:25:01+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，理想汽车公关部社交媒体总监“硬哥”今日在微博发文，回顾苹果产品历年激进变革后，走过的回头路。并认为“成熟企业就是不怕打脸，计划要赶上变化”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10",
+      "published": "2026-10-29T15:28:29+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据科技媒体 TechRadar 今天报道，盖洛普（Gallup）最新研究报告显示，美国员工的工作投入度降至历史新低。远程办公和混合办公的人更加缺乏工作热情，而对 AI 缺乏明确认知也正在影响员工的工作满意度。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.",
       "is_policy": false
     },
     {
-      "title": "新福特锐界 L 车型上市：22.98 万元起，车长增至 5011mm",
-      "url": "https://www.ithome.com/1/019/727.htm",
+      "title": "《魔兽世界：无限》添加原生手柄支持，暴雪迈出多设备畅玩第一步",
+      "url": "https://www.ithome.com/1/019/793.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:23:46+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，新福特锐界 L 今日正式上市，共推出 6 款车型，售价区间 22.98 万元至 29.98 万元。IT之家汇总如下：</p><table><tbody><tr class=\"firstRow\"><td>车型</td><td>售价（万元）</td></tr><tr><td>两驱七座时尚型</td><td>22.98</td></tr><tr><td>两驱七座豪",
+      "published": "2026-10-29T15:17:49+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据游戏媒体 VGC 今天报道，《魔兽世界：无限》游戏将在 11 月 4 日推出。新版本以 2004 年原版游戏世界观和玩法为基础，加入全新故事线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
       "is_policy": false
     },
     {
-      "title": "北京汽车 2026 财年前三季度报归母亏损 30.9 亿元，同比由盈转亏",
-      "url": "https://www.ithome.com/1/019/726.htm",
+      "title": "马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X",
+      "url": "https://www.ithome.com/1/019/792.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:16:40+00:00",
-      "summary": "<p class=\"v-focus\"> IT之家 10 月 29 日消息，北京汽车今日发布 2026 财年（2026年1月～2026年12月）前三季度报（2026年1月～2026年9月）报告：</p><ul class=\"list-paddingleft-2 v-focus\"> <li> <p> <strong>营业总收入</strong>：849.57 亿元，同比下降 29.67% </p> <",
+      "published": "2026-10-29T15:12:05+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据彭博社报道，埃隆 · 马斯克对字母 X 情有独钟。特斯拉最早的车型之一就是 Model X；太空探索技术公司（Space Exploration Technologies Corp.）简称 SpaceX；2022 年收购推特之后，他直接把这个社交平台更名为了 X。他甚至给自己的儿子取名 X Æ A-Xii，还常在网上叫他“小 X”。</p><p style",
       "is_policy": false
     },
     {
-      "title": "特朗普 T1 手机通过弯折测试，但拆机证实该机实为换壳 HTC U24 Pro",
-      "url": "https://www.ithome.com/1/019/725.htm",
+      "title": "星闪 SLE 1.0 芯片累计发货量 7000 万，华为 2023 年实现首批商用终端产品落地",
+      "url": "https://www.ithome.com/1/019/791.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:12:17+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，售价 749 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 5,004 元人民币）</span>的特朗普移动 T1 手机迎来了博主 JerryRigEverything 的暴力测试，该机抗物理破坏的表现出人意料地不错，但拆开后的内部结构，就没那么好看了。</p><p style=\"text-align: cen",
+      "published": "2026-10-29T15:09:47+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/5b93f9a0-21c8-4aa4-b040-0ac256f64694.png?x-",
       "is_policy": false
     },
     {
-      "title": "苹果惯例特殊照顾：新款 MacBook Pro 韩国官网少了捏合手势宣传图",
-      "url": "https://www.ithome.com/1/019/723.htm",
+      "title": "iFi 推出 UP Travel Max 蓝牙收发 DAC，支持 aptX Lossless、LDAC 等格式",
+      "url": "https://www.ithome.com/1/019/790.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T11:04:32+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，苹果今日推出首款触控屏 MacBook Pro，定价 22,999 元起。该产品可选 14 英寸 / 16 英寸两种型号，提供 M5 Pro/M5 Max 芯片可选。</p><p>IT之家注意到，苹果在中国、美国官网的机型介绍页面，特意展示该屏幕支持双指捏合等操作。但在韩国官网，这张图片素材并没有出现。</p><p style=\"text-align: ce",
+      "published": "2026-10-29T15:05:28+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，英国音频器材品牌 iFi audio（悦尔法）当地时间今日宣布推出 UP Travel Max 蓝牙收发 DAC。这一产品<strong>设计灵感源于可折叠车钥匙</strong>，配备可弹出 3.5mm 插口，整体大小则与闪存盘相仿，拥有 10hr 续航。</p><p style=\"text-align: center;\"><img class=\"no-a",
       "is_policy": false
     },
     {
-      "title": "华工科技 2026 年前三季度归母净利润 16.66 亿元，同比增长 26.09%",
-      "url": "https://www.ithome.com/1/019/722.htm",
+      "title": "Epic 喜加一：《抱歉我们打烊了》游戏免费领取",
+      "url": "https://www.ithome.com/1/019/789.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T10:58:06+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，华工科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：126.54 亿元，同比增长 14.64%，环",
+      "published": "2026-10-29T15:00:20+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We're Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。</p><p>领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sorry-were-closed-724c8",
       "is_policy": false
     },
     {
-      "title": "生益科技 2026 年前三季度归母净利润 67.27 亿元，同比增长 175.36%",
-      "url": "https://www.ithome.com/1/019/721.htm",
+      "title": "FS 社旗下 Switch 2 独占游戏《黄昏血族》跳票，2027 年发售",
+      "url": "https://www.ithome.com/1/019/788.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T10:51:13+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，生益科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：332.08 亿元，同比增长 61.1%</p",
+      "published": "2026-10-29T14:58:53+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，FromSoftware 工作室今天宣布，他们为 Switch 2 打造的独占游戏《黄昏血族》（The Duskbloods）将延期至 2027 年发售。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/",
       "is_policy": false
     },
     {
-      "title": "中际旭创 2026 年前三季度归母净利润 222.38 亿元，同比增长 211.81%",
-      "url": "https://www.ithome.com/1/019/718.htm",
+      "title": "酷狗音乐 22 周年 · 鸿蒙特别版 App 官宣“即将上线”，为 HarmonyOS 7 全新设计",
+      "url": "https://www.ithome.com/1/019/787.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T10:42:40+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，中际旭创今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：695.47 亿元，同比增长 178.13%<",
+      "published": "2026-10-29T14:52:32+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，酷狗音乐官方今日正式官宣 22 周年 · 鸿蒙特别版“即将上线”，号称为 HarmonyOS 7 全新设计。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/fefe21a9-0424-4",
       "is_policy": false
     },
     {
-      "title": "神牛推出 iM10 迷你闪光灯，单触点通用热靴适配各品牌相机",
-      "url": "https://www.ithome.com/1/019/717.htm",
+      "title": "映泰推出无风扇边缘 AI 系统 MS-U320：酷睿 5 处理器 320，四 COM 口",
+      "url": "https://www.ithome.com/1/019/786.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T10:42:14+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，神牛现已在海外市场推出 iM10 迷你闪光灯，采用单触点通用热靴，适配各品牌相机，<strong>定价 25 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 167 元人民币）</span></strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt",
+      "published": "2026-10-29T14:47:52+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，映泰 (BIOSTAR) 今日推出了无风扇边缘 AI 系统 EdgeComp MS-U320。其基于英特尔酷睿 5 处理器 320\"Wildcat Lake\"，可提供合计 40TOPS 的本地 AI 算力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.i",
       "is_policy": false
     },
     {
-      "title": "阿维塔 07L Max 纯电版上市：搭载华为乾崑 ADS 5，限时权益价 21.59 万元起",
-      "url": "https://www.ithome.com/1/019/716.htm",
+      "title": "EA 裁员后办公室现状曝光：员工士气跌至谷底，管理层热衷于生成式 AI",
+      "url": "https://www.ithome.com/1/019/785.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T10:41:29+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，今日阿维塔 07L Max 纯电版正式上市，新车官方指导价为 22.99 万元起，限时权益价 21.59 万元起，定位“智美大五座豪华 SUV”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "published": "2026-10-29T14:46:05+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据游戏媒体 EuroGamer 今天报道，EA 上周宣布在旗下多家工作室裁员 400 人、取消部分项目，较为知名的 BioWare 遭到关停。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1",
       "is_policy": false
     },
     {
-      "title": "东风股份 2026 年前三季度归母净利润 1949.32 万元，同比下降 80.8%",
-      "url": "https://www.ithome.com/1/019/709.htm",
-      "source": "IT之家",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "source": "The Verge AI",
       "category": "news",
-      "published": "2026-10-29T10:36:07+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，东风股份今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：76.03 亿元，同比增长 8.44%</p>",
+      "published": "2026-10-29T14:39:37+00:00",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko an",
       "is_policy": false
     },
     {
-      "title": "紫光股份 2026 年前三季度归母净利润 27.73 亿元，同比增长 97.53%",
-      "url": "https://www.ithome.com/1/019/705.htm",
-      "source": "IT之家",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-10-29T10:34:45+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，紫光股份今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：1021.55 亿元，同比增长 32.12%<",
+      "published": "2026-10-29T14:35:26+00:00",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
       "is_policy": false
     },
     {
-      "title": "天马微电子 2026 年前三季度归母亏损 12.65 亿元，同比由盈转亏",
-      "url": "https://www.ithome.com/1/019/702.htm",
+      "title": "系列唯一：华为 Pura 90 Plus 手机确认支持 USB 3.1 Gen 1 功能",
+      "url": "https://www.ithome.com/1/019/784.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-29T10:34:21+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，天马微电子今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：253.5 亿元，同比下降 4.92%</p",
+      "published": "2026-10-29T14:35:25+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，在昨日的华为双十一焕新季全场景新品发布会上，华为 Pura 90 Plus 手机正式发布，首发搭载麒麟 9025 芯片，<strong>焕新优惠价 5199 元起</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com",
+      "is_policy": false
+    },
+    {
+      "title": "DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度",
+      "url": "https://www.ithome.com/1/019/783.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:33:24+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，人工智能实验室扩散智能 (DiffuSpace) 昨日发布了其 Clover（三叶草）系列模型家族的首个成员：Clover-35B-A3B-Preview，并以 Apache 许可开源。</p><p>Clover-35B-A3B-Preview 是一款采用 MoE 架构的扩散语言模型。与传统自回归模型不同的是，其具备“全局思维”，通过多轮迭代实现结果的从模糊",
+      "is_policy": false
+    },
+    {
+      "title": "月之暗面 Kimi 接入谷歌 Gmail、云端硬盘和日历",
+      "url": "https://www.ithome.com/1/019/782.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:27:39+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，月之暗面今天在海外宣布，Kimi 现已接入谷歌 Gmail、Google Drive 和日历，用户可通过 Plugins（插件）页面启用。</p><p style=\"text-align: center;\"><img alt=\"圖片\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/bbb01cc2-5",
+      "is_policy": false
+    },
+    {
+      "title": "微软发布自 2018 年以来最大 DirectX 光追升级：AMD RX 9070 示例性能提升约 66 倍",
+      "url": "https://www.ithome.com/1/019/781.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:27:33+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，微软于 10 月 28 日宣布推出 DirectX 12 Agility SDK 1.620 正式版和 1.722 预览版，为 DirectX 光线追踪（DXR）带来多项更新。</p><p>新版预览 SDK 引入集群几何体（Clustered Geometry）、分区顶层加速结构（PTLAS）和间接加速结构构建等功能，旨在降低复杂动态场景的光追计算开销。微软",
+      "is_policy": false
+    },
+    {
+      "title": "华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座",
+      "url": "https://www.ithome.com/1/019/780.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:24:21+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据中国医药创新促进会分享，10 月 24 日，由该会与香港交易所主办的第十一届医药创新与投资大会在南京召开。华为制药军团总裁樊杰出席大会并接受媒体采访。</p><p>对于外界关心的华为是否会直接进入药物研发，樊杰明确表示：“<strong>华为不做药，也不做管线。</strong>”华为希望发挥自身在计算、通信和人工智能领域的优势，为药企、科研机构及 AI ",
+      "is_policy": false
+    },
+    {
+      "title": "庆祝《ARC Raiders》发售一周年，海盗船携旗下品牌推出联名外设",
+      "url": "https://www.ithome.com/1/019/779.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:15:08+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，CORSAIR（海盗船）当地时间今日宣布与 Embark Studios 合作，携主品牌与旗下 SCUF、Elgato 推出多款《ARC Raiders》（弧光猎人）联名硬件，<strong>庆祝这款多人在线射击游戏发售一周年</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img",
+      "is_policy": false
+    },
+    {
+      "title": "Old-school classifiers are still generally better than Jev [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-29T14:13:05+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model.</p>",
+      "is_policy": false
+    },
+    {
+      "title": "《GTA6》游戏公共交通系统详解：火车、巴士有固定路线和时刻表",
+      "url": "https://www.ithome.com/1/019/777.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:06:56+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据游戏媒体 GamesRadar 今天报道，在《GTA6》的雷奥奈达州，玩家即使不开车也能相当方便地出行。游戏中拥有一套完整的公共交通系统，<strong>巴士</strong>、<strong>火车将按照固定路线和时刻表运行</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img",
+      "is_policy": false
+    },
+    {
+      "title": "TrendForce 预测：全球 OLED 笔电出货量有望在中期维持超 30% 年增幅",
+      "url": "https://www.ithome.com/1/019/776.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T14:05:09+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，苹果北京时间今日发布了 MacBook Pro (PROLED XDR 显示屏)。在首款 OLED MacBook 产品面世后，研调机构 TrendForce（集邦）发布了对整体 OLED 笔电市场的最新预测。</p><p>机构认为，配备 OLED 屏幕的笔记本电脑整机<strong>出货量在 2026~2030 年期间维持超 30% 的同比增幅</stro",
+      "is_policy": false
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-29T14:00:00+00:00",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-29T14:00:00+00:00",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document know",
+      "is_policy": false
+    },
+    {
+      "title": "SpaceX 星舰完成上面级静态点火测试，准备进行第 15 次试飞",
+      "url": "https://www.ithome.com/1/019/775.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:50:21+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，SpaceX 在筹备星舰第 15 次试飞的路上又完成了一项重要里程碑，这次试飞有望极具看点。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/bc2e76f0-3282-424f-8805",
+      "is_policy": false
+    },
+    {
+      "title": "摩托罗拉 Signature 27 手机 11 月发布，骁龙 8EE6 芯片",
+      "url": "https://www.ithome.com/1/019/774.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:50:11+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，摩托罗拉今天在美国官网确认，Signature 27 手机将于 11 月发布。该机采用骁龙 8 Elite Extreme Gen 6 芯片，配备 165Hz AMOLED 屏幕。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/new",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌 Alphabet 盘初跌超 13% 创其历史上最大单日跌幅",
+      "url": "https://www.ithome.com/1/019/773.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:40:42+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，当地时间 10 月 29 日，谷歌母公司 Alphabet 开盘股价大幅下跌，盘中跌幅一度扩大至 13%，股价跌至 280 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,871 元人民币）</span>附近。</p><p style=\"text-align: center;\"><img class=\"no-a",
+      "is_policy": false
+    },
+    {
+      "title": "今日宜休 ISHO App 正式上线，王腾宣布会在未来两三个月开放更多品牌硬件生态产品接入",
+      "url": "https://www.ithome.com/1/019/772.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:40:24+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，今日宜休宣布，<strong>ISHO App 正式上线</strong>，支持睡眠数据查看、精力评分、个性化睡眠建议与生态设备联动。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/ca",
+      "is_policy": false
+    },
+    {
+      "title": "潜伏约 16 年的 UEFI 高危漏洞 CVE-2026-97631 曝光：CVSS 评分 9.5，影响多家固件供应商",
+      "url": "https://www.ithome.com/1/019/771.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:36:05+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，一项潜伏约 16 年的 UEFI 固件漏洞获曝光，编号为 CVE-2026-97631，CVSS 4.0 评分达到 9.5 分（满分 10 分）。</p><p>该漏洞存在于开源 UEFI 参考实现 TianoCore EDK II 的 PXE 网络启动驱动中，攻击者可在特定条件下于操作系统启动前执行恶意代码，影响使用相关组件的服务器及其他设备。</p><p>",
+      "is_policy": false
+    },
+    {
+      "title": "微软 Win11 新增“云重建”功能，无需 U 盘即可重装系统",
+      "url": "https://www.ithome.com/1/019/770.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:34:49+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据科技媒体 Windows Central 今天报道，微软 Win11 系统现已新增“云重建”功能，使用户无需准备 U 盘，也能为系统损坏的电脑重装。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/20",
+      "is_policy": false
+    },
+    {
+      "title": "百度集团副总裁吴甜离职，知情人士称文心模型下周将有新进展",
+      "url": "https://www.ithome.com/1/019/769.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:32:37+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，针对百度集团副总裁、百度研究院副院长吴甜离职的传闻，百度公关经理在朋友圈作出回应，确认吴甜已结束在百度的任职。她表示，百度的技术工作仍在向前推进。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-10-29T13:30:00+00:00",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its",
+      "is_policy": false
+    },
+    {
+      "title": "System76 推出 Thelio Prime 迷你主机：锐龙 9000 系列 CPU、可选独显",
+      "url": "https://www.ithome.com/1/019/768.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-29T13:21:52+00:00",
+      "summary": "<p>IT之家 10 月 29 日消息，据科技媒体 Notebookcheck 今天报道，System76 现已推出 Thelio Prime 迷你主机。新品采用 11L 紧凑设计，配备锐龙 9000 系列 CPU，起售价 1,599 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 10,682 元人民币）</span>。</p><p style=\"te",
+      "is_policy": false
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-29T13:00:00+00:00",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "is_policy": false
+    },
+    {
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-10-29T13:00:00+00:00",
+      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "is_policy": false
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-10-29T12:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac",
       "is_policy": false
     },
     {
@@ -278,75 +476,12 @@
       "is_policy": false
     },
     {
-      "title": "新易盛 2026 年前三季度归母净利润 113.72 亿元，同比增长 79.74%",
-      "url": "https://www.ithome.com/1/019/697.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:18:18+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，新易盛今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：318.5 亿元，同比增长 92.97%</p>",
-      "is_policy": false
-    },
-    {
-      "title": "2026 年 10 月游戏版号下发：183 款国产游戏、12 款进口网络游戏获批，腾讯《不可卷卷书店》、网易《桃花》、完美《诛仙：归来》在内",
-      "url": "https://www.ithome.com/1/019/695.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:15:19+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，国家新闻出版署刚刚公布了最新的 10 月游戏版号，共 183 款国产网络游戏、12 款进口网络游戏获批，其中包括小明太极旗下《美职篮瞬息》、腾讯《不可卷卷书店》、网易雷火《桃花》、三七互娱《斗罗大陆：第十魂环》《闲田悠悠》、咪咕《街区守护者》、中青宝《龙纹破晓》《无限守卫》《一起来作战》、4399《明日防线》《神将世界：破晓》、游族《拇指人领主》、游卡《元夜",
-      "is_policy": false
-    },
-    {
-      "title": "阿维塔取消发布会后“内部会议视频”流出，多机位拍摄遭网友质疑“摆拍”",
-      "url": "https://www.ithome.com/1/019/693.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:12:22+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，昨日深夜，阿维塔宣布取消原定于次日举行的阿维塔 07L Max 纯电版线上发布会。</p><p>对此，官方给出的核心理由是“发布会可以不办，但产品的诚意不能少”，并表示为了让新车以更有诚意的价格推出，团队在产品配置、用户需求与价格之间进行了多轮讨论和反复权衡，“新品发布计划不变，产品信息不藏”。</p><p>按照调整后的安排，阿维塔 07L Max 纯电版的",
-      "is_policy": false
-    },
-    {
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "source": "MIT Tech Review",
       "category": "news",
       "published": "2026-10-29T10:11:12+00:00",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
-      "is_policy": false
-    },
-    {
-      "title": "领益智造 2026 年前三季度归母净利润 19.17 亿元，同比下降 1.27%",
-      "url": "https://www.ithome.com/1/019/692.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:10:26+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，领益智造今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：406.71 亿元，同比增长 8.2%</p>",
-      "is_policy": false
-    },
-    {
-      "title": "小米新款平板电脑通过 3C 认证，预计为 REDMI Pad 3",
-      "url": "https://www.ithome.com/1/019/691.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:07:40+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，昨日有一款型号为 M887FA 的小米平板电脑新品通过了国家 CCC 质量认证，博主 @体验more 称其为 REDMI Pad 3。</p><p>结合已知爆料，这款平板电脑预计将支持 18W 快充，但 3C 认证显示它将标配 15W 功率的 MDY-18-EF 电源适配器，由南昌勤胜电子科技有限公司代工。</p><p style=\"text-align: ",
-      "is_policy": false
-    },
-    {
-      "title": "外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO“跪着爬回来”",
-      "url": "https://www.ithome.com/1/019/690.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:06:36+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，《华尔街日报》昨日发文，曝光苹果此前通过“黑帮一样的”强势手段谈判，意图压低内存采购价格。其中包括要求供应商接受大范围财务审计、故意对采购量承诺表现得漫不经心，还有谈判中的各种心理压力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
-      "is_policy": false
-    },
-    {
-      "title": "特变电工 2026 年前三季度归母净利润 35.42 亿元，同比下降 35.41%",
-      "url": "https://www.ithome.com/1/019/689.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-29T10:02:15+00:00",
-      "summary": "<p>IT之家 10 月 29 日消息，特变电工今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 年前三季度</h3><li><p><strong>营业总收入</strong>：855.88 亿元，同比增长 17.38%</",
       "is_policy": false
     },
     {
@@ -377,12 +512,30 @@
       "is_policy": false
     },
     {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "is_policy": false
+    },
+    {
       "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-10-29T08:51:23+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub",
+      "is_policy": false
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
       "is_policy": false
     },
     {
@@ -593,15 +746,6 @@
       "is_policy": false
     },
     {
-      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-28T16:15:30+00:00",
-      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head And",
-      "is_policy": false
-    },
-    {
       "title": "AI execs may be too out of touch to build for the general public",
       "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
       "source": "TechCrunch AI",
@@ -626,15 +770,6 @@
       "category": "news",
       "published": "2026-10-28T15:00:00+00:00",
       "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools",
-      "is_policy": false
-    },
-    {
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-28T14:44:00+00:00",
-      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, accordi",
       "is_policy": false
     },
     {
@@ -692,30 +827,12 @@
       "is_policy": false
     },
     {
-      "title": "Voters in Texas agree: They hate data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-28T12:00:00+00:00",
-      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition f",
-      "is_policy": false
-    },
-    {
       "title": "Pairing industrial AI autonomy and human control",
       "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
       "source": "MIT Tech Review",
       "category": "news",
       "published": "2026-10-28T12:00:00+00:00",
       "summary": "",
-      "is_policy": false
-    },
-    {
-      "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-10-28T11:27:30+00:00",
-      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store l",
       "is_policy": false
     },
     {
@@ -735,51 +852,6 @@
       "published": "2026-10-28T09:30:00+00:00",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "is_policy": false
-    },
-    {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-28T01:15:28+00:00",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "is_policy": false
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T23:34:27+00:00",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "is_policy": false
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T22:55:41+00:00",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "is_policy": false
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T21:44:34+00:00",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "is_policy": false
-    },
-    {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T21:38:28+00:00",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "is_policy": true
     },
     {
       "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
@@ -806,51 +878,6 @@
       "category": "community",
       "published": "2026-10-27T19:20:08+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd",
-      "is_policy": false
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T18:55:35+00:00",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "is_policy": false
-    },
-    {
-      "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-27T18:16:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large mo",
-      "is_policy": false
-    },
-    {
-      "title": "I built this, feedback welcome [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-27T17:43:25+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/\"> <img alt=\"I built this, feedback welcome [P]\" src=\"https://preview.redd.it/n2c2qk",
-      "is_policy": false
-    },
-    {
-      "title": "First 6-step LoRA adapters with no upsampling step, ~5x faster [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgye14/first_6step_lora_adapters_with_no_upsampling_step/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-27T17:09:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey! We published a set of 6-step LoRAs, one without the upsampling step: <a href=\"https://huggingface.co/PrunaAI/P-Q-Image-2.1\">https://huggingface.co/PrunaAI/P-Q-Im",
-      "is_policy": false
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-27T17:08:08+00:00",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
       "is_policy": false
     },
     {
@@ -1115,15 +1142,6 @@
       "is_policy": false
     },
     {
-      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
-      "url": "https://huggingface.co/papers/2610.36729",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-26T20:00:00+00:00",
-      "summary": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion back",
-      "is_policy": false
-    },
-    {
       "title": "Will the real Anthropic please stand up",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "source": "MIT Tech Review",
@@ -1148,15 +1166,6 @@
       "category": "news",
       "published": "2026-10-26T13:45:00+00:00",
       "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "is_policy": false
-    },
-    {
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-10-26T12:40:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores ",
       "is_policy": false
     },
     {
@@ -1196,21 +1205,21 @@
       "is_policy": false
     },
     {
+      "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks",
+      "url": "https://huggingface.co/papers/2610.35671",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-25T20:00:00+00:00",
+      "summary": "As frontier language models grow increasingly capable and autonomous, independent third-party evaluations are critical for characterizing their systemic safety risks. While closed-source releases are ",
+      "is_policy": false
+    },
+    {
       "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
       "url": "https://huggingface.co/papers/2610.35684",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-10-25T20:00:00+00:00",
       "summary": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods conditi",
-      "is_policy": false
-    },
-    {
-      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2610.35201",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-10-25T20:00:00+00:00",
-      "summary": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (R",
       "is_policy": false
     },
     {
@@ -1313,6 +1322,15 @@
       "is_policy": false
     },
     {
+      "title": "MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting",
+      "url": "https://huggingface.co/papers/2610.35724",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-10-25T20:00:00+00:00",
+      "summary": "High-resolution video matting requires preserving fine details, such as hair strands and soft transparency, while maintaining consistency across frames. Memory-based methods achieve strong matting qua",
+      "is_policy": false
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI Blog",
@@ -1355,15 +1373,6 @@
       "category": "news",
       "published": "2026-10-22T19:00:00+00:00",
       "summary": "Fast, focused, low-cost decisions for any application.",
-      "is_policy": false
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "Google DeepMind",
-      "category": "news",
-      "published": "2026-10-22T14:30:24+00:00",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
       "is_policy": false
     }
   ]
