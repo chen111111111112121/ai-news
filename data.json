@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:18:20.228848+00:00",
+  "generated_at": "2026-10-31T11:25:32.144297+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,8 +12,17 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
+      "published": "2026-10-31T11:25:32+00:00",
       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "is_policy": false
+    },
+    {
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-31T11:25:32+00:00",
+      "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "is_policy": false
     },
     {
@@ -21,44 +30,8 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
+      "published": "2026-10-31T11:25:32+00:00",
       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "is_policy": false
-    },
-    {
-      "title": "CopilotKit / OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
-      "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "is_policy": false
-    },
-    {
-      "title": "expo / skills",
-      "url": "https://github.com/expo/skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
-      "summary": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-      "is_policy": false
-    },
-    {
-      "title": "macro-inc / macro",
-      "url": "https://github.com/macro-inc/macro",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
-      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "is_policy": false
-    },
-    {
-      "title": "anthropics / skills",
-      "url": "https://github.com/anthropics/skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
-      "summary": "Public repository for Agent Skills",
       "is_policy": false
     },
     {
@@ -66,53 +39,566 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T03:18:20+00:00",
+      "published": "2026-10-31T11:25:32+00:00",
       "summary": "Lightpanda: the headless browser designed for AI and automation",
       "is_policy": false
     },
     {
-      "title": "告别“网页套壳”：微软完善 Win11 原生框架 WinUI 体验，减少内存占用",
-      "url": "https://www.ithome.com/1/020/443.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T03:09:10+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称微软于 10 月 27 日发布 Windows App SDK 2.6.4，进一步完善 Windows 11 原生应用框架 WinUI 体验，<strong>规避“网页套壳”应用的内存占用问题，提升应用稳定性和兼容性，并增强 AI 功能。</strong></p><p>IT之家",
+      "title": "Orkas-AI / Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-31T11:25:32+00:00",
+      "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw a",
       "is_policy": false
     },
     {
-      "title": "无需安装：微软 Win11 预览版搜索联动安卓，直接串流操作手机应用",
-      "url": "https://www.ithome.com/1/020/442.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T02:52:31+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称<a href=\"https://www.ithome.com/1/020/388.htm\" target=\"_blank\">在 Windows 11 Build 26340.9843 等 Experimental 频道预览版中</a>，微软正在测试 Windows Subsy",
+      "title": "THU-MAIC / OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-10-31T11:25:32+00:00",
+      "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "is_policy": false
     },
     {
-      "title": "新款小米 SU7 Ultra 无伪装实车曝光，消息称预计 2027 年上市",
-      "url": "https://www.ithome.com/1/020/441.htm",
+      "title": "漫步者花再 x 影驰 NEW CYBER 星曜娘 LUNA 联名海景房音响上市：内置立体手办 + 彩屏交互，售 1599 元",
+      "url": "https://www.ithome.com/1/020/588.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-31T02:45:40+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，据蓝鲸新闻从知情人士处获悉，<strong>新款小米 SU7 Ultra 预计在 2027 年上市</strong>。知情人士透露，新车将对外观造型进行调整升级，整套空气动力学套件全面优化，并搭载 DRS 鹅颈尾翼，相比在售版本改动幅度较大。</p><p>IT之家注意到，新款小米 SU7 Ultra 无伪装实车现已曝光。</p><p style=\"text-",
+      "published": "2026-10-31T11:01:28+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，漫步者花再官方今日宣布，与影驰合作打造的 NEW CYBER 星曜娘 LUNA 海景房音箱联名限定款现已上市，京东显示为 1599 元，供极光白与幻夜黑两种配色可选。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6gof37\" target=\"_blank\"><span class=\"",
       "is_policy": false
     },
     {
-      "title": "国内首个：新疆发现特大型锆（铪）砂矿，大幅提高我国锆矿自给能力",
-      "url": "https://www.ithome.com/1/020/440.htm",
+      "title": "宏碁非凡 Go Air 新增 16+512GB 存储版本：酷睿 Ultra 5 125H 售 6999 元，999g 轻薄设计",
+      "url": "https://www.ithome.com/1/020/586.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-31T02:45:09+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，据央视财经今日报道，新疆阿克苏地区拜城县发现<strong>国内首个古河湖相锆砂矿</strong>，这将大幅提高我国锆矿自给能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/af4",
+      "published": "2026-10-31T10:50:47+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，宏碁非凡 Go Air 轻羽本本周新增了两款配备 16GB 内存、512GB 固态硬盘的版本，其中搭载英特尔酷睿 Ultra 5 125H 处理器的版本售价 6999 元，酷睿 Ultra 7 155H 版本 7999 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1gA",
       "is_policy": false
     },
     {
-      "title": "苹果首款智能家居中枢 HomeView 系统前瞻：内置 20 张壁纸，配史努比动画",
-      "url": "https://www.ithome.com/1/020/439.htm",
+      "title": "Waymo 无人驾驶出租车长期霸占充电桩，美国电车车主不胜其扰",
+      "url": "https://www.ithome.com/1/020/585.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-10-31T02:33:33+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果推送 HomeView Software 27.2 更新，<strong>让外界首次较完整地看到这款新设备的界面细节、个性化能力以及苹果为智能家居产品打造的新软件架构。</strong></p><p>HomeView Software 27.2 将装备在苹果首款智能家居中枢 Home",
+      "published": "2026-10-31T10:48:11+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，开着电动汽车到公共快充站补电，却发现充电位都被 Waymo 的无人驾驶出租车给占了，这种情况已经在美国加州圣迭戈出现。据当地电动汽车车主反映，他们有时不得不排队等上一小时，甚至只能另找充电站。</p><p>据《洛杉矶时报》当地时间 30 日报道，Waymo 正在美国迅速拓展业务，目前服务范围已覆盖 15 座城市。但随着车队规模不断扩大，部分车主也遇到了意想不",
+      "is_policy": false
+    },
+    {
+      "title": "原生 3DoF 防抖不易晕：雷鸟 AR 眼镜 GT 京东 1239 元新低，配镜后也支持 7 天免费试用",
+      "url": "https://www.ithome.com/1/020/584.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:43:28+00:00",
+      "summary": "<p>雷鸟 GT 系列 AR 眼镜产品今年 5 月上市，官方定价 1899 元。</p><p>今日京东直降至 1339 元，下单后赠 100 元 E 卡，限时<strong>免费近视配镜</strong>，晒单赠 49 元导音鳍：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaghPCI\" target=\"_blank\"><",
+      "is_policy": false
+    },
+    {
+      "title": "马斯克发“笑脸”评论币安遭黑客攻击新闻，赵长鹏称现在不适合开玩笑",
+      "url": "https://www.ithome.com/1/020/583.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:33:46+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，马斯克在网上开起玩笑来谁都不放过，连投资过他的股东也不例外。币安遭黑客攻击后，马斯克把调侃对象转向了币安联合创始人赵长鹏。</p><p>本月 30 日，币安通报平台可能遭到黑客入侵，并已启动调查，黑客转走的资产价值或高达 63 亿美元<span class=\"exch-money-value\">（现汇率约合 420.18 亿元人民币）</span>。币安最初",
+      "is_policy": false
+    },
+    {
+      "title": "乐元素 UE5 二游《白银之城》定档 12 月 14 日全球公测，登陆 PC、PS5 及移动平台",
+      "url": "https://www.ithome.com/1/020/582.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:32:26+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，乐元素旗下虚幻引擎 5 大世界动作 RPG《白银之城》今日官宣将于 12 月 14 日开启全球公测，登陆 PC、PlayStation 5、安卓和 iOS 平台。据称，游戏全球预约量已突破 1500 万。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.it",
+      "is_policy": false
+    },
+    {
+      "title": "【20:00~20:15】蹲点速抢京东无门槛红包，80 元超补券先到先得，vivo X Fold6 限量 1 元抢",
+      "url": "https://www.ithome.com/1/020/580.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:29:53+00:00",
+      "summary": "<p>全网 11.11 将在 <strong>10 月 31 日 20:00 ~ 11 月 1 日</strong>再次开启超级秒杀狂促，整个 11.11 就看这波啦，有需求的小伙伴可以蹲点抢哦。</p><p><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https:",
+      "is_policy": false
+    },
+    {
+      "title": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起",
+      "url": "https://www.ithome.com/1/020/578.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:23:04+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，机械革命推出了 JG02M 和 JG03M 两个系列的电竞鼠标，外观基本一致。JG02M 普通版 79.9 元，Pro 版 99.9 元，JG03M 标准版 89.9 元，Pro 版 109 元，均已开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eOgWZeP\" target=\"_",
+      "is_policy": false
+    },
+    {
+      "title": "涉电动汽车、App 适老化等，500 多项国家标准下月实施",
+      "url": "https://www.ithome.com/1/020/577.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:16:48+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，据央视新闻援引国家标准委，11 月 1 日起，54 项强制性国家标准、465 项推荐性国家标准和 1 项指导性技术文件开始实施。</p><p>《拖拉机噪声限值》《收获机械噪声限值》强制性国家标准分别规定了拖拉机、收获机械动态环境噪声限值和驾驶员操作位置处噪声限值及相应测量方法。《土方机械噪声限值》强制性国家标准规定了土方机械的机外发射噪声限值和司机位置噪声限",
+      "is_policy": false
+    },
+    {
+      "title": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”",
+      "url": "https://www.ithome.com/1/020/575.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T10:08:46+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，The Game Post 昨日发现，索尼互动娱乐（SIE）近日发布的一则招聘信息，显示 PlayStation Store 确实存在动态定价机制。</p><p>索尼正在招聘一名“数字游戏货币化高级总监”（Senior Director, Digital Games Monetization），负责领导 PlayStation Store 全球数字游戏商业化",
+      "is_policy": false
+    },
+    {
+      "title": "影史经典《海上钢琴师》11 月 13 日再次内地重映，豆瓣评分 9.3",
+      "url": "https://www.ithome.com/1/020/574.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:59:57+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，今日，由意大利著名导演朱塞佩 · 托纳托雷执导的影史经典《海上钢琴师》官宣于 11 月 13 日内地重映，影片豆瓣评分 9.3。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/6b189",
+      "is_policy": false
+    },
+    {
+      "title": "长鑫科技：已与多家头部客户协商长期供货协议",
+      "url": "https://www.ithome.com/1/020/573.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:56:52+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，在 2026 年第三季度业绩说明会上，长鑫科技管理层就投资者关注的盈利前景回应称：<strong>已与多家头部客户协商长期供货协议</strong>，从而锁定中长期确定性需求，预计第四季度毛利率将继续保持稳定。</p><p>据IT之家了解，长鑫科技今年前三季度综合毛利率达 86.85%；第三季度单季毛利率达到 89.53%。</p><ul class=\" l",
+      "is_policy": false
+    },
+    {
+      "title": "华为终端首个三类医疗器械落地：CGM 持续葡萄糖监测系统获批，与心脏支架同级监管",
+      "url": "https://www.ithome.com/1/020/572.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:50:03+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，国家药监局 10 月 30 日公示的医疗器械批准文件送达信息中出现了一条来自“华为终端有限公司”的公示，产品名称为“持续葡萄糖监测系统”，注册证编号“国械注准 20263072228”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
+      "is_policy": true
+    },
+    {
+      "title": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系",
+      "url": "https://www.ithome.com/1/020/566.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:41:45+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，据新浪科技今日报道，发布第三季度财报后，奇瑞汽车股份有限公司执行副总裁戚士龙，奇瑞控股集团新闻发言人金弋波与媒体对话。</p><p>谈及智界获取独立造车资质一事，奇瑞汽车股份有限公司执行副总裁戚士龙表示，通过智界这几年的运营来看，本质上反映出奇瑞能力提升的过程。“比如说做十几万车，二十几万车，我们原来没有经验，现在通过智界 V9、智界 RX 这两款车的打磨，",
+      "is_policy": false
+    },
+    {
+      "title": "丰田大举“逆电动化”：要开发新一代内燃机，还打算卖给其他车企",
+      "url": "https://www.ithome.com/1/020/557.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:35:18+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，目前，大多数车企都选择改进现有发动机，以满足包括欧 7 等一系列严格的排放要求。考虑到电动化转型需要巨额投资，车企又普遍希望压缩研发开支，全新系列发动机越来越少见。</p><p>丰田却反其道而行，<strong>不仅要开发新一代内燃机，还打算卖给其他车企</strong>。</p><p style=\"text-align: center;\"><img cla",
+      "is_policy": false
+    },
+    {
+      "title": "理想 AI 眼镜 Livis 10 月 OTA 升级，个人 Agent 新增接入 Hermes",
+      "url": "https://www.ithome.com/1/020/553.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:31:55+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，理想汽车今日宣布理想 AI 眼镜 Livis 10 月 OTA 重磅升级，运动健康分析报告进一步提升；视觉问答独家接入小红书 Agent；个人 Agent 新增接入 Hermes。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/new",
+      "is_policy": false
+    },
+    {
+      "title": "12G+256G 首发 3199 → 2188 元：联想小新 Pro GT 13 平板电脑国补 6 期免息",
+      "url": "https://www.ithome.com/1/020/547.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:27:41+00:00",
+      "summary": "<p>2026 年 3 月 18 日联想推出了小新系列的笔记本电脑及平板电脑新品，以及拯救者 Y700 五代平板电脑。</p><p>其中，联想小新 Pro GT 13 平板电脑搭载高通骁龙 8 至尊版，采用 13 英寸 3.5K 屏幕，提供 3 个版本可选，首发价 2799~3599 元，叠加国补后 2380~3099 元，再叠加教育优惠 2295~2999 元。</p><ul class=\" l",
+      "is_policy": false
+    },
+    {
+      "title": "1319 元刚需闭眼囤：小米 1.5 匹巨省电 N1A1 空调官方直降",
+      "url": "https://www.ithome.com/1/020/546.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:25:23+00:00",
+      "summary": "<p>小米・米家空调巨省电 1.5 匹 KFR-35GW / N1A1（APF 5.27 款）日常售价 1688 元，今日京东旗舰店直降至 1319 元刚需闭眼囤好价。</p><ul class=\" list-paddingleft-2\"><li><p>先领 9 折京东平台券：<strong><a href=\"https://u.jd.com/eOgnyEP\" target=\"_blank\">点此",
+      "is_policy": false
+    },
+    {
+      "title": "惠普推出 34 英寸 WQHD 120Hz 带鱼屏显示器 Series 3 Pro 334wp G2，支持 90W USB-C 供电",
+      "url": "https://www.ithome.com/1/020/545.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:25:13+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，据 TechPowerUp 昨日报道，惠普推出了一款 34 英寸 WQHD 120Hz 的 Series 3 Pro 带鱼屏显示器，型号 334wp G2，面向办公及多任务处理场景。</p><p>该显示器采用 VA 面板，拥有 1500R 曲率、3440×1440 分辨率，静态对比度为 3500:1，亮度为 300 尼特，开启 Overdrive 后响应时间",
+      "is_policy": false
+    },
+    {
+      "title": "曝 EA 关闭 BioWare 是为“腾笼换鸟”：将资源投向《星球大战：前线 3》",
+      "url": "https://www.ithome.com/1/020/544.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:22:24+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，上周，EA 宣布关闭历史悠久、曾打造《龙腾世纪》的工作室 BioWare，同时取消开发中的《质量效应》新作。</p><p style=\"text-align: start;\">当地时间 10 月 30 日，彭博社的新报道指出，EA 决定关闭 BioWare，很大程度上是因为公司<strong>获得了制作新一部《星球大战：前线》的机会</strong>。</p",
+      "is_policy": false
+    },
+    {
+      "title": "神行者 8 大五座版开启交付：权益价 28.99 万元起，标配华为 ADS 5",
+      "url": "https://www.ithome.com/1/020/543.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:14:43+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，FREELANDER 神行者 8 大五座版于 10 月 31 日正式开启交付。官方同时宣布将上市权益延续至 11 月 30 日 24 时。</p><p>神行者 8 由奇瑞与捷豹路虎联合开发，在奇瑞捷豹路虎常熟基地生产，大六座版已于 9 月先行开启交付。大五座提供 PRO、MAX、MAX+ 三款配置，指导价 30.99 万至 38.99 万元，限时权益价 28",
+      "is_policy": false
+    },
+    {
+      "title": "《使命召唤：现代战争 4》游戏使用梨泰院踩踏事故素材，动视致歉并承诺删除",
+      "url": "https://www.ithome.com/1/020/542.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:08:11+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 10 月 31 日消息，当地时间 30 日，据外媒 VGC 报道，动视因《使命召唤：现代战争 4》使用真实惨剧影像引发不满而道歉，并承诺从游戏中删除有关画面。</p><p style=\"text-align: start;\">《使命召唤：现代战争 4》游戏开场片头的新闻播报声搭配了真实新闻报道中的历史画面，其中一个短暂镜头出现了",
+      "is_policy": false
+    },
+    {
+      "title": "小米云服务双十一特惠活动上线，会员包年 3 折起",
+      "url": "https://www.ithome.com/1/020/541.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:04:03+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，小米云服务今日宣布开启双 11 限时优惠，会员包年 3 折起，活动时间为 10 月 31 日-11 月 14 日。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/bddbacb6-f9c",
+      "is_policy": false
+    },
+    {
+      "title": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁",
+      "url": "https://www.ithome.com/1/020/540.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T09:01:45+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。</p><p>据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电源键，就能完成指纹识别和",
+      "is_policy": false
+    },
+    {
+      "title": "微软 Edge 企业版新增开机自启管理策略，未配置时由用户自行决定",
+      "url": "https://www.ithome.com/1/020/525.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T08:49:22+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，据 Neowin 今日报道，微软计划为企业和组织用户推出一项新的 Microsoft Edge 管理策略，允许 IT 管理员统一控制浏览器在 Windows 登录时的启动行为。</p><p>这项新策略名为“<span class=\"link-text-start-with-http\">LaunchEdgeOnWindowsStartupEnabled</sp",
+      "is_policy": false
+    },
+    {
+      "title": "揭秘宾利首款纯电 SUV 托卡尔：累计测试里程超百万公里，遍历高寒、高温、高海拔",
+      "url": "https://www.ithome.com/1/020/522.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T08:45:57+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 10 月 31 日消息，当地时间 30 日，据外媒 motor1 报道，宾利披露的最新信息称，为了在交付前尽可能找出车辆存在的问题，工程师花了数年时间，对品牌首款纯电动 SUV 托卡尔进行极限测试，<strong>累计测试里程超过 100 万公里，足迹遍及全球多个气候严酷的地区</strong>。</p><p style=\"te",
+      "is_policy": false
+    },
+    {
+      "title": "科幻电影《沙丘 3》全新预告发布：三部曲最终篇，12 月 31 日内地上映",
+      "url": "https://www.ithome.com/1/020/514.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T08:42:05+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，科幻电影《沙丘 3》全新预告近日发布，本片将于 2026 年 12 月 18 日北美上映、12 月 31 日中国内地上映。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/tv/show/1034:5358782881136732",
+      "is_policy": false
+    },
+    {
+      "title": "大众暂停“纯电高尔夫”ID.Golf 研发：需要更审慎地安排资金投入",
+      "url": "https://www.ithome.com/1/020/511.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T08:30:24+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，据外媒 motor1 报道，为了削减开支，大众决定暂停“纯电高尔夫”ID.<span class=\"Apple-converted-space\"> </span>Golf 的研发。大众在 10 月 30 日公布的最新财报中承认，面对严峻的经营环境，公司需要更加审慎地安排资金投入。</p><p style=\"text-align: start;\">业绩电话会上",
+      "is_policy": false
+    },
+    {
+      "title": "荣耀 WIN2 三角洲行动职业赛事联名款上架预约，11 月 27 日发售",
+      "url": "https://www.ithome.com/1/020/509.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T08:29:09+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，<span class=\"hot-topic\">荣耀 WIN2</span> 三角洲行动职业赛事联名款上架预约，11 月 27 日 10:08 发售，提供 16GB+512GB 存储配置。目前，官方暂未公布新品的价格信息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https",
+      "is_policy": false
+    },
+    {
+      "title": "迈凯伦主力超跑 750S 后继有人：接班车型或命名 McL 820，明年问世",
+      "url": "https://www.ithome.com/1/020/508.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-10-31T08:18:22+00:00",
+      "summary": "<p>IT之家 10 月 31 日消息，当地时间 29 日，据外媒 Autocar 报道，迈凯伦暗示，计划 2027 年推出的 750S 继任车型<strong>或将命名为 McL 820</strong>，动力输出接近搭载 V12 发动机的法拉利 12Cilindri。</p><p>新车将是迈凯伦被阿布扎比投资基金 L’imad 收购后推出的首款全新常规量产车型，也有望沿用限量版 McL 6GT",
+      "is_policy": false
+    },
+    {
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37720v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenec",
+      "is_policy": false
+    },
+    {
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "url": "https://arxiv.org/abs/2610.37731",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37731v1 Announce Type: new \nAbstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties",
+      "is_policy": false
+    },
+    {
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "url": "https://arxiv.org/abs/2610.37732",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37732v1 Announce Type: new \nAbstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probab",
+      "is_policy": false
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37739v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still ",
+      "is_policy": false
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37786v1 Announce Type: new \nAbstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per",
+      "is_policy": false
+    },
+    {
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.37809",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37809v1 Announce Type: new \nAbstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that",
+      "is_policy": false
+    },
+    {
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "url": "https://arxiv.org/abs/2610.37830",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37830v1 Announce Type: new \nAbstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matter",
+      "is_policy": false
+    },
+    {
+      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "url": "https://arxiv.org/abs/2610.37849",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37849v1 Announce Type: new \nAbstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. W",
+      "is_policy": false
+    },
+    {
+      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "url": "https://arxiv.org/abs/2610.37851",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37851v1 Announce Type: new \nAbstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified b",
+      "is_policy": false
+    },
+    {
+      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+      "url": "https://arxiv.org/abs/2610.37859",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37859v1 Announce Type: new \nAbstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability e",
+      "is_policy": false
+    },
+    {
+      "title": "What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine",
+      "url": "https://arxiv.org/abs/2610.37867",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37867v1 Announce Type: new \nAbstract: Food similarity underlies retrieval, recommendation, substitution, and other food computing tasks, yet food representations are typically evaluated by ",
+      "is_policy": false
+    },
+    {
+      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "url": "https://arxiv.org/abs/2610.37875",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37875v1 Announce Type: new \nAbstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Veri",
+      "is_policy": false
+    },
+    {
+      "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+      "url": "https://arxiv.org/abs/2610.37896",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37896v1 Announce Type: new \nAbstract: Subjective judgments such as offensiveness often vary substantially across individuals, motivating pluralistic modeling approaches that incorporate ann",
+      "is_policy": false
+    },
+    {
+      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "url": "https://arxiv.org/abs/2610.37905",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37905v1 Announce Type: new \nAbstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with lang",
+      "is_policy": false
+    },
+    {
+      "title": "Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons",
+      "url": "https://arxiv.org/abs/2610.37906",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37906v1 Announce Type: new \nAbstract: Spiking reservoir computing combines the training efficiency of fixed recurrent reservoirs with the energy efficiency of event-driven inference, where ",
+      "is_policy": false
+    },
+    {
+      "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+      "url": "https://arxiv.org/abs/2610.37919",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37919v1 Announce Type: new \nAbstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data",
+      "is_policy": false
+    },
+    {
+      "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+      "url": "https://arxiv.org/abs/2610.37923",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37923v1 Announce Type: new \nAbstract: Across human history, knowledge has undergone several transitions, from orality to writing and then to digital archives. At each transition, humans est",
+      "is_policy": false
+    },
+    {
+      "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.37926",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37926v1 Announce Type: new \nAbstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, b",
+      "is_policy": false
+    },
+    {
+      "title": "Understanding Large Language Models as Numerical Optimizers",
+      "url": "https://arxiv.org/abs/2610.37932",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37932v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as potential tools for numerical optimization. Despite promising results, their intrinsic optimization capabi",
+      "is_policy": false
+    },
+    {
+      "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2610.37935",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37935v1 Announce Type: new \nAbstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusab",
+      "is_policy": false
+    },
+    {
+      "title": "GAUSS: A Workload-Aware Analytical and Monte-Carlo Simulator for LLM Inference Serving",
+      "url": "https://arxiv.org/abs/2610.37989",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37989v1 Announce Type: new \nAbstract: Large language model (LLM) inference has become an operational workload that fleets must provision, monitor, and bill against latency service-level obj",
+      "is_policy": false
+    },
+    {
+      "title": "Algorithmic Bias from the Perspectives of Healthcare Professionals",
+      "url": "https://arxiv.org/abs/2610.38006",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38006v1 Announce Type: new \nAbstract: This paper focuses on algorithmic bias of machine learning and artificial intelligence applications in healthcare information systems. Based on the qua",
+      "is_policy": false
+    },
+    {
+      "title": "Assessing Language Models for Scientific Applications: Inertial Confinement Fusion as a Use Case",
+      "url": "https://arxiv.org/abs/2610.38024",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38024v1 Announce Type: new \nAbstract: Advancing language models for specialized scientific applications requires evaluations of scientific fluency, physical reasoning, and quantitative anal",
+      "is_policy": false
+    },
+    {
+      "title": "PromptSense: Sentiment-Aware Mental Health Chatbot with Dynamic Prompting",
+      "url": "https://arxiv.org/abs/2610.38044",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38044v1 Announce Type: new \nAbstract: Current Large Language Models (LLMs)-based mental health chatbots often lack sufficient empathy, contextual awareness, and safety mechanisms, potential",
+      "is_policy": false
+    },
+    {
+      "title": "Evaluating Causal Reasoning in LLMs: A Case Study in the Challenges of Procedural Generation",
+      "url": "https://arxiv.org/abs/2610.38100",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38100v1 Announce Type: new \nAbstract: Large language models (LLMs) appear to represent and reason about a large range of phenomena. In particular, recent studies have examined whether LLMs ",
+      "is_policy": false
+    },
+    {
+      "title": "AI-Driven Digital Twin Framework for Warehouse Logistics Automation Optimization",
+      "url": "https://arxiv.org/abs/2610.38101",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38101v1 Announce Type: new \nAbstract: In recent years, warehouse logistics optimization has increasingly focused on intelligent, data-driven systems to enhance operational efficiency. Conve",
+      "is_policy": false
+    },
+    {
+      "title": "Too Hard, Too Easy, Just Right: Performance-Driven Challenge Adaptation in Virtual Reality Firefighter Training",
+      "url": "https://arxiv.org/abs/2610.38117",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38117v1 Announce Type: new \nAbstract: Effective firefighter training requires practice under dynamic and stressful emergency conditions, yet real-world live-fire exercises are costly, risky",
+      "is_policy": false
+    },
+    {
+      "title": "Post-Training Large Language Models with LLMON",
+      "url": "https://arxiv.org/abs/2610.38120",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38120v1 Announce Type: new \nAbstract: Large Language Models (LLMs) treat all context tokens uniformly, lacking explicit separation between executable instructions and passive data. This lea",
+      "is_policy": false
+    },
+    {
+      "title": "Decompose, Don't Expand: Capability-Independent AI Systems by Construction",
+      "url": "https://arxiv.org/abs/2610.38144",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38144v1 Announce Type: new \nAbstract: A recurring design choice in building AI systems is whether, when a task is too hard for a model, to expand the model (make it larger, better-prompted,",
+      "is_policy": false
+    },
+    {
+      "title": "SkillCT: A Multidimensional Benchmark and Execution-Free Baseline for Agent Skill Assessment",
+      "url": "https://arxiv.org/abs/2610.38147",
+      "source": "arXiv cs.AI",
+      "category": "papers",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.38147v1 Announce Type: new \nAbstract: Agent skills package instructions, scripts, and resources for specialized tasks and are increasingly distributed through public Web repositories. Howev",
       "is_policy": false
     },
     {
@@ -125,237 +611,12 @@
       "is_policy": false
     },
     {
-      "title": "印度自己的空间站 BAS 规划公布：模块化设计，2028 年开造",
-      "url": "https://www.ithome.com/1/020/437.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T02:27:39+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，据印度政府科技与技术部生物技术司披露的信息，在 10 月 27 日开幕的印度“新兴科学技术与创新大会”上，印度空间研究组织 Bharatiya Antariksh Station 项目（BAS 项目）主管 K. Kalpana 女士公布了印度自己的空间站 BAS 的相关规划。</p><p style=\"text-align: center;\"><img cl",
-      "is_policy": false
-    },
-    {
-      "title": "小米 REDMI K100 手机首销：骁龙 8 至尊版、10000mAh 电池，限时特惠价 2999 元起",
-      "url": "https://www.ithome.com/1/020/436.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T02:16:00+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，小米 <span class=\"hot-topic\">REDMI K100</span> 手机今日首销，<strong>双 11 限时特惠价 2999 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>12GB+256GB 版：建议零售价 3499 元，双 11 限时特惠 29",
-      "is_policy": false
-    },
-    {
-      "title": "苹果 Apple TV 观看量最高剧集续作，曝《同乐者》第二季今日美国开拍",
-      "url": "https://www.ithome.com/1/020/435.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T02:06:42+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，科技媒体 9to5Mac 昨日（10 月 30 日）发布博文，<strong>报道称苹果 Apple TV 现象级科幻剧《同乐者》（Pluribus）第二季已于今天（31 日）在美国新墨西哥州阿尔伯克基开拍。</strong></p><p>该剧由《绝命毒师》、《风骚律师》主创文斯 · 吉利根（Vince Gilligan）打造，蕾亚 · 塞洪主演，是 App",
-      "is_policy": false
-    },
-    {
-      "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
-      "url": "https://www.ithome.com/1/020/434.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T02:03:03+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/ce7d41b8-9150-4e72-925e-f4",
-      "is_policy": false
-    },
-    {
-      "title": "2026 年 11 月科技事件日历一览表",
-      "url": "https://www.ithome.com/1/020/433.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T02:00:08+00:00",
-      "summary": "<p>IT之家的观众老爷们好，小泵来给大家做汇报了 [嘿哈]。下面是 <span class=\"font-color-red\">2026 年 11 月</span>科技事件的预告汇总，请查收！</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/img/share/702c5b1",
-      "is_policy": false
-    },
-    {
-      "title": "《利刃出鞘》电影同款影像风格：导演约翰逊推出新相机 App，已适配苹果 iPhone Duo",
-      "url": "https://www.ithome.com/1/020/432.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:54:25+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，科技媒体 9to5Mac 昨日（10 月 30 日）发布博文，报道称好莱坞导演莱恩 · 约翰逊（Rian Johnson）推出 iPhone 相机应用 Chromagraph Camera，<strong>已于 10 月 22 日上架苹果 App Store 应用商店。</strong></p><p style=\"text-align: center;\"><",
-      "is_policy": false
-    },
-    {
-      "title": "吉利汽车桂生悦：过去三个月，面临过去几年来最严峻的挑战时刻",
-      "url": "https://www.ithome.com/1/020/431.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:48:14+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，据蓝鲸汽车报道，在吉利汽车 2026 年三季度业绩电话会上，吉利汽车董事会副主席桂生悦表示，过去三个月，吉利汽车所面临的竞争，是过去这两年所没有的，<strong>可以讲是面临过去几年来最严峻的挑战时刻</strong>。</p><p>桂生悦认为，从销量、业绩表现来讲，吉利汽车扛住了这种高压。</p><blockquote><p>虽然现在我们所有的产品线都遭",
-      "is_policy": false
-    },
-    {
-      "title": "11 月起影响你我生活的新规：电动自行车 3C 认证要求更严、有线广播电视和 IPTV 不得播放开机广告等",
-      "url": "https://www.ithome.com/1/020/429.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:46:46+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，2026 年 11 月 1 日起，一批新规将正式施行，将直接影响你我的出行、生活、消费，IT之家为大家汇总如下：</p><h2>“一车一池一充一码”，电动自行车 CCC 认证要求更严格</h2><p>市场监管总局今年全面升级 CCC 认证实施规则，电动自行车、玩具、童车三类产品 CCC 认证新规将于 11 月 1 日起实施。</p><ul class=\" l",
-      "is_policy": true
-    },
-    {
-      "title": "荣耀 WIN 耳机首销：55dB 降噪、42 小时综合续航，269 元",
-      "url": "https://www.ithome.com/1/020/428.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:39:07+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，荣耀 WIN 耳机将于 10:08 开售，<strong>售价 269 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaQlh0k\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-lo",
-      "is_policy": false
-    },
-    {
-      "title": "苹果首款触控 MacBook Pro 要点细节：发光 LOGO 可关闭，最多 10 点同时触控",
-      "url": "https://www.ithome.com/1/020/427.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:38:32+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动结束后，<strong>法国 Numerama 网站记者 Nicolas Lellouche 现场体验并和苹果代表交流后，梳理了苹果首款触控 MacBook Pro 的 15 个要点细节。</strong></p><p>I",
-      "is_policy": false
-    },
-    {
-      "title": "持续驰援西藏那曲灾区，京东物流运输御寒物资支援一线过冬",
-      "url": "https://www.ithome.com/1/020/426.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:37:21+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，据中国地震台网正式测定，10 月 22 日 22 时 33 分在西藏那曲市巴青县发生 7.0 级地震，震源深度 10 千米。</p><p>京东物流官方昨日（30 日）宣布，继紧急承运首批生活应急物资后，京东物流的驰援行动仍在持续。</p><p>秋冬季节到来，面对紧迫的御寒需求。日前，应西藏慈善总会要求，<strong>京东物流紧急将 1100 床棉被、170",
-      "is_policy": false
-    },
-    {
-      "title": "荣耀 WIN 平板首销：8.4 英寸 240Hz OLED 屏幕、第五代骁龙 8 至尊版，国补到手价 3699 元起",
-      "url": "https://www.ithome.com/1/020/425.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:29:07+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，荣耀 WIN 平板今日 10:08 首销，<strong>国补到手价 3699 元起：</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p>12GB+256GB：建议零售价 4499 元，首销限时价 4199 元，国补到手价 3699 元</p></li><li><p>16GB+512G",
-      "is_policy": false
-    },
-    {
-      "title": "定制全光谱灯珠：小米米家风扇灯 36 英寸国补后 366 元（初次免费安装）",
-      "url": "https://www.ithome.com/1/020/424.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:27:19+00:00",
-      "summary": "<p>小米米家风扇灯 36 英寸上架于 3 月 31 日，发售价为 549 元，国补后约 466 元。</p><ul class=\" list-paddingleft-2\"><li><p>今日京东活动价 530 元；</p></li><li><p>领取 480-60 元优惠券：<a href=\"https://u.jd.com/eGOjlz4\" target=\"_blank\">点此领取</a>；<",
-      "is_policy": false
-    },
-    {
-      "title": "华为 Pura 90 Plus 手机开售：1 英寸主摄、首发麒麟 9025，焕新优惠价 5199 元起",
-      "url": "https://www.ithome.com/1/020/423.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:26:12+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，华为 Pura 90 Plus 手机将于今日 10:08 正式开售，双十一焕新季 10 月 28 日 - 11 月 30 日限时优惠至高 300 元，<strong>焕新优惠价 5199 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>12GB+256GB 版 5499 元，",
-      "is_policy": false
-    },
-    {
-      "title": "安卓 7.0 版 Apple Music 发布：苹果升级品牌视觉，引入液态玻璃设计",
-      "url": "https://www.ithome.com/1/020/422.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:20:15+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，科技媒体 9to5Google 昨日（10 月 30 日）发布博文，报道称经过约 1 个月的 Beta 测试，苹果公司正式推出安卓 7.0 版本 Apple Music 应用<strong>，引入全新液态玻璃（Liquid Glass）设计，并更新品牌视觉。</strong></p><p style=\"text-align: center;\"><img cl",
-      "is_policy": false
-    },
-    {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-10-31T01:20:05+00:00",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "is_policy": false
-    },
-    {
-      "title": "10:00~10:15 速抢限时不限量红包：京东红包今日全员再加码",
-      "url": "https://www.ithome.com/1/020/420.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:19:09+00:00",
-      "summary": "<p>今日 10 点京东红包全员加码，10:00~10:15 可领限时不限量红包：<a href=\"https://u.jd.com/egMfbal\" target=\"_blank\">点此抽取</a>。</p><p style=\"text-align: center;\"><img class=\"not-source no-alt-img\" src=\"https://img.ithome.com/n",
-      "is_policy": false
-    },
-    {
-      "title": "荣耀罗巍：会带给大家全新的阿莱拍照模式，不是简单视频模式截图",
-      "url": "https://www.ithome.com/1/020/419.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:12:45+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，荣耀首席影像工程师罗巍今日发文，透露了荣耀与阿莱合作的最新进展。</p><blockquote><ul class=\" list-paddingleft-2\"><li><p><strong>我们会带给大家全新的阿莱拍照模式，不是简单的视频模式的截图</strong>，而是基于 LogC 曲线的设计原理，和阿莱的 Film Lab 合作，通过 RAW 信号重构",
-      "is_policy": false
-    },
-    {
-      "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
-      "url": "https://www.ithome.com/1/020/418.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:10:22+00:00",
-      "summary": "<p>小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5999 元。</p><ul class=\" list-paddingleft-2\"><li><p>京东 11.11 大促期间，活动价 3199 元；</p></li><li><p>PLUS 会员下单立减 160.27 元；</p></li><li><p>领取 160 元",
-      "is_policy": false
-    },
-    {
-      "title": "三星再度调侃苹果首款折叠 iPhone Duo：折叠屏我们有丰富经验",
-      "url": "https://www.ithome.com/1/020/417.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:06:50+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。<a href=\"https://www.ithome.com/1/018/130.htm\" target=\"_blank\">通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外</a>，<strong>三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。</stron",
-      "is_policy": false
-    },
-    {
-      "title": "广汽集团：不存在因“速成车”问题被要求实施召回的情形，坚决不造“速成车”",
-      "url": "https://www.ithome.com/1/020/416.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T01:03:40+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，有投资者问广汽集团，请问公司是否存在“速成车”相关车型需实施召回？</p><p>IT之家注意到，广汽集团昨日在互动平台回应称，截至目前，<strong>公司不存在因“速成车”问题被要求实施召回的情形</strong>。</p><blockquote><p>公司始终将品质与安全作为核心基因，<strong>坚决不造“速成车”</strong>，坚守正向研发底线",
-      "is_policy": false
-    },
-    {
-      "title": "揭露“女版乔布斯”骗局的人警告：AI 热潮或催生下一个 Theranos",
-      "url": "https://www.ithome.com/1/020/415.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T00:59:29+00:00",
-      "summary": "<p>北京时间 10 月 31 日，曾参与揭露美国血液检测公司 Theranos 造假丑闻的泰勒 · 舒尔茨（Tyler Shultz）近日警告称，<strong>AI 投资热潮正在为下一个类似 Theranos 的骗局创造条件</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.",
-      "is_policy": false
-    },
-    {
-      "title": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起",
-      "url": "https://www.ithome.com/1/020/414.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T00:51:37+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。</p><p><strong>华为畅享 100</strong></p><ul class=\" list-paddingleft-2\"><li><p>128GB 版 1399 元</p></li><li><p>256GB 版 1699 元</p></li></ul><p><stron",
-      "is_policy": false
-    },
-    {
-      "title": "苹果 CEO 特努斯自认“乔布斯的学生”，专注打造用户喜爱、愿长期使用的产品",
-      "url": "https://www.ithome.com/1/020/413.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T00:50:31+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，在接受《连线》（Wired）采访时，苹果公司现任首席执行官约翰 · 特努斯（John Ternus）表示，自己在苹果任职期间与已故创始人史蒂夫 · 乔布斯的交集并不多，只有“寥寥几次接触”，但乔布斯留下的产品理念一直深刻影响着他。</p><p>特努斯表示自己始终把乔布斯视为精神导师，<strong>并自认是“乔布斯理念的学生”。</strong>面对“如何继",
-      "is_policy": false
-    },
-    {
-      "title": "科学家发现治疗 2 型糖尿病新靶点，找到胰岛素抵抗关键影响因素",
-      "url": "https://www.ithome.com/1/020/411.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T00:43:56+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，据 scitechdaily 今日报道，一项临床试验发现，一种在 2 型糖尿病患者肌肉中异常高含量的蛋白质，可能干扰了身体对胰岛素的反应能力。</p><p>研究人员发现，在去除被称为<strong> Miro1</strong>（Mitochondrial Rho GTPase1）的蛋白质后，在临床前模型中恢复了胰岛素反应性，这为治疗胰岛素抵抗提供了可能的新",
-      "is_policy": false
-    },
-    {
-      "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本 14650HX + 5070 12GB 配置发售，12999 元",
-      "url": "https://www.ithome.com/1/020/410.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-10-31T00:39:17+00:00",
-      "summary": "<p>IT之家 10 月 31 日消息，宏碁 (Acer) 现已开始销售掠夺者 · 战斧 9 Neo 游戏笔记本电脑的英特尔酷睿 i7-14650HX 处理器 + NVIDIA GeForce RTX 5070 笔记本电脑 GPU（12GB 显存）新配置。</p><p>这一款式拥有 16GB DDR5 内存和 1TB SSD 存储，焕新补贴后<strong>到手价为 12,999 元</stron",
       "is_policy": false
     },
     {
