@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:31:18.590922+00:00",
+  "generated_at": "2026-10-31T20:47:29.325921+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T16:31:18+00:00",
+      "published": "2026-10-31T20:47:29+00:00",
       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T16:31:18+00:00",
+      "published": "2026-10-31T20:47:29+00:00",
       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T16:31:18+00:00",
+      "published": "2026-10-31T20:47:29+00:00",
       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T16:31:18+00:00",
+      "published": "2026-10-31T20:47:29+00:00",
       "summary": "Lightpanda: the headless browser designed for AI and automation",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/Orkas-AI/Orkas",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T16:31:18+00:00",
+      "published": "2026-10-31T20:47:29+00:00",
       "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw a",
       "is_policy": false
     },
@@ -57,17 +57,35 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-10-31T16:31:18+00:00",
+      "published": "2026-10-31T20:47:29+00:00",
       "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "is_policy": false
     },
     {
-      "title": "I built a scikit-learn for RSI [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeh0v/i_built_a_scikitlearn_for_rsi_d/",
+      "title": "Is neuro-evolution relevant? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
       "source": "r/MachineLearning",
       "category": "community",
-      "published": "2026-10-31T16:23:09+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xkeh0v/i_built_a_scikitlearn_for_rsi_d/\"> <img alt=\"I built a scikit-learn for RSI [D]\" src=\"https://preview.redd.it/97yjag",
+      "published": "2026-10-31T18:09:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used a",
+      "is_policy": false
+    },
+    {
+      "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-31T17:57:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test idea",
+      "is_policy": false
+    },
+    {
+      "title": "I built a scikit-learn for RSI [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-10-31T16:33:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/\"> <img alt=\"I built a scikit-learn for RSI [P]\" src=\"https://preview.redd.it/trkro8",
       "is_policy": false
     },
     {
@@ -1115,15 +1133,6 @@
       "is_policy": false
     },
     {
-      "title": "Using compute to verify paper results [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-29T02:01:46+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m not a reviewer yet, but I likely will be by next year.<br /> As a reviewer, how do you decide to allocate compute to verify paper results? (and is the code in the",
-      "is_policy": false
-    },
-    {
       "title": "any fun casual podcasts? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
       "source": "r/MachineLearning",
@@ -1329,15 +1338,6 @@
       "published": "2026-10-28T17:00:58+00:00",
       "summary": "",
       "is_policy": false
-    },
-    {
-      "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-28T14:30:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/\">https://www.reddit.com/r/ArtificialInteligenc",
-      "is_policy": true
     },
     {
       "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
