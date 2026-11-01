@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:19:35.715080+00:00",
+  "generated_at": "2026-11-01T21:29:18.746438+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "Lightpanda: the headless browser designed for AI and automation",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "is_policy": false
     },
@@ -48,7 +48,7 @@
       "url": "https://github.com/kornia/kornia",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
       "is_policy": false
     },
@@ -57,7 +57,7 @@
       "url": "https://github.com/beenuar/AiSOC",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT ",
       "is_policy": false
     },
@@ -66,7 +66,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "is_policy": false
     },
@@ -75,7 +75,7 @@
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "is_policy": false
     },
@@ -84,8 +84,179 @@
       "url": "https://github.com/FlashML-org/FreeToken",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-01T12:19:35+00:00",
+      "published": "2026-11-01T21:29:18+00:00",
       "summary": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "is_policy": false
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-01T20:57:58+00:00",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "is_policy": false
+    },
+    {
+      "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-01T18:01:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong.</p> <p>It follows one word the whole wa",
+      "is_policy": false
+    },
+    {
+      "title": "Why do all NN optimizers have weird names? [d]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-01T16:51:18+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>SOAP, Shampoo, FOAM.</p> <p>Muon is a bit better but it has the same name as the particle from physics.</p> <p>Whenever I want to search about these tones of complete",
+      "is_policy": false
+    },
+    {
+      "title": "[D] Simple Questions Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-01T16:00:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay al",
+      "is_policy": false
+    },
+    {
+      "title": "米哈游生活模拟游戏《星布谷地》官宣 2027 年登陆任天堂 Switch 2",
+      "url": "https://www.ithome.com/1/020/841.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T15:37:33+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，米哈游生活模拟游戏《星布谷地》今日官宣，将于 2027 年登陆 Switch2 平台。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/ea608964-14f7-47dc-89fc-8e6",
+      "is_policy": false
+    },
+    {
+      "title": "国产武侠游戏《影之刃零》Steam 峰值在线玩家 83 万创新高，连续四天走高",
+      "url": "https://www.ithome.com/1/020/840.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T15:01:27+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，SteamDB 平台显示，《影之刃零》Steam 峰值在线玩家数达到 83 万创下新高，这部国产武侠游戏在线人数连续四天走高。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/dfdb059",
+      "is_policy": false
+    },
+    {
+      "title": "赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷",
+      "url": "https://www.ithome.com/1/020/839.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T14:47:24+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，赛力斯 10 月 31 日发布投资者关系活动记录表，其中回答了“公司在问界的整体经营思路上有什么样的思考？对下一步业务发展有什么规划？”。</p><p>据其介绍，问界坚定做全球高端品牌。目前问界全系正推进欧盟 WVTA E1 整车型式认证，验证周期长、环节多，是高端车进入欧洲市场的必经门槛。公司坚持按最高标准走完全程，确保产品以合规、可靠的状态出海。10 月中",
+      "is_policy": true
+    },
+    {
+      "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+      "url": "https://www.ithome.com/1/020/837.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T14:19:52+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。</p><p>该标准由 Anthropic 技术负责人 Kevin Kelley 向互联网工程",
+      "is_policy": false
+    },
+    {
+      "title": "海贝推出 HiBy R6III SE 便携 Hi-Fi 播放器：4 颗 CS43198 DAC 芯片，1798 元",
+      "url": "https://www.ithome.com/1/020/836.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T14:01:22+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，海贝宣布推出一款 HiBy R6III SE 便携 Hi-Fi 播放器，定价为 1798 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/195fe4c9-5c4b-49bc-a2be",
+      "is_policy": false
+    },
+    {
+      "title": "2026 年 10 月汽车销量 / 交付榜出炉：比亚迪超 49 万辆稳居榜首，小米月销重回 5 万辆",
+      "url": "https://www.ithome.com/1/020/835.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T13:53:18+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，2026 年 10 月汽车销量 / 交付数据现已陆续公布。<strong>比亚迪拿出单月交付 490,168 辆的答卷，继续稳坐头把交椅</strong>。上汽集团凭销售 430,018 辆的成绩位居亚军。吉利以 310,183 辆的销量超越奇瑞（282,458 辆）拿下第三。</p><p style=\"text-align: center;\"><img cl",
+      "is_policy": false
+    },
+    {
+      "title": "HMD 诺基亚 2360 Flip 翻盖功能机曝光：紫光展锐 T127 芯片，1.8 英寸外屏",
+      "url": "https://www.ithome.com/1/020/834.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T13:45:05+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，消息源 smashx_60 现已曝光了 HMD 旗下诺基亚 2360 Flip 翻盖功能机，该机据称为 ODM 产品。</p><p>该机提供深灰色、酒红色、蓝绿色三种配色可选，配备 1.8 英寸外屏和 2.8 英寸 LCD 内屏，搭载 1Mp 摄像头。</p><p style=\"text-align: center;\"><img class=\"no-alt-i",
+      "is_policy": false
+    },
+    {
+      "title": "长鑫科技：2026 年 LPDDR 系列产品实现 781.91 亿元收入，占营业收入比例 52.02%",
+      "url": "https://www.ithome.com/1/020/832.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T13:19:50+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，长鑫科技公布 2026 年三季报业绩交流会记录，介绍了公司前三季度收入结构的变化情况。</p><p>公告显示，该公司产品主要分为 DDR 系列以及 LPDDR 系列，2026 年上半年，DDR 系列产品实现 694.72 亿元收入，占营业收入比例为 46.22%；<strong>LPDDR 系列产品实现 781.91 亿元收入</strong>，占营业收入比例",
+      "is_policy": false
+    },
+    {
+      "title": "上市价 4399 → 2893 元：vivo X300 手机 12GB+256GB 国补直降",
+      "url": "https://www.ithome.com/1/020/831.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T13:03:34+00:00",
+      "summary": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>vivo X300 手机开售于 2025 年 10 月 17 日，搭载联发科天玑 9500 处理器，12GB+256GB 定价 4399 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2893.01 元：</p><ul class=\" list-paddingleft-2\"",
+      "is_policy": false
+    },
+    {
+      "title": "比亚迪各品牌销量公布：方程豹 43872 辆，腾势 15152 辆",
+      "url": "https://www.ithome.com/1/020/830.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T12:56:55+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，比亚迪今日公布数据，10 月份销售 490168 辆，海外乘用车及皮卡销售近 17 万辆。2026 年 1-10 月累计销售 3621744 辆，新能源汽车累计销售超 1870 万辆。</p><p><strong>IT之家附各品牌销量如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p>比亚迪汽车王朝 |",
+      "is_policy": false
+    },
+    {
+      "title": "阿维塔官宣 10 月交付 7,056 辆，全系车型推送 AVATR.OS 6.1.0 系统",
+      "url": "https://www.ithome.com/1/020/828.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T12:45:20+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，阿维塔官方今日宣布，<strong>10 月交付新车 7,056 辆</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/0233a34a-7841-4f72-9642-8a",
+      "is_policy": false
+    },
+    {
+      "title": "7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
+      "url": "https://www.ithome.com/1/020/827.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T12:39:41+00:00",
+      "summary": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>vivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5718.25 元：</p><ul",
+      "is_policy": false
+    },
+    {
+      "title": "重力星球 MH1 PRO 头戴式耳机发售：53mm 动圈、ANC 降噪，799 元",
+      "url": "https://www.ithome.com/1/020/826.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T12:35:03+00:00",
+      "summary": "<p>IT之家 11 月 1 日消息，重力星球旗下 MH1 PRO 头戴式耳机现已在京东发售，该产品配备 53mm 动圈、支持 ANC 降噪，<strong>定价为 799 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDnxDQP\" target=\"_blank\"><span class=\"card ",
+      "is_policy": false
+    },
+    {
+      "title": "7999 → 5993 元：vivo X Fold6 折叠屏手机 12+256GB 国补新低，2 亿像素 1/1.4\" 主摄、天玑 9500 超能版",
+      "url": "https://www.ithome.com/1/020/825.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-01T12:28:56+00:00",
+      "summary": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p><span class=\"hot-topic\">vivo X Fold6</span> 折叠屏手机 2026 年 6 月开售，12GB+256GB 定价 7999 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 5993.11 元：</p><ul class=\" list-p",
+      "is_policy": false
+    },
+    {
+      "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-01T12:28:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contai",
       "is_policy": false
     },
     {
@@ -103,7 +274,7 @@
       "source": "IT之家",
       "category": "news",
       "published": "2026-11-01T12:04:12+00:00",
-      "summary": "<p>美的 · 清风明月 2.0 热泵洗烘套装 MGH20A-G + MGH20MAX 日常售价 7999 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 3903.94 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 6.1 折券：<a href=\"https://coupon.m.jd.c",
+      "summary": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>美的 · 清风明月 2.0 热泵洗烘套装 MGH20A-G + MGH20MAX 日常售价 7999 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 3903.94 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 6.1 折券：<",
       "is_policy": false
     },
     {
@@ -188,6 +359,15 @@
       "is_policy": false
     },
     {
+      "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-01T10:38:34+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/\"> <img alt=\"LSREP: A Longitudinal State-Replay Protocol for Evaluatin",
+      "is_policy": false
+    },
+    {
       "title": "微信鸿蒙版 App 获 8.0.23.33 尝鲜升级：打开图片延时老大难问题解决、灰度合并发图功能等",
       "url": "https://www.ithome.com/1/020/808.htm",
       "source": "IT之家",
@@ -230,132 +410,6 @@
       "category": "news",
       "published": "2026-11-01T10:24:29+00:00",
       "summary": "<p>IT之家 11 月 1 日消息，据彭博社报道，美国艺电（EA）正在推进新一轮业务重组，除确认关闭 BioWare 工作室外，还暂停了一款尚未公布的《模拟人生》系列游戏开发项目，代号为 Project Lotus。</p><p>目前，EA 尚未披露 Project Lotus 的具体内容、开发进度，也没有说明项目已有的开发成果是否会应用于未来的《模拟人生》作品。仅透露公司希望将更多资源集中到另",
-      "is_policy": false
-    },
-    {
-      "title": "第二十四届半导体封测年会定档 11 月 4 日至 6 日举办，华为、龙芯中科、小米汽车等确认参会",
-      "url": "https://www.ithome.com/1/020/803.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T10:21:26+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，2026 年半导体封装测试技术与市场年会 (第二十四届) 将于 <strong>2026 年 11 月 4-6 日</strong>在中国南京丰大国际大酒店举行。会议由中国半导体行业协会指导，中国半导体行业协会封测分会主办。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https",
-      "is_policy": false
-    },
-    {
-      "title": "小米米家净水器 3 1200G 发售：搭载 13 级鲜活净水过滤系统，1499 元",
-      "url": "https://www.ithome.com/1/020/800.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T10:15:06+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，小米旗下米家净水器 3 1200G 现已在京东发售，定价为 1499 元，部分地区国补后低至 1154.15 元</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/1d164b3b-125e-",
-      "is_policy": false
-    },
-    {
-      "title": "加速落地高海拔地区！我国高原新能源装机比重达 52.9%，高于全国平均水平 4.4 个百分点",
-      "url": "https://www.ithome.com/1/020/787.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T10:03:59+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，据央视新闻今日报道，近年来我国正加大高海拔地区新能源建设力度，正加速落地。<strong>高原新能源装机比重由过去 5 年的平均 28.5% 上升到 52.9%</strong>，高于全国平均水平 4.4 个百分点。</p><p style=\"text-align: center;\"> </p><p style=\"text-align: left;\">据介绍，",
-      "is_policy": false
-    },
-    {
-      "title": "3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
-      "url": "https://www.ithome.com/1/020/786.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T10:01:04+00:00",
-      "summary": "<p>石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。</p><p>今日按下方步骤下单，仅需 728 元即可入手。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
-      "is_policy": false
-    },
-    {
-      "title": "北汽新能源：极狐汽车 10 月销量 26325 台，同比增长 12.56%",
-      "url": "https://www.ithome.com/1/020/784.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:57:54+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，北汽新能源今日公布了最新销量数据，10 月销量 32502 辆，同比增长 6.42%，环比增长 34.98%。1-10 月销量 195878 辆，同比增长 37.90%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploa",
-      "is_policy": false
-    },
-    {
-      "title": "覆盖监测预报预警服务全链条，我国“妈祖”斯里兰卡智能一体机交付",
-      "url": "https://www.ithome.com/1/020/783.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:57:31+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，据中国气象局官方消息，在第十一届世界妈祖文化论坛举办期间，<strong>中国气象智能预警方案“妈祖”斯里兰卡智能一体机今日正式交付</strong>。这是推动“妈祖”方案落地应用的重要务实举措，为斯里兰卡补齐多灾种气象预警短板提供有力支撑。</p><p>据介绍，受气候变化影响，斯里兰卡短时强对流、暴雨等灾害天气多发，部分区域存在网络不稳、算力资源有限等难题。",
-      "is_policy": false
-    },
-    {
-      "title": "Epic 喜加一：中世纪冷兵器格斗游戏《Gladiator：Blades of Fury》免费领",
-      "url": "https://www.ithome.com/1/020/782.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:52:26+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，由独立开发团队 Yash Future Tech Solutions 开发的中世纪冷兵器格斗游戏《Gladiator：Blades of Fury》目前正在 Epic 游戏商城进行限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日前领取。</p><p>需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品",
-      "is_policy": false
-    },
-    {
-      "title": "我国歼-20 首次公开亮相 10 周年：全面换装国产发动机，央视详解迭代核心细节",
-      "url": "https://www.ithome.com/1/020/781.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:52:21+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，2016 年 11 月 1 日，第十一届中国航展上，我国自主研制的新一代隐身战机歼-20，第一次飞向公众视野。<strong>今天歼-20 战机首次公开亮相 10 周年，央视新闻详细介绍了歼-20 家族迭代核心细节</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player",
-      "is_policy": false
-    },
-    {
-      "title": "我国揽月着陆器将开启无人飞行，载人登月“彩排计划”公布",
-      "url": "https://www.ithome.com/1/020/780.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:48:46+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，据央视新闻今日报道，第七届载人航天学术大会正在举行，本届大会上月球探测工程是嘉宾们的谈论焦点。我国月球探测工程登月阶段任务各项研制建设工作正在扎实推进，将于载人登月任务前完成<strong>长征十号运载火箭技术验证飞行、</strong><span class=\"color-00269a\"><strong>梦舟</strong></span><span cla",
-      "is_policy": false
-    },
-    {
-      "title": "2027 年度春节放假安排公布：除夕恰逢周五可与周末顺连，实现 9 天假期",
-      "url": "https://www.ithome.com/1/020/779.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:47:36+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，新华社现已公布 2027 年度春节放假安排，2027 年除夕恰逢周五，可与周末顺连，实现 9 天假期。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/ce92958a-09b9-4a5b-",
-      "is_policy": false
-    },
-    {
-      "title": "小米推出 REDMI M100 Pro 手机：天玑 7300-Ultra 处理器，12G + 256G 售 2499 元",
-      "url": "https://www.ithome.com/1/020/778.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:41:40+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，小米现已在其商城上架 REDMI M100 Pro 手机，该机搭载天玑 7300-Ultra 处理器，配备 12GB RAM 和 256GB 存储空间，<strong>定价为 2499 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.i",
-      "is_policy": false
-    },
-    {
-      "title": "《死亡搁浅》游戏改编动画《DEATH STRANDING ISOLATIONS》首部预告片亮相，预计明年正式上映",
-      "url": "https://www.ithome.com/1/020/777.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:32:54+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，小岛秀夫工作室《死亡搁浅（DEATH STRANDING）》系列游戏改编动画《DEATH STRANDING ISOLATIONS》首部预告片现已正式公开，本作将沿用游戏世界观，讲述主线剧情之外的全新故事，预计 2027 年在 Disney+ Star 独家上线。</p><p style=\"text-align: center;\"></p><p>IT之家获悉，",
-      "is_policy": false
-    },
-    {
-      "title": "动作 Roguelike 射击游戏《火湖》1.0 正式版发售，Steam 国区 99 元",
-      "url": "https://www.ithome.com/1/020/775.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:25:43+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，经过近两年的抢先体验测试，Perfect Random 开发并发行的动作 Roguelike 射击游戏《SULFUR（火湖）》现已 Steam 平台推出 1.0 正式版，同步登陆 Nintendo Switch、Nintendo Switch 2、PlayStation 4 / 5 及 Xbox 平台。游戏国区售价 99 元，支持简体中文界面与字幕，不包含中文",
-      "is_policy": false
-    },
-    {
-      "title": "首届 CMG 世界机器人登泰山大赛明日进行，央视揭秘机器人如何认路、探路、见招拆招",
-      "url": "https://www.ithome.com/1/020/773.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-01T09:23:41+00:00",
-      "summary": "<p>IT之家 11 月 1 日消息，首届 CMG 世界机器人登泰山大赛将于明天（11 月 2 日）在山东泰安正式开赛，各类机器人齐聚泰山脚下，在红门至中天门（3100 级台阶、600 米高差）千年盘道开启实景山地竞技比拼。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.co",
       "is_policy": false
     },
     {
@@ -791,24 +845,6 @@
       "is_policy": false
     },
     {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-10-29T20:08:31+00:00",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "is_policy": false
-    },
-    {
-      "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-29T20:04:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints.</p> <p>Would anyone already ",
-      "is_policy": false
-    },
-    {
       "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
       "source": "r/MachineLearning",
@@ -842,15 +878,6 @@
       "category": "news",
       "published": "2026-10-29T12:10:00+00:00",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac",
-      "is_policy": false
-    },
-    {
-      "title": "A (lukewarm) defense of Minsky and Papert [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-29T10:20:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/\"> <img alt=\"A (lukewarm) defense of Minsky and Papert [D]\" src=\"https://e",
       "is_policy": false
     },
     {
@@ -1076,24 +1103,6 @@
       "category": "papers",
       "published": "2026-10-28T20:00:00+00:00",
       "summary": "Agentic image editors decompose complex requests into steps, but when a step fails, they mostly retry with the same narrow set of tools and a judge that scores each output by eye directly. We argue th",
-      "is_policy": false
-    },
-    {
-      "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-28T17:52:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen cop",
-      "is_policy": false
-    },
-    {
-      "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-10-28T17:17:59+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of a",
       "is_policy": false
     },
     {
