@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:45:20.987002+00:00",
+  "generated_at": "2026-11-07T12:06:09.291086+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,21 +8,12 @@
   ],
   "items": [
     {
-      "title": "NVIDIA / auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-07T03:45:20+00:00",
-      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-      "is_policy": false
-    },
-    {
-      "title": "google / skills",
-      "url": "https://github.com/google/skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-07T03:45:20+00:00",
-      "summary": "Agent Skills for Google products and technologies",
+      "published": "2026-11-07T12:06:09+00:00",
+      "summary": "Browser automation CLI for AI agents",
       "is_policy": false
     },
     {
@@ -30,71 +21,359 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-07T03:45:20+00:00",
+      "published": "2026-11-07T12:06:09+00:00",
       "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "is_policy": false
     },
     {
-      "title": "肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查",
-      "url": "https://www.ithome.com/1/023/663.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T03:41:42+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，苹果公司于 11 月 5 日更新官方支持文档，宣布从 iOS / iPadOS / macOS 27.2 等版本系统开始，<strong>为部分 Apple Intelligence 图像工具引入 SynthID 隐形水印。</strong></p><p>IT之家援引博文介绍，在涉及的图像工具方面，涵盖图乐园（Image Playground）和图像魔法棒（I",
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-07T12:06:09+00:00",
+      "summary": "Agent Skills for Google products and technologies",
       "is_policy": false
     },
     {
-      "title": "飞傲 R7 R2R 桌面数播解码耳放前级一体机开售：售价 5499 元",
-      "url": "https://www.ithome.com/1/023/662.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T03:35:31+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，飞傲官方今日宣布全新的 R7 R2R 桌面数播解码耳放前级一体机正式开售，官方售价 5499 元，提供黑白双色可选。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/9a590b91-2f9",
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-07T12:06:09+00:00",
+      "summary": "Public repository for Agent Skills",
       "is_policy": false
     },
     {
-      "title": "《瑞奇与叮当》IP 移动端游戏《游侠乱斗》宣布停止开发",
-      "url": "https://www.ithome.com/1/023/661.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T03:27:15+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，《瑞奇与叮当：游侠乱斗》官方当地时间 6 日宣布停止本作开发。这款基于索尼 PlayStation 旗下经典 IP“瑞奇与叮当”开发的移动端竞技场射击游戏<strong>将在短暂上线后迅速落幕</strong>。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"http",
+      "title": "meta / astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-07T12:06:09+00:00",
+      "summary": "An open source design system that's fully customizable and agent ready",
       "is_policy": false
     },
     {
-      "title": "微软 Win11 预览版改进登录体验：刷脸还在转，PIN 已能输入",
-      "url": "https://www.ithome.com/1/023/659.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T03:24:39+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，科技媒体 Windows Latest 今天（11 月 7 日）发布博文，在 Experimental 通道 Windows 11 Build 26340.9882 预览版上，<strong>测试微软引入的全新 Windows Hello 登录体验。</strong></p><p>IT之家曾于 10 月 22 日报道，<a href=\"https://www.",
+      "title": "dsx-ai-factory / nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-07T12:06:09+00:00",
+      "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "is_policy": false
     },
     {
-      "title": "Diamond Foundry 成功制造世界首个 200mm（8 英寸）金刚石单晶",
-      "url": "https://www.ithome.com/1/023/658.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T03:15:58+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，企业 Diamond Foundry 当地时间本月 5 日宣布，其成功制造出世界首个 200mm（8 英寸）金刚石单晶。</p><p>更大的单晶尺寸意味着更优秀的晶边面积利用率和更高的生产效率，<strong>有助于加速金刚石材料在半导体领域的商业化应用</strong>。</p><p style=\"text-align: center;\"><img clas",
+      "title": "METR: Anthropic researchers say AI is speeding them up by 12x [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq4erf/metr_anthropic_researchers_say_ai_is_speeding/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-07T11:41:20+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xq4erf/metr_anthropic_researchers_say_ai_is_speeding/\"> <img alt=\"METR: Anthropic researchers say AI is speeding them up by",
       "is_policy": false
     },
     {
-      "title": "市场监管总局：前三季度互联网广告收入 9568.9 亿元，同比增长 17.5%",
-      "url": "https://www.ithome.com/1/023/657.htm",
+      "title": "全新红旗 H9 预售：华为乾崑 ADS 5 高阶版加持，32.98 万-41.98 万元",
+      "url": "https://www.ithome.com/1/023/796.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-07T03:14:59+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，据市场监管总局消息，数据显示，2026 年前三季度全国从事广告业务的头部企事业单位共实现收入 16008.3 亿元，同比增长 8.5%。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
+      "published": "2026-11-07T11:18:02+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，全新红旗 H9 今天起正式开启预售，新车共推出 4 款配置，预售先享价 32.98 万-41.98 万元。新车全系标配<strong>鸿蒙座舱、华为乾崑 ADS 5 高阶版智能辅助驾驶、896 线双光路图像级激光雷达</strong>等配置，配有 62L 油箱、2.0T 混动发动机、800V 高压碳化硅平台及 40.4 度三元锂电池。</p><p style=",
+      "is_policy": false
+    },
+    {
+      "title": "回顾特斯拉 Cybertruck 坎坷旅程：车窗破裂、长期跳票、11 次召回……",
+      "url": "https://www.ithome.com/1/023/795.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T11:07:37+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，特斯拉 CEO 埃隆 · 马斯克昨天（6 日）宣布，公司计划在<strong> 2027 年年中左右</strong>逐步停产 Cybertruck。这款造型前卫、采用不锈钢车身的纯电皮卡，从发布会上车窗意外开裂开始便风波不断，最终将在<strong>上市仅三年半后</strong>告别市场。</p><p>Cybertruck 从首次亮相到正式交付花了四年时间",
+      "is_policy": false
+    },
+    {
+      "title": "日本纯电动汽车新车年销量首次突破 10 万辆，明年起补贴金额将下调",
+      "url": "https://www.ithome.com/1/023/794.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T11:00:47+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据共同社报道，日本汽车销售协会联合会和全国微型车协会联合会 6 日公布的统计资料显示，2026 年的日本国内纯电动汽车（EV）<strong>新车年销量首次突破了 10 万辆</strong>。</p><p>统计资料显示，1 至 10 月的累计销量为 111,876 辆，政府通过补贴刺激需求的政策推高了销量。其中乘用车 EV 销量（不含微型车）为 95,614",
       "is_policy": true
     },
     {
-      "title": "仙境传说 IP 单机新作《Ragnarok Project》预告公开，2027 上半年登陆全平台",
-      "url": "https://www.ithome.com/1/023/656.htm",
+      "title": "15980 元起：山灵发布 15 单元耳机 Dynasty「王朝」、无损音乐播放器 M10 等新品",
+      "url": "https://www.ithome.com/1/023/793.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-07T03:09:54+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，基于《仙境传说》IP 开发的全新单机 RPG 作品《Ragnarok Project》昨日公开了最新宣传片，并确认将于明年上半年登陆 PC、Xbox Series X|S、PS5 及 Switch 2 平台，支持中文。</p><p>这是该系列自 2002 年网游化以来，首款以买断制单机形态登陆主机与 PC 的作品。</p><p style=\"text-alig",
+      "published": "2026-11-07T10:41:58+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，第二届 SSD 蛇口音频节「山海臻音」音乐鉴赏暨新品发布会今日举行。</p><p>山灵在本次发布会上推出三款新品：M10 超旗舰无损音乐播放器，SM3.3 R2R 电子管流媒体数播一体机，全新 15 单元超旗舰耳机 Dynasty「王朝」。</p><p>IT之家附三款新品介绍如下：</p><h3>耳机 Dynasty「王朝」</h3><blockquote><",
+      "is_policy": false
+    },
+    {
+      "title": "马斯克“御用”律师斯皮罗：AI 有望让案件尽快和解或直接走上法庭",
+      "url": "https://www.ithome.com/1/023/792.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T10:40:49+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据《商业内幕》今天（7 日）凌晨报道，马斯克经常聘请的知名律师、昆鹰律师事务所纽约办公室合伙人亚历克斯 · 斯皮罗认为，AI 有望大幅精简法律行业的冗余诉讼程序，<strong>让更多案件迅速和解，或直接走上法庭</strong>。</p><p>斯皮罗指出，AI 工具可以帮助律师更快判断一起案件是否值得打官司。“我认为，<strong>AI 能省去许多工作中不",
+      "is_policy": false
+    },
+    {
+      "title": "基于华为星迹定位技术：百度地图鸿蒙版专属室内导航功能上新，首批支持全国 22 个城市",
+      "url": "https://www.ithome.com/1/023/790.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T10:36:55+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，百度地图官方今日宣布，<strong>鸿蒙专属室内导航功能上新</strong>。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/f6f65c7c-87e4-4c79-a31",
+      "is_policy": false
+    },
+    {
+      "title": "5999 → 2339 元：小米 MIX Flip 2 小折叠手机新低，骁龙 8 至尊版 + 双 VC 立体散热",
+      "url": "https://www.ithome.com/1/023/789.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T10:29:02+00:00",
+      "summary": "<p>小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5,999 元。</p><p>今日天猫旗舰店直降至 2,339 元破冰新低，需 88VIP 家电消费券。</p><ul class=\" list-paddingleft-2\"><li><p>点击下方卡片领券后 → 点击<strong>宝贝右上角“<span class=\"",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
+      "url": "https://www.ithome.com/1/023/788.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T10:26:47+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，当地时间 11 月 5 日，谷歌发布博文，介绍在《自然》（Nature）发表的最新研究成果。</p><p>谷歌推出了名为 <strong>AI-PPG-ACC-HTN</strong> 的多模态 AI 系统。该系统无需袖带校准，使用普通消费级智能手表便能被动检测高血压迹象。</p><p>官方表示，与常规方案试图估算极易受瞬时环境噪声干扰的单次瞬时收缩压与舒张压",
+      "is_policy": false
+    },
+    {
+      "title": "比尔 · 盖茨谈“亿万富翁税”：贫富差距不能指望靠“慈善捐赠”解决",
+      "url": "https://www.ithome.com/1/023/787.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T10:19:24+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据《财富》杂志 6 日报道，微软联合创始人比尔 · 盖茨认为，向富豪征收类似加州“亿万富翁税”的税款，或许是 AI 时代<strong>最合适的办法</strong>。</p><p>AI 及周边产业的企业创始人财富大幅增长，持有这些公司股份的家庭也有望获得可观的投资回报。财富不断积累，也让贫富差距问题更加突出。尤其值得关注的是，AI 会否加剧当前的 K 型经济",
+      "is_policy": false
+    },
+    {
+      "title": "张艺谋谈 AI 冲击电影行业：AI 短视频产值已到几百亿，是很大的挑战",
+      "url": "https://www.ithome.com/1/023/786.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T10:05:27+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据电影频道融媒体中心报道，第 39 届中国电影金鸡奖金鸡・国际电影节展对话在厦门开讲，张艺谋以主嘉宾身份分享了自己对 AI 冲击电影行业的看法。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/6495544869/Rqi8elHw",
+      "is_policy": false
+    },
+    {
+      "title": "华为畅享 100 系列手机首销情况曝光：总量约 21.5 万台，Pro Max 机型约占 60%",
+      "url": "https://www.ithome.com/1/023/780.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:59:54+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，<span class=\"hot-topic\">华为畅享 100</span> 系列手机于 10 月 28 日发布，10 月 31 日 10:08 首销，<strong>售价 1399 元起</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.",
+      "is_policy": false
+    },
+    {
+      "title": "华为海外推出 FreeBuds SE 5 MAX 无线耳机：52dB 多模降噪，支持 iOS / 安卓 / 鸿蒙三系统",
+      "url": "https://www.ithome.com/1/023/768.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:46:15+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，华为在海外推出了 FreeBuds SE 5 MAX 无线耳机，主打 80 小时综合续航、52dB 多模降噪和高解析度音频。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/75024602",
+      "is_policy": false
+    },
+    {
+      "title": "苹果披露人形机器人 HALO 系统：6 个未建图环境测试 360 次单项任务，平均成功率 91%",
+      "url": "https://www.ithome.com/1/023/767.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:40:17+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，当地时间 11 月 4 日，苹果研究团队在预印本平台 arXiv 提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统 HALO。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ith",
+      "is_policy": false
+    },
+    {
+      "title": "中国科普作家协会发布 2026 年度十大科普热词，AI 相关占据七席",
+      "url": "https://www.ithome.com/1/023/766.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:29:23+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，中国科普作家协会今天（7 日）发布了 2026 年度十大科普热词，人工智能相关占据七席，包括<strong>“人工智能 +”“人机协同”“脑机接口”“智能体”“人形机器人”“词元”“具身智能”</strong>，另三大科普热词分别是<strong>“科学玩具”“科技伦理”“健康管理”</strong>。</p><p>根据介绍，人工智能相关词汇成为本年度热词的重",
+      "is_policy": false
+    },
+    {
+      "title": "谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划",
+      "url": "https://www.ithome.com/1/023/765.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:16:42+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据彭博社报道，美国北卡罗来纳州的一对夫妇起诉谷歌。此前，其 13 岁的女儿在学校配发的 Chromebook 笔记本电脑上，连续数月使用该公司的人工智能工具探讨自杀念头。</p><p>诉状显示，这名女孩与谷歌旗舰人工智能模型 Gemini 进行了数千条信息交互，<strong>其中大量内容涉及焦虑、抑郁以及自杀手法的详细探讨</strong>。直到校方通知家长",
+      "is_policy": false
+    },
+    {
+      "title": "深蓝汽车“车载洗脚装置”专利公布：脚盆能直接塞到座椅底下",
+      "url": "https://www.ithome.com/1/023/764.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:11:16+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，如今车内的“冰箱彩电大沙发”早已不稀奇，然而，把泡脚盆装进座舱可不常见。</p><p>IT之家从国家专利公布公告网站获悉，深蓝汽车科技有限公司今年 7 月申请的专利于 10 月 9 日公布，申请公布号为 CN122873858A。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"ht",
+      "is_policy": false
+    },
+    {
+      "title": "我国自主研制新型模块化“移动暖屋”将登陆南极：单个建筑面积 18m²，适应零下 40℃ 低温",
+      "url": "https://www.ithome.com/1/023/763.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:07:26+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据新华社报道，由中国建筑第八工程局和绿色建筑全国重点实验室共同研发的南极应急宿舍舱，7 日随“雪龙 2”号出征南极。我国南极考察队员今后在野外进行科学考察时，<strong>有望住上这种新型模块化“移动暖屋”</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"htt",
+      "is_policy": false
+    },
+    {
+      "title": "Newzoo 调查：在核心玩家中，实体游戏约占主机付费游戏库的 30%",
+      "url": "https://www.ithome.com/1/023/762.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T09:00:41+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据 gamesradar+ 报道，研究机构 Newzoo 联合 G2A 发布的一项新调查显示，实体游戏占核心玩家所玩游戏的 11% 以上，甚至占所拥有的（付费）主机游戏的 30%。</p><p>Newzoo 研究总监 Alexis Pamboris 指出：“尽管有实体媒介走向消亡的预测，但实体形态仍然在这个行业版图中占据着一席之地。”</p><p>据悉，该报告",
+      "is_policy": false
+    },
+    {
+      "title": "IT之家 11.11 严选好货：20 点 PLUS DAY 速抢 80 元神券，索尼 PS5 Slim 游戏主机仅 2298 元",
+      "url": "https://www.ithome.com/1/023/761.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:55:41+00:00",
+      "summary": "<p>全网 11.11 狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eal8R7G\" target=\"_blank\"><strong>点此抽取</strong></a>。</p><",
+      "is_policy": false
+    },
+    {
+      "title": "小米澎湃 HyperOS 4 近期修复进展公布，Xiaomi 17 系列手机多个问题优化",
+      "url": "https://www.ithome.com/1/023/760.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:52:00+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，小米员工昨日在小米社区发布了澎湃 HyperOS 4 近期的修复进展汇总。据介绍，<strong>修复将随后续版本推送逐步生效，具体时间因机型及应用版本不同</strong>，以实际更新为准。其中提到，Xiaomi 17 系列手机多个问题优化。</p><p style=\"text-align: center;\"><img alt=\"05\" src=\"https",
+      "is_policy": false
+    },
+    {
+      "title": "DeepSeek 网页 / API 服务恢复正常，今天下午一度中断 45 分钟",
+      "url": "https://www.ithome.com/1/023/758.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:48:00+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，今天（7 日）下午，多名IT之家网友反馈 DeepSeek 突发服务问题，对话提示“服务器暂时不可用”。</p><p>目前，DeepSeek 官方状态页显示，本次问题已解决，服务已恢复。此次网页 / API 部分中断的持续时间为 <strong>11 月 7 日 15:11~15:56</strong>，共 45 分钟。</p><p style=\"text-a",
+      "is_policy": false
+    },
+    {
+      "title": "韩国初创公司 Lutra 推出 HOA A1 相机：独特形态，可令摄影师与模特保持眼神交流",
+      "url": "https://www.ithome.com/1/023/757.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:37:51+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据外媒 PetaPixel 报道，韩国初创公司 Lutra 推出了新品牌 Humans of Authenticity（HOA），旗下的新品是一款采用大型开放式取景框的数码相机，无需通过屏幕取景。</p><p>其镜头和传感器位于取景窗中央附近，摄影师构图时<strong>既能与被摄者保持眼神交流，也能摆脱屏幕的干扰</strong>，专注于眼前的画面。</p>",
+      "is_policy": false
+    },
+    {
+      "title": "TrendForce：预计 2027 年翻新内存在智能手机市场渗透率达 7-9%",
+      "url": "https://www.ithome.com/1/023/756.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:36:13+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，集邦咨询（TrendForce）最新存储行业研究显示，移动 DRAM 合约价格的持续走高，正促使智能手机厂商更多采用成本更低的翻新内存（Reballed Memory，重新植球内存），这一趋势在入门级与平价机型中尤为明显。</p><p>IT之家注意到，TrendForce 预计，翻新内存在智能手机市场的渗透率将在 2026 年达到约 3%~4%，<strong",
+      "is_policy": false
+    },
+    {
+      "title": "华为更多机型鸿蒙 HarmonyOS 7 系统转公测，含 nova 12 / 13 系列、畅享 70X 等",
+      "url": "https://www.ithome.com/1/023/755.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:34:52+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，<strong>覆盖 nova 12 / 13 系列、畅享 70X、MatePad Pro 13.2 英寸 2023 系列等</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=",
+      "is_policy": false
+    },
+    {
+      "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-07T08:25:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop.</p> <p>Almost ever",
+      "is_policy": false
+    },
+    {
+      "title": "荣耀 700 系列手机上线官网：Pro / 标准 / S 三杯、全系背屏设计",
+      "url": "https://www.ithome.com/1/023/754.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:23:41+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，荣耀手机官方今日宣布，<strong>荣耀 700 系列上新，已在官网开启预约</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/7f1f5481-cfcf-466a-bf",
+      "is_policy": false
+    },
+    {
+      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
+      "url": "https://www.ithome.com/1/023/753.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:15:48+00:00",
+      "summary": "<p>友望云朵 Max 洗地机官方定价 2599 元，今日按下方步骤下单，仅需 499 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p>88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a href=\"https://s.click.taobao.com/LuW2QLl\" target=\"_bl",
+      "is_policy": false
+    },
+    {
+      "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+      "url": "https://www.ithome.com/1/023/752.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:10:11+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，据《商业内幕》今天（7 日）上午报道，AI 帮助攻克了量子计算领域一项长期悬而未决的重大难题。</p><p>物理研究机构 Physical Superintelligence（PSI）宣布，借助 Anthropic 一款尚未发布的 AI 模型，<strong>量子计算领域的阿伦森－安拜尼斯猜想</strong>成功得到证明。</p><p>这项猜想自 2008 ",
+      "is_policy": false
+    },
+    {
+      "title": "2298 元速度保价：索尼 PS5 Slim 游戏主机版日本限定版京东自营发车",
+      "url": "https://www.ithome.com/1/023/751.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:09:44+00:00",
+      "summary": "<p>索尼 PS5 Slim 日本市场限定定价为 55000 日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2317 元人民币）</span>，今日京东自营狂促开启，仅需 2298 元即可入手。</p><p>目前大部分小伙伴买到的系统版本都是 12.00~13.4（接近一半是 12.00~12.2），本次不到 2300 元，性价比真真不错。</p><u",
+      "is_policy": false
+    },
+    {
+      "title": "“超视距安全预警”可识别结冰等危险路况并提示，吉利发布首个车道级气象环境监测大模型",
+      "url": "https://www.ithome.com/1/023/749.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T08:02:15+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，11 月 5 日，吉利汽车集团与中国气象局地球系统数值预报中心正式签署战略合作框架协议。</p><p>双方联合推出行业首个“智象-星睿交通气象大模型”，该模型聚焦结冰、团雾等极端气象场景，<strong>可实现车道级气象环境实时监测与提示</strong>，为进一步提升复杂天气条件下的行车安全与自动驾驶系统可靠运行提供支撑。</p><p>其中针对<strong",
+      "is_policy": false
+    },
+    {
+      "title": "不法分子冒名发布涉气囊虚假召回信息，沃尔沃汽车发布声明提醒用户提高警惕",
+      "url": "https://www.ithome.com/1/023/748.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-07T07:55:58+00:00",
+      "summary": "<p>IT之家 11 月 7 日消息，沃尔沃汽车今日发布声明，称近日有不法分子冒用公司的名义，以“涉及高田气囊召回”等事项为由，<strong>向车主发送所谓的《召回通知》等虚假信息</strong>，并通过不明链接、二维码诱导车主提交个人信息、车辆信息或进行其他操作。</p><p>沃尔沃汽车官方声明，此类信息非官方发布，且沃尔沃官方发布的召回通知，不会以任何名义引导车主提供银行卡、验证码等敏感信",
+      "is_policy": false
+    },
+    {
+      "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-07T07:08:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche ",
+      "is_policy": false
+    },
+    {
+      "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-07T06:40:14+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process.</p> <p>One of the reviewers seems to have submitted a r",
+      "is_policy": false
+    },
+    {
+      "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-07T05:21:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/\"> <img alt=\"Ant Ling introduces Ling-3.2-flash: 560B/25B native mult",
       "is_policy": false
     },
     {
@@ -107,138 +386,12 @@
       "is_policy": false
     },
     {
-      "title": "美国司法部 SI 工作组投运，保护创新与防范攻击并行",
-      "url": "https://www.ithome.com/1/023/655.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T03:01:09+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，美国司法部于当地时间 11 月 5 日发布公告，宣布“超级智能工作组”（Super Intelligence Task Force，简称 DOJ-SITF）已投入运作，<strong>保护创新与防范攻击并行，负责统筹司法部涉及 SI（国内主流使用 AI）的刑事和民事诉讼。</strong></p><p>IT之家附上相关截图如下：</p><p style=\"te",
-      "is_policy": false
-    },
-    {
-      "title": "腾讯旗下搜狗问问今日正式停运，曾拥有过亿用户",
-      "url": "https://www.ithome.com/1/023/654.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:50:35+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，今日，腾讯旗下问答社区搜狗问问及问问商城将正式停止服务。根据官方 10 月发布的停服公告，搜狗问问及问问商城将于 2026 年 11 月 7 日 23 时 59 分正式停止服务，届时相关页面将无法继续访问，问豆兑换功能同步关闭。停服后，<strong>用户账号将自动注销</strong>，无需手动操作。</p><p style=\"text-align: cen",
-      "is_policy": false
-    },
-    {
-      "title": "最高爬升 1.45 万米高空：ApusNeo 太阳能无人机已翱翔 80 小时，正冲刺 100 小时续航",
-      "url": "https://www.ithome.com/1/023/653.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:41:05+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，科技媒体 New Atlas 昨日（11 月 6 日）发布博文，报道称 UAVOS 公司的 ApusNeo 太阳能无人机正在西班牙富埃特文图拉岛开展长航时测试，<strong>本轮连续飞行已超过 80 小时，正向 100 小时目标推进。</strong></p><p>UAVOS 公司表示，其 ApusNeo 是首架在欧洲空域飞行高度达到 14,500 米（47",
-      "is_policy": false
-    },
-    {
-      "title": "小米 18 标准版手机通过 3C 认证，支持 100W 快充",
-      "url": "https://www.ithome.com/1/023/652.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:37:00+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，一款型号为 M261DB 的小米手机于 11 月 6 日通过了工信部 3C 认证，支持 100W 快充。据博主 @体验more 透露，该机为小米 18 标准版，预计下个月亮相。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com",
-      "is_policy": false
-    },
-    {
-      "title": "AI 热潮撞上资源争议，微软荷兰在建数据中心遭抗议",
-      "url": "https://www.ithome.com/1/023/650.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:27:50+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，路透社最新发布博文，<strong>报道称荷兰当地时间昨日（11 月 6 日）百余名活动人士聚集并闯入微软在建的数据中心工地，抗议 AI 基建扩张。</strong></p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/news",
-      "is_policy": false
-    },
-    {
-      "title": "小米汽车 × 四川美术学院 CMF 校企合作成果 11 月 11 日发布：当传统民艺遇见当代汽车设计",
-      "url": "https://www.ithome.com/1/023/649.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:27:38+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，小米汽车 × 四川美术学院 CMF 校企合作成果发布会将于 11 月 11 日 14:00 举行，地点位于四川美术学院虎溪校区。</p><blockquote><p>当传统民艺，遇见当代汽车设计，会碰撞出怎样的灵感？从西南在地文化中汲取灵感，探索色彩、材料与工艺的更多可能。</p></blockquote><p style=\"text-align: cente",
-      "is_policy": false
-    },
-    {
-      "title": "安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目",
-      "url": "https://www.ithome.com/1/023/648.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:27:33+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，onsemi（安森美）当地时间本月 6 日宣布，由于全球碳化硅 (SiC) 市场的形势变化，<strong>放弃</strong><strong>捷克 Rožnov 碳化硅新产线建设</strong><strong>计划</strong>。该项目<a href=\"https://www.ithome.com/0/776/539.htm\" target=\"_bl",
-      "is_policy": false
-    },
-    {
-      "title": "神舟二十四号载人飞行任务标识发布，首次中外航天员联合飞行",
-      "url": "https://www.ithome.com/1/023/647.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:07:04+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，据央视新闻报道，今天，神舟二十四号载人飞行任务标识正式发布。</p><p>据介绍，标识以地球为视觉背景，<strong>主体显示神舟二十四号载人飞船与空间站交会对接场景</strong>，上下双色半圆构建对称格局，上方湛蓝色背景半圆环象征无垠苍穹与航天梦想，下方红色半圆环象征建设航天强国的炽热情怀与坚定信念。下方半圆环内嵌入中国古代龙纹玉璜造型，寓意将传统文化",
-      "is_policy": false
-    },
-    {
-      "title": "踏浪出征！中国第 43 次南极考察起航，“雪龙”号等三船共同保障",
-      "url": "https://www.ithome.com/1/023/646.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:05:43+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，新华网今天（11 月 7 日）报道，<strong>由自然资源部组织的中国第 43 次南极考察队出征，开启新一轮南极科学考察。</strong>起航仪式当天上午在海南三亚南山港科考码头 3 号泊位举行。</p><p>本次考察由“雪龙”号、“雪龙 2”号和“大洋号”共同保障，来自国内 100 多家单位的 600 余名队员参加，预计 2027 年 4 月完成任务后",
-      "is_policy": false
-    },
-    {
-      "title": "中国“天宫”空间站将迎首位外籍航天员，巴基斯坦载荷专家确认参加神舟二十四号任务并乘神二十三飞船返回",
-      "url": "https://www.ithome.com/1/023/645.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:01:36+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，中国载人航天工程办公室今日宣布，神舟二十四号载人飞行任务将有 1 名巴基斯坦航天员以载荷专家身份参加，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。</p><p>这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员到访。</p><p style=\"text-align: center;\"><a class=\"ithome_sup",
-      "is_policy": false
-    },
-    {
-      "title": "华为风驰散热支架开售：首创压电风冷散热，299 元",
-      "url": "https://www.ithome.com/1/023/644.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T02:01:33+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，华为风驰散热支架今日 10:08 正式开售，售价 299 元，首创压电风冷散热。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/43ab69c7-2a32-4e3f-b56b",
-      "is_policy": false
-    },
-    {
-      "title": "定价 1748 元：索尼官宣因生产问题延迟发售 PULSE Elevate 音箱",
-      "url": "https://www.ithome.com/1/023/643.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:55:17+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，索尼 PlayStation 官方博客于 11 月 6 日更新状态，<strong>表示因生产问题，将推迟发售 PULSE Elevate 音箱。该产品原定于 11 月 12 日发售，售价为 219.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,471 元人民币）</span>。</strong></p>",
-      "is_policy": false
-    },
-    {
-      "title": "卫冕冠军 T1 3:1 战胜 KC 跻身《英雄联盟》S16 四强，Faker 称其为半决赛对手 BLG 感到惋惜",
-      "url": "https://www.ithome.com/1/023/642.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:42:21+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，《英雄联盟》2026 全球总决赛淘汰赛 1/4 决赛落幕，最终 lCK 三号种子 T1 以 3:1 的成绩成功战胜 LEC 三号种子 KC 拿到最后一张 S16 四强门票，将在 11 月 9 日与 LPL 二号种子 BLG 战队展开强强对决。</p><p>这是 T1 和 Faker 选手第 11 次打进全球总决赛，而且 11 次均获得四强及以上的成绩、从 20",
-      "is_policy": false
-    },
-    {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch AI",
       "category": "news",
       "published": "2026-11-07T01:40:28+00:00",
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "is_policy": false
-    },
-    {
-      "title": "“史上最大 IPO”遇挑战：Anthropic 上市估值存分歧，1.5 万亿美元仍被嫌贵",
-      "url": "https://www.ithome.com/1/023/640.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:36:48+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，路透社昨日（11 月 6 日）发布博文，报道称 AI 公司 Anthropic 的首次公开募股（IPO）计划面临投资者估值质疑，<strong>部分投资者认为 1.5 万亿美元<span class=\"exch-money-value\">（现汇率约合 10.03 万亿元人民币）</span>估值依然偏高</strong>。Anthropic 拒绝就相关疑虑置评",
       "is_policy": false
     },
     {
@@ -251,84 +404,12 @@
       "is_policy": false
     },
     {
-      "title": "苹果 iOS 键盘被曝隐藏约 10 万个敏感词汇名单：避免 iPhone 输入法自动推荐补全，但用户仍可手动输入",
-      "url": "https://www.ithome.com/1/023/638.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:33:31+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，据路透社当地时间 11 月 6 日报道，独立研究人员 Derik Kauffman 发现，苹果 iOS 键盘系统内部存在一份未公开的多语言词汇限制名单，研究人员将其称为“灰名单”（Gray List）。</p><p>这意味着苹果不会通过自动补全或滑行输入功能向用户主动推荐这些词汇，但不禁止用户手动输入。据介绍，这份名单不仅包括脏话、性相关内容以及毒品和暴力相关",
-      "is_policy": false
-    },
-    {
-      "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
-      "url": "https://www.ithome.com/1/023/636.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:29:10+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，11 月 6 日，巨星传奇在第九届进博会上首发与宇树科技联合开发的 UNI-DOGGIE 机器狗，售价 43900 元。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/805",
-      "is_policy": false
-    },
-    {
-      "title": "刷新算力巅峰：IBM 在美国芝加哥揭幕其最强量子计算机",
-      "url": "https://www.ithome.com/1/023/635.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:22:48+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，IBM 昨日（11 月 6 日）发布联合公告，宣布携手芝加哥大学、美国伊利诺伊州政府、以及伊利诺伊量子与微电子园（IQMP），<strong>已在芝加哥海德公园实验室投运 IBM Quantum System Two 量子计算机。</strong></p><p>这是 IBM 在伊利诺伊州部署的首台量子计算机，也是该公司当前最先进的量子计算系统，其核心为 IBM",
-      "is_policy": false
-    },
-    {
-      "title": "消息称 vivo X500 Ultra 明年 3-4 月登场，或是同阵营唯一影像超大杯",
-      "url": "https://www.ithome.com/1/023/633.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:11:52+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，据博主 @数码闲聊站 今日爆料，vivo X500 Ultra 目前是正常打磨中，明年 3-4 月登场，或许是同阵营唯一影像超大杯。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
-      "is_policy": false
-    },
-    {
-      "title": "保时捷推出 911 Carrera RS 2.7 联名咖啡机，单卖 48200 元",
-      "url": "https://www.ithome.com/1/023/632.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:06:56+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，当地时间 11 月 5 日，保时捷宣布与意大利咖啡机制造商 La Marzocco 合作，推出了一款限量版 Linea Micra 意式浓缩咖啡机和 Pico 咖啡磨豆机，以及咖啡杯、咖啡师毛巾、服饰和汽车模型等周边产品。</p><p><strong>其中</strong>，<strong>磨豆机单卖 12800 元，咖啡机为 48200 元，二者组合套装为 ",
-      "is_policy": false
-    },
-    {
-      "title": "又一项重要成果，我国牵头制定脑机接口参考架构国际标准正式发布",
-      "url": "https://www.ithome.com/1/023/631.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:05:12+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，据央视新闻报道，记者 6 日从国家标准委了解到，一项由我国牵头制定的脑机接口参考架构国际标准近日正式发布，这是我国在脑机接口国际标准化领域取得的又一项重要成果。</p><p>报道称，该标准围绕“<strong>脑机接口是什么、怎么用、有什么功能、如何实现</strong>”四个核心问题，系统梳理了典型实现模式，形成包括概念、应用、功能和实现的完整技术框架。</",
-      "is_policy": false
-    },
-    {
-      "title": "触控剪辑 / 调色登场：达芬奇 DaVinci Resolve 21.2 发布，适配苹果首款触控 MacBook Pro",
-      "url": "https://www.ithome.com/1/023/630.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T01:02:55+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，<strong>Blackmagic Design 昨日（11 月 6 日）发布达芬奇 DaVinci Resolve 21.2 更新</strong>，同时更新 DaVinci Resolve Studio 21.2（付费版），为剪辑、调色和特效工作流带来触控支持等。</p><p>达芬奇 DaVinci Resolve 是 Blackmagic Design",
-      "is_policy": false
-    },
-    {
-      "title": "美国“空中外卖”竞争白热化：谷歌系 Wing 投资 1.25 亿美元建无人机厂，瞄准 270 家沃尔玛门店",
-      "url": "https://www.ithome.com/1/023/629.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T00:48:43+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，谷歌母公司 Alphabet 旗下无人机配送公司 Wing 昨日（11 月 6 日）宣布，将在未来两年内投资最高 1.25 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 8.36 亿元人民币）</span>，用于在美国得克萨斯州沃斯堡建设并运营一座新一代无人机生产设施。该工厂面积约 1.5 万平方英尺，预计可创造",
-      "is_policy": false
-    },
-    {
-      "title": "马斯克 SpaceX 拟收购 Boost Mobile 切入传统电信运营商领域，AT&T 和 T-Mobile 据称已准备应对方案",
-      "url": "https://www.ithome.com/1/023/627.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-07T00:42:57+00:00",
-      "summary": "<p>IT之家 11 月 7 日消息，Semafor 记者 Rohan Goswami 昨日透露，如果埃隆・马斯克旗下 SpaceX 成功收购 Boost Mobile，AT&amp;T 和 T-Mobile 将可能切断这家运营商对其移动网络的访问权。</p><p>由于 Boost Mobile 目前高度依赖 AT&amp;T 和 T-Mobile 提供网络容量，这一潜在举措可能使 SpaceX ",
+      "title": "The most scathing reviewer 2 review I have ever read",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-07T01:30:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is not my paper. Not my review either. </p> <p>Official Review of Submission21893 by Reviewer Xz8e<br /> <strong>Paper Summary:</strong><br /> The paper tries to",
       "is_policy": false
     },
     {
@@ -638,1086 +719,6 @@
       "is_policy": false
     },
     {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06962v1 Announce Type: new \nAbstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe Aut",
-      "is_policy": false
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whethe",
-      "is_policy": false
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06977v1 Announce Type: new \nAbstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for t",
-      "is_policy": false
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bot",
-      "is_policy": false
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06989v1 Announce Type: new \nAbstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and system",
-      "is_policy": false
-    },
-    {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06995v1 Announce Type: new \nAbstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to",
-      "is_policy": false
-    },
-    {
-      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "url": "https://arxiv.org/abs/2611.06996",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06996v1 Announce Type: new \nAbstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or measured. We empiricall",
-      "is_policy": true
-    },
-    {
-      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "url": "https://arxiv.org/abs/2611.07048",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07048v1 Announce Type: new \nAbstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to dire",
-      "is_policy": false
-    },
-    {
-      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-      "url": "https://arxiv.org/abs/2611.07051",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07051v1 Announce Type: new \nAbstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors. Yet most evaluation is one-off: a benchmark r",
-      "is_policy": false
-    },
-    {
-      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-      "url": "https://arxiv.org/abs/2611.07066",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action ",
-      "is_policy": false
-    },
-    {
-      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
-      "url": "https://arxiv.org/abs/2611.07073",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07073v1 Announce Type: new \nAbstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reason",
-      "is_policy": false
-    },
-    {
-      "title": "Synthesizing symbolic models of human and machine reasoning at scale",
-      "url": "https://arxiv.org/abs/2611.07088",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07088v1 Announce Type: new \nAbstract: Symbolic models offer a powerful account of cognition, but their scope has historically been limited by the need for hand-engineering and computational",
-      "is_policy": false
-    },
-    {
-      "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
-      "url": "https://arxiv.org/abs/2611.07123",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07123v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems. In deployment, how",
-      "is_policy": false
-    },
-    {
-      "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
-      "url": "https://arxiv.org/abs/2611.07247",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07247v1 Announce Type: new \nAbstract: Power matters for AI safety. Optimal agents tend to acquire power across a wide range of objectives (instrumental convergence). As we embed AI agents i",
-      "is_policy": false
-    },
-    {
-      "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
-      "url": "https://arxiv.org/abs/2611.07296",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07296v1 Announce Type: new \nAbstract: When a tropical cyclone (TC) threatens several ports, preparedness planning depends on anticipating which ports are likely to be affected and where dis",
-      "is_policy": false
-    },
-    {
-      "title": "EnvOpt: Automated Optimization for Agent Environments",
-      "url": "https://arxiv.org/abs/2611.07372",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07372v1 Announce Type: new \nAbstract: An LLM agent's cost and success depend on its model, its harness, and its environment. In addition to the widely studied directions of parameter tuning",
-      "is_policy": false
-    },
-    {
-      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
-      "url": "https://arxiv.org/abs/2611.07464",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07464v1 Announce Type: new \nAbstract: Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strate",
-      "is_policy": false
-    },
-    {
-      "title": "SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2611.07482",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07482v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have achieved impressive performance via explicit Chain-of-Thought (CoT) reasoning, yet this process introduces critical ",
-      "is_policy": false
-    },
-    {
-      "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
-      "url": "https://arxiv.org/abs/2611.07508",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07508v1 Announce Type: new \nAbstract: AI agents that work for an individual over time may also help that individual serve external clients. We define a personal external service agent as an",
-      "is_policy": false
-    },
-    {
-      "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
-      "url": "https://arxiv.org/abs/2611.07520",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07520v1 Announce Type: new \nAbstract: Uncertainty in resource reopening times complicates train holding and rerouting decisions when resource closures coincide with arrival delays and proce",
-      "is_policy": false
-    },
-    {
-      "title": "Goal-Branching LaCAM: Temporary Goals as Search Branches in Dense Multi-Agent Pathfinding",
-      "url": "https://arxiv.org/abs/2611.07528",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07528v1 Announce Type: new \nAbstract: LaCAM is a search-based solver for multi-agent pathfinding (MAPF) that runs a depth-first search over joint configurations, using PIBT to generate succ",
-      "is_policy": false
-    },
-    {
-      "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2611.07541",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07541v1 Announce Type: new \nAbstract: Spatial reasoning is a fundamental capability of multimodal large language models (MLLMs), yet existing benchmarks mainly focus on static scene underst",
-      "is_policy": true
-    },
-    {
-      "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
-      "url": "https://arxiv.org/abs/2611.07542",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07542v1 Announce Type: new \nAbstract: In large language model (LLM) serving systems, the key-value (KV) cache grows linearly with sequence length and concurrency, so long-context inference ",
-      "is_policy": false
-    },
-    {
-      "title": "Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks",
-      "url": "https://arxiv.org/abs/2611.07598",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07598v1 Announce Type: new \nAbstract: Federated fine-tuning of large language models (LLMs) under heterogeneous client capacities is increasingly important, and low-rank adaptation (LoRA) w",
-      "is_policy": false
-    },
-    {
-      "title": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
-      "url": "https://arxiv.org/abs/2611.07610",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07610v1 Announce Type: new \nAbstract: When a base language model is fine-tuned with Low-Rank Adaptation (LoRA), how much of the training data domain leaks into the resulting artifact? This ",
-      "is_policy": false
-    },
-    {
-      "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
-      "url": "https://arxiv.org/abs/2611.07624",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07624v1 Announce Type: new \nAbstract: Agent harness evolution enables recursive self-improvement (RSI) without updating model weights. We examine whether higher benchmark scores yield relia",
-      "is_policy": false
-    },
-    {
-      "title": "Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
-      "url": "https://arxiv.org/abs/2611.07633",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07633v1 Announce Type: new \nAbstract: Many enterprise projects now pass free text to large language models (LLMs), and that text often contains personally identifiable information (PII) suc",
-      "is_policy": false
-    },
-    {
-      "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
-      "url": "https://arxiv.org/abs/2611.07652",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07652v1 Announce Type: new \nAbstract: Current autonomous logical systems rely on a fragile assumption: that language models should dynamically write code, guess API payloads, and memorize o",
-      "is_policy": false
-    },
-    {
-      "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
-      "url": "https://arxiv.org/abs/2611.07653",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07653v1 Announce Type: new \nAbstract: Drug discovery requires continuous scientific decision-making across a vast research space. We introduce PharmAgents2, an autonomous system for end-to-",
-      "is_policy": false
-    },
-    {
-      "title": "Who Should Know What? Empirical Information Design for Multi-Agent LLM Economies",
-      "url": "https://arxiv.org/abs/2611.07667",
-      "source": "arXiv cs.AI",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07667v1 Announce Type: new \nAbstract: The performance of multi-agent LLM systems depends not only on the capabilities of the underlying models but also on information-sharing policies, whic",
-      "is_policy": false
-    },
-    {
-      "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
-      "url": "https://arxiv.org/abs/2611.06976",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06976v1 Announce Type: new \nAbstract: Prefill-to-Autoregressive Cross-model Transfer (PACT), a form of latent communication between language models, combines a larger model's prompt represe",
-      "is_policy": false
-    },
-    {
-      "title": "Follow the Policy, Fail the Benchmark: Auditing and Revising Policy-Based Decision Benchmarks",
-      "url": "https://arxiv.org/abs/2611.07042",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07042v1 Announce Type: new \nAbstract: Policy-based decision benchmarks evaluate whether systems apply written rules to financial and operational cases. Yet a rule-following response can be ",
-      "is_policy": true
-    },
-    {
-      "title": "Automated Feedback to Peer Tutors Increases Their Talk Moves and Learner Reasoning but Not the Balance of Talk",
-      "url": "https://arxiv.org/abs/2611.07072",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07072v1 Announce Type: new \nAbstract: Automated feedback on classroom discourse improves instruction in professional and online teaching contexts, and recent work suggests that delivering s",
-      "is_policy": false
-    },
-    {
-      "title": "Consistent yet Contextual: Learning Author-Level Mixtures of Style for Authorship Attribution",
-      "url": "https://arxiv.org/abs/2611.07111",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07111v1 Announce Type: new \nAbstract: Approaches to authorship verification or attribution typically model the style of a document, asking whether two documents were likely written by the s",
-      "is_policy": false
-    },
-    {
-      "title": "What Patients Say They Can't Access: Mining Cancer Screening Barriers from Online Communities",
-      "url": "https://arxiv.org/abs/2611.07113",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07113v1 Announce Type: new \nAbstract: Cancer screening disparities persist across the U.S., yet the patient-reported barriers driving low uptake remain poorly characterized at scale. While ",
-      "is_policy": false
-    },
-    {
-      "title": "Matriarchy Classics: A Computational Approach to Swap Only Gendered Words in Classic Novels",
-      "url": "https://arxiv.org/abs/2611.07134",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07134v1 Announce Type: new \nAbstract: This paper proposes a trustworthy computational method to gender-swap public domain novels, with programmatic guarantees that only gendered words are i",
-      "is_policy": false
-    },
-    {
-      "title": "{\\tau}-bench-LILT: Evaluating Conversational Agents on Realistic Multilingual Tool-Use Tasks",
-      "url": "https://arxiv.org/abs/2611.07203",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07203v1 Announce Type: new \nAbstract: Frontier evaluations of tool-using conversational agents are conducted almost exclusively in English, leaving a critical gap for organizations deployin",
-      "is_policy": false
-    },
-    {
-      "title": "SAFE-Teen: Evaluating Chatbot Safety Across Adolescent Mental Health Conversations",
-      "url": "https://arxiv.org/abs/2611.07218",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07218v1 Announce Type: new \nAbstract: Adolescents are increasingly turning to AI chatbots for mental health support, advice, and companionship, raising safety concerns. While recent evaluat",
-      "is_policy": false
-    },
-    {
-      "title": "Source-balanced Capped Fisher: Bounded Evidence Aggregation for User Inference in Language Models",
-      "url": "https://arxiv.org/abs/2611.07228",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07228v1 Announce Type: new \nAbstract: User inference asks whether a source contributed documents to a language-model update, even when the auditor observes only fresh documents from that so",
-      "is_policy": false
-    },
-    {
-      "title": "Recursive Sparse Attention: Million-Token Length Extrapolation at Logarithmic Cost",
-      "url": "https://arxiv.org/abs/2611.07232",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07232v1 Announce Type: new \nAbstract: At context lengths of about 1M tokens, dense attention is costly in prefill and decoding, and training typically relies on long documents, which become",
-      "is_policy": false
-    },
-    {
-      "title": "How Do AI Agents Waste Your Money?",
-      "url": "https://arxiv.org/abs/2611.07238",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07238v1 Announce Type: new \nAbstract: AI agents may consume massive tokens across a wide range of tasks, but how many of those tokens are really necessary? Although prior work has shown tha",
-      "is_policy": false
-    },
-    {
-      "title": "HyFlash: A Prefix-Memory Prior for On-Device Speculative Decoding",
-      "url": "https://arxiv.org/abs/2611.07263",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07263v1 Announce Type: new \nAbstract: Parallel block drafting accelerates speculative decoding by predicting multiple future positions in a single backbone pass, but on-device deployment co",
-      "is_policy": false
-    },
-    {
-      "title": "Latency-Aware Adaptive Best-of-$N$",
-      "url": "https://arxiv.org/abs/2611.07453",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07453v1 Announce Type: new \nAbstract: Test-time compute (TTC) improves language model responses by spending additional computation at inference time, and the right amount of compute depends",
-      "is_policy": false
-    },
-    {
-      "title": "Recursive Self-Improvement for Long-Horizon Role-Playing Dialogue",
-      "url": "https://arxiv.org/abs/2611.07469",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07469v1 Announce Type: new \nAbstract: Long-horizon role-playing dialogue requires consistent character identity, reliable memory, and context-sensitive interaction. We present a bounded rec",
-      "is_policy": false
-    },
-    {
-      "title": "ReviewMap: Mapping Evaluative Acts and Automation Boundaries in Peer-Review Comments",
-      "url": "https://arxiv.org/abs/2611.07489",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07489v1 Announce Type: new \nAbstract: Peer-review comments check what a paper does and judge why it matters, but no existing scheme distinguishes these two evaluative acts. We argue that ma",
-      "is_policy": false
-    },
-    {
-      "title": "Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios",
-      "url": "https://arxiv.org/abs/2611.07510",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07510v1 Announce Type: new \nAbstract: The rapid development of large language models (LLMs) for code, which closely aligns with the practical needs of real-world software development, has s",
-      "is_policy": false
-    },
-    {
-      "title": "SPARE: Fast Linear Attention Decoding with Compact Recurrent States",
-      "url": "https://arxiv.org/abs/2611.07552",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07552v1 Announce Type: new \nAbstract: Linear attention reduces the quadratic sequence-length complexity of softmax attention by maintaining fixed-size recurrent states. However, these state",
-      "is_policy": false
-    },
-    {
-      "title": "Fine-Tuning a Transducer for Impaired Speech: Where the Gains Appear and What They Mean for Evaluation",
-      "url": "https://arxiv.org/abs/2611.07587",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07587v1 Announce Type: new \nAbstract: Speech recognition still works poorly for many people whose speech is affected by conditions such as ALS, Parkinson's disease, cerebral palsy, Down syn",
-      "is_policy": false
-    },
-    {
-      "title": "The Gating Mechanism of KV Cache Eviction",
-      "url": "https://arxiv.org/abs/2611.07605",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07605v1 Announce Type: new \nAbstract: KV cache eviction must decide which entries carry information that the rest of the cache can no longer supply. A natural way to estimate this is a lear",
-      "is_policy": false
-    },
-    {
-      "title": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
-      "url": "https://arxiv.org/abs/2611.07654",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07654v1 Announce Type: new \nAbstract: Expert pruning compresses Mixture-of-Experts (MoE) language models by removing the experts that a calibration set marks as unimportant. Studies of high",
-      "is_policy": false
-    },
-    {
-      "title": "Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models",
-      "url": "https://arxiv.org/abs/2611.07755",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07755v1 Announce Type: new \nAbstract: The exponential growth of educational and informational video content on platforms like YouTube presents a challenge for efficient knowledge retrieval ",
-      "is_policy": false
-    },
-    {
-      "title": "Dataset Collection and Fine-Tuning of NLLB for German--English Translation",
-      "url": "https://arxiv.org/abs/2611.07797",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07797v1 Announce Type: new \nAbstract: This paper describes the curation of a high-quality parallel corpus from OPUS Books and the fine-tuning of Meta's NLLB-200 models for German--English t",
-      "is_policy": false
-    },
-    {
-      "title": "Decodability Is Not Validity: Evaluating Nuisance Sensitivity in Language Model Concept Probes",
-      "url": "https://arxiv.org/abs/2611.07805",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07805v1 Announce Type: new \nAbstract: Two concept probes can be equally accurate at predicting a concept from a language model's hidden states while their scores contain different mixtures ",
-      "is_policy": false
-    },
-    {
-      "title": "Different Corpora, Different Skills? A Paired Study of Small Language Models",
-      "url": "https://arxiv.org/abs/2611.07812",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07812v1 Announce Type: new \nAbstract: Small language models are often trained under tight data budgets, where the choice of pretraining corpus may matter as much as model size or training r",
-      "is_policy": false
-    },
-    {
-      "title": "Towards Foundation Decision Models: Drex",
-      "url": "https://arxiv.org/abs/2611.07854",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07854v1 Announce Type: new \nAbstract: Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because ",
-      "is_policy": false
-    },
-    {
-      "title": "Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation",
-      "url": "https://arxiv.org/abs/2611.07866",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07866v1 Announce Type: new \nAbstract: LLM-based recommender systems increasingly generate chain-of-thought (CoT) text before each item prediction to activate the LLM's reasoning capacity, c",
-      "is_policy": false
-    },
-    {
-      "title": "AraEngage: Interpretable Linguistic Correlates of Engagement in Arabic Facebook News",
-      "url": "https://arxiv.org/abs/2611.07926",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07926v1 Announce Type: new \nAbstract: Engagement features developed for English are routinely applied to Arabic, but unvocalized Arabic changes what a lexical feature measures. We introduce",
-      "is_policy": false
-    },
-    {
-      "title": "Beyond the Keyword: A Human-Annotated Benchmark for Arabic Anxiety-Related Discourse",
-      "url": "https://arxiv.org/abs/2611.07949",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07949v1 Announce Type: new \nAbstract: Keyword retrieval returns expressions of personal anxiety together with many other uses of anxiety-related language. We present a benchmark of 1,000 Ar",
-      "is_policy": false
-    },
-    {
-      "title": "Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation in Arabic Legal LLMs",
-      "url": "https://arxiv.org/abs/2611.07988",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07988v1 Announce Type: new \nAbstract: Model compression can facilitate the deployment of large language models in resource-constrained legal settings, but its effects on domain-specific per",
-      "is_policy": false
-    },
-    {
-      "title": "Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech",
-      "url": "https://arxiv.org/abs/2611.08006",
-      "source": "arXiv cs.CL",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.08006v1 Announce Type: new \nAbstract: The exponential growth of textual and audiovisual information has made the task of automatic keyphrase extraction (KE) increasingly significant. This a",
-      "is_policy": false
-    },
-    {
-      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
-      "url": "https://arxiv.org/abs/2611.06953",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical d",
-      "is_policy": false
-    },
-    {
-      "title": "Uncertainty calibration in Bayesian M/EEG source imaging",
-      "url": "https://arxiv.org/abs/2611.06979",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06979v1 Announce Type: new \nAbstract: M/EEG source imaging requires accurate localization and reliable uncertainty estimates, yet posterior credible regions are rarely assessed for empirica",
-      "is_policy": false
-    },
-    {
-      "title": "Robust Stream Classification using Time Neutralising Decision Trees",
-      "url": "https://arxiv.org/abs/2611.06991",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06991v1 Announce Type: new \nAbstract: Data Streams are characterised as a potentially infinite source of data subject to non-stationarity. This non-stationarity, also called Concept Drift, ",
-      "is_policy": false
-    },
-    {
-      "title": "Stochastic Dynamics of Generative AI: From Autoregressive Models to Interacting LLM Networks and Neural SDEs",
-      "url": "https://arxiv.org/abs/2611.07065",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07065v1 Announce Type: new \nAbstract: This paper develops a stochastic dynamical-systems perspective on three classes of generative AI models. First, we formulate large language models (LLM",
-      "is_policy": false
-    },
-    {
-      "title": "Optimistic Hedge in General-Sum Games: Fundamental Limits and Regret Bounds via Temporal Approximation",
-      "url": "https://arxiv.org/abs/2611.07078",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07078v1 Announce Type: new \nAbstract: Optimistic Hedge, a multiplicative weight update with one step of extrapolation, is one of the most natural regret-minimizing dynamics for games, and c",
-      "is_policy": false
-    },
-    {
-      "title": "Server-Side Sparse Assignment for Federated Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2611.07093",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07093v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly recognized for their remarkable capabilities; federated learning (FL) offers a promising framework for co",
-      "is_policy": false
-    },
-    {
-      "title": "Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach",
-      "url": "https://arxiv.org/abs/2611.07122",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07122v1 Announce Type: new \nAbstract: Profit-maximizing Autonomous Mobility-on-Demand (AMoD) operators may exploit consumer surplus through excessive prices and underserve less profitable r",
-      "is_policy": false
-    },
-    {
-      "title": "Machine Learning for Live-Birth Prediction After IVF/ICSI From Structured Clinical Data: A Systematic Review, Meta-Analysis, and Critical Appraisal",
-      "url": "https://arxiv.org/abs/2611.07124",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07124v1 Announce Type: new \nAbstract: Machine-learning models predicting live birth after in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) from routine clinical data ",
-      "is_policy": false
-    },
-    {
-      "title": "Data-Driven Modeling of Molten Chloride Corrosion Using Static Test Data",
-      "url": "https://arxiv.org/abs/2611.07125",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07125v1 Announce Type: new \nAbstract: Molten chloride corrosion has been studied for decades, yet reliable prediction across different alloys, salts, and test conditions remains difficult. ",
-      "is_policy": false
-    },
-    {
-      "title": "Scalable Bayesian Gaussian Process Classification for Cancer Histopathology: Calibrated Uncertainty Under Distribution Shift",
-      "url": "https://arxiv.org/abs/2611.07127",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07127v1 Announce Type: new \nAbstract: Reliable uncertainty quantification is essential for clinical deployment of cancer diagnosis models, yet neural networks and variational Gaussian proce",
-      "is_policy": false
-    },
-    {
-      "title": "Teaching Agents the \"Principle\", Not the \"Reward\"",
-      "url": "https://arxiv.org/abs/2611.07130",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07130v1 Announce Type: new \nAbstract: Reinforcement learning has achieved strong performance in many tasks by letting agents learn from nothing more than a reward signal. However, in more c",
-      "is_policy": false
-    },
-    {
-      "title": "A Survey of Nonlinear Filtering Methods for Data Assimilation and Recent Advances in Generative AI-Enabled Score Filters",
-      "url": "https://arxiv.org/abs/2611.07160",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07160v1 Announce Type: new \nAbstract: Many real-world applications, such as numerical weather prediction or wildfire tracking, involve modeling highly nonlinear dynamical systems that are c",
-      "is_policy": false
-    },
-    {
-      "title": "Structural Conditional Independence Test via Neural Quantile Resolution",
-      "url": "https://arxiv.org/abs/2611.07165",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07165v1 Announce Type: new \nAbstract: Conditional independence testing is difficult when dependence is weak, localized, or expressed through distributional changes rather than a global mean",
-      "is_policy": false
-    },
-    {
-      "title": "Meta-Frieren: Beyond Single Level Online Learning",
-      "url": "https://arxiv.org/abs/2611.07169",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07169v1 Announce Type: new \nAbstract: We study a two-stage online optimization problem: at each round, a meta-learner first selects an agent-environment pair, then the chosen agent interact",
-      "is_policy": false
-    },
-    {
-      "title": "Backbone-Informed Adaptation after EEG Pretraining: A Capacity-Controlled Study",
-      "url": "https://arxiv.org/abs/2611.07192",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07192v1 Announce Type: new \nAbstract: Electroencephalography (EEG) foundation models learn representations that combine information across channels and time. This structure motivates adapte",
-      "is_policy": false
-    },
-    {
-      "title": "TrustMix: Graceful Degradation for Pretrained Models under Distribution Shift",
-      "url": "https://arxiv.org/abs/2611.07206",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07206v1 Announce Type: new \nAbstract: Predicting beyond the training domain necessarily requires assumptions about how the ground truth extrapolates, yet in most neural networks these assum",
-      "is_policy": false
-    },
-    {
-      "title": "Structured Machine Theory of Mind from Agent Trajectories",
-      "url": "https://arxiv.org/abs/2611.07208",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07208v1 Announce Type: new \nAbstract: Predictive models of human behavior trained on large-scale trajectory data optimize for statistical accuracy without representing the mental states tha",
-      "is_policy": false
-    },
-    {
-      "title": "Canonical Correlation Neural Networks",
-      "url": "https://arxiv.org/abs/2611.07212",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07212v1 Announce Type: new \nAbstract: Relational inductive biases such as grids or graphs allow neural networks with fewer trainable parameters and improved generalization, but require a kn",
-      "is_policy": false
-    },
-    {
-      "title": "Fractional physics-informed neural networks to model social media virality",
-      "url": "https://arxiv.org/abs/2611.07215",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07215v1 Announce Type: new \nAbstract: Existing models of social media virality either prescribe the functional form of engagement growth or assume a fixed mechanism by which past activity i",
-      "is_policy": false
-    },
-    {
-      "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
-      "url": "https://arxiv.org/abs/2611.07226",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07226v1 Announce Type: new \nAbstract: Looped Transformers reduce parameter count by repeatedly applying shared blocks, but parameter sharing alone does not determine how the results of repe",
-      "is_policy": false
-    },
-    {
-      "title": "Neural Compression over Equivalence Classes: Exact Gauges and Functional Rate-Distortion",
-      "url": "https://arxiv.org/abs/2611.07233",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07233v1 Announce Type: new \nAbstract: Neural networks admit many parameterizations of the same or nearly the same function, but deployment typically stores whichever parameter vector traini",
-      "is_policy": false
-    },
-    {
-      "title": "Using Transformers for Teaching and Learning via Symbolic Distillation of Neural A-life Agents",
-      "url": "https://arxiv.org/abs/2611.07254",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07254v1 Announce Type: new \nAbstract: Neural networks controlling behavior of A-life agents can evolve over multiple generations. While effective in making the agents survive, such networks",
-      "is_policy": false
-    },
-    {
-      "title": "Reweighting is not Harmless: Understanding the Role of Dataset Characteristics",
-      "url": "https://arxiv.org/abs/2611.07258",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07258v1 Announce Type: new \nAbstract: Reweighting is a widely used pre-processing method for promoting discrimination-free model behavior by assigning different weights to data points durin",
-      "is_policy": false
-    },
-    {
-      "title": "Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study",
-      "url": "https://arxiv.org/abs/2611.07264",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07264v1 Announce Type: new \nAbstract: The rapid expansion of the Internet of Things (IoT) has increased the volume of data generated at the network edge, where many devices operate under se",
-      "is_policy": false
-    },
-    {
-      "title": "Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication",
-      "url": "https://arxiv.org/abs/2611.07277",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07277v1 Announce Type: new \nAbstract: In vehicular integrated sensing and communication (ISAC) networks, each service-provider vehicle uses a limited power budget to serve multiple sensing ",
-      "is_policy": false
-    },
-    {
-      "title": "Scenario Augmentation for Rare Financial Events via Multimodal Latent Diffusion",
-      "url": "https://arxiv.org/abs/2611.07282",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07282v1 Announce Type: new \nAbstract: Extreme market movements are scarce, heterogeneous, and difficult to learn from imbalanced historical data. We study whether generative augmentation ca",
-      "is_policy": false
-    },
-    {
-      "title": "How do Transformers Perform Low-Level Control In-Context?",
-      "url": "https://arxiv.org/abs/2611.07291",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07291v1 Announce Type: new \nAbstract: One of the remarkable abilities of Transformer-based neural networks is in-context learning. This motivates us to think about \"in-context\" control. Can",
-      "is_policy": false
-    },
-    {
-      "title": "Provably Efficient Representation Learning for Low-Rank CMDPs",
-      "url": "https://arxiv.org/abs/2611.07295",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07295v1 Announce Type: new \nAbstract: We study representation learning in low-rank Constrained Markov Decision Processes (CMDPs), where both value and reward functions are approximated by a",
-      "is_policy": false
-    },
-    {
-      "title": "WeightLoop: Weight-Space Programming with Experimental Feedback",
-      "url": "https://arxiv.org/abs/2611.07319",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07319v1 Announce Type: new \nAbstract: Weight-space programming (WSP) shows that language models can reason about and rewrite neural network weights; recursive self-improvement (RSI) motivat",
-      "is_policy": false
-    },
-    {
-      "title": "Rethinking Data Selection: The Importance of Coverage over Difficulty in LLM Fine-Tuning",
-      "url": "https://arxiv.org/abs/2611.07323",
-      "source": "arXiv cs.LG",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07323v1 Announce Type: new \nAbstract: Selecting high-quality training data can reduce computation cost for LLM fine-tuning. Prior work on data selection developed a variety of difficulty-ba",
-      "is_policy": false
-    },
-    {
-      "title": "T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals",
-      "url": "https://arxiv.org/abs/2611.06974",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.06974v1 Announce Type: new \nAbstract: Triangle-based splatting connects novel view synthesis with conventional graphics pipelines, but often requires excessive tessellation to preserve appe",
-      "is_policy": false
-    },
-    {
-      "title": "TraCE: Trajectory-Aware Concepts for Explainable Video Understanding",
-      "url": "https://arxiv.org/abs/2611.07009",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07009v1 Announce Type: new \nAbstract: Video understanding models often rely on motion, yet their explanations can obscure which motion sources support a prediction. We identify motion-sourc",
-      "is_policy": false
-    },
-    {
-      "title": "Gaussians Can Subtract: Neural Dissolve Fields for Hybrid Scene Rendering",
-      "url": "https://arxiv.org/abs/2611.07049",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07049v1 Announce Type: new \nAbstract: Hybrid Mesh-Gaussian rendering combines compact textured surfaces with flexible 3D Gaussian primitives, offering an efficient alternative to purely Gau",
-      "is_policy": false
-    },
-    {
-      "title": "Expanding the Quality-Coverage Frontier with Competitive Flow Matching",
-      "url": "https://arxiv.org/abs/2611.07055",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07055v1 Announce Type: new \nAbstract: Flow matching (FM) generators often face a quality-coverage tradeoff. Inference-time techniques such as classifier-free guidance raise quality, but at ",
-      "is_policy": false
-    },
-    {
-      "title": "Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving",
-      "url": "https://arxiv.org/abs/2611.07081",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07081v1 Announce Type: new \nAbstract: Multi-perspective-camera systems are widely adopted since they provide broad visual coverage for autonomous driving, motivating the synthesis of a unif",
-      "is_policy": false
-    },
-    {
-      "title": "Perceptual Distortion for Overfitted Video Coding: Sliced Matching in Space, Error Alignment in Time",
-      "url": "https://arxiv.org/abs/2611.07148",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07148v1 Announce Type: new \nAbstract: Recent works in neural video coding have increasingly been trading off perceptual quality against reconstruction fidelity at a fixed bitrate. Wasserste",
-      "is_policy": false
-    },
-    {
-      "title": "VINO: Revisiting 3D Representation Learning with Volume Transformers",
-      "url": "https://arxiv.org/abs/2611.07176",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07176v1 Announce Type: new \nAbstract: Self-supervised learning has given rise to vision foundation models that learn general-purpose image representations transferable across downstream tas",
-      "is_policy": false
-    },
-    {
-      "title": "MammoSeek: A Mammography Agent with selective zooming for grounded reports",
-      "url": "https://arxiv.org/abs/2611.07188",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07188v1 Announce Type: new \nAbstract: Radiologists read a screening mammogram by first forming a global impression of the four views and then selectively magnifying suspicious regions befor",
-      "is_policy": false
-    },
-    {
-      "title": "Householder Motion Embedding: Noise Modulation for Motion-Controllable Video Generation",
-      "url": "https://arxiv.org/abs/2611.07294",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07294v1 Announce Type: new \nAbstract: Diffusion models for video generation have achieved remarkable success, yet precise motion control under explicit user guidance remains challenging. Re",
-      "is_policy": false
-    },
-    {
-      "title": "ArtiVidRM: Verifiable Artifact-as-Rubric Reward Modeling for Explicit Quality Articulation in Video Generation",
-      "url": "https://arxiv.org/abs/2611.07301",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07301v1 Announce Type: new \nAbstract: Reinforcement learning has become an effective approach for improving video generation, but its success depends heavily on reliable reward models. Exis",
-      "is_policy": false
-    },
-    {
-      "title": "Where Do Reported Long-Video QA Gains Come From? A Controlled Audit of Frame Selection, Evidence Injection, and Expert Routing",
-      "url": "https://arxiv.org/abs/2611.07329",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07329v1 Announce Type: new \nAbstract: Long-video question answering is usually studied as frame selection: which few frames should a vision-language model see? We introduce VideoRouteAudit,",
-      "is_policy": false
-    },
-    {
-      "title": "MIKU: Material Invariance and Knowledge Unification for PBR Generation",
-      "url": "https://arxiv.org/abs/2611.07354",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07354v1 Announce Type: new \nAbstract: High-quality material generation for physically based rendering (PBR) remains challenging because datasets and synthesis pipelines lack standardized re",
-      "is_policy": false
-    },
-    {
-      "title": "Vis2State: Visual Reasoning through Executable State Abstractions",
-      "url": "https://arxiv.org/abs/2611.07397",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07397v1 Announce Type: new \nAbstract: Solving visual puzzles requires both accurate interpretation of visual evidence and reliable computation under task-specific rules. Embedding visual as",
-      "is_policy": false
-    },
-    {
-      "title": "TRiST: Topology-Reinforced Swin Transformer for Medical Image Analysis",
-      "url": "https://arxiv.org/abs/2611.07431",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07431v1 Announce Type: new \nAbstract: Medical images contain topological patterns, such as connected components and loops, at scales ranging from small lesions to organ boundaries. Although",
-      "is_policy": false
-    },
-    {
-      "title": "VIPA: View-Invariant Projector-Based Adversarial Attack",
-      "url": "https://arxiv.org/abs/2611.07443",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07443v1 Announce Type: new \nAbstract: Projector-based adversarial attack aims to physically manipulate real-world scenes by projecting adversarial patterns, thereby causing deep image class",
-      "is_policy": false
-    },
-    {
-      "title": "Compact Motion Embeddings for Feed-forward Unified Human Animation",
-      "url": "https://arxiv.org/abs/2611.07481",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07481v1 Announce Type: new \nAbstract: Animating a reference image with a driver's motion requires a motion representation that captures face, hand, and body articulation but excludes the dr",
-      "is_policy": false
-    },
-    {
-      "title": "Degree-Equalized View-Graph Selection under Tight Pair Budgets",
-      "url": "https://arxiv.org/abs/2611.07498",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07498v1 Announce Type: new \nAbstract: Fully matching all image pairs in Structure-from-Motion is quadratic in the number of images, so practical pipelines pass a budgeted subset to the fina",
-      "is_policy": false
-    },
-    {
-      "title": "OptIMerge: Optimization-Based Merging of Diffusion Models",
-      "url": "https://arxiv.org/abs/2611.07543",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07543v1 Announce Type: new \nAbstract: The arithmetic merging of weights from multiple task-specific models fine-tuned from a shared base model, commonly known as model souping, has emerged ",
-      "is_policy": false
-    },
-    {
-      "title": "Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion",
-      "url": "https://arxiv.org/abs/2611.07551",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07551v1 Announce Type: new \nAbstract: Few-step autoregressive (AR) video diffusion models generate videos chunk by chunk and have made efficient video generation practical. However, further",
-      "is_policy": false
-    },
-    {
-      "title": "Improving Long-Tail Detection via Layout-Instruction Conditioned Diffusion Synthesis",
-      "url": "https://arxiv.org/abs/2611.07553",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07553v1 Announce Type: new \nAbstract: Synthetic data from diffusion models can improve object detection, but long-tail performance is still limited by scarce rare classes and inflexible con",
-      "is_policy": false
-    },
-    {
-      "title": "MetricTrail: Revisiting the Power of Metric Depth and Local Optimization for Long-Sequence Streaming 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2611.07555",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07555v1 Announce Type: new \nAbstract: We present MetricTrail, a streaming system for accurate camera motion estimation and dense reconstruction from long monocular videos. To keep inference",
-      "is_policy": false
-    },
-    {
-      "title": "Guidance Is a Field, Not a Scalar: Interval-Integrated Classifier-Free Guidance for One-Step Video Generation",
-      "url": "https://arxiv.org/abs/2611.07566",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07566v1 Announce Type: new \nAbstract: One-step generators built on MeanFlow synthesize a video in a single function evaluation, yet inherit a rigid treatment of classifier-free guidance (CF",
-      "is_policy": false
-    },
-    {
-      "title": "Integrating Learned Priors through Prior-Space Reparameterization for Physically Based Inverse Rendering",
-      "url": "https://arxiv.org/abs/2611.07573",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07573v1 Announce Type: new \nAbstract: Physically based inverse rendering decomposes appearance into materials and illumination, an ambiguous problem for which learned material predictions p",
-      "is_policy": false
-    },
-    {
-      "title": "Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images",
-      "url": "https://arxiv.org/abs/2611.07575",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07575v1 Announce Type: new \nAbstract: Georeferenced 3D reconstruction from ground images requires recovering not only the local scene geometry, but also localizing every camera center and 3",
-      "is_policy": false
-    },
-    {
-      "title": "Subspace Learning with Outlier Exposure for Out-of-Distribution Detection",
-      "url": "https://arxiv.org/abs/2611.07580",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07580v1 Announce Type: new \nAbstract: Out-of-Distribution (OoD) detection is pivotal for reliable deployments of Deep Neural Networks (DNNs), aiming to distinguish anomalous samples from th",
-      "is_policy": false
-    },
-    {
-      "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
-      "url": "https://arxiv.org/abs/2611.07613",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07613v1 Announce Type: new \nAbstract: LiDAR is a critical sensor for autonomous driving and robotics, yet it remains vulnerable to adverse conditions such as fog, rain, transparent objects,",
-      "is_policy": false
-    },
-    {
-      "title": "TRACEMARK: Editor-Aware Watermarking for User Attribution in Text-Guided Image Editing",
-      "url": "https://arxiv.org/abs/2611.07632",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07632v1 Announce Type: new \nAbstract: An image editing service records which user requests each edit, but the edited image itself does not contain this account information. Once the image i",
-      "is_policy": false
-    },
-    {
-      "title": "Generator-Aligned Reward Modeling with Target-Aware Bounded Optimization for Visual Generation",
-      "url": "https://arxiv.org/abs/2611.07648",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07648v1 Announce Type: new \nAbstract: Post-training aims to enhance desired attributes in visual generative models while preserving their general generation capabilities. Reward-guided post",
-      "is_policy": false
-    },
-    {
-      "title": "ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation",
-      "url": "https://arxiv.org/abs/2611.07658",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07658v1 Announce Type: new \nAbstract: Articulated 3D assets are essential for robotic simulation and training, yet their generation from casual images poses a key challenge: recovering part",
-      "is_policy": false
-    },
-    {
-      "title": "Which Objects Stay? Learning Hierarchical Persistence Beliefs for Lifelong Open-Vocabulary Object Maps",
-      "url": "https://arxiv.org/abs/2611.07662",
-      "source": "arXiv cs.CV",
-      "category": "papers",
-      "published": "2026-11-06T05:00:00+00:00",
-      "summary": "arXiv:2611.07662v1 Announce Type: new \nAbstract: Lifelong object maps must estimate whether an object remains at its previously observed location after it leaves view. Existing persistence filters rel",
-      "is_policy": false
-    },
-    {
       "title": "OpenAI is stepping back from NDAs for data center projects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
       "source": "The Verge AI",
@@ -1742,15 +743,6 @@
       "category": "news",
       "published": "2026-11-05T22:40:55+00:00",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "is_policy": false
-    },
-    {
-      "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-05T21:40:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically <strong>Sparse Pr",
       "is_policy": false
     },
     {
@@ -1844,15 +836,6 @@
       "is_policy": false
     },
     {
-      "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-05T16:54:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wrote a small checker for training and evaluation code. It looks for mistakes that do not raise</p> <p>errors. The classic one is leakage through preprocessing. Wit",
-      "is_policy": false
-    },
-    {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch AI",
@@ -1907,15 +890,6 @@
       "is_policy": false
     },
     {
-      "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-05T10:44:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark fo",
-      "is_policy": false
-    },
-    {
       "title": "A new bill could change how the US builds energy infrastructure",
       "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
       "source": "MIT Tech Review",
@@ -1967,15 +941,6 @@
       "category": "papers",
       "published": "2026-11-05T02:56:01+00:00",
       "summary": "LiDAR is a critical sensor for autonomous driving and robotics, yet it remains vulnerable to adverse conditions such as fog, rain, transparent objects, and low-reflectance surfaces. Full-waveform LiDA",
-      "is_policy": false
-    },
-    {
-      "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-05T02:55:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I would assume LLMs have bumped this number, or maybe not. Which is why I am asking. If there are PIs on here, how many papers before you let your students graduate? ",
       "is_policy": false
     },
     {
@@ -2123,15 +1088,6 @@
       "is_policy": true
     },
     {
-      "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-04T16:17:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>As per the the 2027 CVPR guidelines:</p> <p>&quot;Maximum number of submissions (continuing from CVPR 2026): Each author may submit at most 25 papers. If an author en",
-      "is_policy": false
-    },
-    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI Blog",
@@ -2165,15 +1121,6 @@
       "category": "papers",
       "published": "2026-11-04T11:46:03+00:00",
       "summary": "Coding agents powered by models such as GPT-6-Astra connect spatial reasoning with executable robot behavior, raising the question of how such agents can produce lasting improvements in robot capabili",
-      "is_policy": false
-    },
-    {
-      "title": "A message to top tier conferences [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-04T09:55:50+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR: Please be hard in desk rejecting AI generated papers</strong></p> <p><strong>Recently I went to two AI conferences (A and A*) and I was surprised that ",
       "is_policy": false
     },
     {
