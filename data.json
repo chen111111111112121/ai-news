@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:38:29.353796+00:00",
+  "generated_at": "2026-11-13T23:01:16.365394+00:00",
   "categories": [
     "news",
     "papers",
@@ -12,7 +12,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T13:38:29+00:00",
+      "published": "2026-11-13T23:01:16+00:00",
       "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
       "is_policy": false
     },
@@ -21,7 +21,7 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T13:38:29+00:00",
+      "published": "2026-11-13T23:01:16+00:00",
       "summary": "Keep your coding agent up to date with the latest web best practices",
       "is_policy": false
     },
@@ -30,7 +30,7 @@
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T13:38:29+00:00",
+      "published": "2026-11-13T23:01:16+00:00",
       "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "is_policy": false
     },
@@ -39,7 +39,7 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T13:38:29+00:00",
+      "published": "2026-11-13T23:01:16+00:00",
       "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
       "is_policy": false
     },
@@ -48,8 +48,350 @@
       "url": "https://github.com/Likely7/Veyra-NRVideo",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T13:38:29+00:00",
+      "published": "2026-11-13T23:01:16+00:00",
       "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super R",
+      "is_policy": false
+    },
+    {
+      "title": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击",
+      "url": "https://www.ithome.com/1/026/999.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T22:43:32+00:00",
+      "summary": "<p>IT之家 11 月 14 日消息，北京时间 11 月 14 日凌晨，美国航空交通管制系统发生大规模通信故障，美国联邦航空管理局（FAA）在约半小时内将局部停飞升级为全国性地面停飞，要求所有待起飞航班留在地面，直至另行通知。</p><p>此次事件最早于北京时间 4 时 46 分发生在芝加哥奥黑尔国际机场，11 分钟后扩大至全美，飞往美国的国际航班按个案处理，已在空中的航班则可正常降落。</p>",
+      "is_policy": false
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-13T22:43:00+00:00",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "is_policy": false
+    },
+    {
+      "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
+      "url": "https://www.ithome.com/1/026/998.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T22:39:32+00:00",
+      "summary": "<p>IT之家 11 月 14 日消息，英国《金融时报》报道称，英伟达董事会曾接触芯片设计公司 Arm 首席执行官雷内・哈斯（Rene Haas），将其作为潜在继任人选。</p><p>当地时间 11 月 13 日，英伟达董事会针对外界对新任 CEO 人选的猜测回应 CNBC 称，公司尚未选定负责首席执行官招聘工作的猎头机构，也尚未正式联系任何潜在候选人。</p><p style=\"text-ali",
+      "is_policy": false
+    },
+    {
+      "title": "ICML 2027 Changes [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T21:53:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just read the ICML 2027 CFP and it looks like they’re trying to tackle the submission explosion in a reasonable way. Under the new two-stage process, the area chair d",
+      "is_policy": false
+    },
+    {
+      "title": "I have trained a model to predict my blood sugar [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T20:48:25+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/\"> <img alt=\"I have trained a model to predict my blood sugar [P]",
+      "is_policy": false
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-11-13T20:45:10+00:00",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
+      "is_policy": false
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-13T19:37:57+00:00",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "is_policy": false
+    },
+    {
+      "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T18:58:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/\"> <img alt=\"Four frontier models scored 97.8–100 on a 7-part material",
+      "is_policy": false
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-13T18:40:30+00:00",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "is_policy": false
+    },
+    {
+      "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
+      "url": "https://www.ithome.com/1/026/997.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T18:07:19+00:00",
+      "summary": "<p>IT之家 11 月 14 日消息，微软昨天（11 月 13 日）发布博文，邀请 Beta、Experimental、Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。</p><p>其中常规 Beta、Experimental 主通道本周暂不推送更新，相关常规更新将在下周正式发布，本次推送的版本分别为：</p><u",
+      "is_policy": false
+    },
+    {
+      "title": "Scaling to 1T MoE on TorchTitan [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T16:28:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>Over the last few months we've been in the trenches with the TorchTitan and PyTorch maintainers, trying to find out how far GH200 (the GPUs inside",
+      "is_policy": false
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-13T16:00:12+00:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "is_policy": false
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-13T15:58:00+00:00",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "is_policy": false
+    },
+    {
+      "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
+      "url": "https://www.ithome.com/1/026/995.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:57:27+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— <a href=\"https://www.ithome.com/0/958/271.htm\" target=\"_blank\">华为凌霄子母路由 Q7 电线版</a>。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连，<stron",
+      "is_policy": false
+    },
+    {
+      "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
+      "url": "https://www.ithome.com/1/026/994.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:49:08+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 11 月 13 日消息，OpenAI 今天（13 日）宣布推出支付功能 ChatGPT Wallet，让旗下 dot AI 智能体代替用户购物。</p><p style=\"text-align: start;\">ChatGPT Wallet 由 OpenAI 与美国运通、万事达卡和 Visa 合作开发，用户使用现有信用卡付款时，",
+      "is_policy": false
+    },
+    {
+      "title": "华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速",
+      "url": "https://www.ithome.com/1/026/993.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:47:34+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，华为麒麟官方公众号继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，<strong>新一代灵犀 CPU 详情已公开</strong>。</p><p style=\"text-align: center;\"><img alt=\"图片\" class=\"nowebp\" src=\"https://img.ithome.com/newsup",
+      "is_policy": false
+    },
+    {
+      "title": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展",
+      "url": "https://www.ithome.com/1/026/992.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:38:20+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 11 月 13 日消息，据彭博社今天（13 日）深夜报道，微软旗下主要软件服务的恢复工作取得进展。这场大规模故障导致<strong>全球多地政府机构、金融交易员和企业业务</strong>陷入瘫痪。</p><p style=\"text-align: start;\">微软在纽约时间 13 日上午 9 时许（IT之家注：对应北京时间",
+      "is_policy": false
+    },
+    {
+      "title": "麒麟 8000 系也有份：华为更多机型更新 HarmonyOS 7 系统后补齐沉浸光感粒子动效",
+      "url": "https://www.ithome.com/1/026/991.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:27:11+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据多位用户反馈，华为 nova 12 系列、nova Flip、畅享 90 系列、畅享 70X 等机型已开启鸿蒙 HarmonyOS 7.0.0.111 新版本（SP 后缀随机型不同有所区别）升级，<strong>新增粒子动效</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img",
+      "is_policy": false
+    },
+    {
+      "title": "联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍",
+      "url": "https://www.ithome.com/1/026/990.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:21:56+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，当地时间 13 日，联合国气候大会期间，联合国开发计划署署长亚历山大 · 德克罗接受法新社采访时指出，立即采取行动应对厄尔尼诺现象造成的严重影响，<strong>所需费用仅为推迟行动的一半</strong>。</p><p>如何筹措资金应对厄尔尼诺现象带来的挑战，是本届大会争论最激烈的议题之一。</p><p>德克罗说：“如果现在采取行动，应对厄尔尼诺现象<st",
+      "is_policy": false
+    },
+    {
+      "title": "捷豹路虎确认：纯电版“小卫士”新车明年见",
+      "url": "https://www.ithome.com/1/026/989.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T15:13:00+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据英媒 Autocar 今天（13 日）晚间报道，捷豹路虎首席执行官 PB· 巴拉吉确认，<strong>定位低于现款卫士的全新入门级 SUV 将于 2027 年投产</strong>，率先推出纯电版本。外界普遍将新车称为“卫士 Sport”，此次也是捷豹路虎首次正式公布其投产时间。</p><p>全新“小卫士”将与揽胜 GT 共用 EMA 平台，提供纯电和混",
+      "is_policy": false
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI Blog",
+      "category": "news",
+      "published": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "is_policy": false
+    },
+    {
+      "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
+      "url": "https://www.ithome.com/1/026/967.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:59:02+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，索尼 PlayStation 今天（13 日）晚间宣布，PS5 超分技术 QSSR 即将登陆<strong>《漫威蜘蛛侠 2》《控制：共振》《THE FINALS》《ARC Raiders》</strong>等作品，相关游戏更新将在未来几周内陆续推出。</p><p style=\"text-align: center;\"><img class=\"no-alt-",
+      "is_policy": false
+    },
+    {
+      "title": "鸿蒙智行问界新 M8 旗舰 SUV 上市 2 小时大定破 4600 台，37.98 万元起",
+      "url": "https://www.ithome.com/1/026/966.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:50:10+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，今天下午，鸿蒙智行问界新 M8 旗舰 SUV 正式上市，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，定价 37.98 万-46.98 万元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
+      "is_policy": false
+    },
+    {
+      "title": "黄仁勋辞任英伟达 CEO，或给 Anthropic 下周“史上最大 IPO”添变数",
+      "url": "https://www.ithome.com/1/026/965.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:50:08+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 11 月 13 日消息，当地时间 12 日，据《财富》杂志报道，AI 初创企业 Anthropic 即将迎来史上最受瞩目的 IPO 之一。然而，就在上市前夕，英伟达联合创始人兼 CEO 黄仁勋突然辞职。</p><p style=\"text-align: start;\">等到 Anthropic 正式登陆资本市场时，距离 AI 行",
+      "is_policy": false
+    },
+    {
+      "title": "苹果股价升至 360 美元 / 股、再创新高，总市值超英伟达 1.3 万亿美元",
+      "url": "https://www.ithome.com/1/026/964.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:49:31+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，今晚美股开盘后，苹果股价上涨 1.49%，报 360.18 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 2,407 元人民币）</span> / 股，再创新高，总市值报 5.24 万亿美元<span class=\"exch-money-value \">（现汇率约合 35.03 万亿元人民币）</span>。<",
+      "is_policy": false
+    },
+    {
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-11-13T14:47:16+00:00",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much ",
+      "is_policy": false
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-13T14:44:48+00:00",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "is_policy": false
+    },
+    {
+      "title": "再次延期：华为 HarmonyOS 7 小艺 AI 快捷栏 11 月中旬开推，首批含 Pura X View 等",
+      "url": "https://www.ithome.com/1/026/962.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:41:59+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，<strong>华为还剧透了全新功能 —— 小艺 AI 快捷栏</strong>。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。</p><p style=\"text-alig",
+      "is_policy": false
+    },
+    {
+      "title": "SpaceXAI 资源向 AI 编程工具与 Grok Bot 倾斜，消息称裁减约 60 名 Grok Imagine 员工",
+      "url": "https://www.ithome.com/1/026/961.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:30:48+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据 The Information 引述知情人士消息，SpaceXAI 已对旗下视频与图像生成 AI 工具 Grok Imagine 的大部分研发人员进行了裁撤。</p><p><strong>本次裁员涉及约 60 名 Grok Imagine 团队成员</strong>，目前仅保留少数人员以维持产品的基础运营。尽管该工具现阶段仍可正常访问与使用，但在失去专职",
+      "is_policy": false
+    },
+    {
+      "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+      "url": "https://www.ithome.com/1/026/960.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:29:06+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，今天（13 日）晚间，DeepSeek 宣布正式开放全家桶应用 API：在原有 API 中开启对应参数，<strong>即可获得深度思考搜索、文件输入等对话功能</strong>；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。</p><p>开发者可以在自己的应用中轻松实现复杂的对话功能，<strong>甚至 1:1",
+      "is_policy": false
+    },
+    {
+      "title": "AI 助力复活尘封 15 年废案，iOS 4 时代苹果卡片后台界面曝光",
+      "url": "https://www.ithome.com/1/026/959.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:23:41+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据外媒 AppleInsider 今天（13 日）晚间报道，借助 AI 和模拟器技术，一套<strong>尘封超过 15 年、从未正式发布的 iPhone 多任务切换界面</strong>重新跑了起来。</p><p>2010 年初，该媒体曾报道苹果测试一套类似 Exposé 窗口总览功能的界面的消息。2011 年，有人在一台 iPhone 4 原型机上发现了",
+      "is_policy": false
+    },
+    {
+      "title": "韩国拟采购无线电探测设备，防范国家资格考试“AI 作弊”",
+      "url": "https://www.ithome.com/1/026/958.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:08:39+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据新华社报道，由于担心考生利用 AI 眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。</p><p>韩国最大在野党国民力量党议员金渭相近日提议，在 2027 年度预算中增加约 65.7 亿韩元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,286.3 万元人民币）</span>经费，用于<strong",
+      "is_policy": false
+    },
+    {
+      "title": "超 19 万名车主报名参赛，第二届华为乾崑智驾公开赛今日收官",
+      "url": "https://www.ithome.com/1/026/957.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T14:08:21+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，历时 14 天的第二届华为乾崑智驾公开赛今日正式收官。本届赛事自 10 月 31 日开赛以来，吸引了超过 19 万名车主报名参与，赛事围绕真实出行场景设置八大赛道，覆盖城市通勤、乡道漫游、高速领航、停车泊车等多个环节。</p><p>与传统竞技赛事不同，本届公开赛将“赛道即日常”的理念融入比赛，让车主在真实道路中体验辅助驾驶，从复杂园区、盘山道路到极窄路段，从",
+      "is_policy": false
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-11-13T14:00:00+00:00",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try ",
+      "is_policy": false
+    },
+    {
+      "title": "宁德时代发布巧克力电池管家，2027 年预计建成 6000 座换电站、覆盖 297 座城市",
+      "url": "https://www.ithome.com/1/026/956.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T13:59:43+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，宁德时代今日发布巧克力电池管家 —— 电池可视化全生命周期检测系统。</p><p>用户打开巧克力换电 App，点击电池管家即可完成车上 53 项检测，换电时再完成 13 项深度检测，合计 66 项，覆盖电量 SOC、绝缘状态、热失控隐患、电压压差等关键指标。</p><p>据介绍，电池管家提供一站式服务：实时查看电池状态、调取检测报告、异常主动预警、一键维保、",
+      "is_policy": false
+    },
+    {
+      "title": "发售六天前，R 星推送约 1GB 的首个《GTA 6》官方更新",
+      "url": "https://www.ithome.com/1/026/955.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T13:53:31+00:00",
+      "summary": "<p style=\"text-align: start;\">IT之家 11 月 13 日消息，Rockstar 今天（13 日）向 PS5 和 XBOX Series X 平台推送了《GTA 6》的首个官方更新，<strong>版本号为 1.002.000</strong>。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-i",
+      "is_policy": false
+    },
+    {
+      "title": "新紫光集团与北汽集团成立联合创新中心，围绕 SoC 芯片、智能座舱等合作",
+      "url": "https://www.ithome.com/1/026/954.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T13:45:37+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，11 月 12 日，新紫光集团与北汽集团在北京举行联合创新中心揭牌暨深化合作签约仪式。双方将围绕<strong> SoC 芯片、舱驾控域控、智能座舱、智能底盘域控</strong>等重点领域深化合作，推动汽车芯片研发与整车应用深度融合。</p><p>新紫光集团董事长李滨与北汽集团党委书记、董事长张建勇共同为“北汽集团 × 新紫光集团联合创新中心”揭牌。</p",
+      "is_policy": false
+    },
+    {
+      "title": "寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金",
+      "url": "https://www.ithome.com/1/026/953.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T13:39:10+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据日经亚洲今天（13 日）上午报道，台积电计划设立一只规模 5 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 33.43 亿元人民币）</span>的创投基金，扶持有望成长为下一个英伟达或博通的芯片初创企业。</p><p>台积电业务开发及全球销售资深副总经理、副联席首席运营官张晓强透露，随着 AI 产业蓬勃发展",
       "is_policy": false
     },
     {
@@ -89,6 +431,15 @@
       "is_policy": false
     },
     {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-11-13T13:10:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d",
+      "is_policy": false
+    },
+    {
       "title": "2027 款全新领克 03 上市：车宽 1901mm，限时专享价 10.38 万元起",
       "url": "https://www.ithome.com/1/026/947.htm",
       "source": "IT之家",
@@ -116,15 +467,6 @@
       "is_policy": false
     },
     {
-      "title": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的",
-      "url": "https://www.ithome.com/1/026/944.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T12:31:13+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，黄仁勋离任英伟达 CEO 后，全球首富埃隆 · 马斯克在社交媒体上发文向他致敬。</p><p>今天下午，马斯克在 X 上转发了一段两分钟的电影片段，出自 2023 年上映的《气垫传奇》。影片讲述了耐克与迈克尔 · 乔丹合作，以及 Air Jordan 品牌诞生的故事。</p><p>片段中，马特 · 达蒙饰演的耐克高管桑尼 · 瓦卡罗试图说服年轻的乔丹签下球鞋",
-      "is_policy": false
-    },
-    {
       "title": "Jensen Huang didn’t show confidence in his successor, report says",
       "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
       "source": "TechCrunch AI",
@@ -134,129 +476,12 @@
       "is_policy": false
     },
     {
-      "title": "上汽奥迪 AUDI E5 Sportback 热猎限定版、E7X 先锋 quattro 必福版上市，26.59 万 / 33.8888 万元",
-      "url": "https://www.ithome.com/1/026/943.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T12:23:07+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，在今天晚间的 AUDI Day 2026 特别活动中，上汽奥迪 AUDI E5 Sportback 热猎限定版和 AUDI E7X 先锋 quattro 必福版正式上市，上市权益价分别为 26.59 万元和 338888 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"htt",
-      "is_policy": false
-    },
-    {
-      "title": "AOC 推出“Q25G5ZE8”24.5 英寸显示器：2K 275Hz，1099 元",
-      "url": "https://www.ithome.com/1/026/942.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T12:17:53+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，AOC 现已在京东上架“Q25G5ZE8”24.5 英寸显示器，该机主打 2K 275Hz，定价为 1099 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/ogyzcg1\" target=\"_blank\"><span class=\"card main-site\"><span clas",
-      "is_policy": false
-    },
-    {
-      "title": "微信鸿蒙版 App 获 8.0.23.37 正式版更新",
-      "url": "https://www.ithome.com/1/026/940.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T12:08:54+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 <strong>8.0.23.37</strong> 正式版更新。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2",
-      "is_policy": false
-    },
-    {
-      "title": "谷歌开源 WeatherNext 3 气象模型所用数据集：含 SatWeave 卫星影像拼接数据集与 PARDIG 全球降水信息",
-      "url": "https://www.ithome.com/1/026/939.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T12:04:49+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，谷歌 DeepMind 今天正式开放 WeatherNext 3 气象模型所依托的两大基础数据集 SatWeave 与 PARDIG，相应数据集面向全球研究者与开发者提供实时数据流及历史归档，可用于天气、水文、气候及相关下游应用建模。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-im",
-      "is_policy": false
-    },
-    {
-      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
-      "url": "https://www.ithome.com/1/026/938.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T12:02:41+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.co",
-      "is_policy": true
-    },
-    {
       "title": "Let’s talk about Jensen Huang’s many affairs!",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
       "source": "The Verge AI",
       "category": "news",
       "published": "2026-11-13T12:00:00+00:00",
       "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the ",
-      "is_policy": false
-    },
-    {
-      "title": "R 星放出《GTA6》新实机画面，展示多辆豪华跑车在街道上行驶",
-      "url": "https://www.ithome.com/1/026/937.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T11:55:29+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，据 IGN 报道，Rockstar 今天再次于 Instagram 平台“Only in Dade”小号中更新《GTA 6》实机视频，主要展示了多辆豪华跑车在街道上行驶的视频，其画面表现力再次体现了《GTA 6》出色的图形保真度。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\"",
-      "is_policy": false
-    },
-    {
-      "title": "成品晶圆从下线至包装 100% 全自动化，京东推出半导体行业首个智能物流解决方案",
-      "url": "https://www.ithome.com/1/026/936.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T11:50:41+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，第二十三届中国国际半导体博览会 IC China 2026 昨日（12 日）在北京国家会议中心开幕。</p><p>京东物流参展并提出半导体行业首个智能物流解决方案，可实现半导体材料从仓储、分拣、出库、包装环节 <strong>100% 无人化</strong>，标志着高价值精密物料物流从单点自动化迈向系统级无人化。</p><p>官方表示，半导体正处在 AI ",
-      "is_policy": false
-    },
-    {
-      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
-      "url": "https://www.ithome.com/1/026/934.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T11:40:10+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。</p><p style=\"text-align:",
-      "is_policy": false
-    },
-    {
-      "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
-      "url": "https://www.ithome.com/1/026/933.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T11:24:14+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，据外媒 arstechnica 报道，一位爱好者 Dan Whelan 将诺基亚 N-Gage 平台 2004 年发售的《上古卷轴旅行：暗影之钥（The Elder Scrolls Travels：Shadowkey）》游戏移植到了 PC 平台。</p><p>据报道，相应项目名为《Shadowkey: Reforged》，保留了原版游戏文件和脚本，引入全新编",
-      "is_policy": false
-    },
-    {
-      "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
-      "url": "https://www.ithome.com/1/026/932.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T11:09:34+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,016 元人民币）</span>。</p><p>这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明绿色（“OG Green”）设计。每台主机附",
-      "is_policy": false
-    },
-    {
-      "title": "Gentle Monster / Warby Parker 将于下月推出 Android XR 智能眼镜：均搭载高通 AR1 芯片，接入谷歌 Gemini",
-      "url": "https://www.ithome.com/1/026/931.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T11:07:01+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，知名眼镜品牌 Gentle Monster 和 Warby Parker 各自宣布将于下月推出首款基于 Android XR 平台打造的智能眼镜，产品由三星与谷歌联合参与开发。目前，两大品牌的相关产品均已开启预订，预计将于 12 月 10 日正式在线上及指定线下门店发售。</p><p>据介绍，Gentle Monster 和 Warby Parker 的新品",
-      "is_policy": false
-    },
-    {
-      "title": "Blackmagic Ambisonic Microphone 专业麦克风发布：内置 108 个 MEMS 单元，主打空间音频采集，1695 美元",
-      "url": "https://www.ithome.com/1/026/929.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:52:36+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，Blackmagic Design 今日发布了一款面向专业影视制作领域的全新麦克风 &nbsp;Blackmagic Ambisonic Microphone，主打空间音频采集，支持为沉浸式视频内容录制音频，并原生兼容苹果 Vision Pro 头显，售价为 1,695 美元<span class=\"exch-money-value\">（IT之家注：现汇率约",
-      "is_policy": false
-    },
-    {
-      "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
-      "url": "https://www.ithome.com/1/026/927.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:51:53+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。</p><p>裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"ht",
       "is_policy": false
     },
     {
@@ -269,24 +494,6 @@
       "is_policy": false
     },
     {
-      "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
-      "url": "https://www.ithome.com/1/026/911.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:47:18+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，在今日举行的 Agentic Infra 操作系统大会 &amp; openEuler Summit 2026 上，开源欧拉 openEuler 正式发布面向 Agentic Infra（IT之家注：Agentic Infrastructure，<strong>智能体基础设施</strong>）的操作系统。</p><p>据介绍，openEuler 升级为面向",
-      "is_policy": false
-    },
-    {
-      "title": "Meta 悄悄为 Quest 头显 TV 应用上架一批 3D 电影，后续相应影片有望加入 Horizon+ 订阅服务",
-      "url": "https://www.ithome.com/1/026/908.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:46:53+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，据外媒 UploadVR 报道，Meta Quest 3/3S 头显的 TV 应用中近期开始出现少量 3D 电影内容，用户可以直接通过 Meta Horizon Store 租赁或购买相关影片。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.",
-      "is_policy": false
-    },
-    {
       "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
       "source": "r/MachineLearning",
@@ -294,51 +501,6 @@
       "published": "2026-11-13T10:39:43+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Open weights: ParaTrace v8 (RAID-tuned), <strong>5th</strong> on the RAID leaderboard (TPR at 1% FPR) </p> <p>- Ettin-1B encoder (ModernBERT architecture), 512-token ",
       "is_policy": false
-    },
-    {
-      "title": "Claude 出现大量报错，Anthropic 官方公告称正在调查",
-      "url": "https://www.ithome.com/1/026/905.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:31:18+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，根据 Claude Status 网站，网友反馈 <span class=\"link-text-start-with-http\">claude.ai</span>、Claude Code 和 <span class=\"link-text-start-with-http\">platform.claude.com</span> 上出现大量错误。</p><p>An",
-      "is_policy": false
-    },
-    {
-      "title": "BBC 曝光英国“房源照骗”现象：有中介、卖家开始用 AI 伪造或美化房屋",
-      "url": "https://www.ithome.com/1/026/904.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:22:41+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，房源照片是网上售房信息中最重要的内容之一。买家通常会先看照片，再判断房屋是否符合自己的需求和购房预期。</p><p>但随着 AI 技术的发展，<strong>一种新型网络骗局让看房买房变得更加麻烦</strong>。</p><p>据英国广播公司（BBC）今天上午报道，利用 AI 伪造或美化房源照片的“房源照骗（IT之家注：housefishing，直译作‘房",
-      "is_policy": false
-    },
-    {
-      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
-      "url": "https://www.ithome.com/1/026/898.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:19:19+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p>Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p>Xiaomi",
-      "is_policy": false
-    },
-    {
-      "title": "米哈游法务部称全链条打击盗版周边：采取刑事、行政、民事全方位维权，累计涉案金额超 4000 万元",
-      "url": "https://www.ithome.com/1/026/890.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:11:11+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，米哈游法务部今日发文，近期，米哈游“打击游戏盗版周边专项行动”再度取得阶段性成果。截至目前，涉案产品品类覆盖十余种，<strong>累计涉案金额超 4000 万元</strong>。<strong>通过刑事、行政、民事等多种手段</strong>，持续采取维权“组合拳”对盗版周边行为予以严厉打击，全力遏制盗版周边在多个渠道的蔓延。</p><p style=\"",
-      "is_policy": false
-    },
-    {
-      "title": "福特汽车：有不法分子向部分车主发送产品召回虚假短信，请广大车主提高警惕",
-      "url": "https://www.ithome.com/1/026/888.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T10:04:15+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，福特汽车官方今日发文，近日，福特汽车（中国）有限公司及其关联方连续收到多例举报和咨询，<strong>发现有不法分子冒用福特汽车品牌和 / 或相关监管部门的名义，向部分车主发送有关产品召回的虚假短信，并通过非官方链接诱导车主提供个人信息、办理所谓召回手续及实施其他不法行为</strong>。用户一旦点击，可能造成个人信息泄露甚至陷入诈骗陷阱，产生财产损失。<",
-      "is_policy": true
     },
     {
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -356,33 +518,6 @@
       "category": "news",
       "published": "2026-11-13T10:00:00+00:00",
       "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me",
-      "is_policy": false
-    },
-    {
-      "title": "瞄准木星！我国天问四号有效载荷研制方案开展征集",
-      "url": "https://www.ithome.com/1/026/886.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T09:56:08+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，据央视新闻报道，我国天问四号任务的主要目标为实现木星环绕、木卫四环绕和着陆探测，深化木星系科学研究。</p><p>11 月 13 日，探月与航天工程中心发布通知，<strong>开展天问四号任务有效载荷研制方案征集工作</strong>，将通过竞争择优方式遴选有效载荷设计方案与承担单位。</p><p>根据申报指南，<strong>天问四号轨道器有效载荷包括软",
-      "is_policy": false
-    },
-    {
-      "title": "微软 XBOX 25 周年，CEO 夏尔马称个人将能掌握过去需“举国之力”获得的能力",
-      "url": "https://www.ithome.com/1/026/885.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T09:52:15+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，当地时间 12 日下午，微软 XBOX 负责人阿莎 · 夏尔马发布了一份备忘录，<strong>暗示未来可能利用生成式 AI 辅助游戏开发</strong>。</p><p style=\"text-align: center;\"><img alt=\"XBOX 25 Logo Image\" class=\"nowebp no-alt-img\" src=\"https",
-      "is_policy": false
-    },
-    {
-      "title": "猫头鹰 NT-CP1 AM5/4 碳纳米管导热垫上市，199 元",
-      "url": "https://www.ithome.com/1/026/884.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T09:52:14+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，Noctua（猫头鹰）现已开始通过国行渠道销售 NT-CP1 AM5/4 导热垫。这一产品基于 Carbice 的碳纳米管技术，<strong>使用寿命可达 10 年以上</strong>，价格为 199 元人民币。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"h",
       "is_policy": false
     },
     {
@@ -455,15 +590,6 @@
       "category": "community",
       "published": "2026-11-12T21:35:41+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/\"> <img alt=\"Weights for MNIST Handwriting Network [P]\" src=\"https://preview",
-      "is_policy": false
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T21:35:00+00:00",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "is_policy": false
     },
     {
@@ -647,33 +773,6 @@
       "is_policy": false
     },
     {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T16:32:33+00:00",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "is_policy": false
-    },
-    {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-11-12T16:30:00+00:00",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res",
-      "is_policy": false
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T16:12:44+00:00",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "is_policy": false
-    },
-    {
       "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
       "source": "r/MachineLearning",
@@ -683,57 +782,12 @@
       "is_policy": false
     },
     {
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-11-12T15:48:12+00:00",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang ",
-      "is_policy": false
-    },
-    {
       "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-11-12T15:41:18+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone know the exact steps to leave a comment visible only to the Area Chair (not the reviewers) during the ICLR 2027 discussion period? I see the &quot;Officia",
-      "is_policy": false
-    },
-    {
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T15:37:29+00:00",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "is_policy": false
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T15:18:14+00:00",
-      "summary": "This is the investment firm's largest fund to date.",
-      "is_policy": false
-    },
-    {
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T15:02:28+00:00",
-      "summary": "This is Fireworks' second data breach in as many months.",
-      "is_policy": false
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-11-12T15:01:31+00:00",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th",
       "is_policy": false
     },
     {
@@ -779,15 +833,6 @@
       "category": "news",
       "published": "2026-11-12T09:30:00+00:00",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "is_policy": false
-    },
-    {
-      "title": "I built a small streaming text tagger that reads text word by word, so a voice agent can react mid sentence [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xu548q/i_built_a_small_streaming_text_tagger_that_reads/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-12T06:04:53+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xu548q/i_built_a_small_streaming_text_tagger_that_reads/\"> <img alt=\"I built a small streaming text tagger that reads text ",
       "is_policy": false
     },
     {
@@ -845,30 +890,57 @@
       "is_policy": false
     },
     {
-      "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-11T22:20:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious how ACs and experienced authors think about this.</p> <p><strong>My situation:</strong> one ICLR reviewer gave a 2 with confidence 1. The other reviewers ",
-      "is_policy": false
-    },
-    {
-      "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-11T21:42:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Heya roboticists and mind minders ~</p> <p>I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLD",
-      "is_policy": false
-    },
-    {
       "title": "Have people given up on ICLR reviews? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-11-11T20:40:40+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Something weird I observed with my batch of papers and my own paper. Authors have not posted a single rebuttal yet, and no reviewer has responded to ours. This is a b",
+      "is_policy": false
+    },
+    {
+      "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+      "url": "https://huggingface.co/papers/2611.17336",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and in",
+      "is_policy": false
+    },
+    {
+      "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+      "url": "https://huggingface.co/papers/2611.17190",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on fea",
+      "is_policy": false
+    },
+    {
+      "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+      "url": "https://huggingface.co/papers/2611.16961",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how mu",
+      "is_policy": false
+    },
+    {
+      "title": "Unbundling Multimodal Vision Encoding",
+      "url": "https://huggingface.co/papers/2611.17334",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language",
+      "is_policy": false
+    },
+    {
+      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+      "url": "https://huggingface.co/papers/2611.16409",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment ",
       "is_policy": false
     },
     {
@@ -998,21 +1070,21 @@
       "is_policy": false
     },
     {
-      "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-11T02:22:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/\"> <img alt=\"Why are Anthropic's top researchers cited twice as mu",
-      "is_policy": false
-    },
-    {
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "url": "https://openai.com/index/jiostar-vijay-seshadri",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-11-11T00:00:00+00:00",
       "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "is_policy": false
+    },
+    {
+      "title": "A frontier machine intelligence for human neuroimaging",
+      "url": "https://huggingface.co/papers/2611.15094",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models of",
       "is_policy": false
     },
     {
@@ -1049,15 +1121,6 @@
       "category": "papers",
       "published": "2026-11-10T19:00:00+00:00",
       "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The R",
-      "is_policy": false
-    },
-    {
-      "title": "GTAGym: AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2611.13028",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-10T19:00:00+00:00",
-      "summary": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
       "is_policy": false
     },
     {
@@ -1277,33 +1340,6 @@
       "is_policy": false
     },
     {
-      "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
-      "url": "https://huggingface.co/papers/2611.14116",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewi",
-      "is_policy": false
-    },
-    {
-      "title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
-      "url": "https://huggingface.co/papers/2611.13425",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "Automated segmentation in multi-view echocardiography is essential for comprehensive cardiac assessment, yet remains challenging due to substantial anatomical and appearance variability across standar",
-      "is_policy": false
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-11-09T17:05:43+00:00",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s",
-      "is_policy": true
-    },
-    {
       "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
       "url": "https://huggingface.co/papers/2611.12869",
       "source": "HF Papers",
@@ -1337,33 +1373,6 @@
       "category": "news",
       "published": "2026-11-09T08:00:00+00:00",
       "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "is_policy": false
-    },
-    {
-      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-      "url": "https://huggingface.co/papers/2611.12872",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
-      "is_policy": false
-    },
-    {
-      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
-      "url": "https://huggingface.co/papers/2611.12304",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV ",
-      "is_policy": false
-    },
-    {
-      "title": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
-      "url": "https://huggingface.co/papers/2611.11912",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "LiDAR point clouds and 3D semantic occupancy represent two distinct modalities capturing fine-grained metric geometry and dense volumetric semantics, respectively, holding natural potential for mutual",
       "is_policy": false
     }
   ]
