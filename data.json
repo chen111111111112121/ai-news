@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:07:54.134740+00:00",
+  "generated_at": "2026-11-13T13:38:29.353796+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,11 +8,20 @@
   ],
   "items": [
     {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-13T13:38:29+00:00",
+      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+      "is_policy": false
+    },
+    {
       "title": "GoogleChrome / modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
+      "published": "2026-11-13T13:38:29+00:00",
       "summary": "Keep your coding agent up to date with the latest web best practices",
       "is_policy": false
     },
@@ -21,341 +30,368 @@
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
+      "published": "2026-11-13T13:38:29+00:00",
       "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "is_policy": false
     },
     {
-      "title": "QwenLM / qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "An open-source AI coding agent that lives in your terminal.",
+      "published": "2026-11-13T13:38:29+00:00",
+      "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
       "is_policy": false
     },
     {
-      "title": "ashhart / TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
+      "title": "Likely7 / Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "published": "2026-11-13T13:38:29+00:00",
+      "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super R",
       "is_policy": false
     },
     {
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "Production-grade engineering skills for AI coding agents.",
-      "is_policy": false
-    },
-    {
-      "title": "meta / astryx",
-      "url": "https://github.com/meta/astryx",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "An open source design system that's fully customizable and agent ready",
-      "is_policy": false
-    },
-    {
-      "title": "CopilotKit / OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "is_policy": false
-    },
-    {
-      "title": "Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser ",
-      "is_policy": false
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-13T04:07:54+00:00",
-      "summary": "LLM inference in C/C++",
-      "is_policy": false
-    },
-    {
-      "title": "启境 GT7 迎上市以来最大规模 OTA：华为乾崑智驾 ADS 5.0.2 上线，新增手势泊出、园区领航等",
-      "url": "https://www.ithome.com/1/026/660.htm",
+      "title": "铁路 12306 开始卖国际机票，后续规划国际空铁联运等产品",
+      "url": "https://www.ithome.com/1/026/952.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:58:08+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，启境汽车今日宣布启境 GT7 迎上市以来最大规模 OTA，带来华为乾崑智驾 ADS 5.0.2、鸿蒙座舱 HarmonySpace6、三电性能升级等。</p><p>智驾方面，新版本新增<strong>手势泊出、园区领航、车道级导航、主动涉水检测</strong>；座舱方面，鸿蒙座舱 6 率先升级紫貂奇奇、乾崑分享、工具栏自定义、调音魔方、“云瞰”远程语音提醒",
+      "published": "2026-11-13T13:33:21+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，铁路 12306 官方今日宣布，联合厦门航空共同打造<strong>国际机票产品及服务</strong>，国际及地区航线覆盖悉尼、墨尔本、阿姆斯特丹、巴黎、东京等 30+ 核心城市，并通达中国香港、中国澳门、中国台湾。</p><p>官方表示，此次上线国际机票产品，标志着 12306 平台从“国内通达”向“国际连接”迈出实质性的第一步。<strong>后续规划",
       "is_policy": false
     },
     {
-      "title": "5 倍提升：马斯克 X 平台单条推文现支持附 20 个图片 / 视频媒体资源",
-      "url": "https://www.ithome.com/1/026/651.htm",
+      "title": "韩企雄心勃勃规划吉瓦级数据中心，但目前仅有兆瓦级规模设施落地",
+      "url": "https://www.ithome.com/1/026/951.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:53:28+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下社交平台 X 宣布大幅放宽单条推文的媒体上限：<strong>每条推文最多可附带 20 个照片或视频，较此前长期执行的 4 个上限提升 5 倍。</strong></p><p>X 平台移动端工程负责人 Jonah Katz 今天（11 月 13 日）发布推文，宣布升级 X 平台的内容发布功能，单条推文的媒体上",
+      "published": "2026-11-13T13:30:11+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据韩媒 The Elec 今天（13 日）晚间报道，为满足日益增长的 AI 需求，KT、SK 电讯、Naver 和 NHN Cloud 等韩国企业纷纷提出建设吉瓦级数据中心的计划，但现有设施的容量仍<strong>只有数十至数百兆瓦</strong>。</p><p>相比之下，海外运营商的规模则早已突破 1GW，韩国企业可能因此陷入争夺客户不利、扩建计划延误的",
       "is_policy": false
     },
     {
-      "title": "斯泰兰蒂斯召回 3814 辆进口全新大切诺基 4xe 汽车，以及 1146 辆进口朱丽叶、斯坦维汽车",
-      "url": "https://www.ithome.com/1/026/601.htm",
+      "title": "大连理工大学成功研制国内首款 20 公斤级氢能动力无人直升机，完成海上 6 级大风巡航任务",
+      "url": "https://www.ithome.com/1/026/949.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:50:05+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，斯泰兰蒂斯（上海）汽车有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。</p><p>召回编号 S2026M0142V：自即日起，召回 2023 年 2 月 3 日至 2023 年 10 月 9 日期间生产的<strong>部分进口全新大切诺基 ",
+      "published": "2026-11-13T13:11:56+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，大连理工大学今日宣布，近日，该校化工学院毛庆副教授研发团队成功研制<strong>国内首款 20 公斤级氢能动力无人直升机</strong>，布局纯氢燃料电池、氢-锂混动双技术路线。</p><p>IT之家获悉，本次研发推出两款作业机型，分别搭载 5L 与 12L 氢气瓶：5L-35MPa 氢-锂混动机型<strong>续航 1.5 小时</strong>，1",
       "is_policy": false
     },
     {
-      "title": "肯辛通 Expert Mouse Pro TB900 EQ 轨迹球鼠标国行上市，999 元",
-      "url": "https://www.ithome.com/1/026/629.htm",
+      "title": "Anthropic 连发多条故障通报：微软服务中断波及 Claude",
+      "url": "https://www.ithome.com/1/026/948.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:46:35+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，Kensington（肯辛通）现已通过国行渠道销售 Expert Mouse Pro TB900 EQ 轨迹球鼠标，价格为 999 元。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/20",
+      "published": "2026-11-13T13:10:18+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，微软 Microsoft 365 遭遇了近年来最严重的服务故障之一，Exchange Online、Outlook、SharePoint 及部分 Teams 服务中断近一天半。今天早些时候，微软一名高管为此次故障致歉，并对事态表示遗憾，基本承认短时间内无法解决问题。</p><p>Anthropic 将自身部分服务的故障归咎于 Microsoft 365 连接",
       "is_policy": false
     },
     {
-      "title": "黄仁勋 8 月曾痛斥英伟达新临时 CEO 克雷斯，称其为“只会报账的 CFO”“被车灯照懵的鹿”",
-      "url": "https://www.ithome.com/1/026/626.htm",
+      "title": "2027 款全新领克 03 上市：车宽 1901mm，限时专享价 10.38 万元起",
+      "url": "https://www.ithome.com/1/026/947.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:45:19+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，英伟达联合创始人黄仁勋离职前，曾因公司激进的 AI 基础设施融资策略与时任首席财务官、如今的临时 CEO 科莱特・克雷斯（Colette Kress）发生激烈冲突。</p><p>据《华尔街日报》当地时间 11 月 12 日报道，黄仁勋曾在今年 8 月的一次高管会议上公开批评克雷斯，指责她只是一个“负责汇报的 CFO”，而不是能够帮助自己制定战略、作出决策的人",
+      "published": "2026-11-13T13:00:34+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，2027 款全新领克 03 今晚正式上市，新车共推出 4 款车型，<strong>限时专享价 10.38-13.38 万元</strong>。</p><ul class=\"medium-size list-paddingleft-2\"><li><p>1.5T Pro：官方指导价 11.38 万元，限时专享价 10.38 万元</p></li><li><p>1",
       "is_policy": false
     },
     {
-      "title": "福特中国召回 2779 辆林肯领航员汽车，雨刮臂可能运行异常、失效或脱落",
-      "url": "https://www.ithome.com/1/026/598.htm",
-      "source": "IT之家",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-11-13T03:44:13+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。</p><p>召回编号 S2026M0147V：自即日起，召回 2021 年 10 月 25 日至 2022 年 11 月 1 日期间生产的 2021-2023 年款林肯领航员车辆",
+      "published": "2026-11-13T12:52:19+00:00",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
       "is_policy": false
     },
     {
-      "title": "启境 GT7 Ultra 舒享版新车上市：华为乾崑智驾 + 鸿蒙座舱，增程 22.19 万元、纯电 23.19 万元",
-      "url": "https://www.ithome.com/1/026/609.htm",
+      "title": "亚马逊秘密构想曝光：欲打造“世界商品图谱”，包揽全网商品数据",
+      "url": "https://www.ithome.com/1/026/945.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:39:23+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，启境 GT7 Ultra 舒享版新车今日上市，提供增程、纯电两个动力版本，限时权益价分别为 22.19 万元和 23.19 万元。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/",
+      "published": "2026-11-13T12:37:16+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据路透社报道，亚马逊有一项秘密计划，旨在让消费者从此无需离开其平台，拥有世界上的商品信息。</p><p>据该媒体审阅的一份内部文件及知情人士透露，这项名为“世界商品图谱”（World Product Graph）的计划，<strong>试图将全球几乎所有在售商品的数据悉数收入囊中 </strong>—— 无论亚马逊是否备有这些商品的库存。</p><p>借此，",
       "is_policy": false
     },
     {
-      "title": "宝马扩大召回 2721 辆进口 5 系、8 系，花键磨损存动力中断隐患",
-      "url": "https://www.ithome.com/1/026/599.htm",
+      "title": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的",
+      "url": "https://www.ithome.com/1/026/944.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:38:19+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，宝马（中国）汽车贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。</p><p>召回编号 S2026M0145V：自即日起，召回 2020 年 6 月 17 日至 2021 年 3 月 12 日期间生产的部分进口 5 系汽车，<strong>",
+      "published": "2026-11-13T12:31:13+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，黄仁勋离任英伟达 CEO 后，全球首富埃隆 · 马斯克在社交媒体上发文向他致敬。</p><p>今天下午，马斯克在 X 上转发了一段两分钟的电影片段，出自 2023 年上映的《气垫传奇》。影片讲述了耐克与迈克尔 · 乔丹合作，以及 Air Jordan 品牌诞生的故事。</p><p>片段中，马特 · 达蒙饰演的耐克高管桑尼 · 瓦卡罗试图说服年轻的乔丹签下球鞋",
       "is_policy": false
     },
     {
-      "title": "丰田在华召回 3085 辆十余年前生产 TOYOTA 86 汽车，喇叭或无法正常鸣响",
-      "url": "https://www.ithome.com/1/026/596.htm",
-      "source": "IT之家",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch AI",
       "category": "news",
-      "published": "2026-11-13T03:38:15+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，丰田汽车（中国）投资有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。</p><p>召回编号 S2026M0144V：自 2026 年 12 月 28 日起，召回 2012 年 12 月 24 日至 2016 年 7 月 26 日期间生产的部分进",
+      "published": "2026-11-13T12:28:23+00:00",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
       "is_policy": false
     },
     {
-      "title": "北京奔驰召回 41 辆国产 C 级和 E 级汽车：前轴车轮轴承存隐患",
-      "url": "https://www.ithome.com/1/026/593.htm",
+      "title": "上汽奥迪 AUDI E5 Sportback 热猎限定版、E7X 先锋 quattro 必福版上市，26.59 万 / 33.8888 万元",
+      "url": "https://www.ithome.com/1/026/943.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:37:15+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，IT之家从国家市场监督管理总局获悉，日前，北京奔驰汽车有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。</p><p>召回编号 S2026M0127V：自即日起，召回 2026 年 8 月 15 日至 2026 年 8 月 21 日期间生产的部分国产 C 级和 E 级汽车，<strong",
+      "published": "2026-11-13T12:23:07+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，在今天晚间的 AUDI Day 2026 特别活动中，上汽奥迪 AUDI E5 Sportback 热猎限定版和 AUDI E7X 先锋 quattro 必福版正式上市，上市权益价分别为 26.59 万元和 338888 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"htt",
       "is_policy": false
     },
     {
-      "title": "AMD \"Siren Halo\" 处理器曝光：支持 LPDDR + GDDR 双类型内存",
-      "url": "https://www.ithome.com/1/026/592.htm",
+      "title": "AOC 推出“Q25G5ZE8”24.5 英寸显示器：2K 275Hz，1099 元",
+      "url": "https://www.ithome.com/1/026/942.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:36:25+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，X 平台消息人士 @Gotou_kai3 昨日<strong>曝光了 AMD \"Siren Halo\" 处理器</strong>，这一型号旨在接替已从规划中移除的 \"Medusa Halo\" 处理器。</p><p>另一方面，对应的 <strong>\"Siren Point\" 则会是 \"Medusa Point\" 的刷新版</strong>。这也暗示 \"Sir",
+      "published": "2026-11-13T12:17:53+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，AOC 现已在京东上架“Q25G5ZE8”24.5 英寸显示器，该机主打 2K 275Hz，定价为 1099 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/ogyzcg1\" target=\"_blank\"><span class=\"card main-site\"><span clas",
       "is_policy": false
     },
     {
-      "title": "主导苹果 M1 芯片的传奇架构师谈 AI 电力危机：用造 iPhone 芯片的“抠门”哲学建超算",
-      "url": "https://www.ithome.com/1/026/591.htm",
+      "title": "微信鸿蒙版 App 获 8.0.23.37 正式版更新",
+      "url": "https://www.ithome.com/1/026/940.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:33:29+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）邀请苹果前 CPU 首席架构师杰拉德 · 威廉姆斯三世（Gerard Williams III）作客，探讨当前的 AI 浪潮。</p><p style=\"text-align: center;\"></p><p>IT之家查询公开资料，Williams 是一位深耕 CPU",
+      "published": "2026-11-13T12:08:54+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 <strong>8.0.23.37</strong> 正式版更新。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2",
       "is_policy": false
     },
     {
-      "title": "Apple Sports 应用 4.6 更新：支持中超联赛，实时比分与赛程可查",
-      "url": "https://www.ithome.com/1/026/589.htm",
+      "title": "谷歌开源 WeatherNext 3 气象模型所用数据集：含 SatWeave 卫星影像拼接数据集与 PARDIG 全球降水信息",
+      "url": "https://www.ithome.com/1/026/939.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:24:49+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，苹果 Apple Sports 应用于 11 月 12 日更新至 4.6 版本，正式加入中国足球超级联赛的赛事支持，用户现可在该应用中关注中超联赛的实时比分与赛程。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/news",
+      "published": "2026-11-13T12:04:49+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，谷歌 DeepMind 今天正式开放 WeatherNext 3 气象模型所依托的两大基础数据集 SatWeave 与 PARDIG，相应数据集面向全球研究者与开发者提供实时数据流及历史归档，可用于天气、水文、气候及相关下游应用建模。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-im",
       "is_policy": false
     },
     {
-      "title": "小米超级岛官宣支持《王者荣耀》手游，复活时间实时提醒",
-      "url": "https://www.ithome.com/1/026/588.htm",
+      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+      "url": "https://www.ithome.com/1/026/938.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:21:33+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，小米澎湃 OS 今日宣布，小米超级岛现已支持《王者荣耀》，复活时间实时提醒。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/282df0d6-4a59-4725-bfd1-",
+      "published": "2026-11-13T12:02:41+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.co",
+      "is_policy": true
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-11-13T12:00:00+00:00",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the ",
       "is_policy": false
     },
     {
-      "title": "猫头鹰正式推出 NT-CP1 碳纳米管导热垫，定价 24.95 欧元 / 美元",
-      "url": "https://www.ithome.com/1/026/585.htm",
+      "title": "R 星放出《GTA6》新实机画面，展示多辆豪华跑车在街道上行驶",
+      "url": "https://www.ithome.com/1/026/937.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:17:52+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，Noctua（猫头鹰）当地时间 12 日正式推出了面向 AMD Socket AM5 / AM4 平台的 NT-CP1 导热垫。这一 TIM（热界面材料）<strong>基于 Carbice 的碳纳米管技术</strong>。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" s",
+      "published": "2026-11-13T11:55:29+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据 IGN 报道，Rockstar 今天再次于 Instagram 平台“Only in Dade”小号中更新《GTA 6》实机视频，主要展示了多辆豪华跑车在街道上行驶的视频，其画面表现力再次体现了《GTA 6》出色的图形保真度。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\"",
       "is_policy": false
     },
     {
-      "title": "英伟达官网更新黄仁勋简介，临时 CEO 克雷斯现排第一位",
-      "url": "https://www.ithome.com/1/026/583.htm",
+      "title": "成品晶圆从下线至包装 100% 全自动化，京东推出半导体行业首个智能物流解决方案",
+      "url": "https://www.ithome.com/1/026/936.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:10:57+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，<a href=\"https://www.ithome.com/1/026/394.htm\" target=\"_blank\">英伟达董事会于北京时间 11 月 12 日晚宣布</a>，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副",
+      "published": "2026-11-13T11:50:41+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，第二十三届中国国际半导体博览会 IC China 2026 昨日（12 日）在北京国家会议中心开幕。</p><p>京东物流参展并提出半导体行业首个智能物流解决方案，可实现半导体材料从仓储、分拣、出库、包装环节 <strong>100% 无人化</strong>，标志着高价值精密物料物流从单点自动化迈向系统级无人化。</p><p>官方表示，半导体正处在 AI ",
       "is_policy": false
     },
     {
-      "title": "OPPO 多款新品曝光：Pocket 云台相机预计年底前后登场，阔折、阔直板都在路上",
-      "url": "https://www.ithome.com/1/026/582.htm",
+      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+      "url": "https://www.ithome.com/1/026/934.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:10:38+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，博主 @数码闲聊站 今日曝光多款旗舰线产品信息，预计为 OPPO 旗下。</p><p>据其爆料，该品牌的 Pocket 云台相机预计<strong>年底前后登场</strong>；阔折也已经蓄势待发，搭载 2nm 骁龙 AI 旗舰芯，采用宽屏无感折痕设计，后置 2 亿云台影像；<strong>阔直板手机加速推进中</strong>，搭载天玑 9 旗舰芯，配备",
+      "published": "2026-11-13T11:40:10+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。</p><p style=\"text-align:",
       "is_policy": false
     },
     {
-      "title": "华为首个动态血糖仪：维感 G1 持续葡萄糖监测系统官宣，可搭配手机手表使用",
-      "url": "https://www.ithome.com/1/026/581.htm",
+      "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
+      "url": "https://www.ithome.com/1/026/933.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:10:15+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，华为首个动态血糖仪正式官宣，定名为 —— 华为维感 G1 持续葡萄糖监测系统（CGM），承诺将以专业能力为用户提供智能血糖管理体验。</p><p>从官方海报中可以看到，华为维感 G1 需要贴在皮肤表面，并可通过连接到华为智能手机和智能手表查看详情，还支持血糖异常提醒等功能。</p><p style=\"text-align: center;\"><img cla",
+      "published": "2026-11-13T11:24:14+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据外媒 arstechnica 报道，一位爱好者 Dan Whelan 将诺基亚 N-Gage 平台 2004 年发售的《上古卷轴旅行：暗影之钥（The Elder Scrolls Travels：Shadowkey）》游戏移植到了 PC 平台。</p><p>据报道，相应项目名为《Shadowkey: Reforged》，保留了原版游戏文件和脚本，引入全新编",
       "is_policy": false
     },
     {
-      "title": "Penguin Solutions 推出支持 8 通道 DDR4 的 CXL 内存扩展卡",
-      "url": "https://www.ithome.com/1/026/577.htm",
+      "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
+      "url": "https://www.ithome.com/1/026/932.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T03:07:40+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，Penguin Solutions 当地时间昨日宣布推出 CXL 内存扩展卡 CXL-8F2W-D4。其采用 PCIe AIC 形态，符合全高 (FH) 半长 (HL) 外形规格。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.",
+      "published": "2026-11-13T11:09:34+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,016 元人民币）</span>。</p><p>这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明绿色（“OG Green”）设计。每台主机附",
       "is_policy": false
     },
     {
-      "title": "黄仁勋离任后谁来接英伟达 CEO？曝苹果 Mac 芯片负责人斯鲁吉纳入考察范围",
-      "url": "https://www.ithome.com/1/026/555.htm",
+      "title": "Gentle Monster / Warby Parker 将于下月推出 Android XR 智能眼镜：均搭载高通 AR1 芯片，接入谷歌 Gemini",
+      "url": "https://www.ithome.com/1/026/931.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:59:18+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，科技媒体 AppleInsider 昨日（11 月 12 日）发布博文，报道称英伟达董事会已聘请外部机构物色新 CEO 候选人，<strong>而苹果芯片负责人约翰尼 · 斯鲁吉（Johny Srouji）已被列为潜在考虑对象。</strong></p><p>在英伟达现任首席财务官科莱特 · 克雷斯（Colette Kress）在担任英伟达临时 CEO 之后",
+      "published": "2026-11-13T11:07:01+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，知名眼镜品牌 Gentle Monster 和 Warby Parker 各自宣布将于下月推出首款基于 Android XR 平台打造的智能眼镜，产品由三星与谷歌联合参与开发。目前，两大品牌的相关产品均已开启预订，预计将于 12 月 10 日正式在线上及指定线下门店发售。</p><p>据介绍，Gentle Monster 和 Warby Parker 的新品",
       "is_policy": false
     },
     {
-      "title": "阿里巴巴虾米 App 关停五年后以 AI 形态回归：“Happy 系列”快乐虾米正式上线，会员每月 30 元起",
-      "url": "https://www.ithome.com/1/026/551.htm",
+      "title": "Blackmagic Ambisonic Microphone 专业麦克风发布：内置 108 个 MEMS 单元，主打空间音频采集，1695 美元",
+      "url": "https://www.ithome.com/1/026/929.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:57:33+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，阿里巴巴旗下 AI 音乐创作平台快乐虾米（HappyShrimp）正式上线 iOS 与 Android 平台，登陆苹果 App Store 及各大安卓应用商店，目前 App Store 已经更新到 0.2.14 版本。</p><blockquote><h3>应用描述</h3><p>快乐虾米 - 一款阿里巴巴 ATH 团队旗下的 AI 音乐创作产品。</p><",
+      "published": "2026-11-13T10:52:36+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，Blackmagic Design 今日发布了一款面向专业影视制作领域的全新麦克风 &nbsp;Blackmagic Ambisonic Microphone，主打空间音频采集，支持为沉浸式视频内容录制音频，并原生兼容苹果 Vision Pro 头显，售价为 1,695 美元<span class=\"exch-money-value\">（IT之家注：现汇率约",
       "is_policy": false
     },
     {
-      "title": "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
-      "url": "https://www.ithome.com/1/026/544.htm",
+      "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
+      "url": "https://www.ithome.com/1/026/927.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:56:08+00:00",
-      "summary": "<p style=\"text-align: justify;\">IT之家 11 月 13 日消息，荷兰芯片初创企业 Axelera AI 当地时间 12 日<strong>公布了其第三代 AIPU 芯片 Titania 的架构</strong>。其瞄准数据中心推理市场，预计 2027 年第 3 季度量产，已获得超 3 亿美元<span class=\"exch-money-value\">（IT之家注",
+      "published": "2026-11-13T10:51:53+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。</p><p>裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"ht",
       "is_policy": false
     },
     {
-      "title": "2027 款岚图知音上市：新一代华为 896 线双光路激光雷达 + 乾崑智驾 ADS 5，售 19.79 万元",
-      "url": "https://www.ithome.com/1/026/536.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T02:48:32+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，2027 款岚图知音今日上市，目前仅公布 896 线乾崑版一个版本，限时权益价 19.79 万元。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/0b577a34-12c0",
+      "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T10:50:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in ",
       "is_policy": false
     },
     {
-      "title": "不靠补贴、不增加他人成本：微软承诺其 AI 扩张电费将自己买单",
-      "url": "https://www.ithome.com/1/026/533.htm",
+      "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
+      "url": "https://www.ithome.com/1/026/911.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:37:09+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，彭博社昨日（11 月 12 日）发布博文<strong>，报道称微软将寻求在不依赖政府补贴、不增加其他电力用户成本的情况下，为旗下 AI 数据中心供电。</strong></p><p>昨日在休斯顿举行的彭博新能源财经会议上，微软云运营与创新总裁诺埃尔 · 沃尔什（Noelle Walsh）表示：“我们不希望其他客户为我们的增长买单。我们会自行承担费用。”</",
+      "published": "2026-11-13T10:47:18+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，在今日举行的 Agentic Infra 操作系统大会 &amp; openEuler Summit 2026 上，开源欧拉 openEuler 正式发布面向 Agentic Infra（IT之家注：Agentic Infrastructure，<strong>智能体基础设施</strong>）的操作系统。</p><p>据介绍，openEuler 升级为面向",
       "is_policy": false
     },
     {
-      "title": "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”",
-      "url": "https://www.ithome.com/1/026/532.htm",
+      "title": "Meta 悄悄为 Quest 头显 TV 应用上架一批 3D 电影，后续相应影片有望加入 Horizon+ 订阅服务",
+      "url": "https://www.ithome.com/1/026/908.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:35:46+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，AMD 官方 X 账号今日发文，祝贺 AMD 董事长兼 CEO 苏姿丰获评“<strong>年度最佳 CEO</strong>”称号。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/202",
+      "published": "2026-11-13T10:46:53+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据外媒 UploadVR 报道，Meta Quest 3/3S 头显的 TV 应用中近期开始出现少量 3D 电影内容，用户可以直接通过 Meta Horizon Store 租赁或购买相关影片。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.",
       "is_policy": false
     },
     {
-      "title": "董明珠首次回应格力技校争议：办学不为赚钱，每年补贴 1 亿元",
-      "url": "https://www.ithome.com/1/026/531.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-13T02:33:59+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，珠海市格力技工学校校长、格力电器董事长董明珠昨日作客央视财经《对话》节目，首次就外界对格力办技校的争议作出回应。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/2258727970/Rr4KKxAyN?refer_flag=10",
+      "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T10:39:43+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Open weights: ParaTrace v8 (RAID-tuned), <strong>5th</strong> on the RAID leaderboard (TPR at 1% FPR) </p> <p>- Ettin-1B encoder (ModernBERT architecture), 512-token ",
       "is_policy": false
     },
     {
-      "title": "Alphacool 推出 Apex Benchtable 开放式测试平台，专为水冷 PC 系统优化",
-      "url": "https://www.ithome.com/1/026/530.htm",
+      "title": "Claude 出现大量报错，Anthropic 官方公告称正在调查",
+      "url": "https://www.ithome.com/1/026/905.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:31:52+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，电脑散热及相关零组件制造商 Alphacool 当地时间昨日宣布推出专为水冷 PC 系统优化的 Apex Benchtable 开放式测试平台。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfile",
+      "published": "2026-11-13T10:31:18+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，根据 Claude Status 网站，网友反馈 <span class=\"link-text-start-with-http\">claude.ai</span>、Claude Code 和 <span class=\"link-text-start-with-http\">platform.claude.com</span> 上出现大量错误。</p><p>An",
       "is_policy": false
     },
     {
-      "title": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边",
-      "url": "https://www.ithome.com/1/026/529.htm",
+      "title": "BBC 曝光英国“房源照骗”现象：有中介、卖家开始用 AI 伪造或美化房屋",
+      "url": "https://www.ithome.com/1/026/904.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:29:41+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，彭博社今天（11 月 13 日）发布博文，报道称黄仁勋在董事会施压下，辞去英伟达首席执行官职务之后心力交瘁，昔日的活力荡然无存。<strong>据一位知情人士透露，黄仁勋此前雷厉风行，但近期开始把“随便吧”和“我不在乎”之类的话挂在嘴边。</strong></p><p>IT之家附上相关截图如下：</p><p style=\"text-align: center",
+      "published": "2026-11-13T10:22:41+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，房源照片是网上售房信息中最重要的内容之一。买家通常会先看照片，再判断房屋是否符合自己的需求和购房预期。</p><p>但随着 AI 技术的发展，<strong>一种新型网络骗局让看房买房变得更加麻烦</strong>。</p><p>据英国广播公司（BBC）今天上午报道，利用 AI 伪造或美化房源照片的“房源照骗（IT之家注：housefishing，直译作‘房",
       "is_policy": false
     },
     {
-      "title": "比亚迪公开第二代海豹 07 车型 AES 自动紧急转向测试视频，90~130km/h 避让成功",
-      "url": "https://www.ithome.com/1/026/527.htm",
+      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
+      "url": "https://www.ithome.com/1/026/898.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:26:17+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，比亚迪海洋网官方昨日放出了一段测试视频，展示了在深圳・湾区智联实验场做的第二代海豹 07 AES 自动紧急转向测试结果。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/1915347140/Rr9VxfQbY\" target=\"",
+      "published": "2026-11-13T10:19:19+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p>Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p>Xiaomi",
       "is_policy": false
     },
     {
-      "title": "华为鸿蒙电脑更新 7.0.0.115 SP11 版本，小艺 Work 支持文档处理、PPT 制作等",
-      "url": "https://www.ithome.com/1/026/526.htm",
+      "title": "米哈游法务部称全链条打击盗版周边：采取刑事、行政、民事全方位维权，累计涉案金额超 4000 万元",
+      "url": "https://www.ithome.com/1/026/890.htm",
       "source": "IT之家",
       "category": "news",
-      "published": "2026-11-13T02:24:31+00:00",
-      "summary": "<p>IT之家 11 月 13 日消息，华为鸿蒙电脑今日发布 7.0.0.115 SP11 版本更新，小艺 Work 全新上线，可以帮用户进行文档处理、PPT 制作、网页设计、周报总结、信息检索等工作，无线投屏支持自动按投屏设备屏幕大小自适应投屏。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https",
+      "published": "2026-11-13T10:11:11+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，米哈游法务部今日发文，近期，米哈游“打击游戏盗版周边专项行动”再度取得阶段性成果。截至目前，涉案产品品类覆盖十余种，<strong>累计涉案金额超 4000 万元</strong>。<strong>通过刑事、行政、民事等多种手段</strong>，持续采取维权“组合拳”对盗版周边行为予以严厉打击，全力遏制盗版周边在多个渠道的蔓延。</p><p style=\"",
+      "is_policy": false
+    },
+    {
+      "title": "福特汽车：有不法分子向部分车主发送产品召回虚假短信，请广大车主提高警惕",
+      "url": "https://www.ithome.com/1/026/888.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T10:04:15+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，福特汽车官方今日发文，近日，福特汽车（中国）有限公司及其关联方连续收到多例举报和咨询，<strong>发现有不法分子冒用福特汽车品牌和 / 或相关监管部门的名义，向部分车主发送有关产品召回的虚假短信，并通过非官方链接诱导车主提供个人信息、办理所谓召回手续及实施其他不法行为</strong>。用户一旦点击，可能造成个人信息泄露甚至陷入诈骗陷阱，产生财产损失。<",
+      "is_policy": true
+    },
+    {
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people ",
+      "is_policy": false
+    },
+    {
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "MIT Tech Review",
+      "category": "news",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me",
+      "is_policy": false
+    },
+    {
+      "title": "瞄准木星！我国天问四号有效载荷研制方案开展征集",
+      "url": "https://www.ithome.com/1/026/886.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T09:56:08+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，据央视新闻报道，我国天问四号任务的主要目标为实现木星环绕、木卫四环绕和着陆探测，深化木星系科学研究。</p><p>11 月 13 日，探月与航天工程中心发布通知，<strong>开展天问四号任务有效载荷研制方案征集工作</strong>，将通过竞争择优方式遴选有效载荷设计方案与承担单位。</p><p>根据申报指南，<strong>天问四号轨道器有效载荷包括软",
+      "is_policy": false
+    },
+    {
+      "title": "微软 XBOX 25 周年，CEO 夏尔马称个人将能掌握过去需“举国之力”获得的能力",
+      "url": "https://www.ithome.com/1/026/885.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T09:52:15+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，当地时间 12 日下午，微软 XBOX 负责人阿莎 · 夏尔马发布了一份备忘录，<strong>暗示未来可能利用生成式 AI 辅助游戏开发</strong>。</p><p style=\"text-align: center;\"><img alt=\"XBOX 25 Logo Image\" class=\"nowebp no-alt-img\" src=\"https",
+      "is_policy": false
+    },
+    {
+      "title": "猫头鹰 NT-CP1 AM5/4 碳纳米管导热垫上市，199 元",
+      "url": "https://www.ithome.com/1/026/884.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-13T09:52:14+00:00",
+      "summary": "<p>IT之家 11 月 13 日消息，Noctua（猫头鹰）现已开始通过国行渠道销售 NT-CP1 AM5/4 导热垫。这一产品基于 Carbice 的碳纳米管技术，<strong>使用寿命可达 10 年以上</strong>，价格为 199 元人民币。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"h",
+      "is_policy": false
+    },
+    {
+      "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-13T05:48:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/\"> <img alt=\"How to make a Legora-style legal conflict detector to",
       "is_policy": false
     },
     {
@@ -710,30 +746,12 @@
       "is_policy": false
     },
     {
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-11-12T14:10:00+00:00",
-      "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I",
-      "is_policy": false
-    },
-    {
       "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-11-12T13:51:58+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/\"> <img alt=\"UMAP 0.6: new initialization, new optimizers and faster p",
-      "is_policy": false
-    },
-    {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T13:26:25+00:00",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
       "is_policy": false
     },
     {
@@ -782,15 +800,6 @@
       "is_policy": false
     },
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T03:13:10+00:00",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "is_policy": false
-    },
-    {
       "title": "Missed Presentation [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
       "source": "r/MachineLearning",
@@ -815,15 +824,6 @@
       "category": "community",
       "published": "2026-11-12T01:51:47+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/\"> <img alt=\"How to get desk-rejected at NeurIPS/ICML/ICLR [D]\" src=\"ht",
-      "is_policy": false
-    },
-    {
-      "title": "For game world models, the action labels are the bottleneck, not the video. What makes game data actually trainable? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtymuk/for_game_world_models_the_action_labels_are_the/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-12T00:36:15+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xtymuk/for_game_world_models_the_action_labels_are_the/\"> <img alt=\"For game world models, the action labels are the bottle",
       "is_policy": false
     },
     {
@@ -863,15 +863,6 @@
       "is_policy": false
     },
     {
-      "title": "mlxVS: cuVS-style GPU nearest-neighbor search (NN-Descent, CAGRA) on Apple Silicon with MLX [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt5tx/mlxvs_cuvsstyle_gpu_nearestneighbor_search/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-11T20:46:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xtt5tx/mlxvs_cuvsstyle_gpu_nearestneighbor_search/\"> <img alt=\"mlxVS: cuVS-style GPU nearest-neighbor search (NN-Descent, C",
-      "is_policy": false
-    },
-    {
       "title": "Have people given up on ICLR reviews? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
       "source": "r/MachineLearning",
@@ -881,12 +872,84 @@
       "is_policy": false
     },
     {
-      "title": "A zero-cost curvature proxy predicts Euler step error for flow matching, but per-sample step control adds nothing over a static grid (Anima, 12 units; related to CAT-Flow) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtq4vl/a_zerocost_curvature_proxy_predicts_euler_step/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-11T18:51:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xtq4vl/a_zerocost_curvature_proxy_predicts_euler_step/\"> <img alt=\"A zero-cost curvature proxy predicts Euler step error fo",
+      "title": "DeepStress: Stress-Testing Deep Search Agents",
+      "url": "https://huggingface.co/papers/2607.13920",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, ",
+      "is_policy": false
+    },
+    {
+      "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+      "url": "https://huggingface.co/papers/2611.17331",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while ",
+      "is_policy": false
+    },
+    {
+      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+      "url": "https://huggingface.co/papers/2611.17060",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact",
+      "is_policy": false
+    },
+    {
+      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2611.17167",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score ",
+      "is_policy": false
+    },
+    {
+      "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+      "url": "https://huggingface.co/papers/2611.16905",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still rema",
+      "is_policy": false
+    },
+    {
+      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+      "url": "https://huggingface.co/papers/2611.16217",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental ",
+      "is_policy": false
+    },
+    {
+      "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2611.16517",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B ",
+      "is_policy": false
+    },
+    {
+      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+      "url": "https://huggingface.co/papers/2611.16748",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, y",
+      "is_policy": false
+    },
+    {
+      "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+      "url": "https://huggingface.co/papers/2611.16321",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-11T19:00:00+00:00",
+      "summary": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it",
       "is_policy": false
     },
     {
@@ -953,12 +1016,48 @@
       "is_policy": false
     },
     {
+      "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+      "url": "https://huggingface.co/papers/2611.16009",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and oft",
+      "is_policy": false
+    },
+    {
+      "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+      "url": "https://huggingface.co/papers/2611.15844",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However,",
+      "is_policy": false
+    },
+    {
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "url": "https://huggingface.co/papers/2611.15777",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate",
+      "is_policy": false
+    },
+    {
       "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
       "url": "https://huggingface.co/papers/2611.15131",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-11-10T19:00:00+00:00",
       "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The R",
+      "is_policy": false
+    },
+    {
+      "title": "GTAGym: AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2611.13028",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
       "is_policy": false
     },
     {
@@ -1004,6 +1103,15 @@
       "category": "news",
       "published": "2026-11-10T12:00:00+00:00",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "is_policy": false
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind",
+      "category": "news",
+      "published": "2026-11-10T11:13:04+00:00",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
       "is_policy": false
     },
     {
@@ -1076,6 +1184,24 @@
       "category": "news",
       "published": "2026-11-09T19:00:00+00:00",
       "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "is_policy": false
+    },
+    {
+      "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+      "url": "https://huggingface.co/papers/2611.14256",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-09T19:00:00+00:00",
+      "summary": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leav",
+      "is_policy": false
+    },
+    {
+      "title": "Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
+      "url": "https://huggingface.co/papers/2611.14046",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-09T19:00:00+00:00",
+      "summary": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model's confidence structure. To address this, we propos",
       "is_policy": false
     },
     {
@@ -1169,87 +1295,6 @@
       "is_policy": false
     },
     {
-      "title": "LEASH: Stay Safe in Agentic Robotics",
-      "url": "https://huggingface.co/papers/2611.14115",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "Foundation models such as GPT and Claude have shown strong capabilities in spatial understanding and embodied intelligence. These advances make agentic robotics a promising path toward artificial gene",
-      "is_policy": false
-    },
-    {
-      "title": "PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation",
-      "url": "https://huggingface.co/papers/2611.13576",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "As text-to-video (T2V) models are increasingly positioned as world simulators, it is essential to evaluate whether their videos conform to physical commonsense. However, existing benchmarks rely on an",
-      "is_policy": false
-    },
-    {
-      "title": "TorchCurves: Differentiable Parametric Curves",
-      "url": "https://huggingface.co/papers/2611.14516",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-",
-      "is_policy": false
-    },
-    {
-      "title": "Are Causal Neuron Circuits Unique and Transferable?",
-      "url": "https://huggingface.co/papers/2611.13885",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "Interpretability demonstrations often show that intervening on a group of neurons changes a model's answer. A recent example removes an 18-neuron group in Qwen3-32B and the model answers \"Simba\" inste",
-      "is_policy": false
-    },
-    {
-      "title": "Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models",
-      "url": "https://huggingface.co/papers/2611.14083",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fix",
-      "is_policy": false
-    },
-    {
-      "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
-      "url": "https://huggingface.co/papers/2611.14320",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, ",
-      "is_policy": false
-    },
-    {
-      "title": "Lipschitz-Controlled Flow Matching for Robust Image Restoration",
-      "url": "https://huggingface.co/papers/2611.13995",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "Flow-matching models can produce high-quality image restorations, but their learned dynamics may amplify small input perturbations and make reconstructions unstable. We introduce LipsFlower to reduce ",
-      "is_policy": false
-    },
-    {
-      "title": "Are Dense Rewards Worth Their Tokens in GRPO?",
-      "url": "https://huggingface.co/papers/2611.13560",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "RLVR trains language models to reason by rewarding correct final answers. A widely used algorithm, group-relative policy optimization (GRPO), gives every token of a solution the same credit, so dense ",
-      "is_policy": true
-    },
-    {
-      "title": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
-      "url": "https://huggingface.co/papers/2611.13572",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "Much of the variation in financial time series is driven by market-wide shocks that cannot be predicted from an asset's own history. Per-asset self-supervised learning treats this variation as irreduc",
-      "is_policy": false
-    },
-    {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
       "source": "MIT Tech Review",
@@ -1268,39 +1313,12 @@
       "is_policy": false
     },
     {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-11-09T13:15:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made",
-      "is_policy": false
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Tech Review",
-      "category": "news",
-      "published": "2026-11-09T13:00:00+00:00",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
-      "is_policy": false
-    },
-    {
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "url": "https://openai.com/index/control-room",
       "source": "OpenAI Blog",
       "category": "news",
       "published": "2026-11-09T13:00:00+00:00",
       "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "is_policy": false
-    },
-    {
-      "title": "WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning",
-      "url": "https://huggingface.co/papers/2611.12527",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-09T10:02:29+00:00",
-      "summary": "This work proposes WaveGen, a fully end-to-end diffusion-based text-to-waveform framework based on Spectral Forcing, which jointly learns an internal spectral trajectory and the target waveform trajec",
       "is_policy": false
     },
     {
@@ -1322,6 +1340,15 @@
       "is_policy": false
     },
     {
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "url": "https://huggingface.co/papers/2611.12872",
+      "source": "HF Papers",
+      "category": "papers",
+      "published": "2026-11-08T19:00:00+00:00",
+      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
+      "is_policy": false
+    },
+    {
       "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
       "url": "https://huggingface.co/papers/2611.12304",
       "source": "HF Papers",
@@ -1331,75 +1358,12 @@
       "is_policy": false
     },
     {
-      "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2611.13028",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
-      "is_policy": false
-    },
-    {
       "title": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
       "url": "https://huggingface.co/papers/2611.11912",
       "source": "HF Papers",
       "category": "papers",
       "published": "2026-11-08T19:00:00+00:00",
       "summary": "LiDAR point clouds and 3D semantic occupancy represent two distinct modalities capturing fine-grained metric geometry and dense volumetric semantics, respectively, holding natural potential for mutual",
-      "is_policy": false
-    },
-    {
-      "title": "Embodied First Exam",
-      "url": "https://huggingface.co/papers/2611.12177",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "Early successes on agentic robotics point to a potential paradigm shift toward using coding agents to control robots. Existing robotics benchmarks are built around visuomotor policy learning, leaving ",
-      "is_policy": true
-    },
-    {
-      "title": "Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists",
-      "url": "https://huggingface.co/papers/2611.12184",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "Scientific discovery requires ideas that are original, useful, and non-obvious. Yet AI scientists are typically given as much task information as possible during idea generation, which can anchor gene",
-      "is_policy": false
-    },
-    {
-      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
-      "url": "https://huggingface.co/papers/2611.12865",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-08T19:00:00+00:00",
-      "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar",
-      "is_policy": false
-    },
-    {
-      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
-      "url": "https://huggingface.co/papers/2611.13004",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-07T19:00:00+00:00",
-      "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, wh",
-      "is_policy": false
-    },
-    {
-      "title": "Probing Transformer Representations Layer by Layer, Module by Module",
-      "url": "https://huggingface.co/papers/2611.11531",
-      "source": "HF Papers",
-      "category": "papers",
-      "published": "2026-11-07T19:00:00+00:00",
-      "summary": "Which representation should be probed in a transformer-based foundation model? Recent work shows that the standard practice of probing the final layer is often suboptimal, as intermediate layers can p",
-      "is_policy": false
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI Blog",
-      "category": "news",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "is_policy": false
     }
   ]
