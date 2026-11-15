@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:09:52.983621+00:00",
+  "generated_at": "2026-11-15T22:16:57.642763+00:00",
   "categories": [
     "news",
     "papers",
@@ -8,38 +8,11 @@
   ],
   "items": [
     {
-      "title": "GoogleChrome / modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
-      "summary": "Keep your coding agent up to date with the latest web best practices",
-      "is_policy": false
-    },
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
-      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-      "is_policy": false
-    },
-    {
-      "title": "QwenLM / qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "GitHub Trending",
-      "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
-      "summary": "An open-source AI coding agent that lives in your terminal.",
-      "is_policy": false
-    },
-    {
       "title": "dream-num / univer",
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
+      "published": "2026-11-15T22:16:57+00:00",
       "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "is_policy": false
     },
@@ -48,17 +21,26 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
+      "published": "2026-11-15T22:16:57+00:00",
       "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "is_policy": false
     },
     {
-      "title": "ashhart / TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
-      "summary": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "published": "2026-11-15T22:16:57+00:00",
+      "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "is_policy": false
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-15T22:16:57+00:00",
+      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
       "is_policy": false
     },
     {
@@ -66,17 +48,215 @@
       "url": "https://github.com/Tencent/LoopForge",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
+      "published": "2026-11-15T22:16:57+00:00",
       "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "is_policy": false
     },
     {
-      "title": "Likely7 / Veyra-NRVideo",
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "title": "ggml-org / ggml",
+      "url": "https://github.com/ggml-org/ggml",
       "source": "GitHub Trending",
       "category": "opensource",
-      "published": "2026-11-15T13:09:52+00:00",
-      "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super R",
+      "published": "2026-11-15T22:16:57+00:00",
+      "summary": "Tensor library for machine learning",
+      "is_policy": false
+    },
+    {
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-15T22:16:57+00:00",
+      "summary": "Keep your coding agent up to date with the latest web best practices",
+      "is_policy": false
+    },
+    {
+      "title": "NVIDIA / SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "source": "GitHub Trending",
+      "category": "opensource",
+      "published": "2026-11-15T22:16:57+00:00",
+      "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect a",
+      "is_policy": false
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-15T21:56:35+00:00",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "is_policy": false
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-11-15T20:43:49+00:00",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of ne",
+      "is_policy": false
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "published": "2026-11-15T20:20:57+00:00",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "is_policy": false
+    },
+    {
+      "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-15T19:46:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/\"> <img alt=\"We made a multiplayer game where each player's view is ge",
+      "is_policy": false
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge AI",
+      "category": "news",
+      "published": "2026-11-15T19:15:43+00:00",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic",
+      "is_policy": false
+    },
+    {
+      "title": "Making cudaMemcpy 5x faster on a B300 [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-15T18:20:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/\"> <img alt=\"Making cudaMemcpy 5x faster on a B300 [P]\" src=\"https://preview",
+      "is_policy": false
+    },
+    {
+      "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-15T17:52:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. <strong>I got the model to stop at that point by changin",
+      "is_policy": false
+    },
+    {
+      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-15T17:38:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/\"> <img alt=\"[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: tra",
+      "is_policy": false
+    },
+    {
+      "title": "Marimba: a System One model for speech [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
+      "source": "r/MachineLearning",
+      "category": "community",
+      "published": "2026-11-15T16:30:09+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Marimba is like Jev, but for audio.</p> <p>I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score.</p> <p>It ",
+      "is_policy": false
+    },
+    {
+      "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
+      "url": "https://www.ithome.com/1/027/461.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T16:14:44+00:00",
+      "summary": "<p>IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其<strong>基于英特尔酷睿 Ultra X7 处理器 358H</strong>，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。</p><p>ME Pro 358H 四盘位<strong>分为日常款和联名款</str",
+      "is_policy": false
+    },
+    {
+      "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
+      "url": "https://www.ithome.com/1/027/460.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T15:56:43+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器，<strong>享受 3 年质保</strong>。</p><p style=\"text-align: center;\"><img class=\"now",
+      "is_policy": false
+    },
+    {
+      "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
+      "url": "https://www.ithome.com/1/027/459.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T15:06:17+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，《GTA 6》定于 2026 年 11 月 19 日正式发售，不少玩家已经开始关注游戏的奖杯和成就系统：想要拿到白金奖杯或完成全部成就，究竟需要投入多少时间？</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfile",
+      "is_policy": false
+    },
+    {
+      "title": "韦布望远镜发现迄今最古老类星体双星，现有黑洞成长理论难以解释",
+      "url": "https://www.ithome.com/1/027/457.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T14:37:13+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，利用詹姆斯 · 韦布空间望远镜（JWST），天文学家发现了迄今观测到的最古老的一对由超大质量黑洞驱动的类星体。不过，这项发现也带来了一个难题：按照现有理论，它们本不应该如此早就存在。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/ne",
+      "is_policy": false
+    },
+    {
+      "title": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态",
+      "url": "https://www.ithome.com/1/027/456.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T14:16:51+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，<strong>磷光发光拥有显著高于荧光发光的内量子效率</strong>，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles",
+      "is_policy": false
+    },
+    {
+      "title": "鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等",
+      "url": "https://www.ithome.com/1/027/454.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T13:53:46+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，汽车博主 @未来的学习笔记 昨日分享了鸿蒙智行尚界 Z7T 星野套装实车图。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/8a351051-c2f8-49e4-ae64-f862e9b",
+      "is_policy": false
+    },
+    {
+      "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
+      "url": "https://www.ithome.com/1/027/453.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T13:42:51+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，据韩联社今日报道，由于税务师考试第一名考生存在利用人工智能进行作弊的行为被曝光，韩国政府决定对今年所有国家资格考试进行全面调查，以打击此类作弊行为。</p><p>报道称，劳动部和相关机构决定对在第 63 届税务师考试中发现有 AI 作弊行为的第一名考生 A 进行取消考试成绩的处理，并限制其五年内不得参加该考试，以尽快落实后续措施。</p><p>政府还计划年内",
+      "is_policy": false
+    },
+    {
+      "title": "RGB 基础上引入第四基色 X，TCL 华星展出三款全球首款 10.95 英寸 OLED 平板屏幕",
+      "url": "https://www.ithome.com/1/027/452.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T13:39:45+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，在本周举行的 TCL 华星全球显示生态大会 DTC 2026 上，TCL 华星以 RGBX 四基色显示架构为主题，展出三款全球首款 10.95 英寸 OLED 平板屏幕 —— 四基色双模色域、四基色双模低功耗、四基色双模低蓝害。</p><p>官方表示，三款展品同源同平台，<strong>在传统 RGB 三基色基础上引入第四基色 X</strong>，通过 X",
+      "is_policy": false
+    },
+    {
+      "title": "研究警告：地球冰冻圈退化正突破安全环境极限，海平面上升与极端灾害风险加剧",
+      "url": "https://www.ithome.com/1/027/451.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T13:20:40+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，据福布斯报道，一项最新研究指出，地球上的冰冻区域正在全面退化，冰盖、山地冰川、海冰、积雪和永久冻土等关键组成部分，均面临日益严峻的环境风险。研究人员警告，这些区域的变化正在超出安全环境极限，并给地球及其生态系统带来越来越大的长期威胁。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=",
+      "is_policy": false
+    },
+    {
+      "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
+      "url": "https://www.ithome.com/1/027/450.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T13:16:54+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。</p><p>该模型围绕 <strong>Agent 开发、AI 编码和推理优化</strong>三大方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强。</p><p style=\"text-alig",
+      "is_policy": false
+    },
+    {
+      "title": "上汽大通 27 款大拿 V1L 上市：标配宁德时代电池，11.68 万起",
+      "url": "https://www.ithome.com/1/027/449.htm",
+      "source": "IT之家",
+      "category": "news",
+      "published": "2026-11-15T13:13:43+00:00",
+      "summary": "<p>IT之家 11 月 15 日消息，11 月 13 日，上汽大通 27 款大拿 V1L 正式上市，<strong>售价 11.68 万元起</strong>，官方称全系标配宁德时代天行商用电池。</p><p style=\"text-align: center;\"><img class=\"nowebp no-alt-img\" src=\"https://img.ithome.com/newsupl",
       "is_policy": false
     },
     {
@@ -104,15 +284,6 @@
       "category": "news",
       "published": "2026-11-15T13:00:00+00:00",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence",
-      "is_policy": false
-    },
-    {
-      "title": "BiRefNet-lite at 1024px fully on a phone NPU: 23.7 ms on Snapdragon 8 Elite Gen 5, int8, open weights + writeup [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuvaz/birefnetlite_at_1024px_fully_on_a_phone_npu_237/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-15T12:58:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted tap-to-lift subject cutout in my Android gallery app, running fully on the NPU. BiRefNet-lite gave the best masks of the open models I tried, but it doesn't ",
       "is_policy": false
     },
     {
@@ -287,129 +458,12 @@
       "is_policy": false
     },
     {
-      "title": "Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位",
-      "url": "https://www.ithome.com/1/027/427.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T10:27:59+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，人工智能可能引发的就业危机，或许并不像人们想象的那样。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/9/2db5d543-dfc8-4f57-9303-92c69b07a097.png?x-",
-      "is_policy": false
-    },
-    {
-      "title": "应对 AI 漏洞挖掘挑战：谷歌 Project Zero 计划将逐步缩短漏洞公开披露期限至 30 天",
-      "url": "https://www.ithome.com/1/027/423.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T10:12:07+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，自 2021 年以来，谷歌漏洞挖掘计划 Project Zero 一直奉行“90 + 30”漏洞披露政策，即允许厂商在最多 90 天内修复漏洞，并额外提供 30 天的“缓冲期”用于补丁推送。</p><p>当地时间 11 月 13 日，谷歌宣布，随着人工智能辅助漏洞挖掘与利用技术的兴起，当前形势已发生根本性变化，现有披露政策所设定的修复周期已难以适应需求。</",
-      "is_policy": true
-    },
-    {
-      "title": "前 OpenAI 研究员：当前活着的人最有可能死于 AI 失控",
-      "url": "https://www.ithome.com/1/027/419.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T10:09:15+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，人工智能失控导致人类灭绝，听起来或许像科幻电影中的情节，但前 OpenAI 研究员保罗 · 克里斯蒂亚诺（Paul Christiano）认为，这可能成为当今在世人群最有可能面临的死亡原因。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.co",
-      "is_policy": false
-    },
-    {
-      "title": "What might count as conscious? [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwrrtw/what_might_count_as_conscious_p/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-15T09:58:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Amid the ongoing AI consciousness debate, nobody defines what is being debated, and I think nobody can. However, what we can do is set a concise framework to judge wh",
-      "is_policy": false
-    },
-    {
-      "title": "消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话",
-      "url": "https://www.ithome.com/1/027/418.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:45:52+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，据华盛顿邮报报道，多年来，黄仁勋常开玩笑地说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已超三十年，几乎没有人能接替他。</p><p>“永远不会再有第二个我，”他在今年 1 月的一次采访中说道，“原因就在于我是在这家公司里一步步成长起来的。”</p><p>然而，黄仁勋本周的突然辞职，让英伟达不得不面对一项棘手的难题：为这位长期将自己塑造成“不可替代”",
-      "is_policy": false
-    },
-    {
-      "title": "999 → 699 元起：酷派 COOL X Wide 阔直板手机再降价，搭载联发科曦力 G99 芯片",
-      "url": "https://www.ithome.com/1/027/417.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:41:36+00:00",
-      "summary": "<p>酷派阔直板手机 Cool X Wide 8GB+128GB 官方定价 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。</p><p>今日京东国补后 849 元起，晒单返 100E 卡（详询客服），折合低至 749 元起。</p><p>银发用户 / 学生用户再补贴 50 元，折合仅需 699 元起：</p><dir><a contenteditab",
-      "is_policy": false
-    },
-    {
-      "title": "宝马称若消费者有需求，将考虑在新世代车型上带回更多实体按键",
-      "url": "https://www.ithome.com/1/027/415.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:28:27+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，宝马近年来对新世代（Neue Klasse）车型的内饰设计进行了大幅调整，大量取消传统实体按键，转而采用触控面板和触摸屏操作，以取代上一代车型上的各种开关和旋钮。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
-      "is_policy": false
-    },
-    {
-      "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
-      "url": "https://www.ithome.com/1/027/414.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:26:41+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，据 XDA 报道，一位 Reddit 用户 Frankynov 将自己的 Seeed Studio reTerminal Sticky“电子墨水屏便利贴”改造为了苹果 Apple TV 遥控器。</p><p>Frankynov 透露，整个项目基于 Home Assistant 构建，利用了 Claude 进行辅助编程，不仅能够控制 Apple TV 播放内容",
-      "is_policy": false
-    },
-    {
-      "title": "消息称飞利浦显示器工厂价格本月迎来上涨：部分电竞机型成本涨价 30-50 元不等",
-      "url": "https://www.ithome.com/1/027/413.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:20:47+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，飞利浦显示器现已发布 11 月份执行的工厂价格政策表，调整变化如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>通路机型：除 21.5 寸外，所有通路机型全体开票价上涨 7-10 元不等，实际成本也同幅拉涨。</p></li><l",
-      "is_policy": true
-    },
-    {
-      "title": "乘联分会崔东树：十年间新车平均车长增至 4.72 米，SUV 以 56% 份额强势称王",
-      "url": "https://www.ithome.com/1/027/412.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:12:00+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，乘联分会秘书长崔东树今日发文指出，中国乘用车市场正经历一场由新能源技术与消费升级驱动的“形态革命”。</p><p>崔东树表示，十年间，<strong>新车平均车长增至 4.72 米</strong>，大盘格局被彻底颠覆：<strong>SUV 以 56% 份额</strong>（IT之家注：2016 年份额为 38%）<strong>强势称王</strong",
-      "is_policy": false
-    },
-    {
-      "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
-      "url": "https://www.ithome.com/1/027/411.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:06:10+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 45 周（11 月 1 日至 11 月 7 日），<strong>苹果 </strong><strong>iPhone 18 Pro</strong><strong> 系列手机销量达到 782.87 万台</strong>。</p><p style=\"text-align: c",
-      "is_policy": false
-    },
-    {
       "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
       "source": "r/MachineLearning",
       "category": "community",
       "published": "2026-11-15T09:05:22+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ",
-      "is_policy": false
-    },
-    {
-      "title": "遭受网络攻击后，世嘉日服 11 款街机游戏陆续恢复线上功能",
-      "url": "https://www.ithome.com/1/027/410.htm",
-      "source": "IT之家",
-      "category": "news",
-      "published": "2026-11-15T09:03:14+00:00",
-      "summary": "<p>IT之家 11 月 15 日消息，世嘉于 11 月 2 日通报公司部分服务器遭到黑客非法访问，<a href=\"https://www.ithome.com/1/022/164.htm\" target=\"_blank\">临时关闭部分日服街机游戏的在线服务</a>。目前公司宣布相应服务陆续恢复运行，玩家可以重新使用在线游玩及 IC 卡功能。</p><p style=\"text-align: c",
-      "is_policy": false
-    },
-    {
-      "title": "LongMemEval-S: 96.0% with the official judge, and what top-5 vs top-20 retrieval changes [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwnloh/longmemevals_960_with_the_official_judge_and_what/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-15T05:40:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We ran all 500 LongMemEval-S questions through our memory retrieval (Papr) using the official answer prompt and the unmodified gpt-4o-2024-08-06 judge. Per-question a",
       "is_policy": false
     },
     {
@@ -563,15 +617,6 @@
       "category": "community",
       "published": "2026-11-14T10:51:23+00:00",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Building a Local AI Photography Editing Assistant. Anyone working on something similar?</strong></p> <p>I'm exploring how to build a local AI system that can ",
-      "is_policy": false
-    },
-    {
-      "title": "Back Propagation [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-13T23:52:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone I am currently studying neural network development in graduate school and I’m having a hard time conceptualizing the stages of training. I understand t",
       "is_policy": false
     },
     {
@@ -791,15 +836,6 @@
       "is_policy": false
     },
     {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-11-12T21:55:32+00:00",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
-      "is_policy": false
-    },
-    {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "source": "TechCrunch AI",
@@ -836,15 +872,6 @@
       "is_policy": false
     },
     {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "source": "The Verge AI",
-      "category": "news",
-      "published": "2026-11-12T19:42:40+00:00",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had alread",
-      "is_policy": false
-    },
-    {
       "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
       "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "source": "TechCrunch AI",
@@ -863,39 +890,12 @@
       "is_policy": false
     },
     {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T18:39:23+00:00",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n",
-      "is_policy": false
-    },
-    {
       "title": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "source": "Google DeepMind",
       "category": "news",
       "published": "2026-11-12T18:00:50+00:00",
       "summary": "",
-      "is_policy": false
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "category": "news",
-      "published": "2026-11-12T17:36:40+00:00",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "is_policy": false
-    },
-    {
-      "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
-      "source": "r/MachineLearning",
-      "category": "community",
-      "published": "2026-11-12T13:51:58+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/\"> <img alt=\"UMAP 0.6: new initialization, new optimizers and faster p",
       "is_policy": false
     },
     {
